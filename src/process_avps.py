@@ -183,8 +183,8 @@ def main():
     # Génération de l'index.md par domaine
     generate_index_md(df_all)
     
-    # Génération de la config MkDocs
-    generate_mkdocs_config()
+    # Génération de la config Zensical
+    generate_zensical_config()
     
     print(f"Terminé. {len(df_all)} lignes enregistrées dans {output_path}.")
 
@@ -259,28 +259,27 @@ def generate_index_md(df):
     with open("data/index.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
-def generate_mkdocs_config():
-    """Génère un fichier mkdocs.yml."""
-    config = """site_name: AVPS DRHFPNC
-theme:
-  name: material
-  palette:
-    primary: indigo
-    accent: pink
-  features:
-    - navigation.sections
-    - search.highlight
-    - search.suggest
+def generate_zensical_config():
+    """Génère un fichier zensical.toml avec le mode sombre par défaut."""
+    config = """# Configuration Zensical
+title = "AVPS DRHFPNC"
+description = "Catalogue complet des AVPs de la DRHFPNC"
+source_dir = "data"
+output_dir = "site"
 
-docs_dir: data
-site_dir: site
+[theme]
+name = "material"
+default_mode = "dark"
+primary_color = "#3f51b5"
+accent_color = "#ff4081"
 
-nav:
-  - Accueil: index.md
+[navigation]
+show_reading_time = false
+show_last_updated = true
 """
-    with open("mkdocs.yml", "w", encoding="utf-8") as f:
+    with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
-    print("✅ Configuration MkDocs générée.")
+    print("✅ Configuration Zensical (Dark Mode) générée.")
 
 if __name__ == "__main__":
     main()
