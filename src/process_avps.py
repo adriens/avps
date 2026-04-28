@@ -129,9 +129,7 @@ def main():
     # Extraction des URLs PDF
     df_all['url_pdf'] = df_all['url_pdf'].apply(extract_pdf_url)
 
-    # Renommage des colonnes
-    # ... (reste du code identique) ...
- (même mapping que l'original pour la cohérence)
+    # Renommage des colonnes (même mapping que l'original pour la cohérence)
     renames = {
         'numeroavp': 'numero',
         'datepublicationavp': 'date_publication_avp',
