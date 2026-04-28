@@ -1,0 +1,12 @@
+# Configuration Zensical
+site_name = "AVPS DRHFPNC"
+title = "AVPS DRHFPNC"
+description = "Catalogue complet des AVPs de la DRHFPNC"
+docs_dir = "docs"
+output_dir = "site"
+
+[theme]
+name = "material"
+default_mode = "dark"
+primary_color = "#3f51b5"
+accent_color = "#ff4081"
