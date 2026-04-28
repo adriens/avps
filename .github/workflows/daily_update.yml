@@ -39,6 +39,20 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update AVPs data ($(date +'%Y-%m-%d'))"
-            git push
+            TAG_DATE=$(date +'%Y-%m-%d')
+            git commit -m "chore: update AVPs data ($TAG_DATE)"
+            
+            # Gestion du tag (incrémentation si le tag existe déjà aujourd'hui)
+            TAG_NAME="$TAG_DATE"
+            if git rev-parse "$TAG_NAME" >/dev/null 2>&1; then
+              COUNT=1
+              while git rev-parse "$TAG_NAME.$COUNT" >/dev/null 2>&1; do
+                COUNT=$((COUNT + 1))
+              done
+              TAG_NAME="$TAG_NAME.$COUNT"
+            fi
+            
+            git tag "$TAG_NAME"
+            git push origin main --tags
+            git push origin main
           fi
