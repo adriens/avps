@@ -219,7 +219,9 @@ def generate_index_md(df):
     # Tri par domaine puis par date de mise en ligne
     df_sorted = df.sort_values(['libelle_domaine', 'date_mis_en_ligne'], ascending=[True, False])
     
-    md_content = "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
+    # Cacher le menu de droite (TOC) pour laisser place à la navigation à gauche
+    md_content = "---\nhide:\n  - toc\n---\n\n"
+    md_content += "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
     md_content += "Bienvenue sur le catalogue complet des AVPs. Ce site est mis à jour quotidiennement.\n\n"
     md_content += f"Dernière mise à jour : **{pd.Timestamp.now().strftime('%d/%m/%Y %H:%M')}**  \n"
     md_content += f"Nombre de postes ouverts : **{len(df)}**\n\n"
@@ -260,38 +262,52 @@ def generate_index_md(df):
         f.write(md_content)
 
 def generate_zensical_config():
-    """Génère un fichier zensical.toml complet."""
-    config = """# Configuration Zensical
+    """Génère un fichier zensical.toml inspiré de l'OPT-NC."""
+    config = """[project]
 site_name = "AVPS DRHFPNC"
 site_description = "Catalogue complet des AVPs de la DRHFPNC"
 site_url = "https://adriens.github.io/avps/"
 repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
-output_dir = "site"
+site_dir = "site"
 
-[theme]
+[project.theme]
 name = "material"
-primary_color = "#212121"
-accent_color = "#ff4081"
-default_mode = "dark"
+language = "fr"
+icon.repo = "material/github"
+features = [
+    "navigation.top",
+    "navigation.tracking",
+    "navigation.footer",
+    "search.suggest",
+    "search.highlight"
+]
 
-[[theme.palette]]
+# Mode sombre par défaut (Slate en premier)
+[[project.theme.palette]]
 scheme = "slate"
-primary = "black"
-accent = "pink"
-toggle = { icon = "material/brightness-4", name = "Switch to light mode" }
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "material/brightness-4"
+toggle.name = "Passer au mode clair"
 
-[extra]
-footer_message = "Généré avec ❤️ par Zensical"
+[[project.theme.palette]]
+scheme = "default"
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "material/brightness-7"
+toggle.name = "Passer au mode sombre"
 
-[navigation]
-show_reading_time = false
-show_last_updated = true
+[project.extra]
+copyright = \"\"\"
+Copyright &copy; 2026 adriens<br>
+<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a></small>
+\"\"\"
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
-    print("✅ Configuration Zensical (Dark + Repo + Footer) générée.")
+    print("✅ Configuration Zensical (Style OPT-NC) générée.")
 
 if __name__ == "__main__":
     main()
