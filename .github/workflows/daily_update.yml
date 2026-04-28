@@ -45,7 +45,9 @@ jobs:
             TAG_DATE=$(date +'%Y-%m-%d')
             git commit -m "chore: update AVPs data ($TAG_DATE)"
             
-            # Gestion du tag
+            # Récupérer les tags distants pour vérifier l'existence
+            git fetch --tags
+            
             TAG_NAME="$TAG_DATE"
             if git rev-parse "$TAG_NAME" >/dev/null 2>&1; then
               COUNT=1
@@ -55,6 +57,7 @@ jobs:
               TAG_NAME="$TAG_NAME.$COUNT"
             fi
             
+            echo "Creating tag: $TAG_NAME"
             git tag "$TAG_NAME"
             git push origin main --tags
             git push origin main
