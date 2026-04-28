@@ -2,34 +2,22 @@
 
 Bienvenue sur le catalogue complet des AVPs. Ce site est mis à jour quotidiennement.
 
-Dernière mise à jour : **28/04/2026 07:27**  
+Dernière mise à jour : **28/04/2026 07:39**  
 Nombre de postes ouverts : **5**
 
 ## 📂 Sommaire par domaines
 
-* [📋 Autres filières (3)](#autres-filieres)
-* [🌾 Economie rurale (1)](#economie-rurale)
-* [💻 Informatique (1)](#informatique)
+* [📋 Autres filières (5)](#autres-filieres)
 
 ---
 
-## 📋 Autres filières (3)
+## 📋 Autres filières (5)
 
 | Référence | Poste | Direction | Date Limite |
 | --- | --- | --- | --- |
-| 26-62776_MPRH | [Conseiller pédagogique spécialisé BEP - ASH (Besoins Educatifs Particuliers, adaptation scolaire et scolarisation des enfants en situation de handicap)](26-62776_MPRH.md) | DENC | 14/05/2026 |
-| 26-63233_MPRH | [Educateur spécialisé en milieu ouvert - SEMOHD](26-63233_MPRH.md) | DPJEJ | 14/05/2026 |
-| 26-63054_MPRH | [Chef de projet Illettrisme](26-63054_MPRH.md) | DTEFP | 14/05/2026 |
-
-## 🌾 Economie rurale (1)
-
-| Référence | Poste | Direction | Date Limite |
-| --- | --- | --- | --- |
-| 26-62753_MPRH | [Responsable de la section Santé animale 1 et de la cellule vétérinaire](26-62753_MPRH.md) | DAVAR | 14/05/2026 |
-
-## 💻 Informatique (1)
-
-| Référence | Poste | Direction | Date Limite |
-| --- | --- | --- | --- |
-| 26-62433_MPRH | [Chef de projet SIRH](26-62433_MPRH.md) | DINUM | 14/05/2026 |
+| 26-0605 | [Gestionnaire comptable](26-0605.md) | CDE Nouméa | 14/05/2026 |
+| 26-62932_MPRH | [Gestionnaire comptable](26-62932_MPRH.md) | DAPM | 14/05/2026 |
+| 26-62913_MPRH | [Infirmier(ère)](26-62913_MPRH.md) | DPJEJ | 14/05/2026 |
+| 26-0576 | [Gestionnaire en ressources humaines](26-0576.md) | nan | 07/05/2026 |
+| 26-0574 | [Gestionnaire en ressources humaines](26-0574.md) | nan | 07/05/2026 |
 
