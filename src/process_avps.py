@@ -52,7 +52,8 @@ def process_pdfs_to_markdown(df, data_dir="data"):
 
     os.makedirs(data_dir, exist_ok=True)
     
-    for _, row in df.iterrows():
+    total = len(df)
+    for i, (_, row) in enumerate(df.iterrows(), 1):
         numero = str(row['numero']).replace("/", "_")
         url_pdf = row['url_pdf']
         final_md_path = os.path.join(data_dir, f"{numero}.md")
@@ -62,11 +63,11 @@ def process_pdfs_to_markdown(df, data_dir="data"):
             
         # On évite de retraiter ce qui existe déjà pour gagner du temps
         if os.path.exists(final_md_path):
-            print(f"  {numero} déjà traité, on passe.")
+            print(f"  [{i}/{total}] {numero} déjà traité, on passe.")
             continue
 
         try:
-            print(f"  Traitement de {numero}...")
+            print(f"  [{i}/{total}] Traitement de {numero}...")
             # 1. Téléchargement du PDF
             pdf_response = requests.get(url_pdf)
             pdf_response.raise_for_status()
@@ -118,16 +119,19 @@ def main():
     col_pdf = 'url_pdf'
     df_all = df[df[col_pdf].notna()].copy()
     
-    # LIMITATION POUR TEST : On ne prend que les 10 premières lignes
-    print("⚠️ MODE TEST : Limitation aux 10 premières annonces.")
-    df_all = df_all.head(10)
-    
-    print(f"Nombre d'AVPs à traiter : {len(df_all)}")
-    
+    # LIMITATION POUR TEST : On ne prend que les 5 premières lignes
+    print("⚠️ MODE TEST : Limitation aux 5 premières annonces.")
+    df_all = df_all.head(5)
+
+    total = len(df_all)
+    print(f"Nombre d'AVPs à traiter : {total}")
+
     # Extraction des URLs PDF
     df_all['url_pdf'] = df_all['url_pdf'].apply(extract_pdf_url)
-    
-    # Renommage des colonnes (même mapping que l'original pour la cohérence)
+
+    # Renommage des colonnes
+    # ... (reste du code identique) ...
+ (même mapping que l'original pour la cohérence)
     renames = {
         'numeroavp': 'numero',
         'datepublicationavp': 'date_publication_avp',
@@ -181,8 +185,8 @@ def main():
     # Génération de l'index.md par domaine
     generate_index_md(df_all)
     
-    # Génération de la config Zensical
-    generate_zensical_config()
+    # Génération de la config MkDocs
+    generate_mkdocs_config()
     
     print(f"Terminé. {len(df_all)} lignes enregistrées dans {output_path}.")
 
@@ -257,26 +261,28 @@ def generate_index_md(df):
     with open("data/index.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
-def generate_zensical_config():
-    """Génère un fichier zensical.toml de base."""
-    config = """# Configuration Zensical
-title = "AVPS DRHFPNC"
-description = "Tous les Avis de Vacances de Poste de la DRHFPNC"
-source_dir = "data"
-output_dir = "site"
+def generate_mkdocs_config():
+    """Génère un fichier mkdocs.yml."""
+    config = """site_name: AVPS DRHFPNC
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.suggest
 
-[theme]
-name = "material"
-primary_color = "#3f51b5"
-accent_color = "#ff4081"
+docs_dir: data
+site_dir: site
 
-[navigation]
-show_reading_time = false
-show_last_updated = true
+nav:
+  - Accueil: index.md
 """
-    with open("zensical.toml", "w", encoding="utf-8") as f:
+    with open("mkdocs.yml", "w", encoding="utf-8") as f:
         f.write(config)
-    print("✅ Configuration Zensical générée.")
+    print("✅ Configuration MkDocs générée.")
 
 if __name__ == "__main__":
     main()

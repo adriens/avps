@@ -9,4 +9,5 @@ dependencies = [
     "pyarrow",
     "requests",
     "pytz",
+    "mkdocs-material",
 ]
