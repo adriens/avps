@@ -1,0 +1,44 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # S'exécute tous les jours à minuit
+  workflow_dispatch: # Permet de le lancer manuellement
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libwebp-dev libharfbuzz-dev libfribidi-dev libxcb1-dev
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install Python dependencies
+        run: uv sync
+
+      - name: Run processing script
+        run: uv run src/process_avps.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update AVPs data ($(date +'%Y-%m-%d'))"
+            git push
+          fi
