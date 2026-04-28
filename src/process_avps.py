@@ -262,6 +262,7 @@ def generate_index_md(df):
 def generate_zensical_config():
     """Génère un fichier zensical.toml avec le mode sombre par défaut."""
     config = """# Configuration Zensical
+site_name = "AVPS DRHFPNC"
 title = "AVPS DRHFPNC"
 description = "Catalogue complet des AVPs de la DRHFPNC"
 source_dir = "data"
@@ -272,10 +273,6 @@ name = "material"
 default_mode = "dark"
 primary_color = "#3f51b5"
 accent_color = "#ff4081"
-
-[navigation]
-show_reading_time = false
-show_last_updated = true
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
