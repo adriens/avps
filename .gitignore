@@ -3,5 +3,6 @@ __pycache__/
 *.pdf
 *~
 .DS_Store
-# On autorise le dossier data car c'est le coeur du projet
-# data/ 
+site/
+# On autorise docs/ car c'est le coeur du projet
+# docs/

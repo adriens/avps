@@ -28,7 +28,7 @@ def extract_pdf_url(val):
         pass
     return val
 
-def process_pdfs_to_markdown(df, data_dir="data"):
+def process_pdfs_to_markdown(df, data_dir="docs"):
     """Télécharge les PDFs et les convertit en Markdown avec marker-pdf."""
     print("Début de la conversion des PDFs en Markdown avec marker-pdf...")
     
@@ -176,8 +176,8 @@ def main():
     process_pdfs_to_markdown(df_all)
     
     # Sauvegarde du CSV global
-    os.makedirs("data", exist_ok=True)
-    output_path = "data/all_avps.csv"
+    os.makedirs("docs", exist_ok=True)
+    output_path = "docs/all_avps.csv"
     df_all.to_csv(output_path, index=False, encoding='utf-8')
     
     # Génération de l'index.md par domaine
@@ -256,7 +256,7 @@ def generate_index_md(df):
             md_content += f"| {numero} | [{libelle}]({numero}.md) | {direction} | {date_cloture} |\n"
         md_content += "\n"
     
-    with open("data/index.md", "w", encoding="utf-8") as f:
+    with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
 def generate_zensical_config():
@@ -265,7 +265,7 @@ def generate_zensical_config():
 site_name = "AVPS DRHFPNC"
 title = "AVPS DRHFPNC"
 description = "Catalogue complet des AVPs de la DRHFPNC"
-source_dir = "data"
+docs_dir = "docs"
 output_dir = "site"
 
 [theme]
