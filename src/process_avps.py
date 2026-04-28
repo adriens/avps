@@ -29,8 +29,8 @@ def extract_pdf_url(val):
     return val
 
 def process_pdfs_to_markdown(df, data_dir="docs"):
-    """Télécharge les PDFs et les convertit en Markdown avec marker-pdf."""
-    print("Début de la conversion des PDFs en Markdown avec marker-pdf...")
+    """Télécharge les PDFs et les convertit en Markdown avec marker-pdf (SANS IMAGES)."""
+    print("Début de la conversion des PDFs en Markdown (Images désactivées)...")
     
     try:
         from marker.converters.pdf import PdfConverter
@@ -39,11 +39,12 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
         
         print("  Chargement des modèles d'IA...")
         model_dict = create_model_dict()
+        # Désactivation de l'extraction d'images
         converter = PdfConverter(
             artifact_dict=model_dict,
             config={
                 "disable_ocr": True,
-                "disable_image_extraction": False
+                "disable_image_extraction": True
             }
         )
     except Exception as e:
@@ -61,14 +62,13 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
         if not url_pdf or not url_pdf.startswith("http"):
             continue
             
-        # On évite de retraiter ce qui existe déjà pour gagner du temps
+        # On évite de retraiter ce qui existe déjà
         if os.path.exists(final_md_path):
-            print(f"  [{i}/{total}] {numero} déjà traité, on passe.")
+            print(f"  [{i}/{total}] {numero} déjà traité.")
             continue
 
         try:
             print(f"  [{i}/{total}] Traitement de {numero}...")
-            # 1. Téléchargement du PDF
             pdf_response = requests.get(url_pdf)
             pdf_response.raise_for_status()
             
@@ -76,35 +76,30 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
             with open(temp_pdf, "wb") as f:
                 f.write(pdf_response.content)
             
-            # 2. Conversion avec marker
             rendered = converter(temp_pdf)
-            
-            # 3. Sauvegarde
             save_output(rendered, output_dir=data_dir, fname_base=numero)
             
-            # 4. Ajout du titre H1 et du lien PDF original
+            # Ajout du titre H1 pour corriger la navigation et lien PDF
             if os.path.exists(final_md_path):
                 with open(final_md_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
                 libelle_poste = row.get('libelle_poste', 'Poste disponible')
-                pdf_header = f'# {numero} - {libelle_poste}\n\n'
-                pdf_header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
+                header = f'# {numero} - {libelle_poste}\n\n'
+                header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
                 
                 with open(final_md_path, 'w', encoding='utf-8') as f:
-                    f.write(pdf_header + content)
+                    f.write(header + content)
             
-            # Nettoyage
             if os.path.exists(temp_pdf):
                 os.remove(temp_pdf)
-            print(f"    Généré : {final_md_path}")
                 
         except Exception as e:
             print(f"    Erreur pour {numero}: {e}")
             if 'temp_pdf' in locals() and os.path.exists(temp_pdf):
                 os.remove(temp_pdf)
 
-    # Nettoyage des fichiers JSON de métadonnées générés par marker
+    # Nettoyage des métadonnées
     all_json_files = glob(os.path.join(data_dir, "*_meta.json"))
     for json_file in all_json_files:
         os.remove(json_file)
@@ -117,22 +112,14 @@ def main():
     response.raise_for_status()
     
     df = pd.read_parquet(io.BytesIO(response.content))
-    
-    # On ne filtre QUE sur la présence d'un PDF
     col_pdf = 'url_pdf'
     df_all = df[df[col_pdf].notna()].copy()
     
-    # LIMITATION POUR TEST : On ne prend que les 5 premières lignes
-    print("⚠️ MODE TEST : Limitation aux 5 premières annonces.")
-    df_all = df_all.head(5)
-
     total = len(df_all)
-    print(f"Nombre d'AVPs à traiter : {total}")
+    print(f"Nombre total d'AVPs à traiter : {total}")
 
-    # Extraction des URLs PDF
     df_all['url_pdf'] = df_all['url_pdf'].apply(extract_pdf_url)
 
-    # Renommage des colonnes (même mapping que l'original pour la cohérence)
     renames = {
         'numeroavp': 'numero',
         'datepublicationavp': 'date_publication_avp',
@@ -175,61 +162,31 @@ def main():
     
     df_all.rename(columns={k: v for k, v in renames.items() if k in df_all.columns}, inplace=True)
     
-    # Conversion PDF -> Markdown
     process_pdfs_to_markdown(df_all)
     
-    # Sauvegarde du CSV global
     os.makedirs("docs", exist_ok=True)
-    output_path = "docs/all_avps.csv"
-    df_all.to_csv(output_path, index=False, encoding='utf-8')
-    
-    # Génération de l'index.md par domaine
+    df_all.to_csv("docs/all_avps.csv", index=False, encoding='utf-8')
     generate_index_md(df_all)
-    
-    # Génération de la config Zensical
     generate_zensical_config()
     
-    print(f"Terminé. {len(df_all)} lignes enregistrées dans {output_path}.")
+    print(f"Terminé. {len(df_all)} lignes enregistrées dans docs/.")
 
 def get_icon(domaine):
-    """Retourne une icône selon le domaine."""
-    icons = {
-        "Informatique": "💻",
-        "Numérique": "🌐",
-        "Santé": "🏥",
-        "Infirmier": "💉",
-        "Équipement": "🏗️",
-        "Environnement": "🌱",
-        "Administration": "📁",
-        "Enseignement": "🎓",
-        "Rural": "🌾",
-        "Météo": "☁️",
-        "Social": "🤝"
-    }
+    icons = {"Informatique": "💻", "Numérique": "🌐", "Santé": "🏥", "Infirmier": "💉", "Équipement": "🏗️", "Environnement": "🌱", "Administration": "📁", "Enseignement": "🎓", "Rural": "🌾", "Météo": "☁️", "Social": "🤝"}
     dom_str = str(domaine).lower()
     for key, icon in icons.items():
-        if key.lower() in dom_str:
-            return icon
+        if key.lower() in dom_str: return icon
     return "📋"
 
 def generate_index_md(df):
-    """Génère un fichier index.md classé par domaine avec des tableaux dédiés."""
-    print("Génération de index.md par domaine...")
-    
-    # Remplissage des domaines vides
+    print("Génération de index.md...")
     df['libelle_domaine'] = df['libelle_domaine'].fillna('Autres filières')
-    
-    # Tri par domaine puis par date de mise en ligne
     df_sorted = df.sort_values(['libelle_domaine', 'date_mis_en_ligne'], ascending=[True, False])
     
-    # Cacher le menu de droite (TOC) pour laisser place à la navigation à gauche
     md_content = "---\nhide:\n  - toc\n---\n\n"
     md_content += "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
-    md_content += "Bienvenue sur le catalogue complet des AVPs. Ce site est mis à jour quotidiennement.\n\n"
-    md_content += f"Dernière mise à jour : **{pd.Timestamp.now().strftime('%d/%m/%Y %H:%M')}**  \n"
-    md_content += f"Nombre de postes ouverts : **{len(df)}**\n\n"
+    md_content += f"Dernière mise à jour : **{pd.Timestamp.now().strftime('%d/%m/%Y %H:%M')}**\n\n"
 
-    # Navigation rapide (Sommaire)
     md_content += "## 📂 Sommaire par domaines\n\n"
     for domaine in sorted(df['libelle_domaine'].unique()):
         icon = get_icon(domaine)
@@ -238,26 +195,17 @@ def generate_index_md(df):
         md_content += f"* [{icon} {domaine} ({count})](#{anchor})\n"
     md_content += "\n---\n\n"
 
-    # Groupement par domaine
     for domaine, group in df_sorted.groupby('libelle_domaine'):
         icon = get_icon(domaine)
         anchor = str(domaine).lower().replace(" ", "-").replace("é", "e").replace("è", "e")
         md_content += f"## {icon} {domaine} ({len(group)})\n\n"
         md_content += "| Référence | Poste | Direction | Date Limite |\n"
         md_content += "| --- | --- | --- | --- |\n"
-        
         for _, row in group.iterrows():
             numero = str(row.get('numero', '')).replace("/", "_")
             libelle = row.get('libelle_poste', 'Poste sans titre')
             direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
             date_cloture = row.get('date_cloture', '-')
-            
-            try:
-                if pd.notna(date_cloture):
-                    date_cloture = pd.to_datetime(date_cloture).strftime('%d/%m/%Y')
-            except:
-                pass
-
             md_content += f"| {numero} | [{libelle}]({numero}/) | {direction} | {date_cloture} |\n"
         md_content += "\n"
     
@@ -265,7 +213,6 @@ def generate_index_md(df):
         f.write(md_content)
 
 def generate_zensical_config():
-    """Génère un fichier zensical.toml inspiré de l'OPT-NC."""
     config = """[project]
 site_name = "AVPS DRHFPNC"
 site_description = "Catalogue complet des AVPs de la DRHFPNC"
@@ -275,22 +222,14 @@ repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
 
-[project.theme]
-name = "material"
-language = "fr"
-icon.repo = "material/github"
-features = [
-    "navigation.top",
-    "navigation.tracking",
-    "navigation.footer",
-    "search.suggest",
-    "search.highlight"
-]
-
 [project.nav]
 - Accueil = "index.md"
 
-# Mode sombre par défaut (Slate en premier)
+[project.theme]
+name = "material"
+language = "fr"
+features = ["navigation.top", "navigation.tracking", "navigation.footer", "search.suggest", "search.highlight"]
+
 [[project.theme.palette]]
 scheme = "slate"
 primary = "indigo"
@@ -313,7 +252,6 @@ Copyright &copy; 2026 adriens<br>
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
-    print("✅ Configuration Zensical (Style OPT-NC) générée.")
 
 if __name__ == "__main__":
     main()
