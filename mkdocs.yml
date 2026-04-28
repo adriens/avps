@@ -1,0 +1,16 @@
+site_name: AVPS DRHFPNC
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+docs_dir: data
+site_dir: site
+
+nav:
+  - Accueil: index.md
