@@ -118,7 +118,11 @@ def main():
     col_pdf = 'url_pdf'
     df_all = df[df[col_pdf].notna()].copy()
     
-    print(f"Nombre d'AVPs trouvés : {len(df_all)}")
+    # LIMITATION POUR TEST : On ne prend que les 10 premières lignes
+    print("⚠️ MODE TEST : Limitation aux 10 premières annonces.")
+    df_all = df_all.head(10)
+    
+    print(f"Nombre d'AVPs à traiter : {len(df_all)}")
     
     # Extraction des URLs PDF
     df_all['url_pdf'] = df_all['url_pdf'].apply(extract_pdf_url)
@@ -174,7 +178,105 @@ def main():
     output_path = "data/all_avps.csv"
     df_all.to_csv(output_path, index=False, encoding='utf-8')
     
+    # Génération de l'index.md par domaine
+    generate_index_md(df_all)
+    
+    # Génération de la config Zensical
+    generate_zensical_config()
+    
     print(f"Terminé. {len(df_all)} lignes enregistrées dans {output_path}.")
+
+def get_icon(domaine):
+    """Retourne une icône selon le domaine."""
+    icons = {
+        "Informatique": "💻",
+        "Numérique": "🌐",
+        "Santé": "🏥",
+        "Infirmier": "💉",
+        "Équipement": "🏗️",
+        "Environnement": "🌱",
+        "Administration": "📁",
+        "Enseignement": "🎓",
+        "Rural": "🌾",
+        "Météo": "☁️",
+        "Social": "🤝"
+    }
+    dom_str = str(domaine).lower()
+    for key, icon in icons.items():
+        if key.lower() in dom_str:
+            return icon
+    return "📋"
+
+def generate_index_md(df):
+    """Génère un fichier index.md classé par domaine avec des tableaux dédiés."""
+    print("Génération de index.md par domaine...")
+    
+    # Remplissage des domaines vides
+    df['libelle_domaine'] = df['libelle_domaine'].fillna('Autres filières')
+    
+    # Tri par domaine puis par date de mise en ligne
+    df_sorted = df.sort_values(['libelle_domaine', 'date_mis_en_ligne'], ascending=[True, False])
+    
+    md_content = "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
+    md_content += "Bienvenue sur le catalogue complet des AVPs. Ce site est mis à jour quotidiennement.\n\n"
+    md_content += f"Dernière mise à jour : **{pd.Timestamp.now().strftime('%d/%m/%Y %H:%M')}**  \n"
+    md_content += f"Nombre de postes ouverts : **{len(df)}**\n\n"
+
+    # Navigation rapide (Sommaire)
+    md_content += "## 📂 Sommaire par domaines\n\n"
+    for domaine in sorted(df['libelle_domaine'].unique()):
+        icon = get_icon(domaine)
+        count = len(df[df['libelle_domaine'] == domaine])
+        anchor = str(domaine).lower().replace(" ", "-").replace("é", "e").replace("è", "e")
+        md_content += f"* [{icon} {domaine} ({count})](#{anchor})\n"
+    md_content += "\n---\n\n"
+
+    # Groupement par domaine
+    for domaine, group in df_sorted.groupby('libelle_domaine'):
+        icon = get_icon(domaine)
+        anchor = str(domaine).lower().replace(" ", "-").replace("é", "e").replace("è", "e")
+        md_content += f"## {icon} {domaine} ({len(group)})\n\n"
+        md_content += "| Référence | Poste | Direction | Date Limite |\n"
+        md_content += "| --- | --- | --- | --- |\n"
+        
+        for _, row in group.iterrows():
+            numero = str(row.get('numero', '')).replace("/", "_")
+            libelle = row.get('libelle_poste', 'Poste sans titre')
+            direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
+            date_cloture = row.get('date_cloture', '-')
+            
+            try:
+                if pd.notna(date_cloture):
+                    date_cloture = pd.to_datetime(date_cloture).strftime('%d/%m/%Y')
+            except:
+                pass
+
+            md_content += f"| {numero} | [{libelle}]({numero}.md) | {direction} | {date_cloture} |\n"
+        md_content += "\n"
+    
+    with open("data/index.md", "w", encoding="utf-8") as f:
+        f.write(md_content)
+
+def generate_zensical_config():
+    """Génère un fichier zensical.toml de base."""
+    config = """# Configuration Zensical
+title = "AVPS DRHFPNC"
+description = "Tous les Avis de Vacances de Poste de la DRHFPNC"
+source_dir = "data"
+output_dir = "site"
+
+[theme]
+name = "material"
+primary_color = "#3f51b5"
+accent_color = "#ff4081"
+
+[navigation]
+show_reading_time = false
+show_last_updated = true
+"""
+    with open("zensical.toml", "w", encoding="utf-8") as f:
+        f.write(config)
+    print("✅ Configuration Zensical générée.")
 
 if __name__ == "__main__":
     main()
