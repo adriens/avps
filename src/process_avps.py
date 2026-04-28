@@ -82,12 +82,15 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
             # 3. Sauvegarde
             save_output(rendered, output_dir=data_dir, fname_base=numero)
             
-            # 4. Ajout du lien PDF original
+            # 4. Ajout du titre H1 et du lien PDF original
             if os.path.exists(final_md_path):
                 with open(final_md_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                pdf_header = f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
+                libelle_poste = row.get('libelle_poste', 'Poste disponible')
+                pdf_header = f'# {numero} - {libelle_poste}\n\n'
+                pdf_header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
+                
                 with open(final_md_path, 'w', encoding='utf-8') as f:
                     f.write(pdf_header + content)
             
@@ -283,6 +286,9 @@ features = [
     "search.suggest",
     "search.highlight"
 ]
+
+[project.nav]
+- Accueil = "index.md"
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
