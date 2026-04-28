@@ -1,8 +1,13 @@
+---
+hide:
+  - toc
+---
+
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
 Bienvenue sur le catalogue complet des AVPs. Ce site est mis à jour quotidiennement.
 
-Dernière mise à jour : **28/04/2026 08:42**  
+Dernière mise à jour : **28/04/2026 09:25**  
 Nombre de postes ouverts : **5**
 
 ## 📂 Sommaire par domaines
@@ -16,14 +21,14 @@ Nombre de postes ouverts : **5**
 
 | Référence | Poste | Direction | Date Limite |
 | --- | --- | --- | --- |
-| 26-0612 | [Agent d'accueil et de secrétariat](26-0612/) | nan | 14/05/2026 |
-| 26-63372_MPRH | [Contrôleur à la contribution foncière](26-63372_MPRH/) | DSF | 14/05/2026 |
-| 26-62880_MPRH | [Contrôleur de gestion](26-62880_MPRH/) | SGGNC | 30/04/2026 |
-| 26-62432_MPRH | [Educateur spécialisé en milieu ouvert - SEMOHD](26-62432_MPRH/) | DPJEJ | 30/04/2026 |
+| 26-0611 | [Travailleur social](26-0611/) | CCAS-Nouméa | 14/05/2026 |
+| 26-0571 | [Adjoint(e) au chef du service administratif](26-0571/) | DAC | 07/05/2026 |
+| 25-1768 | [Médecin à l'UPASS de Bourail](25-1768/) | PVS | 14/05/2026 |
+| 25-1598 | [Médecin à l'UPASS de Bourail](25-1598/) | PVS | 14/05/2026 |
 
 ## 📋 Equipement (1)
 
 | Référence | Poste | Direction | Date Limite |
 | --- | --- | --- | --- |
-| 26-63026_MPRH | [Ingénieur Régulation du secteur électrique](26-63026_MPRH/) | DIMENC | 30/04/2026 |
+| 26-0614 | [Chef(fe) de pôle bâtiments et équipements](26-0614/) | nan | 14/05/2026 |
 

@@ -1,27 +1,41 @@
-# Configuration Zensical
+[project]
 site_name = "AVPS DRHFPNC"
 site_description = "Catalogue complet des AVPs de la DRHFPNC"
 site_url = "https://adriens.github.io/avps/"
 repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
-output_dir = "site"
+site_dir = "site"
 
-[theme]
+[project.theme]
 name = "material"
-primary_color = "#212121"
-accent_color = "#ff4081"
-default_mode = "dark"
+language = "fr"
+icon.repo = "material/github"
+features = [
+    "navigation.top",
+    "navigation.tracking",
+    "navigation.footer",
+    "search.suggest",
+    "search.highlight"
+]
 
-[[theme.palette]]
+# Mode sombre par défaut (Slate en premier)
+[[project.theme.palette]]
 scheme = "slate"
-primary = "black"
-accent = "pink"
-toggle = { icon = "material/brightness-4", name = "Switch to light mode" }
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "material/brightness-4"
+toggle.name = "Passer au mode clair"
 
-[extra]
-footer_message = "Généré avec ❤️ par Zensical"
+[[project.theme.palette]]
+scheme = "default"
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "material/brightness-7"
+toggle.name = "Passer au mode sombre"
 
-[navigation]
-show_reading_time = false
-show_last_updated = true
+[project.extra]
+copyright = """
+Copyright &copy; 2026 adriens<br>
+<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a></small>
+"""
