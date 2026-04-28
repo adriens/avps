@@ -253,30 +253,45 @@ def generate_index_md(df):
             except:
                 pass
 
-            md_content += f"| {numero} | [{libelle}]({numero}.md) | {direction} | {date_cloture} |\n"
+            md_content += f"| {numero} | [{libelle}]({numero}/) | {direction} | {date_cloture} |\n"
         md_content += "\n"
     
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
 def generate_zensical_config():
-    """Génère un fichier zensical.toml avec le mode sombre par défaut."""
+    """Génère un fichier zensical.toml complet."""
     config = """# Configuration Zensical
 site_name = "AVPS DRHFPNC"
-title = "AVPS DRHFPNC"
-description = "Catalogue complet des AVPs de la DRHFPNC"
+site_description = "Catalogue complet des AVPs de la DRHFPNC"
+site_url = "https://adriens.github.io/avps/"
+repo_url = "https://github.com/adriens/avps"
+repo_name = "adriens/avps"
 docs_dir = "docs"
 output_dir = "site"
 
 [theme]
 name = "material"
-default_mode = "dark"
-primary_color = "#3f51b5"
+primary_color = "#212121"
 accent_color = "#ff4081"
+default_mode = "dark"
+
+[[theme.palette]]
+scheme = "slate"
+primary = "black"
+accent = "pink"
+toggle = { icon = "material/brightness-4", name = "Switch to light mode" }
+
+[extra]
+footer_message = "Généré avec ❤️ par Zensical"
+
+[navigation]
+show_reading_time = false
+show_last_updated = true
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
-    print("✅ Configuration Zensical (Dark Mode) générée.")
+    print("✅ Configuration Zensical (Dark + Repo + Footer) générée.")
 
 if __name__ == "__main__":
     main()
