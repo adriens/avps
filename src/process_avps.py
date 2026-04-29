@@ -176,6 +176,9 @@ def main():
     generate_index_md(df_all)
     generate_zensical_config()
     
+    # Nettoyage des fichiers MD qui ne sont plus dans le CSV
+    clean_orphaned_markdowns(df_all, data_dir="docs")
+    
     # Traitement des PDFs (plus long)
     process_pdfs_to_markdown(df_all)
     
@@ -221,6 +224,17 @@ def generate_index_md(df):
     
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(md_content)
+
+def clean_orphaned_markdowns(df, data_dir="docs"):
+    """Supprime les fichiers .md dans docs/ qui ne sont pas dans le DataFrame (sauf index.md)."""
+    print("Nettoyage des fichiers Markdown orphelins...")
+    valid_numbers = set(str(n).replace("/", "_") for n in df['numero'].unique())
+    
+    for file_path in glob(os.path.join(data_dir, "*.md")):
+        base_name = os.path.basename(file_path).replace(".md", "")
+        if base_name != "index" and base_name not in valid_numbers:
+            print(f"  Suppression de {file_path} (non référencé)")
+            os.remove(file_path)
 
 def generate_zensical_config():
     config = """[project]
