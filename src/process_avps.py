@@ -200,7 +200,16 @@ def slugify(text):
 def generate_index_md(df):
     print("Génération de index.md...")
     df['libelle_domaine'] = df['libelle_domaine'].fillna('Autres filières')
-    df_sorted = df.sort_values(['libelle_domaine', 'date_mis_en_ligne'], ascending=[True, False])
+    
+    # Conversion en datetime pour un tri fiable
+    df['date_cloture_dt'] = pd.to_datetime(df['date_cloture'], errors='coerce')
+    df['date_mis_en_ligne_dt'] = pd.to_datetime(df['date_mis_en_ligne'], errors='coerce')
+    
+    # Tri : Domaine (A-Z), puis Clôture (Bientôt -> Loin), puis Publication (Récent -> Vieux)
+    df_sorted = df.sort_values(
+        ['libelle_domaine', 'date_cloture_dt', 'date_mis_en_ligne_dt'], 
+        ascending=[True, True, False]
+    )
     
     md_content = "---\nhide:\n  - toc\n---\n\n"
     md_content += "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
