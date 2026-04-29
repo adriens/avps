@@ -235,15 +235,25 @@ def generate_index_md(df):
             try:
                 date_pub = pd.to_datetime(row.get('date_mis_en_ligne'))
                 if (now - date_pub).days <= 3:
-                    badges += ' <span style="background-color: #4CAF50; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">NOUVEAU</span>'
+                    badges += ' <span style="background-color: #43a047; color: white; padding: 2px 9px; border-radius: 12px; font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; margin-left: 8px; vertical-align: middle; white-space: nowrap;">✨ Nouveau</span>'
             except: pass
 
-            # Badge Bientôt clos (moins de 2 jours restants)
+            # Badge Urgence / Délai (3 niveaux)
             try:
                 date_limite = pd.to_datetime(row.get('date_cloture'))
                 days_left = (date_limite - now).days
+                
                 if 0 <= days_left <= 2:
-                    badges += ' <span style="background-color: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">🔥 Bientôt clos</span>'
+                    color = "#e53935" # Rouge
+                    label = "🔥 Urgent"
+                elif 3 <= days_left <= 7:
+                    color = "#fb8c00" # Orange
+                    label = "⏳ Cette semaine"
+                else:
+                    color = "#1e88e5" # Bleu
+                    label = "📋 En cours"
+                
+                badges += f' <span style="background-color: {color}; color: white; padding: 2px 9px; border-radius: 12px; font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; margin-left: 8px; vertical-align: middle; white-space: nowrap;">{label}</span>'
             except: pass
 
             md_content += f"| {numero} | [{libelle}]({numero}/){badges} | {direction} | {date_cloture_str} |\n"
