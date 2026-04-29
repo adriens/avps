@@ -85,7 +85,9 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                     content = f.read()
                 
                 libelle_poste = row.get('libelle_poste', 'Poste disponible')
-                header = f'# {numero} - {libelle_poste}\n\n'
+                # Frontmatter pour cacher la navigation latérale sur les pages d'annonces
+                header = f'---\nhide:\n  - navigation\n---\n\n'
+                header += f'# {numero} - {libelle_poste}\n\n'
                 header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
                 
                 with open(final_md_path, 'w', encoding='utf-8') as f:
@@ -222,14 +224,12 @@ repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
 
-[project.nav]
-- Accueil = "index.md"
-
 [project.theme]
 name = "material"
 language = "fr"
-features = ["navigation.top", "navigation.tracking", "navigation.footer", "search.suggest", "search.highlight"]
+features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
 
+# Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
 scheme = "slate"
 primary = "indigo"
@@ -252,6 +252,3 @@ Copyright &copy; 2026 adriens<br>
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
-
-if __name__ == "__main__":
-    main()
