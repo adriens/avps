@@ -225,8 +225,28 @@ def generate_index_md(df):
             numero = str(row.get('numero', '')).replace("/", "_")
             libelle = row.get('libelle_poste', 'Poste sans titre')
             direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
-            date_cloture = row.get('date_cloture', '-')
-            md_content += f"| {numero} | [{libelle}]({numero}/) | {direction} | {date_cloture} |\n"
+            date_cloture_str = str(row.get('date_cloture', '-'))
+            
+            # Calcul des badges
+            badges = ""
+            now = pd.Timestamp.now()
+            
+            # Badge Nouveau (moins de 3 jours)
+            try:
+                date_pub = pd.to_datetime(row.get('date_mis_en_ligne'))
+                if (now - date_pub).days <= 3:
+                    badges += ' <span style="background-color: #4CAF50; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">NOUVEAU</span>'
+            except: pass
+
+            # Badge Bientôt clos (moins de 2 jours restants)
+            try:
+                date_limite = pd.to_datetime(row.get('date_cloture'))
+                days_left = (date_limite - now).days
+                if 0 <= days_left <= 2:
+                    badges += ' <span style="background-color: #f44336; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">🔥 Bientôt clos</span>'
+            except: pass
+
+            md_content += f"| {numero} | [{libelle}]({numero}/){badges} | {direction} | {date_cloture_str} |\n"
         md_content += "\n"
     
     with open("docs/index.md", "w", encoding="utf-8") as f:
