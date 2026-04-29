@@ -117,10 +117,6 @@ def main():
     col_pdf = 'url_pdf'
     df_all = df[df[col_pdf].notna()].copy()
     
-    # MODE TEST : Limitation à 5
-    print("⚠️ MODE TEST : Limitation aux 5 premières annonces.")
-    df_all = df_all.head(5)
-    
     total = len(df_all)
     print(f"Nombre d'AVPs à traiter : {total}")
 

@@ -2,7 +2,7 @@ name: Daily Data Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # S'exécute tous les jours à minuit
+    - cron: '0 0 * * 1-5' # Du lundi au vendredi à minuit
   workflow_dispatch: # Permet de le lancer manuellement
 
 permissions:
