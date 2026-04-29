@@ -260,3 +260,6 @@ Copyright &copy; 2026 adriens<br>
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
+
+if __name__ == "__main__":
+    main()
