@@ -10,14 +10,7 @@ site_dir = "site"
 [project.theme]
 name = "material"
 language = "fr"
-icon.repo = "material/github"
-features = [
-    "navigation.top",
-    "navigation.tracking",
-    "navigation.footer",
-    "search.suggest",
-    "search.highlight"
-]
+features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
