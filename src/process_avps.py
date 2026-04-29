@@ -3,6 +3,8 @@ import requests
 import io
 import json
 import os
+import unicodedata
+import re
 from glob import glob
 
 # Configuration CPU pour marker
@@ -187,6 +189,14 @@ def get_icon(domaine):
         if key.lower() in dom_str: return icon
     return "📋"
 
+def slugify(text):
+    """Génère un slug propre pour les ancres Markdown."""
+    text = unicodedata.normalize('NFD', str(text))
+    text = "".join([c for c in text if unicodedata.category(c) != 'Mn']) # Supprime les accents
+    text = text.lower().strip()
+    text = re.sub(r'[^\w\s-]', '', text)
+    return re.sub(r'[-\s]+', '-', text)
+
 def generate_index_md(df):
     print("Génération de index.md...")
     df['libelle_domaine'] = df['libelle_domaine'].fillna('Autres filières')
@@ -200,14 +210,15 @@ def generate_index_md(df):
     for domaine in sorted(df['libelle_domaine'].unique()):
         icon = get_icon(domaine)
         count = len(df[df['libelle_domaine'] == domaine])
-        anchor = str(domaine).lower().replace(" ", "-").replace("é", "e").replace("è", "e")
+        anchor = slugify(domaine)
         md_content += f"* [{icon} {domaine} ({count})](#{anchor})\n"
     md_content += "\n---\n\n"
 
     for domaine, group in df_sorted.groupby('libelle_domaine'):
         icon = get_icon(domaine)
-        anchor = str(domaine).lower().replace(" ", "-").replace("é", "e").replace("è", "e")
-        md_content += f"## {icon} {domaine} ({len(group)})\n\n"
+        anchor = slugify(domaine)
+        # On force l'ID du titre pour que l'ancre corresponde exactement
+        md_content += f"## {icon} {domaine} ({len(group)}) {{: #{anchor} }}\n\n"
         md_content += "| Référence | Poste | Direction | Date Limite |\n"
         md_content += "| --- | --- | --- | --- |\n"
         for _, row in group.iterrows():
