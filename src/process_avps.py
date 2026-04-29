@@ -168,14 +168,18 @@ def main():
     
     df_all.rename(columns={k: v for k, v in renames.items() if k in df_all.columns}, inplace=True)
     
-    process_pdfs_to_markdown(df_all)
-    
+    # On génère le CSV et l'index AVANT le traitement long des PDFs
     os.makedirs("docs", exist_ok=True)
+    print("Enregistrement de docs/all_avps.csv...")
     df_all.to_csv("docs/all_avps.csv", index=False, encoding='utf-8')
+    
     generate_index_md(df_all)
     generate_zensical_config()
     
-    print(f"Terminé. {len(df_all)} lignes enregistrées dans docs/.")
+    # Traitement des PDFs (plus long)
+    process_pdfs_to_markdown(df_all)
+    
+    print(f"Terminé. {len(df_all)} lignes traitées.")
 
 def get_icon(domaine):
     icons = {"Informatique": "💻", "Numérique": "🌐", "Santé": "🏥", "Infirmier": "💉", "Équipement": "🏗️", "Environnement": "🌱", "Administration": "📁", "Enseignement": "🎓", "Rural": "🌾", "Météo": "☁️", "Social": "🤝"}
