@@ -1,18 +1,35 @@
 [project]
 site_name = "AVPS DRHFPNC"
-site_description = "Catalogue complet des AVPs de la DRHFPNC"
+site_description = "Catalogue complet et à jour des Avis de Vacances de Poste publiés par la DRHFPNC"
 site_url = "https://adriens.github.io/avps/"
 repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
-extra_files = ["feed.xml"]
+nav = [
+  { title = "Accueil", path = "index.md" }
+]
 
 [project.theme]
 name = "material"
 language = "fr"
-features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
+features = [
+  "navigation.top",
+  "navigation.tracking", 
+  "navigation.footer",
+  "navigation.sections",
+  "navigation.expand",
+  "search.suggest",
+  "search.highlight",
+  "search.share",
+  "content.code.copy",
+  "content.tabs.link"
+]
 icon.repo = "material/github"
+
+[project.theme.font]
+text = "Roboto"
+code = "Roboto Mono"
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
@@ -29,6 +46,25 @@ accent = "indigo"
 toggle.icon = "material/brightness-7"
 toggle.name = "Passer au mode sombre"
 
+# Extensions Markdown pour Material/Zensical
+[project.markdown]
+extensions = [
+  "tables",
+  "toc",
+  "abbr",
+  "pymdownx.superfences",
+  "pymdownx.tabbed",
+  "pymdownx.emoji",
+  "pymdownx.blocks.admonition",
+  "pymdownx.blocks.details",
+  "attr_list"
+]
+
+[project.markdown.extension_configs]
+pymdownx.emoji = { emoji_index = "pymdownx.emoji.twemoji", emoji_generator = "pymdownx.emoji.to_svg" }
+pymdownx.superfences = { preserve_tabs = true }
+toc = { permalink = true }
+
 [[project.extra.social]]
 icon = "material/github"
 link = "https://github.com/adriens/avps"
@@ -36,11 +72,11 @@ name = "Code source sur GitHub"
 
 [[project.extra.social]]
 icon = "material/rss"
-link = "https://adriens.github.io/avps/feed.xml"
+link = "feed.xml"
 name = "Flux RSS des offres"
 
 [project.extra]
 copyright = """
 Copyright &copy; 2026 adriens<br>
-<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a></small>
+<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a> • <a href='https://github.com/adriens/avps' target='_blank'>Source</a></small>
 """
