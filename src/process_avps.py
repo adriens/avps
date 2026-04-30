@@ -30,6 +30,41 @@ def extract_pdf_url(val):
         pass
     return val
 
+def generate_jsonld_jobposting(row, numero):
+    """Génère un bloc JSON-LD JobPosting en commentaire HTML."""
+    import json
+    
+    # Données du JobPosting
+    job_posting = {
+        "@context": "https://schema.org",
+        "@type": "JobPosting",
+        "title": f"{row.get('numero', numero)} - {row.get('libelle_poste', 'Poste disponible')}",
+        "description": f"Domaine: {row.get('libelle_domaine', 'Autres')}. Direction: {row.get('direction_libelle', row.get('direction_acronyme', 'DRHFPNC'))}",
+        "hiringOrganization": {
+            "@type": "Organization",
+            "name": row.get('direction_libelle', row.get('direction_acronyme', 'DRHFPNC')),
+            "sameAs": "https://www.gouv.nc/"
+        },
+        "jobLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "NC",
+                "addressRegion": "Nouvelle-Calédonie"
+            }
+        },
+        "url": f"https://adriens.github.io/avps/{numero}/",
+        "datePosted": str(row.get('date_mis_en_ligne', pd.Timestamp.now()))[:10],
+        "validThrough": str(row.get('date_cloture', pd.Timestamp.now()))[:10],
+        "employmentType": "FullTime"
+    }
+    
+    # Convertir en JSON indentado
+    jsonld_str = json.dumps(job_posting, ensure_ascii=False, indent=2)
+    
+    # Retourner en commentaire HTML
+    return f"<!--\n<script type=\"application/ld+json\">\n{jsonld_str}\n</script>\n-->\n\n"
+
 def process_pdfs_to_markdown(df, data_dir="docs"):
     """Télécharge les PDFs et les convertit en Markdown avec marker-pdf (SANS IMAGES)."""
     print("Début de la conversion des PDFs en Markdown (Images désactivées)...")
@@ -81,19 +116,52 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
             rendered = converter(temp_pdf)
             save_output(rendered, output_dir=data_dir, fname_base=numero)
             
-            # Ajout du titre H1 pour corriger la navigation et lien PDF
+            # Enrichissement du frontmatter et ajout du contenu
             if os.path.exists(final_md_path):
                 with open(final_md_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
+                # Calcul du statut
+                try:
+                    date_cloture = pd.to_datetime(row.get('date_cloture'))
+                    now = pd.Timestamp.now()
+                    status = "fermé" if date_cloture < now else "ouvert"
+                except:
+                    status = "ouvert"
+                
+                # Frontmatter enrichi YAML
                 libelle_poste = row.get('libelle_poste', 'Poste disponible')
-                # Frontmatter pour cacher la navigation latérale sur les pages d'annonces
-                header = f'---\nhide:\n  - navigation\n---\n\n'
+                domaine = row.get('libelle_domaine', 'Autres filières')
+                direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
+                date_cloture = row.get('date_cloture', '-')
+                date_publication = row.get('date_mis_en_ligne', '-')
+                
+                header = f'---\n'
+                header += f'numero: "{row["numero"]}"\n'
+                header += f'domaine: "{domaine}"\n'
+                header += f'direction: "{direction}"\n'
+                header += f'date_cloture: "{date_cloture}"\n'
+                header += f'date_publication: "{date_publication}"\n'
+                header += f'status: "{status}"\n'
+                header += f'url_pdf_original: "{url_pdf}"\n'
+                header += f'hide:\n'
+                header += f'  - navigation\n'
+                header += f'search:\n'
+                header += f'  boost: 1.5\n'
+                # OpenGraph + Twitter Cards
+                header += f'og_title: "{row["numero"]} - {libelle_poste} | AVPS DRHFPNC"\n'
+                header += f'og_description: "Direction: {direction} | Domaine: {domaine} | Clôture: {date_cloture}"\n'
+                header += f'og_type: "article"\n'
+                header += f'og_url: "https://adriens.github.io/avps/{numero}/"\n'
+                header += f'twitter_card: "summary_large_image"\n'
+                header += f'twitter_title: "{row["numero"]} - {libelle_poste}"\n'
+                header += f'twitter_description: "AVPS DRHFPNC | {domaine} | {direction} | Clôture: {date_cloture}"\n'
+                header += f'---\n\n'
                 header += f'# {numero} - {libelle_poste}\n\n'
                 header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
                 
                 with open(final_md_path, 'w', encoding='utf-8') as f:
-                    f.write(header + content)
+                    f.write(header + generate_jsonld_jobposting(row, numero) + content)
             
             if os.path.exists(temp_pdf):
                 os.remove(temp_pdf)
@@ -174,6 +242,8 @@ def main():
     generate_index_md(df_all)
     generate_zensical_config()
     generate_rss_feed(df_all)
+    generate_sitemap(df_all)
+    generate_robots_txt()
     
     # Nettoyage des fichiers MD qui ne sont plus dans le CSV
     clean_orphaned_markdowns(df_all, data_dir="docs")
@@ -212,40 +282,65 @@ def generate_index_md(df):
         ascending=[True, True, False]
     )
     
-    md_content = "---\nhide:\n  - toc\n---\n\n"
+    now = pd.Timestamp.now()
+    total_count = len(df)
+    urgent_count = len(df[pd.to_datetime(df['date_cloture'], errors='coerce') - now <= pd.Timedelta(days=2)])
+    this_week_count = len(df[(pd.to_datetime(df['date_cloture'], errors='coerce') - now > pd.Timedelta(days=2)) & (pd.to_datetime(df['date_cloture'], errors='coerce') - now <= pd.Timedelta(days=7))])
+    
+    # Frontmatter YAML
+    md_content = "---\n"
+    md_content += 'title: "Avis de Vacances de Poste DRHFPNC"\n'
+    md_content += 'description: "Catalogue complet et à jour des Avis de Vacances de Poste publiés par la DRHFPNC"\n'
+    md_content += 'og_title: "Avis de Vacances de Poste DRHFPNC"\n'
+    md_content += 'og_description: "Catalogue complet et à jour de toutes les offres d\'emploi publiées par la DRHFPNC. Nouvelle Calédonie."\n'
+    md_content += 'og_type: "website"\n'
+    md_content += 'og_url: "https://adriens.github.io/avps/"\n'
+    md_content += 'twitter_card: "summary"\n'
+    md_content += 'twitter_title: "AVPS DRHFPNC - Offres d\'emploi Nouvelle Calédonie"\n'
+    md_content += 'twitter_description: "Découvrez les Avis de Vacances de Poste en cours de la DRHFPNC"\n'
+    md_content += 'search:\n'
+    md_content += '  boost: 1\n'
+    md_content += '---\n\n'
+    
     md_content += "# 📢 Avis de Vacances de Poste (DRHFPNC)\n\n"
-    md_content += f"Dernière mise à jour : **{pd.Timestamp.now().strftime('%d/%m/%Y %H:%M')}**\n\n"
+    md_content += f"Dernière mise à jour : **{now.strftime('%d/%m/%Y %H:%M')}** (Nouvelle Calédonie)\n\n"
 
-    md_content += "## 📂 Sommaire par domaines\n\n"
+    # Blocs informatifs avec extension Material
+    md_content += "!!! info \"Statistiques\"\n"
+    md_content += f"    **{total_count}** offres disponibles — "
+    md_content += f"**{urgent_count}** urgent (≤2j) — "
+    md_content += f"**{this_week_count}** cette semaine\n\n"
+
+    md_content += "## Sommaire par domaines\n\n"
     for domaine in sorted(df['libelle_domaine'].unique()):
         icon = get_icon(domaine)
         count = len(df[df['libelle_domaine'] == domaine])
         anchor = slugify(domaine)
-        md_content += f"* [{icon} {domaine} ({count})](#{anchor})\n"
+        md_content += f"- [{icon} {domaine} ({count})](#{anchor})\n"
     md_content += "\n---\n\n"
 
     for domaine, group in df_sorted.groupby('libelle_domaine'):
         icon = get_icon(domaine)
         anchor = slugify(domaine)
-        # On force l'ID du titre pour que l'ancre corresponde exactement
-        md_content += f"## {icon} {domaine} ({len(group)}) {{: #{anchor} }}\n\n"
+        # Anchor compatible Zensical
+        md_content += f"## {icon} {domaine} {{: #{anchor} }}\n\n"
+        md_content += f"__{len(group)} offre{'s' if len(group) > 1 else ''}__\n\n"
         md_content += "| Référence | Poste | Direction | Date Limite |\n"
-        md_content += "| --- | --- | --- | --- |\n"
+        md_content += "|-----------|-------|-----------|-------------|\n"
         for _, row in group.iterrows():
             numero = str(row.get('numero', '')).replace("/", "_")
             libelle = row.get('libelle_poste', 'Poste sans titre')
             direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
             date_cloture_str = str(row.get('date_cloture', '-'))
             
-            # Calcul des badges
+            # Calcul des badges avec Material Markdown
             badges = ""
-            now = pd.Timestamp.now()
             
             # Badge Nouveau (moins de 3 jours)
             try:
                 date_pub = pd.to_datetime(row.get('date_mis_en_ligne'))
                 if (now - date_pub).days <= 3:
-                    badges += ' <span style="background-color: #43a047; color: white; padding: 2px 9px; border-radius: 12px; font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; margin-left: 8px; vertical-align: middle; white-space: nowrap;">✨ Nouveau</span>'
+                    badges += ' `✨ Nouveau`{: .label-green }'
             except: pass
 
             # Badge Urgence / Délai (3 niveaux)
@@ -254,16 +349,11 @@ def generate_index_md(df):
                 days_left = (date_limite - now).days
                 
                 if 0 <= days_left <= 2:
-                    color = "#e53935" # Rouge
-                    label = "🔥 Urgent"
+                    badges += ' `🔥 Urgent`{: .label-red }'
                 elif 3 <= days_left <= 7:
-                    color = "#fb8c00" # Orange
-                    label = "⏳ Cette semaine"
+                    badges += ' `⏳ Cette semaine`{: .label-orange }'
                 else:
-                    color = "#1e88e5" # Bleu
-                    label = "📋 En cours"
-                
-                badges += f' <span style="background-color: {color}; color: white; padding: 2px 9px; border-radius: 12px; font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; margin-left: 8px; vertical-align: middle; white-space: nowrap;">{label}</span>'
+                    badges += ' `📋 En cours`{: .label-blue }'
             except: pass
 
             md_content += f"| {numero} | [{libelle}]({numero}/){badges} | {direction} | {date_cloture_str} |\n"
@@ -286,19 +376,36 @@ def clean_orphaned_markdowns(df, data_dir="docs"):
 def generate_zensical_config():
     config = """[project]
 site_name = "AVPS DRHFPNC"
-site_description = "Catalogue complet des AVPs de la DRHFPNC"
+site_description = "Catalogue complet et à jour des Avis de Vacances de Poste publiés par la DRHFPNC"
 site_url = "https://adriens.github.io/avps/"
 repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
-extra_files = ["feed.xml"]
+nav = [
+  { title = "Accueil", path = "index.md" }
+]
 
 [project.theme]
 name = "material"
 language = "fr"
-features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
+features = [
+  "navigation.top",
+  "navigation.tracking", 
+  "navigation.footer",
+  "navigation.sections",
+  "navigation.expand",
+  "search.suggest",
+  "search.highlight",
+  "search.share",
+  "content.code.copy",
+  "content.tabs.link"
+]
 icon.repo = "material/github"
+
+[project.theme.font]
+text = "Roboto"
+code = "Roboto Mono"
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
@@ -315,6 +422,24 @@ accent = "indigo"
 toggle.icon = "material/brightness-7"
 toggle.name = "Passer au mode sombre"
 
+# Extensions Markdown pour Material/Zensical
+[project.markdown]
+extensions = [
+  "tables",
+  "toc",
+  "pymdownx.superfences",
+  "pymdownx.tabbed",
+  "pymdownx.emoji",
+  "pymdownx.blocks.admonition",
+  "pymdownx.blocks.details",
+  "attr_list"
+]
+
+[project.markdown.extension_configs]
+pymdownx.emoji = { emoji_index = "pymdownx.emoji.twemoji", emoji_generator = "pymdownx.emoji.to_svg" }
+pymdownx.superfences = { preserve_tabs = true }
+toc = { permalink = true }
+
 [[project.extra.social]]
 icon = "material/github"
 link = "https://github.com/adriens/avps"
@@ -322,61 +447,78 @@ name = "Code source sur GitHub"
 
 [[project.extra.social]]
 icon = "material/rss"
-link = "https://adriens.github.io/avps/feed.xml"
+link = "feed.xml"
 name = "Flux RSS des offres"
 
 [project.extra]
 copyright = \"\"\"
 Copyright &copy; 2026 adriens<br>
-<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a></small>
+<small>Propulsé par <a href='https://github.com/opt-nc/zensical' target='_blank'>Zensical</a> • <a href='https://github.com/adriens/avps' target='_blank'>Source</a></small>
 \"\"\"
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
 
 def generate_rss_feed(df):
-    """Génère un flux RSS simple pour les AVPs."""
+    """Génère un flux RSS valide pour les AVPs."""
     import datetime
     print("Génération de docs/feed.xml...")
     
-    rss = '<?xml version="1.0" encoding="UTF-8" ?>\n'
-    rss += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">\n'
-    rss += '<channel>\n'
-    rss += '  <title>DRHFPNC : AVPS en cours</title>\n'
-    rss += '  <link>https://adriens.github.io/avps/</link>\n'
-    rss += '  <description>Avis de vacances de poste en cours et publiés par la DRHFPNC</description>\n'
-    rss += '  <language>fr</language>\n'
-    rss += f'  <lastBuildDate>{datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +1100")}</lastBuildDate>\n'
-    rss += '  <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml" />\n'
+    now = datetime.datetime.now()
+    rfc822_time = now.strftime("%a, %d %b %Y %H:%M:%S +1100")
     
-    # Trier par date de mise en ligne décroissante
-    df_sorted = df.sort_values('date_mis_en_ligne', ascending=False).head(20)
+    rss = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    rss += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">\n'
+    rss += '<channel>\n'
+    rss += '  <title>DRHFPNC - Avis de Vacances de Poste</title>\n'
+    rss += '  <link>https://adriens.github.io/avps/</link>\n'
+    rss += '  <description>Avis de vacances de poste en cours et publiés par la DRHFPNC (Nouvelle Calédonie)</description>\n'
+    rss += '  <language>fr</language>\n'
+    rss += '  <managingEditor>contact@example.com</managingEditor>\n'
+    rss += f'  <lastBuildDate>{rfc822_time}</lastBuildDate>\n'
+    rss += '  <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml"/>\n'
+    rss += '  <image>\n'
+    rss += '    <url>https://adriens.github.io/avps/assets/favicon.png</url>\n'
+    rss += '    <title>DRHFPNC - AVPs</title>\n'
+    rss += '    <link>https://adriens.github.io/avps/</link>\n'
+    rss += '  </image>\n'
+    
+    # Trier par date de mise en ligne décroissante et limiter à 30 récentes
+    df['date_mis_en_ligne_dt'] = pd.to_datetime(df['date_mis_en_ligne'], errors='coerce')
+    df_sorted = df.sort_values('date_mis_en_ligne_dt', ascending=False).head(30)
     
     for _, row in df_sorted.iterrows():
         numero = str(row.get('numero', '')).replace("/", "_")
         libelle_poste = row.get('libelle_poste', 'Poste disponible')
         direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
         date_cloture = row.get('date_cloture', '-')
+        date_publication = row.get('date_mis_en_ligne', '')
+        libelle_domaine = row.get('libelle_domaine', 'Autres')
         url_pdf = row.get('url_pdf', '')
         
         item_link = f"https://adriens.github.io/avps/{numero}/"
         
-        # Description simplifiée pour le RSS
-        description = f"Direction : {direction} | Clôture : {date_cloture}"
+        # Description enrichie avec métadonnées
+        description = f"<strong>Direction :</strong> {direction}<br/>"
+        description += f"<strong>Domaine :</strong> {libelle_domaine}<br/>"
+        description += f"<strong>Clôture :</strong> {date_cloture}"
         
         rss += '  <item>\n'
         rss += f'    <title>{numero} - {libelle_poste}</title>\n'
         rss += f'    <link>{item_link}</link>\n'
         rss += f'    <guid isPermaLink="true">{item_link}</guid>\n'
         rss += f'    <description>{description}</description>\n'
+        rss += f'    <content:encoded><![CDATA[{description}]]></content:encoded>\n'
+        rss += f'    <category>{libelle_domaine}</category>\n'
+        
         if url_pdf:
-            rss += f'    <enclosure url="{url_pdf}" length="0" type="application/pdf" />\n'
+            rss += f'    <enclosure url="{url_pdf}" length="0" type="application/pdf"/>\n'
         
         try:
-            pub_date = pd.to_datetime(row.get('date_mis_en_ligne'))
+            pub_date = pd.to_datetime(date_publication)
             rss += f'    <pubDate>{pub_date.strftime("%a, %d %b %Y %H:%M:%S +1100")}</pubDate>\n'
         except:
-            pass
+            rss += f'    <pubDate>{rfc822_time}</pubDate>\n'
             
         rss += '  </item>\n'
     
@@ -385,6 +527,86 @@ def generate_rss_feed(df):
     
     with open("docs/feed.xml", "w", encoding="utf-8") as f:
         f.write(rss)
+
+def generate_sitemap(df, data_dir="docs"):
+    """Génère un sitemap.xml pour les moteurs de recherche."""
+    print("Génération de docs/sitemap.xml...")
+    
+    now = pd.Timestamp.now().strftime("%Y-%m-%d")
+    base_url = "https://adriens.github.io/avps"
+    
+    sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    sitemap += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    
+    # Index principal
+    sitemap += '  <url>\n'
+    sitemap += f'    <loc>{base_url}/</loc>\n'
+    sitemap += f'    <lastmod>{now}</lastmod>\n'
+    sitemap += '    <changefreq>daily</changefreq>\n'
+    sitemap += '    <priority>1.0</priority>\n'
+    sitemap += '  </url>\n'
+    
+    # Feed RSS
+    sitemap += '  <url>\n'
+    sitemap += f'    <loc>{base_url}/feed.xml</loc>\n'
+    sitemap += f'    <lastmod>{now}</lastmod>\n'
+    sitemap += '    <changefreq>daily</changefreq>\n'
+    sitemap += '    <priority>0.8</priority>\n'
+    sitemap += '  </url>\n'
+    
+    # Toutes les offres
+    for _, row in df.iterrows():
+        numero = str(row['numero']).replace("/", "_")
+        page_path = f"{base_url}/{numero}/"
+        
+        try:
+            date_mod = pd.to_datetime(row.get('date_mis_en_ligne', now))
+            lastmod = date_mod.strftime("%Y-%m-%d")
+        except:
+            lastmod = now
+        
+        try:
+            date_cloture = pd.to_datetime(row.get('date_cloture'))
+            priority = "0.9" if date_cloture > pd.Timestamp.now() else "0.5"
+            changefreq = "weekly" if date_cloture > pd.Timestamp.now() else "never"
+        except:
+            priority = "0.7"
+            changefreq = "weekly"
+        
+        sitemap += '  <url>\n'
+        sitemap += f'    <loc>{page_path}</loc>\n'
+        sitemap += f'    <lastmod>{lastmod}</lastmod>\n'
+        sitemap += f'    <changefreq>{changefreq}</changefreq>\n'
+        sitemap += f'    <priority>{priority}</priority>\n'
+        sitemap += '  </url>\n'
+    
+    sitemap += '</urlset>'
+    
+    with open(os.path.join(data_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap)
+
+def generate_robots_txt(data_dir="docs"):
+    """Génère un robots.txt pour indiquer aux crawlers comment explorer le site."""
+    print("Génération de docs/robots.txt...")
+    
+    robots = """# Robots.txt pour AVPS DRHFPNC
+User-agent: *
+Allow: /
+
+# Interdire l'accès aux dossiers temporaires/privés (s'il y en avait)
+Disallow: /temp/
+Disallow: /.git/
+
+# Vitesse de crawl
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://adriens.github.io/avps/sitemap.xml
+Sitemap: https://adriens.github.io/avps/feed.xml
+"""
+    
+    with open(os.path.join(data_dir, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(robots)
 
 if __name__ == "__main__":
     main()
