@@ -1,0 +1,14 @@
+# Robots.txt pour AVPS DRHFPNC
+User-agent: *
+Allow: /
+
+# Interdire l'accès aux dossiers temporaires/privés (s'il y en avait)
+Disallow: /temp/
+Disallow: /.git/
+
+# Vitesse de crawl
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://adriens.github.io/avps/sitemap.xml
+Sitemap: https://adriens.github.io/avps/feed.xml
