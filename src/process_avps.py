@@ -31,9 +31,28 @@ def extract_pdf_url(val):
         pass
     return val
 
-def generate_jsonld_jobposting(row, numero):
+def generate_jsonld_jobposting(row, numero, commune=None):
     """Génère un bloc JSON-LD JobPosting en commentaire HTML."""
     import json
+    
+    # Construction de l'adresse enrichie si commune détectée
+    address = {
+        "@type": "PostalAddress",
+        "addressCountry": "NC",
+        "addressRegion": "Nouvelle-Calédonie"
+    }
+    job_location = {
+        "@type": "Place",
+        "address": address
+    }
+    if commune:
+        address["addressLocality"] = commune['name']
+        address["addressRegion"] = commune['province']
+        job_location["geo"] = {
+            "@type": "GeoCoordinates",
+            "latitude": commune['lat'],
+            "longitude": commune['lon']
+        }
     
     # Données du JobPosting
     job_posting = {
@@ -46,14 +65,7 @@ def generate_jsonld_jobposting(row, numero):
             "name": row.get('direction_libelle', row.get('direction_acronyme', 'DRHFPNC')),
             "sameAs": "https://www.gouv.nc/"
         },
-        "jobLocation": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressCountry": "NC",
-                "addressRegion": "Nouvelle-Calédonie"
-            }
-        },
+        "jobLocation": job_location,
         "url": f"https://adriens.github.io/avps/{numero}/",
         "datePosted": str(row.get('date_mis_en_ligne', pd.Timestamp.now()))[:10],
         "validThrough": str(row.get('date_cloture', pd.Timestamp.now()))[:10],
@@ -212,6 +224,119 @@ def add_abbreviations(content):
         content = content.rstrip() + "\n\n" + "\n".join(abbr_section) + "\n"
 
     return content
+
+
+# ---------------------------------------------------------------------------
+# Détection des communes de Nouvelle-Calédonie (gazetteer)
+# ---------------------------------------------------------------------------
+# Liste officielle des 33 communes avec province, coordonnées GPS et variantes
+# orthographiques courantes (sans accents, alternatives).
+COMMUNES_NC = {
+    # --- Province Sud (14 communes) ---
+    'Nouméa':       {'province': 'Province Sud', 'lat': -22.2758, 'lon': 166.4580, 'aliases': ['Noumea']},
+    'Mont-Dore':    {'province': 'Province Sud', 'lat': -22.2333, 'lon': 166.5833, 'aliases': ['Mont Dore', 'le Mont-Dore']},
+    'Dumbéa':       {'province': 'Province Sud', 'lat': -22.1500, 'lon': 166.4500, 'aliases': ['Dumbea']},
+    'Païta':        {'province': 'Province Sud', 'lat': -22.1333, 'lon': 166.3500, 'aliases': ['Paita']},
+    'Bourail':      {'province': 'Province Sud', 'lat': -21.5667, 'lon': 165.5000, 'aliases': []},
+    'Boulouparis':  {'province': 'Province Sud', 'lat': -21.8667, 'lon': 166.0500, 'aliases': []},
+    'Farino':       {'province': 'Province Sud', 'lat': -21.6667, 'lon': 165.7833, 'aliases': []},
+    'La Foa':       {'province': 'Province Sud', 'lat': -21.7167, 'lon': 165.8333, 'aliases': ['Foa']},
+    'Moindou':      {'province': 'Province Sud', 'lat': -21.6833, 'lon': 165.6833, 'aliases': []},
+    'Sarraméa':     {'province': 'Province Sud', 'lat': -21.6333, 'lon': 165.8500, 'aliases': ['Sarramea']},
+    'Thio':         {'province': 'Province Sud', 'lat': -21.6167, 'lon': 166.2167, 'aliases': []},
+    'Yaté':         {'province': 'Province Sud', 'lat': -22.1500, 'lon': 166.9500, 'aliases': ['Yate']},
+    'Île-des-Pins': {'province': 'Province Sud', 'lat': -22.6167, 'lon': 167.4833, 'aliases': ['Ile des Pins', 'Île des Pins', 'Vao']},
+    'Poya':         {'province': 'Province Sud', 'lat': -21.3500, 'lon': 165.1333, 'aliases': []},
+
+    # --- Province Nord (17 communes) ---
+    'Koné':         {'province': 'Province Nord', 'lat': -21.0667, 'lon': 164.8500, 'aliases': ['Kone']},
+    'Koumac':       {'province': 'Province Nord', 'lat': -20.5667, 'lon': 164.2833, 'aliases': []},
+    'Pouembout':    {'province': 'Province Nord', 'lat': -21.1333, 'lon': 164.8833, 'aliases': []},
+    'Voh':          {'province': 'Province Nord', 'lat': -20.9500, 'lon': 164.6833, 'aliases': []},
+    'Kaala-Gomen':  {'province': 'Province Nord', 'lat': -20.6167, 'lon': 164.4000, 'aliases': ['Kaala Gomen']},
+    'Ouégoa':       {'province': 'Province Nord', 'lat': -20.3500, 'lon': 164.4333, 'aliases': ['Ouegoa']},
+    'Pouébo':       {'province': 'Province Nord', 'lat': -20.4000, 'lon': 164.5833, 'aliases': ['Pouebo']},
+    'Hienghène':    {'province': 'Province Nord', 'lat': -20.6833, 'lon': 164.9333, 'aliases': ['Hienghene']},
+    'Touho':        {'province': 'Province Nord', 'lat': -20.7833, 'lon': 165.2333, 'aliases': []},
+    'Poindimié':    {'province': 'Province Nord', 'lat': -20.9333, 'lon': 165.3333, 'aliases': ['Poindimie']},
+    'Ponérihouen':  {'province': 'Province Nord', 'lat': -21.0833, 'lon': 165.4167, 'aliases': ['Ponerihouen']},
+    'Houaïlou':     {'province': 'Province Nord', 'lat': -21.2833, 'lon': 165.6333, 'aliases': ['Houailou']},
+    'Kouaoua':      {'province': 'Province Nord', 'lat': -21.4000, 'lon': 165.8333, 'aliases': []},
+    'Canala':       {'province': 'Province Nord', 'lat': -21.5333, 'lon': 165.9667, 'aliases': []},
+    'Belep':        {'province': 'Province Nord', 'lat': -19.7167, 'lon': 163.6500, 'aliases': []},
+    'Poum':         {'province': 'Province Nord', 'lat': -20.2333, 'lon': 164.0167, 'aliases': []},
+    'Ouaco':        {'province': 'Province Nord', 'lat': -20.8333, 'lon': 164.5167, 'aliases': []},
+
+    # --- Province des Îles Loyauté (3 communes) ---
+    'Lifou':        {'province': 'Province des Îles Loyauté', 'lat': -20.9000, 'lon': 167.2500, 'aliases': ['Wé', 'We']},
+    'Maré':         {'province': 'Province des Îles Loyauté', 'lat': -21.5000, 'lon': 168.0333, 'aliases': ['Mare', 'Tadine']},
+    'Ouvéa':        {'province': 'Province des Îles Loyauté', 'lat': -20.5500, 'lon': 166.5833, 'aliases': ['Ouvea', 'Fayaoué', 'Fayaoue']},
+}
+
+# Patterns de contexte qui boostent la confiance ("lieu de travail : ...")
+LOCATION_CONTEXT_PATTERN = re.compile(
+    r'(?i)(?:lieu de travail|affectation|résidence administrative|'
+    r'r[ée]sidence|bas[ée]\s+à|situ[ée]\s+à|poste\s+bas[ée]\s+à)\s*:?\s*([^\n]{0,200})'
+)
+
+
+def detect_communes(content):
+    """Détecte les communes NC mentionnées dans le markdown.
+
+    Stratégie en deux passes :
+      1. Recherche dans les sections de contexte (lieu de travail, affectation)
+         pour identifier la commune principale avec haute confiance.
+      2. Recherche globale pour collecter toutes les communes mentionnées.
+
+    Retourne (commune_principale, liste_communes_mentionnées).
+    Chaque entrée est un dict avec name, province, lat, lon.
+    """
+    # Construit la liste de tous les libellés à chercher (canonique + aliases)
+    candidates = []
+    for canonical, info in COMMUNES_NC.items():
+        for label in [canonical] + info['aliases']:
+            candidates.append((label, canonical))
+    # Tri par longueur décroissante : matche les variantes longues en premier
+    # (ex: "Mont-Dore" avant "Mont")
+    candidates.sort(key=lambda x: -len(x[0]))
+
+    def _find_in(text):
+        found = []
+        for label, canonical in candidates:
+            m = re.search(rf'\b{re.escape(label)}\b', text)
+            if m and canonical not in [f['name'] for f in found]:
+                info = COMMUNES_NC[canonical]
+                found.append({
+                    'name': canonical,
+                    'province': info['province'],
+                    'lat': info['lat'],
+                    'lon': info['lon'],
+                    '_pos': m.start(),
+                })
+        # Tri par position d'apparition dans le texte
+        found.sort(key=lambda x: x['_pos'])
+        for f in found:
+            f.pop('_pos', None)
+        return found
+
+    # Passe 1 : commune principale via contexte
+    primary = None
+    for ctx_match in LOCATION_CONTEXT_PATTERN.finditer(content):
+        ctx_text = ctx_match.group(1)
+        ctx_communes = _find_in(ctx_text)
+        if ctx_communes:
+            primary = ctx_communes[0]
+            break
+
+    # Passe 2 : toutes les communes mentionnées
+    all_communes = _find_in(content)
+
+    # Si pas de primaire trouvée par contexte, prendre la première mentionnée
+    if primary is None and all_communes:
+        primary = all_communes[0]
+
+    return primary, all_communes
+
 
 
 def format_contacts(content):
@@ -454,13 +579,19 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 except:
                     status = "ouvert"
                 
+                # Post-traitement du contenu (blocs rapides + nettoyage)
+                processed_content = post_process_markdown(content, row, numero)
+
+                # Détection de la commune NC dans le contenu post-traité
+                primary_commune, all_communes = detect_communes(processed_content)
+
                 # Frontmatter enrichi YAML
                 libelle_poste = row.get('libelle_poste', 'Poste disponible')
                 domaine = row.get('libelle_domaine', 'Autres filières')
                 direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
                 date_cloture = row.get('date_cloture', '-')
                 date_publication = row.get('date_mis_en_ligne', '-')
-                
+
                 header = f'---\n'
                 header += f'numero: "{row["numero"]}"\n'
                 header += f'domaine: "{domaine}"\n'
@@ -469,6 +600,12 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 header += f'date_publication: "{date_publication}"\n'
                 header += f'status: "{status}"\n'
                 header += f'url_pdf_original: "{url_pdf}"\n'
+                if primary_commune:
+                    header += f'ville: "{primary_commune["name"]}"\n'
+                    header += f'province: "{primary_commune["province"]}"\n'
+                    header += f'geo:\n'
+                    header += f'  latitude: {primary_commune["lat"]}\n'
+                    header += f'  longitude: {primary_commune["lon"]}\n'
                 header += f'search:\n'
                 header += f'  boost: 1.5\n'
                 # OpenGraph + Twitter Cards
@@ -482,12 +619,9 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 header += f'---\n\n'
                 header += f'# {numero} - {libelle_poste}\n\n'
                 header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
-                
-                # Post-traitement du contenu (blocs rapides + nettoyage)
-                processed_content = post_process_markdown(content, row, numero)
-                
+
                 with open(final_md_path, 'w', encoding='utf-8') as f:
-                    f.write(header + generate_jsonld_jobposting(row, numero) + processed_content)
+                    f.write(header + generate_jsonld_jobposting(row, numero, primary_commune) + processed_content)
             
             if os.path.exists(temp_pdf):
                 os.remove(temp_pdf)
