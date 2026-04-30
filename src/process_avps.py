@@ -173,6 +173,7 @@ def main():
     
     generate_index_md(df_all)
     generate_zensical_config()
+    generate_rss_feed(df_all)
     
     # Nettoyage des fichiers MD qui ne sont plus dans le CSV
     clean_orphaned_markdowns(df_all, data_dir="docs")
@@ -291,11 +292,13 @@ repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
+extra_files = ["feed.xml"]
 
 [project.theme]
 name = "material"
 language = "fr"
 features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
+icon.repo = "material/github"
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
@@ -312,6 +315,16 @@ accent = "indigo"
 toggle.icon = "material/brightness-7"
 toggle.name = "Passer au mode sombre"
 
+[[project.extra.social]]
+icon = "material/github"
+link = "https://github.com/adriens/avps"
+name = "Code source sur GitHub"
+
+[[project.extra.social]]
+icon = "material/rss"
+link = "https://adriens.github.io/avps/feed.xml"
+name = "Flux RSS des offres"
+
 [project.extra]
 copyright = \"\"\"
 Copyright &copy; 2026 adriens<br>
@@ -320,6 +333,58 @@ Copyright &copy; 2026 adriens<br>
 """
     with open("zensical.toml", "w", encoding="utf-8") as f:
         f.write(config)
+
+def generate_rss_feed(df):
+    """Génère un flux RSS simple pour les AVPs."""
+    import datetime
+    print("Génération de docs/feed.xml...")
+    
+    rss = '<?xml version="1.0" encoding="UTF-8" ?>\n'
+    rss += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">\n'
+    rss += '<channel>\n'
+    rss += '  <title>DRHFPNC : AVPS en cours</title>\n'
+    rss += '  <link>https://adriens.github.io/avps/</link>\n'
+    rss += '  <description>Avis de vacances de poste en cours et publiés par la DRHFPNC</description>\n'
+    rss += '  <language>fr</language>\n'
+    rss += f'  <lastBuildDate>{datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +1100")}</lastBuildDate>\n'
+    rss += '  <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml" />\n'
+    
+    # Trier par date de mise en ligne décroissante
+    df_sorted = df.sort_values('date_mis_en_ligne', ascending=False).head(20)
+    
+    for _, row in df_sorted.iterrows():
+        numero = str(row.get('numero', '')).replace("/", "_")
+        libelle_poste = row.get('libelle_poste', 'Poste disponible')
+        direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
+        date_cloture = row.get('date_cloture', '-')
+        url_pdf = row.get('url_pdf', '')
+        
+        item_link = f"https://adriens.github.io/avps/{numero}/"
+        
+        # Description simplifiée pour le RSS
+        description = f"Direction : {direction} | Clôture : {date_cloture}"
+        
+        rss += '  <item>\n'
+        rss += f'    <title>{numero} - {libelle_poste}</title>\n'
+        rss += f'    <link>{item_link}</link>\n'
+        rss += f'    <guid isPermaLink="true">{item_link}</guid>\n'
+        rss += f'    <description>{description}</description>\n'
+        if url_pdf:
+            rss += f'    <enclosure url="{url_pdf}" length="0" type="application/pdf" />\n'
+        
+        try:
+            pub_date = pd.to_datetime(row.get('date_mis_en_ligne'))
+            rss += f'    <pubDate>{pub_date.strftime("%a, %d %b %Y %H:%M:%S +1100")}</pubDate>\n'
+        except:
+            pass
+            
+        rss += '  </item>\n'
+    
+    rss += '</channel>\n'
+    rss += '</rss>'
+    
+    with open("docs/feed.xml", "w", encoding="utf-8") as f:
+        f.write(rss)
 
 if __name__ == "__main__":
     main()
