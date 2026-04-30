@@ -65,6 +65,72 @@ def generate_jsonld_jobposting(row, numero):
     # Retourner en commentaire HTML
     return f"<!--\n<script type=\"application/ld+json\">\n{jsonld_str}\n</script>\n-->\n\n"
 
+# Dictionnaire des abréviations courantes utilisées par la DRHFPNC
+ABBREVIATIONS = {
+    'DRHFPNC': "Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie",
+    'DPASS': "Direction Provinciale de l'Action Sanitaire et Sociale",
+    'UPASS': "Unité Provinciale d'Action Sanitaire et Sociale",
+    'DAFE': "Direction de l'Administration et des Finances de l'État",
+    'DENC': "Direction de l'Enseignement de la Nouvelle-Calédonie",
+    'DAVAR': "Direction des Affaires Vétérinaires, Alimentaires et Rurales",
+    'DTSI': "Direction des Technologies et des Services de l'Information",
+    'IRD': "Institut de Recherche pour le Développement",
+    'IFAP': "Institut de Formation des Acteurs Publics",
+    'CHT': "Centre Hospitalier Territorial",
+    'CHN': "Centre Hospitalier du Nord",
+    'CHS': "Centre Hospitalier Spécialisé",
+    'OPT': "Office des Postes et Télécommunications",
+    'CAFAT': "Caisse de Compensation des Prestations Familiales, des Accidents du Travail et de Prévoyance des Travailleurs",
+    'IEOM': "Institut d'Émission d'Outre-Mer",
+    'ADRAF': "Agence de Développement Rural et d'Aménagement Foncier",
+    'MPRH': "Mission Politique de Ressources Humaines",
+    'AVP': "Avis de Vacance de Poste",
+    'PMI': "Protection Maternelle et Infantile",
+    'IVG': "Interruption Volontaire de Grossesse",
+    'IST': "Infections Sexuellement Transmissibles",
+    'CDI': "Contrat à Durée Indéterminée",
+    'CDD': "Contrat à Durée Déterminée",
+    'BAFA': "Brevet d'Aptitude aux Fonctions d'Animateur",
+    'BAFD': "Brevet d'Aptitude aux Fonctions de Directeur",
+    'DEUST': "Diplôme d'Études Universitaires Scientifiques et Techniques",
+    'DUT': "Diplôme Universitaire de Technologie",
+    'BTS': "Brevet de Technicien Supérieur",
+    'CAP': "Certificat d'Aptitude Professionnelle",
+    'BEP': "Brevet d'Études Professionnelles",
+    'DESS': "Diplôme d'Études Supérieures Spécialisées",
+    'DEA': "Diplôme d'Études Approfondies",
+    'NC': "Nouvelle-Calédonie",
+    'PS': "Province Sud",
+    'PN': "Province Nord",
+    'PIL': "Province des Îles Loyauté",
+    'RH': "Ressources Humaines",
+    'GRH': "Gestion des Ressources Humaines",
+    'GPEC': "Gestion Prévisionnelle des Emplois et des Compétences",
+    'SIRH': "Système d'Information de Gestion des Ressources Humaines",
+    'TIC': "Technologies de l'Information et de la Communication",
+    'NTIC': "Nouvelles Technologies de l'Information et de la Communication",
+    'HSE': "Hygiène, Sécurité et Environnement",
+    'QSE': "Qualité, Sécurité, Environnement",
+    'QHSE': "Qualité, Hygiène, Sécurité, Environnement",
+}
+
+
+def add_abbreviations(content):
+    """Détecte les abréviations présentes et ajoute leurs définitions en bas du markdown.
+
+    Material/Zensical convertit ces définitions en tooltips <abbr> au survol.
+    """
+    abbr_section = []
+    for abbr, definition in ABBREVIATIONS.items():
+        if re.search(rf'\b{re.escape(abbr)}\b', content):
+            abbr_section.append(f"*[{abbr}]: {definition}")
+
+    if abbr_section:
+        content = content.rstrip() + "\n\n" + "\n".join(abbr_section) + "\n"
+
+    return content
+
+
 def format_contacts(content):
     """Détecte emails et numéros de téléphone et les rend cliquables."""
     
@@ -232,7 +298,10 @@ def post_process_markdown(content, row, numero):
 - 🏢 [Toutes les offres DRHFPNC](./?direction={direction.lower()})
 """
     content += actions_bloc
-    
+
+    # 6. Ajouter les définitions d'abréviations (tooltips Material/Zensical)
+    content = add_abbreviations(content)
+
     return content
 
 def process_pdfs_to_markdown(df, data_dir="docs"):
@@ -598,6 +667,7 @@ toggle.name = "Passer au mode sombre"
 extensions = [
   "tables",
   "toc",
+  "abbr",
   "pymdownx.superfences",
   "pymdownx.tabbed",
   "pymdownx.emoji",
