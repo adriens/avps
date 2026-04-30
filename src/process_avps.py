@@ -12,6 +12,24 @@ from glob import glob
 os.environ["TORCH_DEVICE"] = "cpu"
 os.environ["INFERENCE_DEVICE"] = "cpu"
 
+
+def safe_value(value, default):
+    """Retourne `default` si value est None ou NaN (pandas), sinon value."""
+    if value is None:
+        return default
+    if isinstance(value, float):
+        try:
+            if pd.isna(value):
+                return default
+        except Exception:
+            pass
+    return value
+
+
+def safe_get(row, key, default=''):
+    """Comme row.get(key, default) mais traite NaN comme une absence."""
+    return safe_value(row.get(key), default)
+
 def extract_pdf_url(val):
     """Extrait l'URL du PDF depuis l'objet JSON présent dans la colonne url_pdf."""
     if not val:
@@ -58,17 +76,17 @@ def generate_jsonld_jobposting(row, numero, commune=None):
     job_posting = {
         "@context": "https://schema.org",
         "@type": "JobPosting",
-        "title": f"{row.get('numero', numero)} - {row.get('libelle_poste', 'Poste disponible')}",
-        "description": f"Domaine: {row.get('libelle_domaine', 'Autres')}. Direction: {row.get('direction_libelle', row.get('direction_acronyme', 'DRHFPNC'))}",
+        "title": f"{safe_get(row, 'numero', numero)} - {safe_get(row, 'libelle_poste', 'Poste disponible')}",
+        "description": f"Domaine: {safe_get(row, 'libelle_domaine', 'Autres')}. Direction: {safe_get(row, 'direction_libelle', safe_get(row, 'direction_acronyme', 'DRHFPNC'))}",
         "hiringOrganization": {
             "@type": "Organization",
-            "name": row.get('direction_libelle', row.get('direction_acronyme', 'DRHFPNC')),
+            "name": safe_get(row, 'direction_libelle', safe_get(row, 'direction_acronyme', 'DRHFPNC')),
             "sameAs": "https://www.gouv.nc/"
         },
         "jobLocation": job_location,
         "url": f"https://adriens.github.io/avps/{numero}/",
-        "datePosted": str(row.get('date_mis_en_ligne', pd.Timestamp.now()))[:10],
-        "validThrough": str(row.get('date_cloture', pd.Timestamp.now()))[:10],
+        "datePosted": str(safe_get(row, 'date_mis_en_ligne', pd.Timestamp.now()))[:10],
+        "validThrough": str(safe_get(row, 'date_cloture', pd.Timestamp.now()))[:10],
         "employmentType": "FullTime"
     }
     
@@ -461,9 +479,9 @@ def post_process_markdown(content, row, numero):
             break
     
     # Construire le bloc "Candidature rapide"
-    date_cloture = row.get('date_cloture', '-')
-    direction = row.get('direction_acronyme', row.get('direction_libelle', 'DRHFPNC'))
-    domaine = row.get('libelle_domaine', 'Autres')
+    date_cloture = safe_get(row, 'date_cloture', '-')
+    direction = safe_get(row, 'direction_acronyme', safe_get(row, 'direction_libelle', 'DRHFPNC'))
+    domaine = safe_get(row, 'libelle_domaine', 'Autres')
     
     # Calcul du badge urgence
     urgence_badge = ""
@@ -586,11 +604,11 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 primary_commune, all_communes = detect_communes(processed_content)
 
                 # Frontmatter enrichi YAML
-                libelle_poste = row.get('libelle_poste', 'Poste disponible')
-                domaine = row.get('libelle_domaine', 'Autres filières')
-                direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
-                date_cloture = row.get('date_cloture', '-')
-                date_publication = row.get('date_mis_en_ligne', '-')
+                libelle_poste = safe_get(row, 'libelle_poste', 'Poste disponible')
+                domaine = safe_get(row, 'libelle_domaine', 'Autres filières')
+                direction = safe_get(row, 'direction_acronyme', safe_get(row, 'direction_libelle', '-'))
+                date_cloture = safe_get(row, 'date_cloture', '-')
+                date_publication = safe_get(row, 'date_mis_en_ligne', '-')
 
                 header = f'---\n'
                 header += f'numero: "{row["numero"]}"\n'
@@ -789,9 +807,9 @@ def generate_index_md(df):
         md_content += "|-----------|-------|-----------|-------------|\n"
         for _, row in group.iterrows():
             numero = str(row.get('numero', '')).replace("/", "_")
-            libelle = row.get('libelle_poste', 'Poste sans titre')
-            direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
-            date_cloture_str = str(row.get('date_cloture', '-'))
+            libelle = safe_get(row, 'libelle_poste', 'Poste sans titre')
+            direction = safe_get(row, 'direction_acronyme', safe_get(row, 'direction_libelle', '-'))
+            date_cloture_str = str(safe_get(row, 'date_cloture', '-'))
             
             # Calcul des badges avec Material Markdown
             badges = ""
@@ -949,13 +967,13 @@ def generate_rss_feed(df):
     df_sorted = df.sort_values('date_mis_en_ligne_dt', ascending=False).head(30)
     
     for _, row in df_sorted.iterrows():
-        numero = str(row.get('numero', '')).replace("/", "_")
-        libelle_poste = row.get('libelle_poste', 'Poste disponible')
-        direction = row.get('direction_acronyme', row.get('direction_libelle', '-'))
-        date_cloture = row.get('date_cloture', '-')
-        date_publication = row.get('date_mis_en_ligne', '')
-        libelle_domaine = row.get('libelle_domaine', 'Autres')
-        url_pdf = row.get('url_pdf', '')
+        numero = str(safe_get(row, 'numero', '')).replace("/", "_")
+        libelle_poste = safe_get(row, 'libelle_poste', 'Poste disponible')
+        direction = safe_get(row, 'direction_acronyme', safe_get(row, 'direction_libelle', '-'))
+        date_cloture = safe_get(row, 'date_cloture', '-')
+        date_publication = safe_get(row, 'date_mis_en_ligne', '')
+        libelle_domaine = safe_get(row, 'libelle_domaine', 'Autres')
+        url_pdf = safe_get(row, 'url_pdf', '')
         
         item_link = f"https://adriens.github.io/avps/{numero}/"
         
