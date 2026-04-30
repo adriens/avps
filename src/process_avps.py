@@ -808,38 +808,29 @@ def generate_index_md(df):
         # Anchor compatible Zensical
         md_content += f"## {icon} {domaine} {{: #{anchor} }}\n\n"
         md_content += f"__{len(group)} offre{'s' if len(group) > 1 else ''}__\n\n"
-        md_content += "| Référence | Poste | Direction | Date Limite |\n"
-        md_content += "|-----------|-------|-----------|-------------|\n"
+        
         for _, row in group.iterrows():
             numero = str(row.get('numero', '')).replace("/", "_")
             libelle = safe_get(row, 'libelle_poste', 'Poste sans titre')
             direction = safe_get(row, 'direction_acronyme', safe_get(row, 'direction_libelle', '-'))
             date_cloture_str = str(safe_get(row, 'date_cloture', '-'))
             
-            # Calcul des badges avec Material Markdown
-            badges = ""
-            
-            # Badge Nouveau (moins de 3 jours)
-            try:
-                date_pub = pd.to_datetime(row.get('date_mis_en_ligne'))
-                if (now - date_pub).days <= 3:
-                    badges += ' `✨ Nouveau`{: .label-green }'
-            except: pass
-
-            # Badge Urgence / Délai (3 niveaux)
+            # Calcul du badge d'urgence (compact, épuré)
+            urgence_badge = "🟢 EN COURS"
             try:
                 date_limite = pd.to_datetime(row.get('date_cloture'))
                 days_left = (date_limite - now).days
                 
                 if 0 <= days_left <= 2:
-                    badges += ' `🔥 Urgent`{: .label-red }'
+                    urgence_badge = "🔴 URGENT"
                 elif 3 <= days_left <= 7:
-                    badges += ' `⏳ Cette semaine`{: .label-orange }'
-                else:
-                    badges += ' `📋 En cours`{: .label-blue }'
-            except: pass
-
-            md_content += f"| {numero} | [{libelle}]({numero}/){badges} | {direction} | {date_cloture_str} |\n"
+                    urgence_badge = "🟠 CETTE SEMAINE"
+            except:
+                pass
+            
+            # Format : Numéro BADGE — Poste | Direction | Clôture
+            md_content += f"- **{numero}** `{urgence_badge}` — [{libelle}]({numero}/) | {direction} | Clôture: {date_cloture_str}\n"
+        
         md_content += "\n"
     
     with open("docs/index.md", "w", encoding="utf-8") as f:
