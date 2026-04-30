@@ -65,6 +65,66 @@ def generate_jsonld_jobposting(row, numero):
     # Retourner en commentaire HTML
     return f"<!--\n<script type=\"application/ld+json\">\n{jsonld_str}\n</script>\n-->\n\n"
 
+def format_contacts(content):
+    """Détecte emails et numéros de téléphone et les rend cliquables."""
+    
+    # Système de placeholders pour protéger les liens déjà créés
+    placeholders = []
+    
+    def save_link(match):
+        placeholders.append(match.group(0))
+        return f'__LINK_PLACEHOLDER_{len(placeholders)-1}__'
+    
+    # 0. Sauvegarder les liens markdown existants pour ne pas les re-matcher
+    content = re.sub(r'\[[^\]]+\]\([^\)]+\)', save_link, content)
+    
+    # 1. Emails : détection et transformation en lien mailto:
+    content = re.sub(
+        r'\b([\w\.\-]+@[\w\.\-]+\.\w{2,})\b',
+        r'[✉️ \1](mailto:\1)',
+        content
+    )
+    # Sauvegarder les nouveaux liens email
+    content = re.sub(r'\[✉️[^\]]+\]\([^\)]+\)', save_link, content)
+    
+    # 2. Téléphones - fonction de formatage
+    def format_phone(match):
+        phone = match.group(1)
+        # Nettoyer pour le lien tel: (garder + et chiffres)
+        digits = re.sub(r'[^\d+]', '', phone)
+        return f'[📞 {phone}](tel:{digits})'
+    
+    # 2a. +687 NC international (en premier pour éviter conflits)
+    content = re.sub(
+        r'(\+687[\s\.\-]?\d{2}[\s\.\-]?\d{2}[\s\.\-]?\d{2})',
+        format_phone,
+        content
+    )
+    # Sauvegarder ces nouveaux liens
+    content = re.sub(r'\[📞[^\]]+\]\([^\)]+\)', save_link, content)
+    
+    # 2b. France 10 chiffres (0X.XX.XX.XX.XX) - avant NC pour éviter conflits
+    content = re.sub(
+        r'\b(0\d[\.\s\-]\d{2}[\.\s\-]\d{2}[\.\s\-]\d{2}[\.\s\-]\d{2})\b',
+        format_phone,
+        content
+    )
+    content = re.sub(r'\[📞[^\]]+\]\([^\)]+\)', save_link, content)
+    
+    # 2c. NC 6 chiffres avec séparateurs (XX.XX.XX, XX XX XX)
+    # Lookahead/lookbehind pour éviter les dates et références
+    content = re.sub(
+        r'(?<![\d\.\-])\b(\d{2}[\.\s\-]\d{2}[\.\s\-]\d{2})\b(?![\.\d\-])',
+        format_phone,
+        content
+    )
+    
+    # 3. Restaurer tous les placeholders
+    for i, link in enumerate(placeholders):
+        content = content.replace(f'__LINK_PLACEHOLDER_{i}__', link)
+    
+    return content
+
 def post_process_markdown(content, row, numero):
     """Post-traitement du markdown : ajoute blocs rapides et nettoie le contenu."""
     import html
@@ -77,6 +137,9 @@ def post_process_markdown(content, row, numero):
     # 2. AMÉLIORATION 1 : Nettoyer les sauts de ligne excessifs
     # Remplacer 4+ sauts de ligne par 2 sauts de ligne
     content = re.sub(r'\n{4,}', '\n\n', content)
+    
+    # 2.5. Détecter et formatter les contacts (emails et téléphones)
+    content = format_contacts(content)
     
     # 3. AMÉLIORATION 4 : Détecter et formatter les sections clés
     # Patterns courants dans les annonces (case-insensitive)
