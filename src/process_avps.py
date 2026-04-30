@@ -65,6 +65,76 @@ def generate_jsonld_jobposting(row, numero):
     # Retourner en commentaire HTML
     return f"<!--\n<script type=\"application/ld+json\">\n{jsonld_str}\n</script>\n-->\n\n"
 
+def post_process_markdown(content, row, numero):
+    """Post-traitement du markdown : ajoute blocs rapides et nettoie le contenu."""
+    import html
+    
+    # 1. Nettoyer les caractères spéciaux (HTML entities)
+    content = html.unescape(content)
+    # Supprimer les &nbsp; restants
+    content = content.replace('&nbsp;', ' ')
+    
+    # 2. Extraire le contenu après le titre principal
+    # Trouver le premier H1 ou H2
+    lines = content.split('\n')
+    title_index = -1
+    for i, line in enumerate(lines):
+        if line.startswith('# ') or line.startswith('## '):
+            title_index = i
+            break
+    
+    # Construire le bloc "Candidature rapide"
+    date_cloture = row.get('date_cloture', '-')
+    direction = row.get('direction_acronyme', row.get('direction_libelle', 'DRHFPNC'))
+    domaine = row.get('libelle_domaine', 'Autres')
+    
+    # Calcul du badge urgence
+    urgence_badge = ""
+    try:
+        date_limite = pd.to_datetime(date_cloture)
+        now = pd.Timestamp.now()
+        days_left = (date_limite - now).days
+        
+        if 0 <= days_left <= 2:
+            urgence_badge = "🔥 **Urgent** (≤2 jours)"
+        elif 3 <= days_left <= 7:
+            urgence_badge = "⏳ **Cette semaine** (≤7 jours)"
+        else:
+            urgence_badge = "📋 En cours"
+    except:
+        urgence_badge = "📋 En cours"
+    
+    candidature_bloc = f"""
+!!! success "📋 Candidature rapide"
+    **Date limite :** {date_cloture}  
+    **Direction :** {direction}  
+    **Domaine :** {domaine}  
+    **Statut :** {urgence_badge}
+
+"""
+    
+    # 3. Insérer le bloc après le titre
+    if title_index >= 0:
+        # Insérer après le titre (à l'index title_index + 1)
+        lines.insert(title_index + 1, "")
+        lines.insert(title_index + 2, candidature_bloc)
+        content = '\n'.join(lines)
+    
+    # 4. Ajouter le bloc "Actions rapides" à la fin
+    actions_bloc = f"""
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original]({row.get('url_pdf_original', '#')}) {{target="_blank"}}
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en {domaine}](../#{ slugify(domaine)})
+- 🏢 [Toutes les offres DRHFPNC](./?direction={direction.lower()})
+"""
+    content += actions_bloc
+    
+    return content
+
 def process_pdfs_to_markdown(df, data_dir="docs"):
     """Télécharge les PDFs et les convertit en Markdown avec marker-pdf (SANS IMAGES)."""
     print("Début de la conversion des PDFs en Markdown (Images désactivées)...")
@@ -158,8 +228,11 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 header += f'# {numero} - {libelle_poste}\n\n'
                 header += f'<div style="text-align: right; margin-bottom: 1em;"><a href="{url_pdf}" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>\n\n'
                 
+                # Post-traitement du contenu (blocs rapides + nettoyage)
+                processed_content = post_process_markdown(content, row, numero)
+                
                 with open(final_md_path, 'w', encoding='utf-8') as f:
-                    f.write(header + generate_jsonld_jobposting(row, numero) + content)
+                    f.write(header + generate_jsonld_jobposting(row, numero) + processed_content)
             
             if os.path.exists(temp_pdf):
                 os.remove(temp_pdf)
