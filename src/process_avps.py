@@ -5,6 +5,7 @@ import json
 import os
 import unicodedata
 import re
+import datetime
 from glob import glob
 
 # Configuration CPU pour marker
@@ -115,6 +116,88 @@ ABBREVIATIONS = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Normalisation des dates au format ISO 8601 (YYYY-MM-DD)
+# ---------------------------------------------------------------------------
+
+MONTHS_FR = {
+    'janvier': 1, 'février': 2, 'fevrier': 2, 'mars': 3, 'avril': 4,
+    'mai': 5, 'juin': 6, 'juillet': 7, 'août': 8, 'aout': 8,
+    'septembre': 9, 'octobre': 10, 'novembre': 11,
+    'décembre': 12, 'decembre': 12,
+}
+
+# 1) Dates textuelles : "15 mai 2026", "1er juin 2026"
+PATTERN_DATE_TEXT = re.compile(
+    r'\b(\d{1,2})(?:er)?\s+'
+    r'(janvier|février|fevrier|mars|avril|mai|juin|juillet|'
+    r'août|aout|septembre|octobre|novembre|décembre|decembre)\s+'
+    r'(\d{4})\b',
+    re.IGNORECASE,
+)
+
+# 2) Dates numériques : 15/05/2026, 15.05.2026, 15-05-2026
+#    Backreference \2 force le même séparateur ; année à 4 chiffres obligatoire
+PATTERN_DATE_NUMERIC = re.compile(
+    r'(?<![\d\w/.\-])'
+    r'(\d{1,2})([/.\-])(\d{1,2})\2(\d{4})'
+    r'(?![\d\w/.\-])'
+)
+
+# 3) Placeholder pour protéger les dates déjà au format ISO
+PATTERN_ISO = re.compile(r'\b\d{4}-\d{2}-\d{2}\b')
+
+
+def _to_iso(year, month, day):
+    """Tente de construire une date valide. Retourne None si invalide."""
+    try:
+        return datetime.date(int(year), int(month), int(day)).strftime('%Y-%m-%d')
+    except (ValueError, TypeError):
+        return None
+
+
+def _replace_text_date(match):
+    day, month_name, year = match.group(1), match.group(2).lower(), match.group(3)
+    month = MONTHS_FR.get(month_name)
+    if month is None:
+        return match.group(0)
+    iso = _to_iso(year, month, day)
+    return iso if iso else match.group(0)
+
+
+def _replace_numeric_date(match):
+    day, _sep, month, year = match.group(1), match.group(2), match.group(3), match.group(4)
+    iso = _to_iso(year, month, day)
+    return iso if iso else match.group(0)
+
+
+def normalize_dates(content):
+    """Convertit toutes les dates détectées en YYYY-MM-DD (ISO 8601).
+
+    Stratégie :
+      0. Protège les dates déjà ISO (idempotence).
+      1. Convertit les dates textuelles (« 15 mai 2026 »).
+      2. Convertit les dates numériques avec séparateurs identiques.
+      3. Restaure les placeholders.
+      Chaque conversion valide la date via datetime.date ; en cas d'invalidité
+      le texte original est conservé.
+    """
+    placeholders = []
+
+    def _save_iso(m):
+        placeholders.append(m.group(0))
+        return f'__ISODATE_{len(placeholders) - 1}__'
+
+    content = PATTERN_ISO.sub(_save_iso, content)
+    content = PATTERN_DATE_TEXT.sub(_replace_text_date, content)
+    content = PATTERN_DATE_NUMERIC.sub(_replace_numeric_date, content)
+
+    for i, original in enumerate(placeholders):
+        content = content.replace(f'__ISODATE_{i}__', original)
+
+    return content
+
+
 def add_abbreviations(content):
     """Détecte les abréviations présentes et ajoute leurs définitions en bas du markdown.
 
@@ -206,6 +289,9 @@ def post_process_markdown(content, row, numero):
     
     # 2.5. Détecter et formatter les contacts (emails et téléphones)
     content = format_contacts(content)
+
+    # 2.6. Normaliser toutes les dates au format ISO 8601 (YYYY-MM-DD)
+    content = normalize_dates(content)
     
     # 3. AMÉLIORATION 4 : Détecter et formatter les sections clés
     # Patterns courants dans les annonces (case-insensitive)
