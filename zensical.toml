@@ -6,11 +6,13 @@ repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
+extra_files = ["feed.xml"]
 
 [project.theme]
 name = "material"
 language = "fr"
 features = ["navigation.top", "navigation.tracking", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight"]
+icon.repo = "material/github"
 
 # Mode sombre par défaut (Slate en premier)
 [[project.theme.palette]]
@@ -26,6 +28,16 @@ primary = "indigo"
 accent = "indigo"
 toggle.icon = "material/brightness-7"
 toggle.name = "Passer au mode sombre"
+
+[[project.extra.social]]
+icon = "material/github"
+link = "https://github.com/adriens/avps"
+name = "Code source sur GitHub"
+
+[[project.extra.social]]
+icon = "material/rss"
+link = "https://adriens.github.io/avps/feed.xml"
+name = "Flux RSS des offres"
 
 [project.extra]
 copyright = """
