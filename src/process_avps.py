@@ -469,6 +469,10 @@ def post_process_markdown(content, row, numero):
             new_lines.append(line)
     
     content = '\n'.join(new_lines)
+
+    # 3.5 Nettoyer les ':' finaux sur TOUS les titres de section
+    # (au cas où des sections ne matcheraient pas les patterns)
+    content = re.sub(r'^(#{1,6}\s+.+?):\s*$', r'\1', content, flags=re.MULTILINE)
     
     # 4. Extraire le contenu après le titre principal
     lines = content.split('\n')
