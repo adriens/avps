@@ -29,10 +29,26 @@ jobs:
         run: uv sync
 
       - name: Run processing script
-        run: uv run src/process_avps.py
+        run: |
+          set -e
+          uv run src/process_avps.py
+          # Vérifier que des fichiers MD ont bien été générés
+          MD_COUNT=$(find docs -name "*.md" -type f | wc -l)
+          echo "Generated $MD_COUNT markdown files"
+          if [ "$MD_COUNT" -lt 2 ]; then
+            echo "ERROR: Expected at least 2 MD files (index + offers), got $MD_COUNT"
+            exit 1
+          fi
 
       - name: Build site with Zensical
-        run: uv run zensical build
+        run: |
+          set -e
+          uv run zensical build
+          # Vérifier que le site a été généré
+          if [ ! -d "site" ] || [ ! -f "site/index.html" ]; then
+            echo "ERROR: Zensical build failed - site/index.html missing"
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |
