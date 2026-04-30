@@ -39,6 +39,13 @@ jobs:
             echo "ERROR: Expected at least 2 MD files (index + offers), got $MD_COUNT"
             exit 1
           fi
+          
+          # Cleanup: supprimer les images JPEG générées par Marker
+          echo "Cleaning up generated JPEG images..."
+          find docs -name "_page_*.jpeg" -delete
+          find docs -name "*_Picture_*.jpeg" -delete
+          find docs -maxdepth 1 -name "*.jpeg" -delete
+          echo "Cleanup completed"
 
       - name: Build site with Zensical
         run: |
