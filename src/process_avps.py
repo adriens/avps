@@ -74,8 +74,45 @@ def post_process_markdown(content, row, numero):
     # Supprimer les &nbsp; restants
     content = content.replace('&nbsp;', ' ')
     
-    # 2. Extraire le contenu après le titre principal
-    # Trouver le premier H1 ou H2
+    # 2. AMÉLIORATION 1 : Nettoyer les sauts de ligne excessifs
+    # Remplacer 4+ sauts de ligne par 2 sauts de ligne
+    content = re.sub(r'\n{4,}', '\n\n', content)
+    
+    # 3. AMÉLIORATION 4 : Détecter et formatter les sections clés
+    # Patterns courants dans les annonces (case-insensitive)
+    sections_patterns = [
+        (r'(?i)^(\*{0,3}\s*)?missions?\s*:', '## 🎯 Missions'),
+        (r'(?i)^(\*{0,3}\s*)?activit[ée]s?\s*:', '## 📋 Activités'),
+        (r'(?i)^(\*{0,3}\s*)?qualifications?\s*:', '## 🎓 Qualifications'),
+        (r'(?i)^(\*{0,3}\s*)?comp[ée]tences?\s*:', '## 💼 Compétences'),
+        (r'(?i)^(\*{0,3}\s*)?profil\s*:', '## 👤 Profil'),
+        (r'(?i)^(\*{0,3}\s*)?savoir[- ]faire\s*:', '## 🛠️ Savoir-faire'),
+        (r'(?i)^(\*{0,3}\s*)?exp[ée]rience?\s*:', '## 📚 Expérience'),
+        (r'(?i)^(\*{0,3}\s*)?contact\s*:', '## 📞 Contact'),
+        (r'(?i)^(\*{0,3}\s*)?employeur\s*:', '## 🏢 Employeur'),
+        (r'(?i)^(\*{0,3}\s*)?lieu\s*:', '## 📍 Lieu'),
+        (r'(?i)^(\*{0,3}\s*)?dur[ée]e?\s*:', '## ⏱️ Durée'),
+        (r'(?i)^(\*{0,3}\s*)?r[ée]mun[ée]ration\s*:', '## 💰 Rémunération'),
+    ]
+    
+    lines = content.split('\n')
+    new_lines = []
+    
+    for line in lines:
+        matched = False
+        for pattern, replacement in sections_patterns:
+            if re.match(pattern, line):
+                # Retirer le texte original et utiliser le replacement avec emoji
+                new_lines.append(replacement)
+                matched = True
+                break
+        
+        if not matched:
+            new_lines.append(line)
+    
+    content = '\n'.join(new_lines)
+    
+    # 4. Extraire le contenu après le titre principal
     lines = content.split('\n')
     title_index = -1
     for i, line in enumerate(lines):
@@ -113,14 +150,14 @@ def post_process_markdown(content, row, numero):
 
 """
     
-    # 3. Insérer le bloc après le titre
+    # 5. Insérer le bloc après le titre
     if title_index >= 0:
         # Insérer après le titre (à l'index title_index + 1)
         lines.insert(title_index + 1, "")
         lines.insert(title_index + 2, candidature_bloc)
         content = '\n'.join(lines)
     
-    # 4. Ajouter le bloc "Actions rapides" à la fin
+    # 6. Ajouter le bloc "Actions rapides" à la fin
     actions_bloc = f"""
 ---
 
