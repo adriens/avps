@@ -563,10 +563,27 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
 
     os.makedirs(data_dir, exist_ok=True)
     
+    # Nettoyer les MD qui n'ont plus d'URL PDF valide
+    valid_numeros = set()
+    for _, row in df.iterrows():
+        url_pdf = safe_get(row, 'url_pdf', '')
+        if url_pdf and url_pdf.startswith("http"):
+            numero = str(row['numero']).replace("/", "_")
+            valid_numeros.add(numero)
+    
+    # Supprimer les MD des offers qui n'ont plus d'URL PDF
+    for existing_md in glob.glob(os.path.join(data_dir, "*.md")):
+        if existing_md == os.path.join(data_dir, "index.md"):
+            continue  # Garder index.md
+        basename = os.path.basename(existing_md).replace(".md", "")
+        if basename not in valid_numeros:
+            print(f"  Suppression de {basename}.md (pas d'URL PDF valide)")
+            os.remove(existing_md)
+    
     total = len(df)
     for i, (_, row) in enumerate(df.iterrows(), 1):
         numero = str(row['numero']).replace("/", "_")
-        url_pdf = row['url_pdf']
+        url_pdf = safe_get(row, 'url_pdf', '')
         final_md_path = os.path.join(data_dir, f"{numero}.md")
         
         if not url_pdf or not url_pdf.startswith("http"):
