@@ -144,8 +144,6 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 header += f'date_publication: "{date_publication}"\n'
                 header += f'status: "{status}"\n'
                 header += f'url_pdf_original: "{url_pdf}"\n'
-                header += f'hide:\n'
-                header += f'  - navigation\n'
                 header += f'search:\n'
                 header += f'  boost: 1.5\n'
                 # OpenGraph + Twitter Cards
