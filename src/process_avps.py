@@ -520,12 +520,13 @@ def post_process_markdown(content, row, numero):
         content = '\n'.join(lines)
     
     # 6. Ajouter le bloc "Actions rapides" à la fin
+    pdf_url = safe_get(row, 'url_pdf_original', '#')
     actions_bloc = f"""
 ---
 
 ## 🎯 Actions rapides
 
-- 📄 [Télécharger le PDF original]({row.get('url_pdf_original', '#')}) {{target="_blank"}}
+- 📄 [Télécharger le PDF original]({pdf_url})
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en {domaine}](../#{ slugify(domaine)})
 - 🏢 [Toutes les offres DRHFPNC](./?direction={direction.lower()})
