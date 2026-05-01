@@ -32,6 +32,9 @@ jobs:
         run: |
           set -e
           uv run src/process_avps.py
+          # Générer le catalogue complet pour NotebookLM
+          uv run python src/generate_full_catalog.py
+          
           # Vérifier que des fichiers MD ont bien été générés
           MD_COUNT=$(find docs -name "*.md" -type f | wc -l)
           echo "Generated $MD_COUNT markdown files"
@@ -62,7 +65,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           rm -f mkdocs.yml
-          git add docs/ zensical.toml
+          git add docs/ zensical.toml exports/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
