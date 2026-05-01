@@ -940,6 +940,11 @@ icon = "material/rss"
 link = "feed.xml"
 name = "Flux RSS des offres"
 
+[[project.extra.social]]
+icon = "material/database"
+link = "https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc"
+name = "Source de données officielle (Open Data NC)"
+
 [project.extra]
 copyright = \"\"\"
 Copyright &copy; 2026 adriens<br>
