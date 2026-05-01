@@ -827,6 +827,19 @@ def generate_index_md(df):
     md_content += f"**{urgent_count}** urgent (≤2j) — "
     md_content += f"**{this_week_count}** cette semaine\n\n"
 
+    # Section Comment postuler
+    md_content += "## 📝 Comment postuler ?\n\n"
+    md_content += "Les personnes intéressées doivent déposer à l'adresse indiquée dans l'avis de vacance de poste :\n\n"
+    md_content += "- Une lettre de motivation\n"
+    md_content += "- Un curriculum vitae (CV) détaillé\n"
+    md_content += "- La [fiche de renseignements](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/20160309_formulaire_candidature_avp_vacants.pdf) dûment complétée\n"
+    md_content += "- L'[attestation sur l'honneur de non bénéfice de la rupture conventionnelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/20190423_attestation_sur_honneur_non_benefice_rupture_conventionnelle.pdf)\n"
+    md_content += "- La photocopie des diplômes\n"
+    md_content += "- Les justificatifs concernant la citoyenneté ou la durée de résidence si nécessaire (voir la [notice explicative](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/20161214_notice_explicative_avp.pdf))\n"
+    md_content += "- La [demande de changement de corps ou cadre d'emploi](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/20160309_formulaire_demande_changement_corps_ou_cadre_emploi.pdf) si nécessaire\n\n"
+    md_content += "!!! tip \"Plus d'informations\"\n"
+    md_content += "    Consultez le [site officiel de la DRHFPNC](https://drhfpnc.gouv.nc/avis-vacances-postes-AVP) pour plus de détails.\n\n"
+
     md_content += "## Sommaire par domaines\n\n"
     for domaine in sorted(df['libelle_domaine'].unique()):
         icon = get_icon(domaine)
