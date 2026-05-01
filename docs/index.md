@@ -13,7 +13,7 @@ search:
 
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
-Dernière mise à jour : **01/05/2026 01:47** (Nouvelle Calédonie)
+Dernière mise à jour : **01/05/2026 01:52** (Nouvelle Calédonie)
 
 !!! info "Statistiques"
     **238** offres disponibles — **60** urgent (≤2j) — **49** cette semaine
