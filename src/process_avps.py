@@ -674,7 +674,7 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
                 os.remove(temp_pdf)
 
     # Nettoyage des métadonnées
-    all_json_files = glob(os.path.join(data_dir, "*_meta.json"))
+    all_json_files = glob.glob(os.path.join(data_dir, "*_meta.json"))
     for json_file in all_json_files:
         os.remove(json_file)
 
@@ -859,7 +859,7 @@ def clean_orphaned_markdowns(df, data_dir="docs"):
     print("Nettoyage des fichiers Markdown orphelins...")
     valid_numbers = set(str(n).replace("/", "_") for n in df['numero'].unique())
     
-    for file_path in glob(os.path.join(data_dir, "*.md")):
+    for file_path in glob.glob(os.path.join(data_dir, "*.md")):
         base_name = os.path.basename(file_path).replace(".md", "")
         if base_name != "index" and base_name not in valid_numbers:
             print(f"  Suppression de {file_path} (non référencé)")
