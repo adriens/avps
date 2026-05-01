@@ -874,9 +874,6 @@ repo_url = "https://github.com/adriens/avps"
 repo_name = "adriens/avps"
 docs_dir = "docs"
 site_dir = "site"
-nav = [
-  { title = "Accueil", path = "index.md" }
-]
 
 [project.theme]
 name = "material"
