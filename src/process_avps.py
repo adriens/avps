@@ -751,6 +751,13 @@ def main():
     
     df_all.rename(columns={k: v for k, v in renames.items() if k in df_all.columns}, inplace=True)
     
+    # Nettoyage des données de qualité
+    print("Nettoyage des données ROME...")
+    if 'code_emploi_rome' in df_all.columns:
+        df_all.loc[df_all['code_emploi_rome'] == 'N0000', 'code_emploi_rome'] = ''
+    if 'libelle_emploi_rome' in df_all.columns:
+        df_all.loc[df_all['libelle_emploi_rome'] == 'Hors rome', 'libelle_emploi_rome'] = ''
+    
     # On génère le CSV et l'index AVANT le traitement long des PDFs
     os.makedirs("docs", exist_ok=True)
     print("Enregistrement de docs/all_avps.csv...")
