@@ -960,6 +960,11 @@ icon = "material/database"
 link = "https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc"
 name = "Source de données officielle (Open Data NC)"
 
+[[project.extra.social]]
+icon = "material/domain"
+link = "https://drhfpnc.gouv.nc/avis-vacances-postes-AVP"
+name = "Site officiel DRHFPNC"
+
 [project.extra]
 copyright = \"\"\"
 Copyright &copy; 2026 adriens<br>
