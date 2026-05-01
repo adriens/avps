@@ -791,7 +791,6 @@ def generate_index_md(df):
     
     # Frontmatter YAML
     md_content = "---\n"
-    md_content += 'title: "Avis de Vacances de Poste DRHFPNC"\n'
     md_content += 'description: "Catalogue complet et à jour des Avis de Vacances de Poste publiés par la DRHFPNC"\n'
     md_content += 'og_title: "Avis de Vacances de Poste DRHFPNC"\n'
     md_content += 'og_description: "Catalogue complet et à jour de toutes les offres d\'emploi publiées par la DRHFPNC. Nouvelle Calédonie."\n'
