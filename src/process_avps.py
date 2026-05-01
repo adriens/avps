@@ -758,6 +758,10 @@ def main():
     if 'libelle_emploi_rome' in df_all.columns:
         df_all.loc[df_all['libelle_emploi_rome'] == 'Hors rome', 'libelle_emploi_rome'] = ''
     
+    # Supprimer les colonnes non désirées dans le CSV
+    if 'piedpageavp' in df_all.columns:
+        df_all.drop(columns=['piedpageavp'], inplace=True)
+    
     # On génère le CSV et l'index AVANT le traitement long des PDFs
     os.makedirs("docs", exist_ok=True)
     print("Enregistrement de docs/all_avps.csv...")
