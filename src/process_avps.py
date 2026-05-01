@@ -590,8 +590,8 @@ def process_pdfs_to_markdown(df, data_dir="docs"):
     
     # Supprimer les MD des offers qui n'ont plus d'URL PDF
     for existing_md in glob.glob(os.path.join(data_dir, "*.md")):
-        if existing_md == os.path.join(data_dir, "index.md"):
-            continue  # Garder index.md
+        if os.path.basename(existing_md) in ["index.md", "404.md"]:
+            continue  # Garder les pages statiques importantes
         basename = os.path.basename(existing_md).replace(".md", "")
         if basename not in valid_numeros:
             print(f"  Suppression de {basename}.md (pas d'URL PDF valide)")
@@ -894,13 +894,13 @@ def generate_index_md(df):
         f.write(md_content)
 
 def clean_orphaned_markdowns(df, data_dir="docs"):
-    """Supprime les fichiers .md dans docs/ qui ne sont pas dans le DataFrame (sauf index.md)."""
+    """Supprime les fichiers .md dans docs/ qui ne sont pas dans le DataFrame (sauf index.md et 404.md)."""
     print("Nettoyage des fichiers Markdown orphelins...")
     valid_numbers = set(str(n).replace("/", "_") for n in df['numero'].unique())
     
     for file_path in glob.glob(os.path.join(data_dir, "*.md")):
         base_name = os.path.basename(file_path).replace(".md", "")
-        if base_name != "index" and base_name not in valid_numbers:
+        if base_name not in ["index", "404"] and base_name not in valid_numbers:
             print(f"  Suppression de {file_path} (non référencé)")
             os.remove(file_path)
 
