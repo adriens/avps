@@ -6,7 +6,7 @@ import os
 import unicodedata
 import re
 import datetime
-from glob import glob
+import glob
 
 # Configuration CPU pour marker
 os.environ["TORCH_DEVICE"] = "cpu"
