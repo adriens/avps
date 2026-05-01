@@ -483,6 +483,14 @@ def post_process_markdown(content, row, numero):
         return prefix + first_char.upper() + rest
     content = re.sub(r'^(#{1,6}\s+)([a-zà-ÿ])(.*)$', capitalize_heading, content, flags=re.MULTILINE)
     
+    # 3.6 Mettre en majuscule la première lettre de chaque item de liste
+    def capitalize_list_item(match):
+        prefix = match.group(1)  # Espaces + marqueur de liste (-, *, 1., etc.)
+        first_char = match.group(2)  # Premier caractère
+        rest = match.group(3)  # Le reste de l'item
+        return prefix + first_char.upper() + rest
+    content = re.sub(r'^(\s*(?:[-*]|\d+\.)\s+)([a-zà-ÿ])(.*)$', capitalize_list_item, content, flags=re.MULTILINE)
+    
     # 4. Extraire le contenu après le titre principal
     lines = content.split('\n')
     title_index = -1
