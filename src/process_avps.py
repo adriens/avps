@@ -475,6 +475,13 @@ def post_process_markdown(content, row, numero):
     content = re.sub(r'^(#{1,6}\s+)\*\*(.*)\*\*', r'\1\2', content, flags=re.MULTILINE)
     # Supprimer le dernier ':' en fin de ligne
     content = re.sub(r'^(#{1,6}\s+.+?):\s*$', r'\1', content, flags=re.MULTILINE)
+    # Mettre en majuscule la première lettre de chaque titre
+    def capitalize_heading(match):
+        prefix = match.group(1)  # Les # et espaces
+        first_char = match.group(2)  # Premier caractère
+        rest = match.group(3)  # Le reste du titre
+        return prefix + first_char.upper() + rest
+    content = re.sub(r'^(#{1,6}\s+)([a-zà-ÿ])(.*)$', capitalize_heading, content, flags=re.MULTILINE)
     
     # 4. Extraire le contenu après le titre principal
     lines = content.split('\n')
