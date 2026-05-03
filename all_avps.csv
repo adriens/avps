@@ -1,127 +1,14 @@
 id,communique,libelle_poste,libelle_emploi_rome,code_emploi_rome,numero,date_mis_en_ligne,libelle_collectivite,libelle_corps_grade,libelle_corps_grade_2,libelle_domaine,libelle_domaine_2,duree_residence_exigee,date_a_pourvoir,date_a_pourvoir_libelle,direction_libelle,direction_acronyme,service_libelle,lieu_travail,date_creation,date_cloture,presentation,emploi_resp,mission,activites_principales,activites_secondaires,conditions_particulieres,savoir,savoir_faire,comportements,commentaire_republication,contact,contact_telephone,contact_email,contact_secondaire,contact_secondaire_telephone,contact_secondaire_email,collectivite_nom_rh,collectivite_adresse_depot,collectivite_adresse_postale,collectivite_email,collectivitefax,statut,nb_postes_a_pourvoir,a_pourvoir_autre,url_pdf
-63542,0,Chef(fe) de pôle bâtiments et équipements,"Responsable de travaux, Responsable de travaux BTP",F1201-3,26-0614,2026-04-23,Ville du Mont-Dore,technicien,,Equipement,,,,susceptible d'être vacant,Ville du Mont-Dore,,,LA COULEE MONT DORE,2026-04-22 12:30:59+11:00,2026-05-14,,Responsable des constructions,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/13fbcbd1ec21ecc5e00d7aa6e351a6a0/download/
-63539,0,Travailleur social,Intervenant d'action sociale,K1201-1,26-0611,2026-04-23,Centre d'action communale de Nouméa,assistant socio-éducatif,,,,,,immédiatement,Centre d'action communale de Nouméa,CCAS-Nouméa,,Nouméa,2026-04-22 11:33:24+11:00,2026-05-14,,Travailleur social,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5b9caded25e484a77ac800d47f7f9f92/download/
+63533,0,Responsable du bureau administratif et financier,,,26-0609,2026-04-23,Province Nord,attaché,,,,,,immédiatement,Province Nord,PVN,,KONE,2026-04-22 11:19:16+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e9c8e77ec00a8845d8462cc5c912c9f8/download/
+63397,0,Chirurgien-dentiste,"Chirurgien-dentiste conseil, Dentiste conseil",K1402-9,26-0570,2026-04-16,Province des îles Loyauté,chirurgien dentiste,,,,,,immédiatement,Province des îles Loyauté,PIL,,MOU LIFOU,2026-04-15 08:27:27+11:00,2026-05-07,,,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/67aca06ebea15a281cedd50b795330fe/download/
+63649,0,Responsable de pôle Assistance aux utilisateurs,,,26-0668,2026-04-30,Université de Nouvelle-Calédonie,ingénieur,,Informatique,,,,immédiatement,Université de Nouvelle-Calédonie,UNC,,,2026-04-30 08:21:36+11:00,2026-05-23,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bb537864fed6b352e6558a6e0886211a/download/
+63517,0,Accompagnateur de jour au sein de la maison de l'enfance de Bourail,"Agent de médiation et de la vie sociale, de médiation et de sécurité",K1204-1,26-0603,2026-04-23,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,,immédiatement,,,,Bourail,2026-04-22 10:02:36+11:00,2026-05-14,,Agent de prévention et de médiation,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4fac0bb0962e926f7f7cbdfdc485da88/download/
 60380,0,Médecin à l'UPASS de Bourail,,,25-1598,2025-10-09,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-10-09 09:54:42+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/976cb05855785b42519f4075c23d665a/download/
 60961,0,Médecin à l'UPASS de Bourail,,,25-1768,2025-11-06,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-11-05 13:51:15+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/eb9f1681b9dc504c0ffdce436ae5e65c/download/
 59663,0,Médecin gynécologue à l'UPASS de Nouméa et pour les CMS  de la province Sud,,,25-1320,2025-08-28,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-08-28 14:19:06+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6890a8bcdad217ff601475e6d73bd356/download/
 57899,0,Médecin à l'UPASS de Yaté,,,25-0724,2025-05-15,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-05-15 14:41:13+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7516a19d57db2b1d0efda9c2d973faf0/download/
 63662,0,Gestionnaire des ressources humaines,,,26-0654,2026-04-30,Ville du Mont-Dore,rédacteur,,,,,,immédiatement,Ville du Mont-Dore,,,,2026-04-30 08:53:48+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dd4335b979c54c21da0d3afc15bfdbb9/download/
 63409,0,Adjoint(e) au chef du service administratif,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,26-0571,2026-04-16,Direction de l'aviation civile,attaché,,,,,,immédiatement,Direction de l'aviation civile,DAC,,Nouméa,2026-04-15 15:35:45+11:00,2026-05-07,,Responsable administratif,,,,,,,,,,,,,,,la direction de l'aviation civile,179 rue Roger GERVOLINO - Magenta,B.P.  H1 98849 Nouméa cedex,dac-nc-sa-bpers@aviation-civile.gouv.fr,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/db749d00e3a642c42712152c401fa24b/download/
-63443,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0576,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 13:26:49+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/289b2b12a3d1489220368b2c5a350f9c/download/
-63437,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0574,2026-04-16,Province Sud,adjoint administratif,,,,,,immédiatement,,,,Nouméa,2026-04-16 12:56:37+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ead4702c59440928249d27a585e0cecc/download/
-63523,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-0605,2026-04-23,Caisse des écoles de Nouméa,rédacteur,,,,,,susceptible d'être vacant,Caisse des écoles de Nouméa,CDE Nouméa,,Nouméa,2026-04-22 10:22:25+11:00,2026-05-14,,Gestionnaire comptable,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/66c106665f8dfea8374ead1b526fa153/download/
-62932,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-62932/MPRH,2026-04-23,Nouvelle-Calédonie,adjoint administratif,,,,pour le recrutement d'un adjoint administratif : au moins égale à 10 ans.,2026-06-16 00:00:00+11:00,vacant à partir du,"Direction des achats, du patrimoine et des moyens",DAPM,"Service du budget, des achats et des marchés",Nouméa - VDT,2026-03-23 12:51:49+11:00,2026-05-14,"La direction des achats, du patrimoine et des moyens (DAPM) est une direction support au gouvernement de la Nouvelle-Calédonie, de ses directions et de ses établissements publics.
-Elle définit la politique d'achats et la stratégie immobilière de la collectivité. Elle assure la réalisation des constructions publiques, la gestion et l'entretien du patrimoine bâti et des moyens généraux (parc de véhicules, gestion centralisée du courrier, gestion du mobilier, prestations d'imprimerie). Elle est également compétente en matière de réglementation et d'assistance des marchés publics et en matière des normes et assurances de la construction, des travaux publics et du génie civil de Nouvelle-Calédonie.
-
-Le service du budget, des achats et des marchés est un service support des différents services de la DAPM, ainsi que des directions et services du gouvernement de la Nouvelle-Calédonie. Il est composé d'une quinzaine de personnes, réparties en 3 bureaux : le bureau des achats publics, le bureau assistance et réglementation et le bureau des affaires financières.
-
-Le bureau des affaires financières (BAF) est chargé de la préparation, de l'élaboration, du suivi et de l'exécution des budgets en section d'investissement et de fonctionnement de la direction, en collaboration avec la direction du budget et des affaires financières. Il assure l'animation et la coordination des services de la direction dans leur gestion budgétaire et la planification de leurs besoins. Il assure le contrôle budgétaire interne des différents services et intervient au plus tôt dans l'élaboration des schémas contractuels en validant l'ensemble des dispositions liées aux modalités de paiement. Il veille également à l'optimisation des processus d'achat en assurant la fluidité de la chaîne de paiement, depuis l'identification du besoin jusqu'au paiement.",Gestionnaire comptable,"Sous la responsabilité du chef du bureau, le gestionnaire comptable assure le traitement comptable des dépenses et des recettes courantes.
-Il assure la relation avec les usagers, fournisseurs ou services utilisateurs.","Réceptionner, traiter, vérifier et classer des pièces comptables :
-
-- Réaliser les engagements et le suivi des crédits ;
-- Contrôler les factures des services ;
-- Apprécier la validité des pièces justificatives ;
-- Réaliser les liquidations de dépenses et recettes ;
-- Tenir à jour des tableaux de bords ;- Identifier un problème sur une opération comptable ;
-- Traiter les rejets ;- Classer, archiver les pièces et documents comptables ou financiers.
-
-Assurer l'accueil téléphonique des fournisseurs : 
- 
-- Recevoir et orienter les demandes ;
-- Répondre aux appels téléphoniques et prendre des messages ;
-- Rechercher et diffuser des informations ;
-- Hiérarchiser des demandes ou informations selon leur caractère d'urgence ou priorité ;
-- Orienter, conseiller les fournisseurs vers l'interlocuteur ou le service compétent ;
-- Conseiller les fournisseurs et agents sur les procédures.",Participer à la préparation budgétaire.,,"- Fonctionnement administratif de la collectivité ;
-- Comptabilité publique et nomenclature M52 appréciées ;
-- Comptabilité privée - Notions de réglementation des marchés publics appréciées ;
-- Connaissance des principes de la commande publique appréciée ; 
-- Techniques d'analyse financière ; 
-- Techniques de réception et d'accueil ;
-- Maîtrise des procédures comptables ; 
-- Techniques de communication orale et écrite.","- Gérer et hiérarchiser des urgences et des échéances ;
-- Avoir une aisance dans le suivi des tableaux de bord et dans la manipulation des chiffres ;
-- Maîtriser le logiciel de gestion financière SURFI serait un plus ;
-- Maîtriser les outils informatiques et bureautiques ;
-- Rédiger des documents administratifs (courriers ou notes) ;
-- Expérience (1 an minimum) en qualité de comptable dans les services publics avec la M52 appréciée.","- Environnement de travail en open-space, nécessitant de travailler en équipe au quotidien ;
-- Sens du service public ;
-- Bienveillance ;
-- Sens de la communication ;
-- Sens de l'organisation ; 
-- Loyauté ;
-- Engagement ;
-- Goût du travail en équipe ; 
-- Assiduité ; 
-- Reporting ; 
-- Disponibilité ; 
-- Réactivité et adaptabilité ;
-- Polyvalence ;
-- Respect des procédures en vigueur ;
-- Discrétion et strict respect de la confidentialité.",,Olivia TAMIN,29 61 35,olivia.tamin@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4a7e8a2c5bc945f08865cd197ec0a121/download/
-62895,0,Gestionnaire paie,Assistant carrières et paie,M1501-3,26-62895/MPRH,2026-04-30,Nouvelle-Calédonie,rédacteur,,,,,2026-09-01 00:00:00+11:00,vacant à partir du,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Service gestion des ressources humaines de la collectivité Nouvelle-Calédonie,Nouméa,2026-03-19 13:13:21+11:00,2026-05-21,"La direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie est chargée d'assurer la mise en oeuvre de la politique des ressources humaines de la Nouvelle-Calédonie, la gestion statutaire des fonctionnaires et la réglementation en matière de fonction publique.
-
-Pour ce faire, elle s'est fortement engagée dans la transformation de l'administration, dont l'objectif est notamment de moderniser la fonction publique, en veillant à la qualité de vie au travail et à a maîtrise des dépenses publiques.",Gestionnaire de la paie,"Sous l'autorité du chef de service, le gestionnaire paie est chargé de la rémunération des personnels de la collectivité.","Elaborer les fiches de paie individuelle :
-- collecter, analyser et saisir les éléments susceptibles d'avoir une incidence sur les salaires ;
-- assurer le contrôle des saisies et des impacts sur la paie ;
-- calculer les indemnités ou les éléments variables et les soldes de tout compte.
-
-Participer à la fiabilisation des dépenses de personnel :
-- participer à l'élaboration des documents de synthèse (indicateurs, variation de la paie, coût des entrées et des sorties etc.) ;
-- contrôler le paramétrage du SIRH et la cohérence avec les outils automatisés de calcul ;
-- participer à la veille des paramètres de paie ;
-- établir les états des sommes dues par les agents.
-
-Participer à la gestion des ressources humaines :
-- renseigner les agents sur leurs pertes de salaire ;
-- alerter et informer sur les écarts importants ;
-- procéder aux simulations de salaire ;
-- participer aux études de coûts ;
-- participer et mettre en oeuvre les campagnes annuelles (prestations familiales, révision des indemnités différentielles etc.).","- En cas d'absence de l'un des collègues, assurer leur remplacement.",,"- Bonne connaissance des statuts de la fonction publique de Nouvelle-Calédonie et droit du travail ;
-- Bonne connaissance des statuts des organismes sociaux et réglementation applicable en matière de protection sociale ;
-- Règles de rémunération par statut et des charges sociales.","- Maîtriser parfaitement les outils bureautiques (GSuite, Word, Excel) ;
-- Utiliser des applications métiers (Tiarhé, Jira, Surfi)","- Sens prononcé de l'organisation ;
-- Qualités relationnelles et sens de l'écoute ;
-- Sens de l'initiative et autonomie.",,Ludovic PRIGENT,,ludovic.prigent@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d919620f783463457c562c0e7a069703/download/
-62913,0,Infirmier(ère),"Infirmier de secteur psychiatrique, de service hospitalier, de soins généraux, en santé mentale",J1506-1,26-62913/MPRH,2026-04-23,Nouvelle-Calédonie,infirmier en soins généraux,,,,Au moins égale à 5 ans,2025-04-01 00:00:00+11:00,vacant à partir du,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,,Nouméa,2026-03-20 11:20:22+11:00,2026-05-14,"La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ) a été créée en novembre 2016. La direction intervient, à travers des établissements de placement éducatif et 1 service de milieu ouvert et d'insertion, dans la prise éducative de mineurs placés par décision judiciaire au titre de l'enfance délinquante ou de la protection de l'enfance.",Infirmier,"Placé(e) sous l'autorité du directeur, l'infirmier(ère) accueille tout mineur qui lui est orienté ou qui le sollicite. Ses missions relève tant de la prévention que du soin et de l'accompagnement et sont exercées à travers des prises en charge individuelles ou collectives. Il/Elle intervient sur l'ensemble des services de la direction.","- Ecouter et accompagner les mineurs,
-- Organiser le bilan médical et de santé du mineur au cours de sa prise en charge,
-- Organiser les urgences et les soins, et assurer un suivi infirmier de l'état de santé des mineurs placés, ainsi que le suivi des rendez-vous médicaux,
-- Mettre en place un suivi médical du mineur quand cela est nécessaire,
-- Pratiquer des actes infirmiers sur prescription médicale (prise de médicament, soin, ...),
-- Développer une dynamique de prévention et d'éducation à la santé,
-- Mettre en place des actions individuelles et collectives en matière d'hygiène, de prévention et de promotion de la santé,
-- Aider le mineur et sa famille à la compréhension des soins curatifs et préventifs à prodiguer,
-- Développer le réseau autour de la santé.","- Établir ses bilans et rapport d'activité (mensuel, trimestriel et annuel),
-- Participer aux réunions institutionnelles.","- Etre titulaire du permis de conduire B;
-- Adaptation des horaires afin de répondre aux besoins des mineurs et de l'organisation des prises en charge éducatives;
-- Déplacement possible sur l'ensemble de la Nouvelle-Calédonie.","- Diplôme d'Etat d'Infirmier,
-- Expérience dans la prise en charge des troubles psychiatriques, du comportement et des addictions,
-- Réalisation de soins infirmier,
-- Bonne connaissance des problématiques adolescentes,
-- Connaissance de l'organisation de la santé en Nouvelle-Calédonie,
-- Connaissance en action de promotion et de prévention de la santé,
-- Techniques d'écoute active et d'accompagnement.","- Capacité à réaliser un diagnostic infirmier,
-- Capacité à travailler au sein d'une équipe pluridisciplinaire,
-- Capacité à travailler en réseau,
-- Mise en oeuvre d'actions de prévention individuelles et collectives,
-- Conseiller et accompagner un public jeune,
-- Identifier / Analyser des situations d'urgences et apporter les solutions adaptées.","- Volontaire;
-- Dynamique;
-- Qualités relationnelles avérées;
-- Gestion du stress, maîtrise de soi;
-- Esprit d'équipe;
-- Flexibilité et disponibilité.",,"Monsieur Paulo WATOENE, directeur PJEJ",23 25 84,paulo.watoene@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b4a1c934f4812002be8a075eca9ad4db/download/
-63665,0,7 Surveillants animateurs périscolaires,,,26-0670,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 10:18:46+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3fc2efc35c04ad4a99db92c70be2f968/download/
-63600,0,Chargé de missions,,,26-0626,2026-04-30,,adjoint administratif,,,,,,immédiatement,,,,,2026-04-29 08:50:48+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a4c2d440a70d3da222548e322d1ae05f/download/
-63605,0,Garde champêtre,,,26-0632,2026-04-30,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,,immédiatement,,,,,2026-04-29 09:06:32+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a3640b3ede9e8109f922406d6be1673c/download/
-63597,0,Maitre-nageur Sauveteur,,,26-0622,2026-04-30,,éducateur des APS,,,,,,immédiatement,,,,,2026-04-29 08:32:15+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/96f4822c8226fcabaa99d93e1318f190/download/
-63663,0,Agent polyvalent,,,26-0652,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 08:55:40+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fe4979200b37ecb181eb903b7bf77603/download/
-62296,0,3 INFIRMIERS EN SOINS GENERAUX ITINERANT,,,26-0220,2026-02-05,Province Nord,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,,2026-02-06 09:36:24+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/15059060effd7a10d7ac2dd980b01aed/download/
-63350,0,Educateur spécialisé ou moniteur éducateur,,,26-0562,2026-04-09,Province Sud,moniteur socio-éducatif,,,,,2026-08-01 00:00:00+11:00,date,,,,,2026-04-10 09:28:54+11:00,2026-05-28,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/89d3633c6b50e4e0edf5c02530d9cbea/download/
-63553,0,Chargé d'études et de projets stratégique,,,26-0613,2026-04-23,,ingénieur,,Equipement,,,,immédiatement,,,,Nouméa,2026-04-22 13:17:29+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f4fb26f12316709261a3def8a8c62a13/download/
-63392,0,Secrétaire général,Secrétaire général de mairie,K1404-6,26-0565,2026-04-16,,emploi fonctionnel,,,,,,immédiatement,,,,KOUMAC,2026-04-15 07:51:09+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7948adf33bcef6b21afdae682243f9e7/download/
-63547,0,Infirmier(e) au pool interventionnel de cardiologie,,,26-0615,2026-04-23,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,2026-07-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Koutio,2026-04-22 12:47:40+11:00,2026-05-14,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ea91752a6a67fb6654c003ee01dcb059/download/
-63476,0,Infirmier(e) polyvalent en soins critiques (SICS),,,26-0599,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,2026-05-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médipôle Koutio,2026-04-16 15:36:46+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/135dfa6b5997e3273e30f700d6d195b1/download/
 63602,0,Agent comptable en dépenses et en recettes,,,26-0628,2026-04-30,Centre hospitalier du Nord,adjoint administratif,,,,,,immédiatement,Centre hospitalier du Nord,CHN,,,2026-04-29 08:55:14+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/edc1b1bba1ddda874a2642d6759e7297/download/
 63604,0,Assistante médicaux-administratif,,,26-0630,2026-04-30,Centre hospitalier du Nord,rédacteur d'administration générale,,,,,,immédiatement,Centre hospitalier du Nord,CHN,,,2026-04-29 09:04:31+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b31325417a47fe6b6b73948944c93814/download/
 63603,0,Assistante Médico-Administratif,,,26-0629,2026-04-30,Centre hospitalier du Nord,rédacteur d'administration générale,,,,,,immédiatement,Centre hospitalier du Nord,CHN,,,2026-04-29 08:58:11+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d9dd74a641d924207a70b4c8cf98e235/download/
@@ -145,6 +32,17 @@ Participer à la gestion des ressources humaines :
 63130,0,Adjoint au chef du service des affaires budgétaires et responsable  du bureau de la préparation budgétaire et du patrimoine,,,26-0468,2026-04-02,Province Sud,attaché,,,,,,immédiatement,Province Sud,PVS,,,2026-04-01 13:19:39+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e4f19df50a525255c0a60c7e043e6134/download/
 63613,0,Pyschologue au Service de Prévention et de Promotion de la Santé,,,26-0640,2026-04-30,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2026-04-29 09:28:32+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4c71bac3214e3625b9ef93e234ce7783/download/
 63285,0,Travailleur social en charge des PEAD,,,26-0529,2026-04-09,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2026-04-08 15:35:37+11:00,2026-05-28,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5bfddd25caabef17201276861fff2651/download/
+63350,0,Educateur spécialisé ou moniteur éducateur,,,26-0562,2026-04-09,Province Sud,moniteur socio-éducatif,,,,,2026-08-01 00:00:00+11:00,date,,,,,2026-04-10 09:28:54+11:00,2026-05-28,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/89d3633c6b50e4e0edf5c02530d9cbea/download/
+63553,0,Chargé d'études et de projets stratégique,,,26-0613,2026-04-23,,ingénieur,,Equipement,,,,immédiatement,,,,Nouméa,2026-04-22 13:17:29+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f4fb26f12316709261a3def8a8c62a13/download/
+63392,0,Secrétaire général,Secrétaire général de mairie,K1404-6,26-0565,2026-04-16,,emploi fonctionnel,,,,,,immédiatement,,,,KOUMAC,2026-04-15 07:51:09+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7948adf33bcef6b21afdae682243f9e7/download/
+63547,0,Infirmier(e) au pool interventionnel de cardiologie,,,26-0615,2026-04-23,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,2026-07-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Koutio,2026-04-22 12:47:40+11:00,2026-05-14,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ea91752a6a67fb6654c003ee01dcb059/download/
+63476,0,Infirmier(e) polyvalent en soins critiques (SICS),,,26-0599,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,2026-05-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médipôle Koutio,2026-04-16 15:36:46+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/135dfa6b5997e3273e30f700d6d195b1/download/
+63665,0,7 Surveillants animateurs périscolaires,,,26-0670,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 10:18:46+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3fc2efc35c04ad4a99db92c70be2f968/download/
+63600,0,Chargé de missions,,,26-0626,2026-04-30,,adjoint administratif,,,,,,immédiatement,,,,,2026-04-29 08:50:48+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a4c2d440a70d3da222548e322d1ae05f/download/
+63605,0,Garde champêtre,,,26-0632,2026-04-30,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,,immédiatement,,,,,2026-04-29 09:06:32+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a3640b3ede9e8109f922406d6be1673c/download/
+63597,0,Maitre-nageur Sauveteur,,,26-0622,2026-04-30,,éducateur des APS,,,,,,immédiatement,,,,,2026-04-29 08:32:15+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/96f4822c8226fcabaa99d93e1318f190/download/
+63663,0,Agent polyvalent,,,26-0652,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 08:55:40+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fe4979200b37ecb181eb903b7bf77603/download/
+62296,0,3 INFIRMIERS EN SOINS GENERAUX ITINERANT,,,26-0220,2026-02-05,Province Nord,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,,2026-02-06 09:36:24+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/15059060effd7a10d7ac2dd980b01aed/download/
 63541,0,Agent d'accueil et de secrétariat,"Agent, Chargé, Employé, Hôte d'accueil",M1601-1,26-0612,2026-04-23,,adjoint administratif,,,,,,immédiatement,,,,Nouméa,2026-04-22 12:25:01+11:00,2026-05-14,,Chargé d'accueil,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1d06c921b1a14e110f5d2e2da3208282/download/
 63372,0,Contrôleur à la contribution foncière,"Agent d'assiette des impôts, Agent de constatation ou d'assiette des impôts",K1501-2,26-63372/MPRH,2026-04-23,Nouvelle-Calédonie,rédacteur,,,,,,immédiatement,Direction des services fiscaux,DSF,Service de la fiscalité des particuliers,Nouméa,2026-04-13 07:37:24+11:00,2026-05-14,"La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est en charge, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.
 
@@ -313,89 +211,112 @@ Le service de contrôle et d'expertise (SCE) est réglementairement chargé de l
 - Disponibilité ;
 - Respect légal du secret professionnel ;
 - Curiosité intellectuelle.",,"M. David DRIE, directeur adjoint",25 75 83,david.drie@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/311fb09096fbe16edc1b6ecca47c40aa/download/
-63533,0,Responsable du bureau administratif et financier,,,26-0609,2026-04-23,Province Nord,attaché,,,,,,immédiatement,Province Nord,PVN,,KONE,2026-04-22 11:19:16+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e9c8e77ec00a8845d8462cc5c912c9f8/download/
-63397,0,Chirurgien-dentiste,"Chirurgien-dentiste conseil, Dentiste conseil",K1402-9,26-0570,2026-04-16,Province des îles Loyauté,chirurgien dentiste,,,,,,immédiatement,Province des îles Loyauté,PIL,,MOU LIFOU,2026-04-15 08:27:27+11:00,2026-05-07,,,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/67aca06ebea15a281cedd50b795330fe/download/
-63649,0,Responsable de pôle Assistance aux utilisateurs,,,26-0668,2026-04-30,Université de Nouvelle-Calédonie,ingénieur,,Informatique,,,,immédiatement,Université de Nouvelle-Calédonie,UNC,,,2026-04-30 08:21:36+11:00,2026-05-23,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bb537864fed6b352e6558a6e0886211a/download/
-63517,0,Accompagnateur de jour au sein de la maison de l'enfance de Bourail,"Agent de médiation et de la vie sociale, de médiation et de sécurité",K1204-1,26-0603,2026-04-23,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,,immédiatement,,,,Bourail,2026-04-22 10:02:36+11:00,2026-05-14,,Agent de prévention et de médiation,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4fac0bb0962e926f7f7cbdfdc485da88/download/
-63650,0,Assistant(e) sociale,,,26-0667,2026-04-30,Maison de l'Etudiant,assistant socio-éducatif,,,,,2026-06-01 00:00:00+11:00,date,Maison de l'Etudiant,MDE,,,2026-04-30 08:25:33+11:00,2026-05-21,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/943d9900fcbe2b6ce1ba2197d8434bac/download/
-63524,0,Agent d'entretien - Ambulancier (Touho),,,26-0606,2026-04-23,Province Nord,ACDP-Grille rémunération 1-Sans diplôme,,,,,2027-01-01 00:00:00+11:00,date,Province Nord,PVN,,TOUHO,2026-04-22 10:24:51+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d9251e1fd46b88a17756c1369aa9cf83/download/
-57900,0,Médecin à l'UPASS de l'Ile des Pins,,,25-0725,2025-05-15,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-05-15 14:44:10+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/44f28d0907701d01168a7b74153658c2/download/
-63456,0,Agent culturel,,,26-0586,2026-04-16,Province des îles Loyauté,adjoint administratif,,,,,,autre,Province des îles Loyauté,PIL,,Maré,2026-04-16 14:22:03+11:00,2026-05-07,,,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,5,Réorganisation,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/28065b92cc3b3c86ca6e072afd8f986b/download/
-63469,0,Aide-soignant,"Aide-soignant, Aide-soignant (à domicile, hospitalier, en puériculture, en gériatrie)",J1412-2,26-0592,2026-04-16,Province des îles Loyauté,aide-soignant,,Aide-soignant,,,,immédiatement,Province des îles Loyauté,PIL,,Centre médicale de Wé - Lifou,2026-04-16 15:14:23+11:00,2026-05-07,,Aide soignant,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f36c6a511f822285c5791dd535f9d2ad/download/
-63410,0,Assistant administratif,,,26-0573,2026-04-16,Province Sud,adjoint administratif,,,,,,immédiatement,,,,Nouméa,2026-04-15 15:49:34+11:00,2026-05-07,,Assistant administratif,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4cb558b7732b128a497ebc8b7cb65817/download/
-62685,0,Examinateur du permis de conduire,Inspecteur de la conduite et de la sécurité routière,K2110-2,26-62685/MPRH,2026-03-26,Nouvelle-Calédonie,technicien,,Equipement,,,,immédiatement,"Direction des infrastructures, de la topographie et des transports terrestres",DITTT,Service des permis de conduire,Nouméa,2026-03-03 16:11:08+11:00,2026-05-07,,Examinateur du permis de conduire et de la sécurité routière,"Placé sous l'autorité du chef du bureau de l'éducation et de la sécurité routière, l'examinateur des permis de conduire évalue les connaissances et compétences des candidats aux permis de conduire de toutes les  catégories de véhicules et participe à des actions de sécurité et de circulation routière ainsi qu'aux missions administratives inhérentes à la fonction.","Mettre en oeuvre la procédure d'examen théorique du code de la route.
-Évaluer les compétences des futurs conducteurs de véhicules terrestres à moteur.
-Contrôler et procéder à la validation des dossiers d'examens du permis de conduire sur le logiciel informatique des permis de conduire.","Animer des actions de sensibilisation ou d'information sur les grands facteurs de l'insécurité routière (alcool, vitesse, respect des règles de bonne conduite, etc...).
-Conseiller et assurer le contrôle administratif et pédagogique des établissements d'enseignement à la conduite et des moniteurs.","Déplacements sur l'ensemble du territoire.
+63443,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0576,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 13:26:49+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/289b2b12a3d1489220368b2c5a350f9c/download/
+63437,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0574,2026-04-16,Province Sud,adjoint administratif,,,,,,immédiatement,,,,Nouméa,2026-04-16 12:56:37+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ead4702c59440928249d27a585e0cecc/download/
+63523,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-0605,2026-04-23,Caisse des écoles de Nouméa,rédacteur,,,,,,susceptible d'être vacant,Caisse des écoles de Nouméa,CDE Nouméa,,Nouméa,2026-04-22 10:22:25+11:00,2026-05-14,,Gestionnaire comptable,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/66c106665f8dfea8374ead1b526fa153/download/
+62932,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-62932/MPRH,2026-04-23,Nouvelle-Calédonie,adjoint administratif,,,,pour le recrutement d'un adjoint administratif : au moins égale à 10 ans.,2026-06-16 00:00:00+11:00,vacant à partir du,"Direction des achats, du patrimoine et des moyens",DAPM,"Service du budget, des achats et des marchés",Nouméa - VDT,2026-03-23 12:51:49+11:00,2026-05-14,"La direction des achats, du patrimoine et des moyens (DAPM) est une direction support au gouvernement de la Nouvelle-Calédonie, de ses directions et de ses établissements publics.
+Elle définit la politique d'achats et la stratégie immobilière de la collectivité. Elle assure la réalisation des constructions publiques, la gestion et l'entretien du patrimoine bâti et des moyens généraux (parc de véhicules, gestion centralisée du courrier, gestion du mobilier, prestations d'imprimerie). Elle est également compétente en matière de réglementation et d'assistance des marchés publics et en matière des normes et assurances de la construction, des travaux publics et du génie civil de Nouvelle-Calédonie.
 
-Conformément à l'article 14.1 de la délibération 74/CP du 12/02/2009, les candidats doivent : 
-- Ne pas faire l'objet d'une inscription sur le fichier national des permis de conduire au titre des décisions de restriction de validité, de suspension, d'annulation, d'interdiction de délivrance de permis de conduire ou de changement de catégorie du permis de conduire prononcées en application du code de la route.
-- Déclarer la profession de leur conjoint, de leurs ascendants et descendants au 1er degré, de leurs collatéraux au 2ème degré si cette profession se rattache à l'école de conduite ou à la formation des moniteurs.","- Être titulaire du permis de conduire des catégorie A, B, C, D. Permis en cours de validité.
-- Etre titulaire du BEPECASER (Brevet pour l'Exercice de la Profession d'Enseignant de la Conduite Automobile et de la Sécurité Routière) d'Etat ou de Nouvelle-Calédonie ou du titre professionnel ECSR (Enseignant de la Conduite et de la Sécurité Routière).
-- Connaître la réglementation applicable aux permis de conduire et à la sécurité routière.
-- Connaître l'environnement professionnel inhérent à la fonction d'examinateur du permis de conduire.","Maîtriser parfaitement la conduite automobile et l'utilisation des doubles commandes.
-Assister et accompagner les candidats dans des conditions réelles de circulation.
-Appliquer la procédure d'évaluation des candidats au permis de conduire.
-Animer des actions liées à la prévention et à la sécurité routière.
-Maîtriser les outils et applications informatiques.
-Savoir communiquer et s'adapter au public.","Sens du service public  
-Rigueur, probité.
-Discrétion, confidentialité.
-Qualités relationnelles.
-Sens du travail en équipe.
-Savoir gérer les conflits.
-Faire preuve d'adaptabilité",,"M. Patrick MAHOUX, chef de service",29 20 48,patrick.mahoux@gouv.nc,"Mme Sylvie TOEMINO, chef de bureau",28 16 24,sylvie.toemino@gouv.nc,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/535130cd98d7e8dc1961ee8f5637d9c9/download/
-63438,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0575,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 13:00:03+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bd51c1b26f2cf5475bf890fcc7e5f1a4/download/
-62893,0,Gestionnaire Ressources Humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-62893/MPRH,2026-04-30,Direction interrégionale de Météo-France,rédacteur,,,,,,autre,,,,Nouméa,2026-03-19 10:33:47+11:00,2026-05-21,"La Direction Interrégionale de Météo-France en Nouvelle-Calédonie et à Wallis et Futuna et le Service de la Météorologie de la Nouvelle-Calédonie mettent en œuvre conjointement le développement et la maintenance d'un réseau d'observation météorologique, la collecte, le traitement et la diffusion de données climatologiques, la prévision du temps et l'élaboration de projections climatiques. Pour remplir ces missions, 65 agents et 6 divisions apportent leur concours. La division Support apporte le soutien administratif.
-C'est sur cette dernière division, qui compte une dizaine d'agents, que porte cet AVP. Ses missions s'articulent autour de 4 grands axes :
-- gestion des ressources humaines
-- gestion budgétaire 
-- communication interne et externe
-- commercialisation de produits et prestations météorologiques",Gestionnaire administratif des ressources humaines,"Sous l'autorité du chef de division ou de son adjoint, le candidat retenu devra participer à la mise en œuvre et au suivi  de la gestion :
-- des ressources humaines, 
-- des déplacements
-- des salaires
-- du plan de développement des compétences","- Informer orienter et conseiller les agents et leurs managers
-- Mettre en œuvre et réaliser l'ensemble des actes de gestion administrative
-- Gérer le recrutement et l'intégration du personnel : évaluer le besoin en recrutement, rédiger les fiches de poste, diffuser les offres d'emploi, réaliser une présélection des candidats, rédiger les documents administratifs d'embauche, organiser l'intégration du nouvel arrivant ;
-- Gérer les carrières et la mobilité des salariés ;
-- Gérer le besoin en formation et les plans de développement de compétences des agents.
-- Gérer les déplacements et l'organisation des missions ;
-- Préparer et contrôler la paie ;
-- Suivre le temps de travail et gérer les absences ;
-- Alimenter et exploiter les systèmes d'information de gestion des ressources humaines (SIRH) afin de fournir des données fiables
-- Participer à la mise en œuvre et à l'évaluation des processus et des outils RH","- Participer à l'organisation des élections
-- Acteur de la qualité, le candidat retenu devra contribuer aux revues des processus RH","Poste soumis au régime du temps de travail de Météo-France.
-Le service gère trois statuts RH (fonctions publiques État et Nouvelle-Calédonie, contractuels).
-L'agent recruté est rémunéré par le gouvernement de la Nouvelle-Calédonie. Il perçoit les primes spécifiques versées aux agents administratifs de la DIRNC.","- Bonne connaissance des collectivités de la NC, de leur fonctionnement, et des interlocuteurs RH 
-- Bonne connaissance des procédures administratives
-- Bonne connaissance du statut général de la fonction publique NC
-- Bonne connaissance des statuts des agents de Météo-France
-- Bonne connaissance du droit dans le domaine de compétence","- Savoir utiliser les outils RH, SIRH, GFD 
-- Savoir rédiger des documents administratifs dans le domaine RH
-- Savoir appliquer un protocole","- Sens de l'organisation
-- Discrétion
-- Rigueur
-- Qualité d'écoute
-- Sens des relations humaines 
-- Curiosité
-- Autonomie",,Claire ALUZE,27 93 07,claire.aluze@meteo.fr,,,,la direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,5,Poste publié dans le cadre d'une réorganisation,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/91e25af34692032940cc5b5a96c6e4e2/download/
-63518,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-0604,2026-04-23,Institut de formation à l'administration publique,rédacteur,,,,,,immédiatement,Institut de formation à l'administration publique,IFAP,,Nouméa,2026-04-22 10:05:04+11:00,2026-05-14,,Gestionnaire comptable,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4159c40b98b37ddf20472d073c161598/download/
-63536,0,1 référent carrière et temps de travail / analyste de gestion,,,26-0620,2026-04-23,,rédacteur d'administration générale,attaché d'administration générale,,,,,immédiatement,,,,,2026-04-22 11:28:01+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a3461d64bf22285fdf7defb5df09ec23/download/
-63448,0,Chef de section gestion voirie et déplacements,,,26-0580,2026-04-16,,attaché,ingénieur,,Equipement,,2026-07-01 00:00:00+11:00,date,,,,Annexe Ferry,2026-04-16 13:56:48+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1cca33fca61d67f2be3ab8128a168b9c/download/
-63657,0,4 agents d'office,,,26-0660,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 08:41:47+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/2f702527bc6626785276c4ac1e5cf5ce/download/
-63643,0,Assistant(e) de gestion au responsable de la station de recherche agronomique de l'IAC à Pocquereux,,,26-0651,2026-04-30,Institut agronomique calédonien,adjoint administratif,,,,,,immédiatement,,,,,2026-04-30 08:07:57+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/27eccbd2146ac4e29a4d734cad6f9616/download/
-63136,0,DATA INGENIEUR,,,26-0500,2026-04-02,,ingénieur,,Informatique,,,,immédiatement,,,,,2026-04-01 14:47:42+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7fe6ee2d3aa40405219eafddad8b6e43/download/
-63514,0,Surveillant-Animateur scolaire,,,26-0600,2026-04-23,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-05-06 00:00:00+11:00,date,,,,YATE,2026-04-22 09:52:39+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a2a849472c932b84e0f25b4bd22126d8/download/
-63606,0,Cantinière,,,26-0633,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,,immédiatement,,,,,2026-04-29 09:09:27+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cc70b1d1f758fab89ec0a5ea1bd5d535/download/
-63433,0,Chargé(e) des aides aux études supérieures,,,26-0572,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 11:23:18+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f4df88e8db6e8f9efb900f4df4c57c39/download/
-63322,0,1 éducateur de rue,,,26-0545,2026-04-09,,assistant socio-éducatif,,,,,,immédiatement,,,,,2026-04-09 07:59:42+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9fb205132f5823c067eafd0c87104cbd/download/
-63451,0,Assistant administratif et comptable,,,26-0583,2026-04-16,,adjoint administratif,,,,,2026-08-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:07:34+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/58cb9afc45aaa78a0691e1cd5089f1aa/download/
-62294,0,3 INFIRMIERS EN SOINS GÉNÉRAUX,,,26-0218,2026-02-05,Province Nord,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,,2026-02-06 09:29:50+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/963ea0c8927d89e9c3e6b21e8ee9ec1c/download/
-63470,0,Directeur(trice) des services techniques,,,26-0593,2026-04-16,,emploi fonctionnel,,,,,2026-06-01 00:00:00+11:00,date,,,,Paita,2026-04-16 15:17:08+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1c1bb487d578f96c3de852c5d0ffb039/download/
-63458,0,Responsable du service technique,,,26-0588,2026-04-16,,technicien,,Equipement,,,,immédiatement,,,,Mairie de Canala,2026-04-16 14:34:21+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/23ad629c05347fb99d92b60648064c6a/download/
-63474,0,Chef de service adjoint de la cellule admission facturation et recouvrement,,,26-0597,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",attaché,rédacteur,,,,2026-08-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médipôle Koutio,2026-04-16 15:31:28+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/51eb59aaf713a6f579f0aa0fc1bb141d/download/
-63475,0,Cadre de santé aux urgences adultes - SAMU/SMUR,,,26-0598,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",cadre de santé,,Cadre de santé,,,2026-09-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médpôle de Koutio,2026-04-16 15:34:16+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4032ec7733fa0359b0a8c81235deccd4/download/
+Le service du budget, des achats et des marchés est un service support des différents services de la DAPM, ainsi que des directions et services du gouvernement de la Nouvelle-Calédonie. Il est composé d'une quinzaine de personnes, réparties en 3 bureaux : le bureau des achats publics, le bureau assistance et réglementation et le bureau des affaires financières.
+
+Le bureau des affaires financières (BAF) est chargé de la préparation, de l'élaboration, du suivi et de l'exécution des budgets en section d'investissement et de fonctionnement de la direction, en collaboration avec la direction du budget et des affaires financières. Il assure l'animation et la coordination des services de la direction dans leur gestion budgétaire et la planification de leurs besoins. Il assure le contrôle budgétaire interne des différents services et intervient au plus tôt dans l'élaboration des schémas contractuels en validant l'ensemble des dispositions liées aux modalités de paiement. Il veille également à l'optimisation des processus d'achat en assurant la fluidité de la chaîne de paiement, depuis l'identification du besoin jusqu'au paiement.",Gestionnaire comptable,"Sous la responsabilité du chef du bureau, le gestionnaire comptable assure le traitement comptable des dépenses et des recettes courantes.
+Il assure la relation avec les usagers, fournisseurs ou services utilisateurs.","Réceptionner, traiter, vérifier et classer des pièces comptables :
+
+- Réaliser les engagements et le suivi des crédits ;
+- Contrôler les factures des services ;
+- Apprécier la validité des pièces justificatives ;
+- Réaliser les liquidations de dépenses et recettes ;
+- Tenir à jour des tableaux de bords ;- Identifier un problème sur une opération comptable ;
+- Traiter les rejets ;- Classer, archiver les pièces et documents comptables ou financiers.
+
+Assurer l'accueil téléphonique des fournisseurs : 
+ 
+- Recevoir et orienter les demandes ;
+- Répondre aux appels téléphoniques et prendre des messages ;
+- Rechercher et diffuser des informations ;
+- Hiérarchiser des demandes ou informations selon leur caractère d'urgence ou priorité ;
+- Orienter, conseiller les fournisseurs vers l'interlocuteur ou le service compétent ;
+- Conseiller les fournisseurs et agents sur les procédures.",Participer à la préparation budgétaire.,,"- Fonctionnement administratif de la collectivité ;
+- Comptabilité publique et nomenclature M52 appréciées ;
+- Comptabilité privée - Notions de réglementation des marchés publics appréciées ;
+- Connaissance des principes de la commande publique appréciée ; 
+- Techniques d'analyse financière ; 
+- Techniques de réception et d'accueil ;
+- Maîtrise des procédures comptables ; 
+- Techniques de communication orale et écrite.","- Gérer et hiérarchiser des urgences et des échéances ;
+- Avoir une aisance dans le suivi des tableaux de bord et dans la manipulation des chiffres ;
+- Maîtriser le logiciel de gestion financière SURFI serait un plus ;
+- Maîtriser les outils informatiques et bureautiques ;
+- Rédiger des documents administratifs (courriers ou notes) ;
+- Expérience (1 an minimum) en qualité de comptable dans les services publics avec la M52 appréciée.","- Environnement de travail en open-space, nécessitant de travailler en équipe au quotidien ;
+- Sens du service public ;
+- Bienveillance ;
+- Sens de la communication ;
+- Sens de l'organisation ; 
+- Loyauté ;
+- Engagement ;
+- Goût du travail en équipe ; 
+- Assiduité ; 
+- Reporting ; 
+- Disponibilité ; 
+- Réactivité et adaptabilité ;
+- Polyvalence ;
+- Respect des procédures en vigueur ;
+- Discrétion et strict respect de la confidentialité.",,Olivia TAMIN,29 61 35,olivia.tamin@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4a7e8a2c5bc945f08865cd197ec0a121/download/
+62895,0,Gestionnaire paie,Assistant carrières et paie,M1501-3,26-62895/MPRH,2026-04-30,Nouvelle-Calédonie,rédacteur,,,,,2026-09-01 00:00:00+11:00,vacant à partir du,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Service gestion des ressources humaines de la collectivité Nouvelle-Calédonie,Nouméa,2026-03-19 13:13:21+11:00,2026-05-21,"La direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie est chargée d'assurer la mise en oeuvre de la politique des ressources humaines de la Nouvelle-Calédonie, la gestion statutaire des fonctionnaires et la réglementation en matière de fonction publique.
+
+Pour ce faire, elle s'est fortement engagée dans la transformation de l'administration, dont l'objectif est notamment de moderniser la fonction publique, en veillant à la qualité de vie au travail et à a maîtrise des dépenses publiques.",Gestionnaire de la paie,"Sous l'autorité du chef de service, le gestionnaire paie est chargé de la rémunération des personnels de la collectivité.","Elaborer les fiches de paie individuelle :
+- collecter, analyser et saisir les éléments susceptibles d'avoir une incidence sur les salaires ;
+- assurer le contrôle des saisies et des impacts sur la paie ;
+- calculer les indemnités ou les éléments variables et les soldes de tout compte.
+
+Participer à la fiabilisation des dépenses de personnel :
+- participer à l'élaboration des documents de synthèse (indicateurs, variation de la paie, coût des entrées et des sorties etc.) ;
+- contrôler le paramétrage du SIRH et la cohérence avec les outils automatisés de calcul ;
+- participer à la veille des paramètres de paie ;
+- établir les états des sommes dues par les agents.
+
+Participer à la gestion des ressources humaines :
+- renseigner les agents sur leurs pertes de salaire ;
+- alerter et informer sur les écarts importants ;
+- procéder aux simulations de salaire ;
+- participer aux études de coûts ;
+- participer et mettre en oeuvre les campagnes annuelles (prestations familiales, révision des indemnités différentielles etc.).","- En cas d'absence de l'un des collègues, assurer leur remplacement.",,"- Bonne connaissance des statuts de la fonction publique de Nouvelle-Calédonie et droit du travail ;
+- Bonne connaissance des statuts des organismes sociaux et réglementation applicable en matière de protection sociale ;
+- Règles de rémunération par statut et des charges sociales.","- Maîtriser parfaitement les outils bureautiques (GSuite, Word, Excel) ;
+- Utiliser des applications métiers (Tiarhé, Jira, Surfi)","- Sens prononcé de l'organisation ;
+- Qualités relationnelles et sens de l'écoute ;
+- Sens de l'initiative et autonomie.",,Ludovic PRIGENT,,ludovic.prigent@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d919620f783463457c562c0e7a069703/download/
+62913,0,Infirmier(ère),"Infirmier de secteur psychiatrique, de service hospitalier, de soins généraux, en santé mentale",J1506-1,26-62913/MPRH,2026-04-23,Nouvelle-Calédonie,infirmier en soins généraux,,,,Au moins égale à 5 ans,2025-04-01 00:00:00+11:00,vacant à partir du,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,,Nouméa,2026-03-20 11:20:22+11:00,2026-05-14,"La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ) a été créée en novembre 2016. La direction intervient, à travers des établissements de placement éducatif et 1 service de milieu ouvert et d'insertion, dans la prise éducative de mineurs placés par décision judiciaire au titre de l'enfance délinquante ou de la protection de l'enfance.",Infirmier,"Placé(e) sous l'autorité du directeur, l'infirmier(ère) accueille tout mineur qui lui est orienté ou qui le sollicite. Ses missions relève tant de la prévention que du soin et de l'accompagnement et sont exercées à travers des prises en charge individuelles ou collectives. Il/Elle intervient sur l'ensemble des services de la direction.","- Ecouter et accompagner les mineurs,
+- Organiser le bilan médical et de santé du mineur au cours de sa prise en charge,
+- Organiser les urgences et les soins, et assurer un suivi infirmier de l'état de santé des mineurs placés, ainsi que le suivi des rendez-vous médicaux,
+- Mettre en place un suivi médical du mineur quand cela est nécessaire,
+- Pratiquer des actes infirmiers sur prescription médicale (prise de médicament, soin, ...),
+- Développer une dynamique de prévention et d'éducation à la santé,
+- Mettre en place des actions individuelles et collectives en matière d'hygiène, de prévention et de promotion de la santé,
+- Aider le mineur et sa famille à la compréhension des soins curatifs et préventifs à prodiguer,
+- Développer le réseau autour de la santé.","- Établir ses bilans et rapport d'activité (mensuel, trimestriel et annuel),
+- Participer aux réunions institutionnelles.","- Etre titulaire du permis de conduire B;
+- Adaptation des horaires afin de répondre aux besoins des mineurs et de l'organisation des prises en charge éducatives;
+- Déplacement possible sur l'ensemble de la Nouvelle-Calédonie.","- Diplôme d'Etat d'Infirmier,
+- Expérience dans la prise en charge des troubles psychiatriques, du comportement et des addictions,
+- Réalisation de soins infirmier,
+- Bonne connaissance des problématiques adolescentes,
+- Connaissance de l'organisation de la santé en Nouvelle-Calédonie,
+- Connaissance en action de promotion et de prévention de la santé,
+- Techniques d'écoute active et d'accompagnement.","- Capacité à réaliser un diagnostic infirmier,
+- Capacité à travailler au sein d'une équipe pluridisciplinaire,
+- Capacité à travailler en réseau,
+- Mise en oeuvre d'actions de prévention individuelles et collectives,
+- Conseiller et accompagner un public jeune,
+- Identifier / Analyser des situations d'urgences et apporter les solutions adaptées.","- Volontaire;
+- Dynamique;
+- Qualités relationnelles avérées;
+- Gestion du stress, maîtrise de soi;
+- Esprit d'équipe;
+- Flexibilité et disponibilité.",,"Monsieur Paulo WATOENE, directeur PJEJ",23 25 84,paulo.watoene@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b4a1c934f4812002be8a075eca9ad4db/download/
+63542,0,Chef(fe) de pôle bâtiments et équipements,"Responsable de travaux, Responsable de travaux BTP",F1201-3,26-0614,2026-04-23,Ville du Mont-Dore,technicien,,Equipement,,,,susceptible d'être vacant,Ville du Mont-Dore,,,LA COULEE MONT DORE,2026-04-22 12:30:59+11:00,2026-05-14,,Responsable des constructions,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/13fbcbd1ec21ecc5e00d7aa6e351a6a0/download/
+63539,0,Travailleur social,Intervenant d'action sociale,K1201-1,26-0611,2026-04-23,Centre d'action communale de Nouméa,assistant socio-éducatif,,,,,,immédiatement,Centre d'action communale de Nouméa,CCAS-Nouméa,,Nouméa,2026-04-22 11:33:24+11:00,2026-05-14,,Travailleur social,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5b9caded25e484a77ac800d47f7f9f92/download/
 63445,0,Technicien d'analyses en biologie médicale,"Technicien de laboratoire d'analyse des eaux, d'analyse industrielle, de contrôle en énergie-pétrochimie",H1503-3,26-0577,2026-04-16,Centre hospitalier du Nord,technicien de laboratoire,,Médico-technique,,,2026-09-01 00:00:00+11:00,date,Centre hospitalier du Nord,CHN,,,2026-04-16 13:31:54+11:00,2026-05-07,,Technicien de laboratoire,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cac1622200747e938fc310f53d90c636/download/
 61733,0,"Educateur spécialisé ou moniteur éducateur, à la Maison de l'enfance  de Dumbéa sur mer",,,25-2037,2025-12-25,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2025-12-24 08:40:13+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/8e2ff6e5476c5855ddeee17b49d521ed/download/
 60384,0,Médecin à l'UPASS de Thio,,,25-1601,2025-10-09,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-10-09 10:38:17+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a12d3d4e68ce665ab9effc467eecbaca/download/
@@ -403,6 +324,10 @@ L'agent recruté est rémunéré par le gouvernement de la Nouvelle-Calédonie. 
 58760,0,Sage-femme échographiste itinérante,,,25-1027,2025-07-03,Province Sud,sage femme,,,,,,immédiatement,Province Sud,PVS,,,2025-07-02 10:48:03+11:00,2026-05-28,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/af7a2866967ec474bf2462606fdd715f/download/
 63598,0,Secrétaire d'assemblée,,,26-0623,2026-04-30,Province des îles Loyauté,rédacteur,,,,,,immédiatement,Province des îles Loyauté,PIL,,,2026-04-29 08:38:19+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6cc33bc44e1bf88525dac414bbd61335/download/
 63460,0,Secrétaire général(e),"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,26-0590,2026-04-16,,emploi fonctionnel,,,,,2026-07-01 00:00:00+11:00,date,,,,Paita,2026-04-16 14:46:04+11:00,2026-05-07,,Responsable administratif,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a8bfa800683a96f803a329833e9165ec/download/
+63470,0,Directeur(trice) des services techniques,,,26-0593,2026-04-16,,emploi fonctionnel,,,,,2026-06-01 00:00:00+11:00,date,,,,Paita,2026-04-16 15:17:08+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1c1bb487d578f96c3de852c5d0ffb039/download/
+63458,0,Responsable du service technique,,,26-0588,2026-04-16,,technicien,,Equipement,,,,immédiatement,,,,Mairie de Canala,2026-04-16 14:34:21+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/23ad629c05347fb99d92b60648064c6a/download/
+63474,0,Chef de service adjoint de la cellule admission facturation et recouvrement,,,26-0597,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",attaché,rédacteur,,,,2026-08-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médipôle Koutio,2026-04-16 15:31:28+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/51eb59aaf713a6f579f0aa0fc1bb141d/download/
+63475,0,Cadre de santé aux urgences adultes - SAMU/SMUR,,,26-0598,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",cadre de santé,,Cadre de santé,,,2026-09-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médpôle de Koutio,2026-04-16 15:34:16+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4032ec7733fa0359b0a8c81235deccd4/download/
 63155,0,2 Facilitatrices de projets,,,26-0483,2026-04-12,"Centre hospitalier territorial ""Gaston Bourret""",attaché,ingénieur,,Informatique,Au moins égale à 5 ans,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,,2026-04-01 15:54:56+11:00,2026-05-03,,Inspecteur,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0b35ff28ece54ba1ad12c4a859ba5d84/download/
 63537,0,1 Infirmier(e) en néonatalogie,,,26-0619,2026-04-23,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,,2026-04-22 11:28:59+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/eca69ba85ee2ffcc33a218c446bb0f2a/download/
 63655,0,Directeur de cabinet,,,26-0662,2026-04-30,"Centre hospitalier territorial ""Gaston Bourret""",emploi fonctionnel,,,,,2026-07-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,,2026-04-30 08:36:39+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0ddf269c91edf5affb72c1a79b842261/download/
@@ -425,6 +350,17 @@ L'agent recruté est rémunéré par le gouvernement de la Nouvelle-Calédonie. 
 63611,0,Travailleur social au Service de la prévention et promotion de la santé,,,26-0639,2026-04-30,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2026-04-29 09:21:17+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/54d3e215112b3644aa39efb2e4d3cdc1/download/
 63273,0,Travailleur social,,,26-0516,2026-04-09,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2026-04-08 15:07:06+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/205f0aa375926563231f3628906f166c/download/
 62626,0,Educateur spécialisé ou moniteur-éducateur à la maison de l'enfance  de Bourail,,,26-0301,2026-02-26,Province Sud,assistant socio-éducatif,,,,,,immédiatement,Province Sud,PVS,,,2026-02-26 22:36:45+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9557adbae81914697f9e64e9d08324f1/download/
+63536,0,1 référent carrière et temps de travail / analyste de gestion,,,26-0620,2026-04-23,,rédacteur d'administration générale,attaché d'administration générale,,,,,immédiatement,,,,,2026-04-22 11:28:01+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a3461d64bf22285fdf7defb5df09ec23/download/
+63448,0,Chef de section gestion voirie et déplacements,,,26-0580,2026-04-16,,attaché,ingénieur,,Equipement,,2026-07-01 00:00:00+11:00,date,,,,Annexe Ferry,2026-04-16 13:56:48+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1cca33fca61d67f2be3ab8128a168b9c/download/
+63657,0,4 agents d'office,,,26-0660,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-07-01 00:00:00+11:00,date,,,,,2026-04-30 08:41:47+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/2f702527bc6626785276c4ac1e5cf5ce/download/
+63643,0,Assistant(e) de gestion au responsable de la station de recherche agronomique de l'IAC à Pocquereux,,,26-0651,2026-04-30,Institut agronomique calédonien,adjoint administratif,,,,,,immédiatement,,,,,2026-04-30 08:07:57+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/27eccbd2146ac4e29a4d734cad6f9616/download/
+63136,0,DATA INGENIEUR,,,26-0500,2026-04-02,,ingénieur,,Informatique,,,,immédiatement,,,,,2026-04-01 14:47:42+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7fe6ee2d3aa40405219eafddad8b6e43/download/
+63514,0,Surveillant-Animateur scolaire,,,26-0600,2026-04-23,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2026-05-06 00:00:00+11:00,date,,,,YATE,2026-04-22 09:52:39+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a2a849472c932b84e0f25b4bd22126d8/download/
+63606,0,Cantinière,,,26-0633,2026-04-30,,ACDP-Grille rémunération 1-Sans diplôme,,,,,,immédiatement,,,,,2026-04-29 09:09:27+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cc70b1d1f758fab89ec0a5ea1bd5d535/download/
+63433,0,Chargé(e) des aides aux études supérieures,,,26-0572,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 11:23:18+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f4df88e8db6e8f9efb900f4df4c57c39/download/
+63322,0,1 éducateur de rue,,,26-0545,2026-04-09,,assistant socio-éducatif,,,,,,immédiatement,,,,,2026-04-09 07:59:42+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9fb205132f5823c067eafd0c87104cbd/download/
+63451,0,Assistant administratif et comptable,,,26-0583,2026-04-16,,adjoint administratif,,,,,2026-08-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:07:34+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/58cb9afc45aaa78a0691e1cd5089f1aa/download/
+62294,0,3 INFIRMIERS EN SOINS GÉNÉRAUX,,,26-0218,2026-02-05,Province Nord,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,,2026-02-06 09:29:50+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/963ea0c8927d89e9c3e6b21e8ee9ec1c/download/
 62753,0,Responsable de la section Santé animale 1 et de la cellule vétérinaire,Chef de laboratoire d'analyse industrielle,H1501-1,26-62753/MPRH,2026-04-23,Nouvelle-Calédonie,ingénieur,,Economie rurale,,"Ingénieur 2ème grade du domaine de l'économie rurale
 au moins égale à 5 ans.",,immédiatement,"Direction des affaires vétérinaires, alimentaires et rurales",DAVAR,Service des laboratoires,PAITA,2026-03-09 11:50:18+11:00,2026-05-14,"Le LNC, laboratoire officiel de la Nouvelle Calédonie dans les domaines vétérinaire, agroalimentaire, phytosanitaire et de l'eau, est chargé notamment de la réalisation des missions de contrôle, de diagnostic, d'analyses et d'études en laboratoires, dans les domaines suivants :
 - Analyses, études ou enquêtes ayant trait notamment au contrôle de la salubrité et de la qualité des denrées alimentaires et de l'eau, à la santé animale et à la protection des végétaux ;
@@ -678,6 +614,216 @@ de la jeunesse ;
 - Empathie ;
 - Déontologie ;
 - Disponibilité.",,"Marie-Gabrielle TOLIKOLI-MOTUTOA , chef de service",23 20 10,marie-gabrielle.tolikoli-motutoa@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7c2d0944bf3cf7400763d43291907842/download/
+62685,0,Examinateur du permis de conduire,Inspecteur de la conduite et de la sécurité routière,K2110-2,26-62685/MPRH,2026-03-26,Nouvelle-Calédonie,technicien,,Equipement,,,,immédiatement,"Direction des infrastructures, de la topographie et des transports terrestres",DITTT,Service des permis de conduire,Nouméa,2026-03-03 16:11:08+11:00,2026-05-07,,Examinateur du permis de conduire et de la sécurité routière,"Placé sous l'autorité du chef du bureau de l'éducation et de la sécurité routière, l'examinateur des permis de conduire évalue les connaissances et compétences des candidats aux permis de conduire de toutes les  catégories de véhicules et participe à des actions de sécurité et de circulation routière ainsi qu'aux missions administratives inhérentes à la fonction.","Mettre en oeuvre la procédure d'examen théorique du code de la route.
+Évaluer les compétences des futurs conducteurs de véhicules terrestres à moteur.
+Contrôler et procéder à la validation des dossiers d'examens du permis de conduire sur le logiciel informatique des permis de conduire.","Animer des actions de sensibilisation ou d'information sur les grands facteurs de l'insécurité routière (alcool, vitesse, respect des règles de bonne conduite, etc...).
+Conseiller et assurer le contrôle administratif et pédagogique des établissements d'enseignement à la conduite et des moniteurs.","Déplacements sur l'ensemble du territoire.
+
+Conformément à l'article 14.1 de la délibération 74/CP du 12/02/2009, les candidats doivent : 
+- Ne pas faire l'objet d'une inscription sur le fichier national des permis de conduire au titre des décisions de restriction de validité, de suspension, d'annulation, d'interdiction de délivrance de permis de conduire ou de changement de catégorie du permis de conduire prononcées en application du code de la route.
+- Déclarer la profession de leur conjoint, de leurs ascendants et descendants au 1er degré, de leurs collatéraux au 2ème degré si cette profession se rattache à l'école de conduite ou à la formation des moniteurs.","- Être titulaire du permis de conduire des catégorie A, B, C, D. Permis en cours de validité.
+- Etre titulaire du BEPECASER (Brevet pour l'Exercice de la Profession d'Enseignant de la Conduite Automobile et de la Sécurité Routière) d'Etat ou de Nouvelle-Calédonie ou du titre professionnel ECSR (Enseignant de la Conduite et de la Sécurité Routière).
+- Connaître la réglementation applicable aux permis de conduire et à la sécurité routière.
+- Connaître l'environnement professionnel inhérent à la fonction d'examinateur du permis de conduire.","Maîtriser parfaitement la conduite automobile et l'utilisation des doubles commandes.
+Assister et accompagner les candidats dans des conditions réelles de circulation.
+Appliquer la procédure d'évaluation des candidats au permis de conduire.
+Animer des actions liées à la prévention et à la sécurité routière.
+Maîtriser les outils et applications informatiques.
+Savoir communiquer et s'adapter au public.","Sens du service public  
+Rigueur, probité.
+Discrétion, confidentialité.
+Qualités relationnelles.
+Sens du travail en équipe.
+Savoir gérer les conflits.
+Faire preuve d'adaptabilité",,"M. Patrick MAHOUX, chef de service",29 20 48,patrick.mahoux@gouv.nc,"Mme Sylvie TOEMINO, chef de bureau",28 16 24,sylvie.toemino@gouv.nc,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/535130cd98d7e8dc1961ee8f5637d9c9/download/
+63438,0,Gestionnaire en ressources humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-0575,2026-04-16,Province Sud,rédacteur,,,,,,immédiatement,,,,Nouméa,2026-04-16 13:00:03+11:00,2026-05-07,,Gestionnaire administratif des ressources humaines,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bd51c1b26f2cf5475bf890fcc7e5f1a4/download/
+62893,0,Gestionnaire Ressources Humaines,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,26-62893/MPRH,2026-04-30,Direction interrégionale de Météo-France,rédacteur,,,,,,autre,,,,Nouméa,2026-03-19 10:33:47+11:00,2026-05-21,"La Direction Interrégionale de Météo-France en Nouvelle-Calédonie et à Wallis et Futuna et le Service de la Météorologie de la Nouvelle-Calédonie mettent en œuvre conjointement le développement et la maintenance d'un réseau d'observation météorologique, la collecte, le traitement et la diffusion de données climatologiques, la prévision du temps et l'élaboration de projections climatiques. Pour remplir ces missions, 65 agents et 6 divisions apportent leur concours. La division Support apporte le soutien administratif.
+C'est sur cette dernière division, qui compte une dizaine d'agents, que porte cet AVP. Ses missions s'articulent autour de 4 grands axes :
+- gestion des ressources humaines
+- gestion budgétaire 
+- communication interne et externe
+- commercialisation de produits et prestations météorologiques",Gestionnaire administratif des ressources humaines,"Sous l'autorité du chef de division ou de son adjoint, le candidat retenu devra participer à la mise en œuvre et au suivi  de la gestion :
+- des ressources humaines, 
+- des déplacements
+- des salaires
+- du plan de développement des compétences","- Informer orienter et conseiller les agents et leurs managers
+- Mettre en œuvre et réaliser l'ensemble des actes de gestion administrative
+- Gérer le recrutement et l'intégration du personnel : évaluer le besoin en recrutement, rédiger les fiches de poste, diffuser les offres d'emploi, réaliser une présélection des candidats, rédiger les documents administratifs d'embauche, organiser l'intégration du nouvel arrivant ;
+- Gérer les carrières et la mobilité des salariés ;
+- Gérer le besoin en formation et les plans de développement de compétences des agents.
+- Gérer les déplacements et l'organisation des missions ;
+- Préparer et contrôler la paie ;
+- Suivre le temps de travail et gérer les absences ;
+- Alimenter et exploiter les systèmes d'information de gestion des ressources humaines (SIRH) afin de fournir des données fiables
+- Participer à la mise en œuvre et à l'évaluation des processus et des outils RH","- Participer à l'organisation des élections
+- Acteur de la qualité, le candidat retenu devra contribuer aux revues des processus RH","Poste soumis au régime du temps de travail de Météo-France.
+Le service gère trois statuts RH (fonctions publiques État et Nouvelle-Calédonie, contractuels).
+L'agent recruté est rémunéré par le gouvernement de la Nouvelle-Calédonie. Il perçoit les primes spécifiques versées aux agents administratifs de la DIRNC.","- Bonne connaissance des collectivités de la NC, de leur fonctionnement, et des interlocuteurs RH 
+- Bonne connaissance des procédures administratives
+- Bonne connaissance du statut général de la fonction publique NC
+- Bonne connaissance des statuts des agents de Météo-France
+- Bonne connaissance du droit dans le domaine de compétence","- Savoir utiliser les outils RH, SIRH, GFD 
+- Savoir rédiger des documents administratifs dans le domaine RH
+- Savoir appliquer un protocole","- Sens de l'organisation
+- Discrétion
+- Rigueur
+- Qualité d'écoute
+- Sens des relations humaines 
+- Curiosité
+- Autonomie",,Claire ALUZE,27 93 07,claire.aluze@meteo.fr,,,,la direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,5,Poste publié dans le cadre d'une réorganisation,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/91e25af34692032940cc5b5a96c6e4e2/download/
+63518,0,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,26-0604,2026-04-23,Institut de formation à l'administration publique,rédacteur,,,,,,immédiatement,Institut de formation à l'administration publique,IFAP,,Nouméa,2026-04-22 10:05:04+11:00,2026-05-14,,Gestionnaire comptable,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4159c40b98b37ddf20472d073c161598/download/
+63650,0,Assistant(e) sociale,,,26-0667,2026-04-30,Maison de l'Etudiant,assistant socio-éducatif,,,,,2026-06-01 00:00:00+11:00,date,Maison de l'Etudiant,MDE,,,2026-04-30 08:25:33+11:00,2026-05-21,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/943d9900fcbe2b6ce1ba2197d8434bac/download/
+63524,0,Agent d'entretien - Ambulancier (Touho),,,26-0606,2026-04-23,Province Nord,ACDP-Grille rémunération 1-Sans diplôme,,,,,2027-01-01 00:00:00+11:00,date,Province Nord,PVN,,TOUHO,2026-04-22 10:24:51+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d9251e1fd46b88a17756c1369aa9cf83/download/
+57900,0,Médecin à l'UPASS de l'Ile des Pins,,,25-0725,2025-05-15,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-05-15 14:44:10+11:00,2026-05-07,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/44f28d0907701d01168a7b74153658c2/download/
+63456,0,Agent culturel,,,26-0586,2026-04-16,Province des îles Loyauté,adjoint administratif,,,,,,autre,Province des îles Loyauté,PIL,,Maré,2026-04-16 14:22:03+11:00,2026-05-07,,,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,5,Réorganisation,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/28065b92cc3b3c86ca6e072afd8f986b/download/
+63469,0,Aide-soignant,"Aide-soignant, Aide-soignant (à domicile, hospitalier, en puériculture, en gériatrie)",J1412-2,26-0592,2026-04-16,Province des îles Loyauté,aide-soignant,,Aide-soignant,,,,immédiatement,Province des îles Loyauté,PIL,,Centre médicale de Wé - Lifou,2026-04-16 15:14:23+11:00,2026-05-07,,Aide soignant,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f36c6a511f822285c5791dd535f9d2ad/download/
+63410,0,Assistant administratif,,,26-0573,2026-04-16,Province Sud,adjoint administratif,,,,,,immédiatement,,,,Nouméa,2026-04-15 15:49:34+11:00,2026-05-07,,Assistant administratif,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4cb558b7732b128a497ebc8b7cb65817/download/
+63232,0,Assistant de service social,"Assistant de service social, Assistant social, Assistant social (de secteur, du personnel, du travail)",K1201-5,26-63232/MPRH,2026-04-30,Nouvelle-Calédonie,assistant socio-éducatif,,,,- Au moins égale à 5 ans.,,immédiatement,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,Service éducatif de milieu ouvert et d'insertion,Nouméa,2026-04-07 10:39:45+11:00,2026-05-21,"La Direction de la Protection Judiciaire de l'Enfance et de la Jeunesse (DPJEJ) a pour mission d'accueillir, de protéger et d'accompagner des jeunes relevant de la protection de l'enfance et de l'enfance délinquante.
+L'équipe pluridisciplinaire est composée d'éducateurs spécialisés, de moniteurs éducateurs, de psychologues, d'infirmiers, de veilleurs, d'un ouvrier polyvalent ainsi que d'un chef de service ou chef de service éducatif. En complément, la direction peut mobiliser certaines ressources internes, telles que le pool de chargés de mission et les agents supports.
+Afin de renforcer ses effectifs, la DPJEJ recherche un(e) assistant(e) de service social.",,"L'assistant de service social au sein du DPJEJ a pour mission d'accueillir et d'accompagner les mineurs et leurs familles dans le de la mise en œuvre des mesures éducatives prononcées par l'autorité judiciaire au titre de
+l'enfance délinquante ou de l'enfance en danger.
+L'assistant social sera chargé d'accompagner les équipes dans la compréhension des dispositifs et de l'organisation autour du projet du mineur. Il apportera un appui aux décisions d'orientation et veillera à favoriser des relations de qualité entre la famille et les différents intervenants sociaux.","- Mettre en œuvre des actions d'accompagnement auprès des jeunes et des familles;
+- Participer à la préparation et à l'application des décisions judiciaires;
+- Réaliser des investigations et des enquêtes sociales;
+- Analyser la situation sociale et familiale des jeunes suivis;
+- Mener des entretiens pour évaluer les situations;
+- Identifier les situations de danger ou de dysfonctionnement;
+- Évaluer les capacités d'évolution et les ressources des familles;
+- Recueillir les informations nécessaires à la prise de décision judiciaire;
+- Répondre aux demandes du juge des enfants.",,"- Permis B obligatoire, 
+- Déplacement sur tout le territoire de la Nouvelle Calédonie.","- Diplôme d'Etat d'Assistant de Service Social,
+- Connaissance des institutions, des dispositifs existants et des intervenants du champ du handicap et de la dépendance en Nouvelle-Calédonie.","- Maîtrise des techniques d'entretien d'aide à la personne, d'écoute active et de communication,
+- Savoir évaluer, analyser et synthétiser les situations,
+- Savoir rédiger des dossiers administratifs de demande et savoir réaliser les enquêtes sociales,
+- Savoir être synthétique, à l'écrit comme à l'oral.","- Savoir travailler en équipe pluridisciplinaire et en réseau avec les organismes à caractère social et médico-social,
+- Sens de l'écoute et dialogue facile,
+- Disponibilité et autonomie,
+- Discrétion,
+- Sens du service public.",,"Marie-Gabrielle TOLIKOLI-MOTUTOA, chef de service",23 20 10,marie-gabrielle.tolikoli-motutoa@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bd215cd3a3bb2c4b8d4467bf2639759c/download/
+63532,0,Chef du service du domaine et du patrimoine,Responsable technique diagnostic du bâtiment,F1103-6,26-0608,2026-04-23,Province Nord,ingénieur,,Equipement,,,,immédiatement,Province Nord,PVN,,KONE,2026-04-22 11:12:09+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5e158629a0c10abd3cef6ddbe2507570/download/
+63525,0,Adjoint(e) d'éducation (Koumac) dortoir filles,,,26-0607,2026-04-23,Province Nord,adjoint d'éducation,,,,,,immédiatement,Province Nord,PVN,,KOUMAC,2026-04-22 10:33:22+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b0fc272c14aa49a060d14f50ffea5acb/download/
+63342,0,Secrétaire Général,,,26-0558,2026-04-09,Ville du Mont-Dore,emploi fonctionnel,,,,,,immédiatement,Ville du Mont-Dore,,,,2026-04-10 08:50:58+11:00,2026-05-21,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/05d8f5938c204c0824b665f96a17f423/download/
+63516,0,Technicien-instructeur des autorisations d'urbanisme,,,26-0602,2026-04-23,Ville du Mont-Dore,technicien,,Equipement,,,,susceptible d'être vacant,Ville du Mont-Dore,,,LA COULEE - MONT-DORE,2026-04-22 09:57:49+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d7b5b4bada580303c12c2aeaef7b024/download/
+61335,1,Administrateur 'Messagerie et outils collaboratifs',"Administrateur réseau informatique, réseaux - télécoms",M1801-2,25-61335/MPRH,2026-02-05,Nouvelle-Calédonie,ingénieur,technicien,Informatique,Informatique,,,immédiatement,Direction du numérique et de la modernisation,DINUM,Service infrastructures,Nouméa - Ouémo,2025-11-27 15:07:57+11:00,2026-05-07,,Administrateur réseau,"La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la
+stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance
+par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers
+sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités
+provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
+
+Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation de la DINUM privilégie un fonctionnement organisé autour de produits numériques, la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes. Cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.
+
+L'administrateur ""Messagerie et outils collaboratifs"" est le binôme opérationnel du chef de produit «Messagerie et outils collaboratif ». Il est responsable de missions essentielles pour le bon fonctionnement de la collectivité. Il  participe à l'identification et la mise en place d'alternatives en mode produit aux outils collaboratifs de la suite Google Workspace, en recherchant des outils moins couteux, transparents et adaptés à la manipulation de données sensibles, dans les différents périmètres qui sont les siens, et notamment: la  messagerie électronique, le chat, la visioconférence, le stockage et la création/édition ainsi que le travail collaboratif sur les documents. Il y intègre la gestion de l'IA générative dans un cadre d'usage respectueux des contraintes et règles de cybersécurité. Il s'assure de la bonne intégration des outils dans le système d'information du gouvernement (référentiels, authentification, usage dans les applications, API)  et de leur disponibilité en mode ""cloud"".
+
+En tant que responsable de la messagerie, il s'assure également du bon respect des normes de fonctionnement de cette dernière, notamment dans l'usage des technologies SPF/DKIM/DMARK/BIMI que dans les mécanismes de sécurité (antivirus, antispams) et de protection réputationnels du domaine de messagerie.
+
+Il peut-être amené à travailler avec des partenaires locaux ou nationaux sur l'évolution des outils collaboratifs, dont la nature peut être innovante par rapport aux usages traditionnels. 
+
+
+
+
+
+L'administrateur systèmes et réseaux assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.","Activités principales : 
+Être l'interlocuteur privilégié de agents de la DINUM et des directions métiers sur les sujets messagerie et outils collaboratifs actuels et à venir :
+- Conduire des ateliers avec les différents acteurs métier,
+- Décliner les axes stratégiques métier en objectifs opérationnels numériques, 
+- Animer la démarche de définition des besoins et de priorisation,
+- Participer à l'élaboration de la stratégie de la messagerie,
+- Participer à la rédaction et à la mise à jour de la documentation utilisateur.
+- S'assurer du bon fonctionnement technique des outils et de leur conformité technique, réglementaire, et en matière de cybersécurité.
+ 
+Il participe activement à  la vision produit  portée par le chef de produit:
+- Définir et décliner les visions produit ainsi que la feuille de route globale selon des jalons de livraison réguliers,
+- Assurer la cohérence des visions produit avec la stratégie et les cadres de cohérence numériques,
+- Analyser les données et retours utilisateur pour comprendre les besoins utilisateur / client,
+- Identifier les fonctionnalités attendues et sélectionner celles qui apportent le plus de valeurs ou de bénéfices aux utilisateurs,
+- Mesurer la valeur métier réalisée et à venir,
+ 
+Il administre techniquement les systèmes et composants techniques de la solution actuelle Google Workspace et des outils à venir.
+
+Activités secondaires : 
+- Elaborer et mettre à jour les procédures techniques et la documentation des processus gérés et optimisés ;
+- Proposer des améliorations dans son domaine d'activité et organiser leur mise en œuvre au travers de chantiers ou projets qu'il peut être amené à gérer et piloter ;
+- Elaborer et participer aux dossiers de consultations.
+
+Caractéristiques particulières de l'emploi :  
+- Travaux possibles à réaliser en dehors des heures ouvrées ;
+- Interventions sur sites ponctuelles (Permis B exigé).",,,"- Connaissances en messagerie d'entreprise;
+- Connaissance des fondamentaux de la gestion de serveurs et notamment des serveurs de messagerie ;
+- Connaissance des outils collaboratifs en général, Google Workspace serait un plus.
+- Connaissance des méthodes, outils, normes d'exploitation et de qualité [Réf. ITIL] ;
+- Bonne connaissance de l'anglais technique informatique.","- Connaître les fondamentaux du Cloud ;
+- Administrer des serveurs Linux, de messagerie et applicatifs.
+- Agile techniquement, apte à la recherche autonome de solutions.
+- Rédiger la documentation technique ;
+- Mesurer la performance et la métrologie ;
+- Assurer la veille technologique.
+- Connaissance des outils et technologies opensource.","- Gout de l'innovation, des technologies de rupture;
+- Pragmatisme;
+- Prise d'initiative et autonomie ; 
+- Esprit d'analyse et de synthèse ;
+- Méthodes et sens de l'organisation ;
+- Rigueur et disponibilité ; 
+- Sens de la communication et de l'écoute ;
+- Sens du travail en équipe et de la hiérarchie ;
+- Sens de la transmission et de l'accompagnement d'équipe ;
+- Faculté d'adaptation ;
+- Capacité à rechercher et s'autoformer.",,"Naiké DURAND, chef du service des infrastructures",27 58 88,naike.durand@gouv.nc,"Charles BIONDI, directeur adjoint",27 58 88,charles.biondi@gouv.nc,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f53e1eacaed19e2e462f731c77385b9f/download/
+60119,0,Chef(fe) de produit 'Messagerie et outils collaboratifs',Administrateur système informatique,M1801-3,25-60119/MPRH,2025-11-13,Nouvelle-Calédonie,ingénieur,,Informatique,,Ingénieur 1er et 2ème grade domaine Informatique : au moins égale à 5 ans.,2026-01-05 00:00:00+11:00,vacant à partir du,Direction du numérique et de la modernisation,DINUM,Service infrastructures,Nouméa,2025-09-22 12:41:24+11:00,2026-05-07,"La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la
+stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance
+par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers
+sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités
+provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
+
+Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation de la DINUM privilégie un fonctionnement organisé autour de produits numériques, la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes. Cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.",Administrateur système,"Le chef de produit ""Messagerie et outils collaboratifs"" est responsable de missions essentielles pour le bon fonctionnement de la collectivité. Il  pilote l'identification et la mise en place d'alternatives en mode produit aux outils collaboratifs de la suite Google Workspace, en recherchant des outils moins couteux, transparents et adaptés à la manipulation de données sensibles, dans les différents périmètres qui sont les siens, et notamment: la  messagerie électronique, le chat, la visioconférence, le stockage et la création/édition ainsi que le travail collaboratif sur les documents. Il y intègre la gestion de l'IA générative dans un cadre d'usage respectueux des contraintes et règles de cybersécurité. Il s'assure de la bonne intégration des outils dans le système d'information du gouvernement (référentiels, authentification, usage dans les applications, API)  et de leur disponibilité en mode ""cloud"".
+
+En tant que responsable de la messagerie, il s'assure également du bon respect des normes de fonctionnement de cette dernière, notamment dans l'usage des technologies SPF/DKIM/DMARK/BIMI que dans les mécanismes de sécurité (antivirus, antispams) et de protection réputationnels du domaine de messagerie.
+
+Il peut-être amené à travailler avec des partenaires locaux ou nationaux sur l'évolution des outils collaboratifs, dont la nature peut être innovante par rapport aux usages traditionnels.","Être l'interlocuteur privilégié de agents de la DINUM et des directions métiers sur les sujets messagerie et outils collaboratifs :
+- Conduire des ateliers avec les différents acteurs métier,
+- Décliner les axes stratégiques métier en objectifs opérationnels numériques, 
+- Animer la démarche de définition des besoins et de priorisation,
+- Participer à l'élaboration de la stratégie de la messagerie,
+- Participer à la rédaction et à la mise à jour de la documentation utilisateur.
+- S'assurer du bon fonctionnement technique des outils et de leur conformité technique, réglementaire, et en matière de cybersécurité.
+ 
+Être le porteur de la vision produit :
+- Définir et décliner les visions produit ainsi que la feuille de route globale selon des jalons de livraison réguliers,
+- Assurer la cohérence des visions produit avec la stratégie et les cadres de cohérence numériques,
+- Analyser les données et retours utilisateur pour comprendre les besoins utilisateur / client,
+- Identifier les fonctionnalités attendues et sélectionner celles qui apportent le plus de valeurs ou de bénéfices aux utilisateurs,
+- Mesurer la valeur métier réalisée et à venir,
+ 
+Gestion du Backlog :
+· Décrire les éléments du Backlog et les prioriser,
+· Mettre à jour le Backlog pour indiquer les éléments réalisés,
+· Répondre aux questions des autres membres de l'équipe de messagerie/outils collaboratifs, et des éventuels prestataires d'intégration des briques collaboratives, portant sur les besoins métiers
+· Organiser et gérer l'implication des parties prenantes.","- Elaborer et mettre à jour les procédures techniques et la documentation des processus gérés et optimisés ;
+- Proposer des améliorations dans son domaine d'activité et organiser leur mise en œuvre au travers de chantiers ou projets qu'il peut être amené à gérer et piloter ;
+- Elaborer et participer aux dossiers de consultations ;
+- Participer à la gestion de l'administration Google Admin - Workspace.","- Travaux possibles à réaliser en dehors des heures ouvrées ;
+ - Interventions sur sites ponctuelles (Permis B exigé).","- Connaissances en messagerie d'entreprise;
+- Connaissance des outils collaboratifs en général, Google Workspace serait un plus.
+- Connaissance des fondamentaux et des étapes de la gestion de produits ;
+- Connaissance des méthodes, outils, normes d'exploitation et de qualité [Réf. ITIL] ;
+- Bonne connaissance de l'anglais technique informatique.","- Manager une équipe transverse pour la gestion de projets ;
+- Connaître les fondamentaux du Cloud ;
+- Rédiger la documentation de procédures ;
+- Mesurer la performance et la métrologie ;
+- Organiser l'activité par processus et objectifs ;
+- Utiliser des méthodes adaptées au travail en équipe ;
+- Assurer la veille technologique.","- Gout de l'innovation, des technologies de rupture;
+- Pragmatisme;
+- Prise d'initiative et autonomie ; 
+- Esprit d'analyse et de synthèse ;
+- Méthodes et sens de l'organisation ;
+- Rigueur et disponibilité ; 
+- Sens de la communication et de l'écoute ;
+- Sens du travail en équipe et de la hiérarchie ;
+- Sens de la transmission et de l'accompagnement d'équipe ;
+- Faculté d'adaptation ;
+- Capacité à rechercher et s'autoformer.",Modification de la date de clôture initialement prévue le 05/12/2025,Charles BIONDI,27 58 88,charles.biondi@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5c5a8789932341c0d585c42a6bde3f05/download/
+63395,0,2 postes d'agents d'office,"Agent de cuisine, Aide de cuisine, Aide de cuisine de collectivité",G1605-1,26-0568,2026-04-16,,ACDP-Grille rémunération 1-Sans diplôme,,,,,,immédiatement,,,,Paita,2026-04-15 08:16:21+11:00,2026-05-07,,Agent d'office,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/51703896e371270b5803c4fc2410dabe/download/
+63396,0,"Assistant en charge du protocole, de la sureté et de la sécurité",Agent administratif,M1602-1,26-0569,2026-04-16,Congrès de la Nouvelle-Calédonie,adjoint administratif,,,,,,immédiatement,Congrès de la Nouvelle-Calédonie,CNC,,Nouméa,2026-04-15 08:21:09+11:00,2026-05-07,,Assistant administratif,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/de896e64dccd8afc67d168b1ba577e5f/download/
 60375,0,Médecin à l'UPASS de Bourail,,,25-1593,2025-10-09,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-10-09 09:42:50+11:00,2026-05-14,,Inspecteur,,,,,,,,Modification de la date de clôture initialement prévue le 23/01/2026,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e07eb44e905815d81b936972fdb9f83a/download/
 60389,0,Médecin à l'UPASS de Nouméa - ESPACE SANTE,,,25-1604,2025-10-09,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-10-09 11:08:37+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/2c87c85d3deae11a3e8a3850807da00d/download/
 59440,0,Médecin à l'UPASS de Nouméa - ESPACE SANTE,,,25-1284,2025-08-14,Province Sud,médecin de santé publique,,,,,,immédiatement,Province Sud,PVS,,,2025-08-13 15:29:05+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cd69e93b19d6f7178e3c676565010f3f/download/
@@ -784,17 +930,6 @@ Le candidat retenu devra également :
 - Qualité d'écoute ;
 - Esprit d'initiative, force de proposition ;
 - Curiosité.",,Claire ALUZE Cheffe de la division SUPPORT,27 93 07,claire.aluze@meteo.fr,,,,la direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/16ff2d937dcb57cebb911004f675295e/download/
-63461,0,2 infirmières en soins généraux,Infirmier général,J1412-10,26-0591,2026-04-16,Province des îles Loyauté,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,Centre médicale de Wé - Lifou,2026-04-16 14:48:52+11:00,2026-05-07,,Infirmier,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/34e113e082ea1486d8307772fd357b64/download/
-63535,0,1 responsable du pôle administratif et budgétaire,,,26-0621,2026-04-23,,attaché d'administration générale,rédacteur d'administration générale,,,,,immédiatement,,,,,2026-04-22 11:25:31+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9e43caee0b9f417d7b3956e55319c59f/download/
-63656,0,Référent(e) qualitén hygiène et sécurité des aliments,,,26-0661,2026-04-30,,technicien,,Economie rurale,,,2026-11-05 00:00:00+11:00,date,,,,,2026-04-30 08:38:04+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/832e1e2b631d25cb609b943cc72629fe/download/
-63642,0,Gestionnaire des ressources humaines et comptable,,,26-0650,2026-04-30,Institut agronomique calédonien,rédacteur,,,,,2026-06-01 00:00:00+11:00,date,,,,,2026-04-30 08:06:38+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/24e7b66e986db87a0e69cc5e06a9f0e2/download/
-63601,0,Secrétaire générale adjoint,,,26-0627,2026-04-30,,adjoint administratif,,,,,,immédiatement,,,,,2026-04-29 08:53:00+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ec854f9ce88880b7a024ce4cd6dbc94d/download/
-63450,0,Juriste,,,26-0582,2026-04-16,,attaché,,,,,2026-08-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:05:07+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/179d697c74bdce5d25b494f4e76148f7/download/
-63449,0,Coordinateur administratif,,,26-0581,2026-04-16,,rédacteur,,,,,2026-07-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:01:46+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b5d91b78bb316f3aaea048a023e27532/download/
-63213,0,Chef de la Brigade administrative  de la  police municipale,,,26-0506,2026-04-02,,Gradés de la Police Municipale,,,,,,immédiatement,,,,,2026-04-03 14:15:52+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9a826f38b763a0c9406ee40f77bece07/download/
-63134,0,CHARGÉ DE TRAVAUX,,,26-0498,2026-04-02,,ingénieur,,Equipement,,,,immédiatement,,,,,2026-04-01 14:29:14+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6b4219226ddccc8d6c79cf928b9d68f6/download/
-63471,0,Juriste/conseiller en dialogue social,,,26-0594,2026-04-16,,attaché,,,,,2026-08-01 00:00:00+11:00,date,,,,Nouméa,2026-04-16 15:19:32+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d0b41461417106381520d21046b8cc38/download/
-63394,0,Sage-femme,Sage-femme,J1104-1,26-0567,2026-04-16,Province des îles Loyauté,sage femme,,,,,,immédiatement,Province des îles Loyauté,PIL,,CMS DE NENGONE,2026-04-15 08:11:38+11:00,2026-05-07,,Sage-femme de santé publique,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b5847c1003211410489f1a09bb3b3b72/download/
 63446,0,3 assistantes médico-administratif,,,26-0578,2026-04-16,Centre hospitalier du Nord,rédacteur,,,,,2026-06-01 00:00:00+11:00,date,Centre hospitalier du Nord,CHN,,,2026-04-16 13:38:07+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/901d852acc36b9ea4d856855661984c8/download/
 63551,0,6 infirmièr(e)s en réanimation,,,26-0616,2026-04-23,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,2026-08-01 00:00:00+11:00,date,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Koutio,2026-04-22 13:00:00+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0c2fe4858e72e0af889368204b1fce4d/download/
 62981,0,4 Infirmier(e)s de bloc opératoire,,,26-0459,2026-03-26,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,,2026-03-25 09:56:44+11:00,2026-05-07,,Inspecteur,,,,,,,,Modification de la date de clôture initialement prévue le 17/04/2026,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/12dba185ea16680507b5c83ac6472a31/download/
@@ -851,6 +986,15 @@ Réactivité et adaptabilité.",,Capitaine Alexandre ROSSIGNOL,78 72 28,alexandr
 63472,0,Technicien de stérilisation,,,26-0595,2026-04-16,"Centre hospitalier territorial ""Gaston Bourret""",technicien,,Economie rurale,,,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Médipôle Koutio,2026-04-16 15:22:42+11:00,2026-05-07,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1a8473457553897f5fcca951db724036/download/
 63651,0,3 Sage-femmes en gynécologie-obstétrique,,,26-0666,2026-04-30,"Centre hospitalier territorial ""Gaston Bourret""",sage femme,,,,,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,,2026-04-30 08:29:48+11:00,2026-05-21,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0d903385c10c2d6b2c20c584685313f5/download/
 63552,0,Infirmier(e) en pédiatrie,,,26-0617,2026-04-23,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,Infirmiers,,,,immédiatement,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,Koutio,2026-04-22 13:03:02+11:00,2026-05-14,,,,,,,,,,,,,,,,,Direction des Ressources Humaines / Cellule recrutement,Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio,BP J5-98849 - Nouméa cedex,kelly.miloud@cht.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cd5fc233c100aede80034b26a15a5f7d/download/
+63535,0,1 responsable du pôle administratif et budgétaire,,,26-0621,2026-04-23,,attaché d'administration générale,rédacteur d'administration générale,,,,,immédiatement,,,,,2026-04-22 11:25:31+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9e43caee0b9f417d7b3956e55319c59f/download/
+63656,0,Référent(e) qualitén hygiène et sécurité des aliments,,,26-0661,2026-04-30,,technicien,,Economie rurale,,,2026-11-05 00:00:00+11:00,date,,,,,2026-04-30 08:38:04+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/832e1e2b631d25cb609b943cc72629fe/download/
+63642,0,Gestionnaire des ressources humaines et comptable,,,26-0650,2026-04-30,Institut agronomique calédonien,rédacteur,,,,,2026-06-01 00:00:00+11:00,date,,,,,2026-04-30 08:06:38+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/24e7b66e986db87a0e69cc5e06a9f0e2/download/
+63601,0,Secrétaire générale adjoint,,,26-0627,2026-04-30,,adjoint administratif,,,,,,immédiatement,,,,,2026-04-29 08:53:00+11:00,2026-05-21,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ec854f9ce88880b7a024ce4cd6dbc94d/download/
+63450,0,Juriste,,,26-0582,2026-04-16,,attaché,,,,,2026-08-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:05:07+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/179d697c74bdce5d25b494f4e76148f7/download/
+63449,0,Coordinateur administratif,,,26-0581,2026-04-16,,rédacteur,,,,,2026-07-01 00:00:00+11:00,date,,,,Hôtel de Ville,2026-04-16 14:01:46+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b5d91b78bb316f3aaea048a023e27532/download/
+63213,0,Chef de la Brigade administrative  de la  police municipale,,,26-0506,2026-04-02,,Gradés de la Police Municipale,,,,,,immédiatement,,,,,2026-04-03 14:15:52+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9a826f38b763a0c9406ee40f77bece07/download/
+63134,0,CHARGÉ DE TRAVAUX,,,26-0498,2026-04-02,,ingénieur,,Equipement,,,,immédiatement,,,,,2026-04-01 14:29:14+11:00,2026-05-14,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6b4219226ddccc8d6c79cf928b9d68f6/download/
+63471,0,Juriste/conseiller en dialogue social,,,26-0594,2026-04-16,,attaché,,,,,2026-08-01 00:00:00+11:00,date,,,,Nouméa,2026-04-16 15:19:32+11:00,2026-05-07,,Inspecteur,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d0b41461417106381520d21046b8cc38/download/
 63534,0,Auxiliaire de vie sociale (Poindimié),"Assistant de vie, Auxiliaire de vie, Auxiliaire (de Vie Sociale -AVS-, familial, familial et sanitaire)",K1303-3,26-0610,2026-04-23,Province Nord,adjoint socio-éducatif,,,,,2026-07-09 00:00:00+11:00,date,Province Nord,PVN,,POINDIMIE,2026-04-22 11:23:46+11:00,2026-05-14,,Auxiliaire de vie,,,,,,,,,,,,,,,,,,,,PUBLIE,4,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1b01458fc52b2a7f0169d51d1d34ab4a/download/
 63099,1,Ingénieur Chimiste,Chef de laboratoire d'analyse industrielle,H1501-1,26-63099/MPRH,2026-04-23,Nouvelle-Calédonie,ingénieur,,Economie rurale,,,2026-07-15 00:00:00+11:00,vacant à partir du,"Direction des affaires vétérinaires, alimentaires et rurales",DAVAR,Service des laboratoires,PAITA,2026-03-31 09:28:40+11:00,2026-05-14,,Cadre de laboratoire,"Le LNC, laboratoire officiel de la Nouvelle-Calédonie dans les domaines vétérinaire, agroalimentaire, phytosanitaire et de l'eau, est chargé notamment de la réalisation des missions de contrôle, de diagnostic et d'études en laboratoires, dans les domaines suivants :
 - Analyses de routine, études ou enquêtes ayant trait notamment au contrôle de la salubrité et de la qualité des denrées alimentaires et de l'eau, à la santé animale et à la protection des végétaux ;
@@ -1012,149 +1156,5 @@ Expertise pédagogique:
 - Sens de l'écoute ;
 - Professionnalisme ;
 - Capacité à rendre compte.",,Cyrille PHILIPPE,77 46 58,cyrille.philippe@gouv.nc,Christelle VARNEY,77 62 76,christelle.varney@gouv.nc,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/69959525ef7296a0fb386ba62695964b/download/
-63232,0,Assistant de service social,"Assistant de service social, Assistant social, Assistant social (de secteur, du personnel, du travail)",K1201-5,26-63232/MPRH,2026-04-30,Nouvelle-Calédonie,assistant socio-éducatif,,,,- Au moins égale à 5 ans.,,immédiatement,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,Service éducatif de milieu ouvert et d'insertion,Nouméa,2026-04-07 10:39:45+11:00,2026-05-21,"La Direction de la Protection Judiciaire de l'Enfance et de la Jeunesse (DPJEJ) a pour mission d'accueillir, de protéger et d'accompagner des jeunes relevant de la protection de l'enfance et de l'enfance délinquante.
-L'équipe pluridisciplinaire est composée d'éducateurs spécialisés, de moniteurs éducateurs, de psychologues, d'infirmiers, de veilleurs, d'un ouvrier polyvalent ainsi que d'un chef de service ou chef de service éducatif. En complément, la direction peut mobiliser certaines ressources internes, telles que le pool de chargés de mission et les agents supports.
-Afin de renforcer ses effectifs, la DPJEJ recherche un(e) assistant(e) de service social.",,"L'assistant de service social au sein du DPJEJ a pour mission d'accueillir et d'accompagner les mineurs et leurs familles dans le de la mise en œuvre des mesures éducatives prononcées par l'autorité judiciaire au titre de
-l'enfance délinquante ou de l'enfance en danger.
-L'assistant social sera chargé d'accompagner les équipes dans la compréhension des dispositifs et de l'organisation autour du projet du mineur. Il apportera un appui aux décisions d'orientation et veillera à favoriser des relations de qualité entre la famille et les différents intervenants sociaux.","- Mettre en œuvre des actions d'accompagnement auprès des jeunes et des familles;
-- Participer à la préparation et à l'application des décisions judiciaires;
-- Réaliser des investigations et des enquêtes sociales;
-- Analyser la situation sociale et familiale des jeunes suivis;
-- Mener des entretiens pour évaluer les situations;
-- Identifier les situations de danger ou de dysfonctionnement;
-- Évaluer les capacités d'évolution et les ressources des familles;
-- Recueillir les informations nécessaires à la prise de décision judiciaire;
-- Répondre aux demandes du juge des enfants.",,"- Permis B obligatoire, 
-- Déplacement sur tout le territoire de la Nouvelle Calédonie.","- Diplôme d'Etat d'Assistant de Service Social,
-- Connaissance des institutions, des dispositifs existants et des intervenants du champ du handicap et de la dépendance en Nouvelle-Calédonie.","- Maîtrise des techniques d'entretien d'aide à la personne, d'écoute active et de communication,
-- Savoir évaluer, analyser et synthétiser les situations,
-- Savoir rédiger des dossiers administratifs de demande et savoir réaliser les enquêtes sociales,
-- Savoir être synthétique, à l'écrit comme à l'oral.","- Savoir travailler en équipe pluridisciplinaire et en réseau avec les organismes à caractère social et médico-social,
-- Sens de l'écoute et dialogue facile,
-- Disponibilité et autonomie,
-- Discrétion,
-- Sens du service public.",,"Marie-Gabrielle TOLIKOLI-MOTUTOA, chef de service",23 20 10,marie-gabrielle.tolikoli-motutoa@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bd215cd3a3bb2c4b8d4467bf2639759c/download/
-63532,0,Chef du service du domaine et du patrimoine,Responsable technique diagnostic du bâtiment,F1103-6,26-0608,2026-04-23,Province Nord,ingénieur,,Equipement,,,,immédiatement,Province Nord,PVN,,KONE,2026-04-22 11:12:09+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5e158629a0c10abd3cef6ddbe2507570/download/
-63525,0,Adjoint(e) d'éducation (Koumac) dortoir filles,,,26-0607,2026-04-23,Province Nord,adjoint d'éducation,,,,,,immédiatement,Province Nord,PVN,,KOUMAC,2026-04-22 10:33:22+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b0fc272c14aa49a060d14f50ffea5acb/download/
-63342,0,Secrétaire Général,,,26-0558,2026-04-09,Ville du Mont-Dore,emploi fonctionnel,,,,,,immédiatement,Ville du Mont-Dore,,,,2026-04-10 08:50:58+11:00,2026-05-21,,,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/05d8f5938c204c0824b665f96a17f423/download/
-63516,0,Technicien-instructeur des autorisations d'urbanisme,,,26-0602,2026-04-23,Ville du Mont-Dore,technicien,,Equipement,,,,susceptible d'être vacant,Ville du Mont-Dore,,,LA COULEE - MONT-DORE,2026-04-22 09:57:49+11:00,2026-05-14,,,,,,,,,,,,,,,,,,,,,,PUBLIE,1,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d7b5b4bada580303c12c2aeaef7b024/download/
-61335,1,Administrateur 'Messagerie et outils collaboratifs',"Administrateur réseau informatique, réseaux - télécoms",M1801-2,25-61335/MPRH,2026-02-05,Nouvelle-Calédonie,ingénieur,technicien,Informatique,Informatique,,,immédiatement,Direction du numérique et de la modernisation,DINUM,Service infrastructures,Nouméa - Ouémo,2025-11-27 15:07:57+11:00,2026-05-07,,Administrateur réseau,"La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la
-stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance
-par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers
-sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités
-provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
-
-Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation de la DINUM privilégie un fonctionnement organisé autour de produits numériques, la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes. Cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.
-
-L'administrateur ""Messagerie et outils collaboratifs"" est le binôme opérationnel du chef de produit «Messagerie et outils collaboratif ». Il est responsable de missions essentielles pour le bon fonctionnement de la collectivité. Il  participe à l'identification et la mise en place d'alternatives en mode produit aux outils collaboratifs de la suite Google Workspace, en recherchant des outils moins couteux, transparents et adaptés à la manipulation de données sensibles, dans les différents périmètres qui sont les siens, et notamment: la  messagerie électronique, le chat, la visioconférence, le stockage et la création/édition ainsi que le travail collaboratif sur les documents. Il y intègre la gestion de l'IA générative dans un cadre d'usage respectueux des contraintes et règles de cybersécurité. Il s'assure de la bonne intégration des outils dans le système d'information du gouvernement (référentiels, authentification, usage dans les applications, API)  et de leur disponibilité en mode ""cloud"".
-
-En tant que responsable de la messagerie, il s'assure également du bon respect des normes de fonctionnement de cette dernière, notamment dans l'usage des technologies SPF/DKIM/DMARK/BIMI que dans les mécanismes de sécurité (antivirus, antispams) et de protection réputationnels du domaine de messagerie.
-
-Il peut-être amené à travailler avec des partenaires locaux ou nationaux sur l'évolution des outils collaboratifs, dont la nature peut être innovante par rapport aux usages traditionnels. 
-
-
-
-
-
-L'administrateur systèmes et réseaux assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.","Activités principales : 
-Être l'interlocuteur privilégié de agents de la DINUM et des directions métiers sur les sujets messagerie et outils collaboratifs actuels et à venir :
-- Conduire des ateliers avec les différents acteurs métier,
-- Décliner les axes stratégiques métier en objectifs opérationnels numériques, 
-- Animer la démarche de définition des besoins et de priorisation,
-- Participer à l'élaboration de la stratégie de la messagerie,
-- Participer à la rédaction et à la mise à jour de la documentation utilisateur.
-- S'assurer du bon fonctionnement technique des outils et de leur conformité technique, réglementaire, et en matière de cybersécurité.
- 
-Il participe activement à  la vision produit  portée par le chef de produit:
-- Définir et décliner les visions produit ainsi que la feuille de route globale selon des jalons de livraison réguliers,
-- Assurer la cohérence des visions produit avec la stratégie et les cadres de cohérence numériques,
-- Analyser les données et retours utilisateur pour comprendre les besoins utilisateur / client,
-- Identifier les fonctionnalités attendues et sélectionner celles qui apportent le plus de valeurs ou de bénéfices aux utilisateurs,
-- Mesurer la valeur métier réalisée et à venir,
- 
-Il administre techniquement les systèmes et composants techniques de la solution actuelle Google Workspace et des outils à venir.
-
-Activités secondaires : 
-- Elaborer et mettre à jour les procédures techniques et la documentation des processus gérés et optimisés ;
-- Proposer des améliorations dans son domaine d'activité et organiser leur mise en œuvre au travers de chantiers ou projets qu'il peut être amené à gérer et piloter ;
-- Elaborer et participer aux dossiers de consultations.
-
-Caractéristiques particulières de l'emploi :  
-- Travaux possibles à réaliser en dehors des heures ouvrées ;
-- Interventions sur sites ponctuelles (Permis B exigé).",,,"- Connaissances en messagerie d'entreprise;
-- Connaissance des fondamentaux de la gestion de serveurs et notamment des serveurs de messagerie ;
-- Connaissance des outils collaboratifs en général, Google Workspace serait un plus.
-- Connaissance des méthodes, outils, normes d'exploitation et de qualité [Réf. ITIL] ;
-- Bonne connaissance de l'anglais technique informatique.","- Connaître les fondamentaux du Cloud ;
-- Administrer des serveurs Linux, de messagerie et applicatifs.
-- Agile techniquement, apte à la recherche autonome de solutions.
-- Rédiger la documentation technique ;
-- Mesurer la performance et la métrologie ;
-- Assurer la veille technologique.
-- Connaissance des outils et technologies opensource.","- Gout de l'innovation, des technologies de rupture;
-- Pragmatisme;
-- Prise d'initiative et autonomie ; 
-- Esprit d'analyse et de synthèse ;
-- Méthodes et sens de l'organisation ;
-- Rigueur et disponibilité ; 
-- Sens de la communication et de l'écoute ;
-- Sens du travail en équipe et de la hiérarchie ;
-- Sens de la transmission et de l'accompagnement d'équipe ;
-- Faculté d'adaptation ;
-- Capacité à rechercher et s'autoformer.",,"Naiké DURAND, chef du service des infrastructures",27 58 88,naike.durand@gouv.nc,"Charles BIONDI, directeur adjoint",27 58 88,charles.biondi@gouv.nc,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f53e1eacaed19e2e462f731c77385b9f/download/
-60119,0,Chef(fe) de produit 'Messagerie et outils collaboratifs',Administrateur système informatique,M1801-3,25-60119/MPRH,2025-11-13,Nouvelle-Calédonie,ingénieur,,Informatique,,Ingénieur 1er et 2ème grade domaine Informatique : au moins égale à 5 ans.,2026-01-05 00:00:00+11:00,vacant à partir du,Direction du numérique et de la modernisation,DINUM,Service infrastructures,Nouméa,2025-09-22 12:41:24+11:00,2026-05-07,"La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la
-stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance
-par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers
-sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités
-provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
-
-Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation de la DINUM privilégie un fonctionnement organisé autour de produits numériques, la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes. Cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.",Administrateur système,"Le chef de produit ""Messagerie et outils collaboratifs"" est responsable de missions essentielles pour le bon fonctionnement de la collectivité. Il  pilote l'identification et la mise en place d'alternatives en mode produit aux outils collaboratifs de la suite Google Workspace, en recherchant des outils moins couteux, transparents et adaptés à la manipulation de données sensibles, dans les différents périmètres qui sont les siens, et notamment: la  messagerie électronique, le chat, la visioconférence, le stockage et la création/édition ainsi que le travail collaboratif sur les documents. Il y intègre la gestion de l'IA générative dans un cadre d'usage respectueux des contraintes et règles de cybersécurité. Il s'assure de la bonne intégration des outils dans le système d'information du gouvernement (référentiels, authentification, usage dans les applications, API)  et de leur disponibilité en mode ""cloud"".
-
-En tant que responsable de la messagerie, il s'assure également du bon respect des normes de fonctionnement de cette dernière, notamment dans l'usage des technologies SPF/DKIM/DMARK/BIMI que dans les mécanismes de sécurité (antivirus, antispams) et de protection réputationnels du domaine de messagerie.
-
-Il peut-être amené à travailler avec des partenaires locaux ou nationaux sur l'évolution des outils collaboratifs, dont la nature peut être innovante par rapport aux usages traditionnels.","Être l'interlocuteur privilégié de agents de la DINUM et des directions métiers sur les sujets messagerie et outils collaboratifs :
-- Conduire des ateliers avec les différents acteurs métier,
-- Décliner les axes stratégiques métier en objectifs opérationnels numériques, 
-- Animer la démarche de définition des besoins et de priorisation,
-- Participer à l'élaboration de la stratégie de la messagerie,
-- Participer à la rédaction et à la mise à jour de la documentation utilisateur.
-- S'assurer du bon fonctionnement technique des outils et de leur conformité technique, réglementaire, et en matière de cybersécurité.
- 
-Être le porteur de la vision produit :
-- Définir et décliner les visions produit ainsi que la feuille de route globale selon des jalons de livraison réguliers,
-- Assurer la cohérence des visions produit avec la stratégie et les cadres de cohérence numériques,
-- Analyser les données et retours utilisateur pour comprendre les besoins utilisateur / client,
-- Identifier les fonctionnalités attendues et sélectionner celles qui apportent le plus de valeurs ou de bénéfices aux utilisateurs,
-- Mesurer la valeur métier réalisée et à venir,
- 
-Gestion du Backlog :
-· Décrire les éléments du Backlog et les prioriser,
-· Mettre à jour le Backlog pour indiquer les éléments réalisés,
-· Répondre aux questions des autres membres de l'équipe de messagerie/outils collaboratifs, et des éventuels prestataires d'intégration des briques collaboratives, portant sur les besoins métiers
-· Organiser et gérer l'implication des parties prenantes.","- Elaborer et mettre à jour les procédures techniques et la documentation des processus gérés et optimisés ;
-- Proposer des améliorations dans son domaine d'activité et organiser leur mise en œuvre au travers de chantiers ou projets qu'il peut être amené à gérer et piloter ;
-- Elaborer et participer aux dossiers de consultations ;
-- Participer à la gestion de l'administration Google Admin - Workspace.","- Travaux possibles à réaliser en dehors des heures ouvrées ;
- - Interventions sur sites ponctuelles (Permis B exigé).","- Connaissances en messagerie d'entreprise;
-- Connaissance des outils collaboratifs en général, Google Workspace serait un plus.
-- Connaissance des fondamentaux et des étapes de la gestion de produits ;
-- Connaissance des méthodes, outils, normes d'exploitation et de qualité [Réf. ITIL] ;
-- Bonne connaissance de l'anglais technique informatique.","- Manager une équipe transverse pour la gestion de projets ;
-- Connaître les fondamentaux du Cloud ;
-- Rédiger la documentation de procédures ;
-- Mesurer la performance et la métrologie ;
-- Organiser l'activité par processus et objectifs ;
-- Utiliser des méthodes adaptées au travail en équipe ;
-- Assurer la veille technologique.","- Gout de l'innovation, des technologies de rupture;
-- Pragmatisme;
-- Prise d'initiative et autonomie ; 
-- Esprit d'analyse et de synthèse ;
-- Méthodes et sens de l'organisation ;
-- Rigueur et disponibilité ; 
-- Sens de la communication et de l'écoute ;
-- Sens du travail en équipe et de la hiérarchie ;
-- Sens de la transmission et de l'accompagnement d'équipe ;
-- Faculté d'adaptation ;
-- Capacité à rechercher et s'autoformer.",Modification de la date de clôture initialement prévue le 05/12/2025,Charles BIONDI,27 58 88,charles.biondi@gouv.nc,,,,la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie,Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa,B.P M2 - 98849 Nouméa cedex,drhfpnc.recrutement@gouv.nc,,PUBLIE,3,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5c5a8789932341c0d585c42a6bde3f05/download/
-63395,0,2 postes d'agents d'office,"Agent de cuisine, Aide de cuisine, Aide de cuisine de collectivité",G1605-1,26-0568,2026-04-16,,ACDP-Grille rémunération 1-Sans diplôme,,,,,,immédiatement,,,,Paita,2026-04-15 08:16:21+11:00,2026-05-07,,Agent d'office,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/51703896e371270b5803c4fc2410dabe/download/
-63396,0,"Assistant en charge du protocole, de la sureté et de la sécurité",Agent administratif,M1602-1,26-0569,2026-04-16,Congrès de la Nouvelle-Calédonie,adjoint administratif,,,,,,immédiatement,Congrès de la Nouvelle-Calédonie,CNC,,Nouméa,2026-04-15 08:21:09+11:00,2026-05-07,,Assistant administratif,,,,,,,,,,,,,,,,,,,,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/de896e64dccd8afc67d168b1ba577e5f/download/
+63461,0,2 infirmières en soins généraux,Infirmier général,J1412-10,26-0591,2026-04-16,Province des îles Loyauté,infirmier en soins généraux,,Infirmiers,,,,immédiatement,,,,Centre médicale de Wé - Lifou,2026-04-16 14:48:52+11:00,2026-05-07,,Infirmier,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/34e113e082ea1486d8307772fd357b64/download/
+63394,0,Sage-femme,Sage-femme,J1104-1,26-0567,2026-04-16,Province des îles Loyauté,sage femme,,,,,,immédiatement,Province des îles Loyauté,PIL,,CMS DE NENGONE,2026-04-15 08:11:38+11:00,2026-05-07,,Sage-femme de santé publique,,,,,,,,,,,,,,,"la direction de l'administration générale de la province des îles Loyauté, service des RH",Hôtel de la province des îles Loyauté à Wé - Lifou,BP 50 - 98820 WE LIFOU,dag-recrutement@loyalty.nc,45.51.30,PUBLIE,0,,https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b5847c1003211410489f1a09bb3b3b72/download/
