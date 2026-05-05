@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 180 offres extraites de la DRHFPNC.
+Ce document regroupe 181 offres extraites de la DRHFPNC.
 
 # 25-0724 - Médecin à l'UPASS de Yaté
 
@@ -6540,183 +6540,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-0483 - 2 Facilitatrices de projets
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0b35ff28ece54ba1ad12c4a859ba5d84/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-0483 - 2 Facilitatrices de projets",
-  "description": "Domaine: Autres filières. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Nouvelle-Calédonie"
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-0483/",
-  "datePosted": "2026-04-12",
-  "validThrough": "2026-05-03",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-### **2 Facilitateurs(trices) de projets**
-
-**Référence : 3134-26-0483/SR du 2026-04-13**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-05-03  
-    **Direction :** CHT  
-    **Domaine :** Autres filières  
-    **Statut :** 🔥 **Urgent** (≤2 jours)
-
-
-
-![](_page_0_Picture_3.jpeg)
-
-**Corps /Domaine :** Attaché
-
-Les ingénieurs peuvent postuler en changeant de corps
-
-**Durée de résidence exigée pour le recrutement sur**
-
-**titre (1) :** /
-
-**Poste à pourvoir :** Juillet 2026
-
-**Direction des projets et communication**
-
-**Lieu de travail : Médipôle Koutio**
-
-**Date de dépôt de l'offre :** Lundi 2026-04-13
-
-**Date limite de candidature :** Lundi 2026-05-04
-
-## Détails de l'offre :
-
-![](_page_0_Picture_15.jpeg)
-
-Le Centre Hospitalier Territorial Gaston Bourret (CHT), hôpital de référence en Nouvelle-Calédonie, et le Centre Hospitalier Spécialisé Albert Bousquet (CHS) s'engagent dans une dynamique ambitieuse de transformation, au service des patients, des parcours de soins et des professionnels.
-
-Dans ce cadre, la Direction des Projets et de la Communication (DPC) – direction commune au CHT et au CHS – joue un rôle central : structurer, accompagner et faire vivre les projets, tout en diffusant une véritable culture projet partagée au sein des deux établissements. Pour renforcer cette dynamique, le CHT recrute 2 facilitateurs (trices), amenés à intervenir à la fois au CHT et au CHS, en lien étroit avec les équipes de terrain et les directions.
-
-**Pour en savoir plus sur notre établissement, cliquez sur le lien suivant: [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston Bourret**
-
-![](_page_0_Figure_19.jpeg)
-
-Le/la facilitateur(trice), accompagne les équipes hospitalières de l'idée à la concrétisation :
-
-- aider à faire émerger, structurer et prioriser les initiatives,
-- sécuriser les projets,
-- créer du lien entre les acteurs,
-- transformer les idées en actions utiles et mesurables.
-
-Vous interviendrez notamment dans l'accompagnement des équipes engagées dans le développement d'une culture projet commune, pragmatique et accessible.
-
-### **Activités principales:**
-
-#### Accompagnement des projets
-
-- Accompagner les porteurs d'initiatives dans l'émergence, le cadrage et la structuration de leurs projets ;
-- Aider à la clarification des objectifs, du périmètre, des rôles et des livrables ;
-- Sécuriser les projets (risques, dépendances, faisabilité, priorisation) ;
-- Favoriser l'autonomisation progressive des équipes.
-
-#### Animation et facilitation
-
-- Animer des réunions, groupes de travail et ateliers collaboratifs multi-métiers ;
-- Faciliter l'intelligence collective et la co-construction de solutions adaptées au terrain ;
-- Créer du lien entre les professionnels, les directions et les instances décisionnelles.
-
-#### Gouvernance et suivi
-
-- Préparer, coordonner et assurer le suivi de la Commission Bimestrielle des Initiatives (CBI) : calendrier, dossiers, synthèses, décisions et suivi des actions ;
-- Contribuer au suivi des projets (jalons, indicateurs, retours d'expérience) ;
-- Participer à la capitalisation des bonnes pratiques et des enseignements.
-
-### Diffusion de la culture projet
-
-- Contribuer activement au développement d'une culture projet partagée, fondée sur :
-  - la co-construction,
-  - des méthodes simples et pragmatiques,
-  - L'amélioration continue ;
-- Accompagner les équipes dans l'appropriation des outils et méthodes projet.
-
-#### Méthodes et approches mobilisées
-
-- Gestion de projet pragmatique adaptée au contexte hospitalier ;
-- Facilitation et intelligence collective ;
-- Conduite du changement progressive ;
-- Démarches d'amélioration continue ;
-- Outils simples de cadrage, de suivi et de capitalisation.
-
-#### **Les + du poste :**
-
-- Des projets concrets et porteurs de sens, directement liés aux besoins des patients et des professionnels
-- Une direction transversale et stratégique, au cœur des transformations hospitalières
-- Un travail en binôme et en équipe, dans un esprit collaboratif
-- Une vraie marge d'initiative pour innover dans les méthodes et les outils
-- Une immersion dans deux établissements complémentaires (MCO & santé mentale)
-
-### **Profil du candidat :**
-
-- Diplôme d'école d'ingénieur, de management, d'école de commerce, management de projet ou équivalent minimum Bac +4
-- Expérience confirmée en accompagnement de projets, facilitation ou conduite du changement
-- Connaissance de l'organisation d'un hôpital souhaitée
-- Une expérience en communication (rédaction, élaboration d'outils, supports de présentation, synthèses, valorisation de projets) sera particulièrement appréciée
-- Une capacité à gérer des projets multi-acteurs, à animer des réunions, des groupes de travail, ou des ateliers collaboratifs est attendue sur ce poste,
-- Capacité de synthèse et rédaction, organisation, priorisation et coordination, créativité et agilité dans les méthodes sont nécessaires à la tenue du poste,
-- Capacité à embarquer et motiver, à travailler dans des environnements complexes ainsi qu'un excellent relationnel et sens de l'écoute, un esprit d'initiative et une grande adaptabilité, et enfin diplomatie et pédagogie sont indispensables;
-- Posture de facilitateur(trice) et de soutien aux équipes ;
-
-## **Conditions de travail et avantages :**
-
-● Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille du cadre de [l'administration](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf) générale)
-
-ℹ️ **Contact et informations complémentaires :** Emmanuelle Kuhn Directrice des projets et de la communication - tél : [📞 20.80.00](tel:208000) - Poste 8048 / mail : [✉️ emmanuelle.kuhn@cht.nc](mailto:emmanuelle.kuhn@cht.nc)
-
-# **POUR RÉPONDRE À CETTE OFFRE**
-
-Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
-
-#### *[Facilitateur\(trice\)](https://recrutement.cht.nc/jobs/7441370-facilitateur-trice-de-projet-2-postes?promotion=1913881-trackable-share-link-drhfpnc) de projet (2 postes) - CHT Gaston Bourret*
-
-En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#) {target="_blank"}
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[CHT]: Centre Hospitalier Territorial
-*[CHS]: Centre Hospitalier Spécialisé
 
 
 ---
@@ -23176,6 +22999,200 @@ Les candidatures, adressées au Maire de la Ville de Païta, (CV détaillé, let
 
 ---
 
+# 26-0653 - Technicien hydrographe - adjoint logistique
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ba8abb8b11aed3706f599bea4ac908e5/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0653 - Technicien hydrographe - adjoint logistique",
+  "description": "Domaine: Economie rurale. Direction: Nouvelle-Calédonie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0653/",
+  "datePosted": "2026-05-03",
+  "validThrough": "2026-05-21",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+# Technicien hydrographe - Adjoint Logistique
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-21  
+    **Direction :** NC  
+    **Domaine :** Economie rurale  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0653/SR du 1 er mai 2026**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** Ingénieur 2 ème grade /
+
+économie rurale
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** 5 ans
+
+**Poste à pourvoir :** immédiatement
+
+**Direction :** SHOM
+
+**Lieu de travail :** Site du service des Phares et balises à
+
+Numbo, Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 1 er mai 2026
+
+**Date limite de candidature :** Vendredi 2026-05-22
+
+# Détails de l'offre 
+Le présent recrutement concerne la Base Hydrographique de Nouvelle-Calédonie (BHNC), implantée sur le site des Phares et Balises à Numbo. Au 2011-01-01, la compétence en hydrographie pour la sécurité de la navigation dans les eaux territoriales et intérieures a été transférée de l'Etat vers la Nouvelle-Calédonie. Trois hydrographes civils du gouvernement de Nouvelle-Calédonie renforcent à ce titre les effectifs de la Base Hydrographique de Nouvelle-Calédonie (BHNC) dirigée par le Shom, établissement public de l'Etat sous tutelle du ministère des Armées. L'un d'eux est en charge de la gestion et l'entretien du matériel scientifique afin de garantir un haut niveau de disponibilité nécessaire à l'exécution des levés hydrographiques à la mer.
+
+**Emploi RESPNC :** Hydrographe
+
+## 🎯 Missions
+
+## 1/ Adjoint Logistique 
+- Sous la responsabilité de l'ingénieur, chef de service soutien, il participe à l'intégration et au maintien en condition opérationnelle (MCO) des équipements scientifiques à bord des embarcations (sondeurs, matériel de nivellement et positionnement GNSS, instruments océanographiques, ...). Il gère la préparation et l'entretien du matériel scientifique pour les missions à la mer, assure les premières maintenances, ainsi que les envois pour étalonnage ou réparation de ces équipements.
+- En lien avec l'équipe logistique et les chefs de mission hydrographique, il prépare les mouillages océanographiques pour l'acquisition de mesures marégraphiques et courantométriques à la mer.
+- En lien avec l'équipe logistique, il est responsable de la gestion et de l'approvisionnement en matériel et consommables de l'atelier de la BHNC. Il participe à l'encadrement de l'équipe logistique du service de soutien en charge de l'entretien de la drome.
+
+# 2/ Responsable du réseau de marégraphes permanents (MCN) de Nouvelle-Calédonie et de Wallis-et-Futuna 
+- En lien avec le département marégraphie du Shom, il est en charge du suivi et du maintien en conditions opérationnelles des marégraphes permanents de Nouvelle-Calédonie (actuellement 7 sites à maintenir) donnant lieu à des missions sur le terrain de 3 à 7j sur la Grande Terre, les îles Loyauté et Wallis-et-Futuna. Il est en charge de la préparation des missions de MCO, de leur exécution puis de la rédaction des
+
+comptes rendus d'intervention et de la mise à jour des Fiches d'observatoire de marée. Le cas échéant, il assure la commande de matériels de rechange.
+
+#### 3/ Hydrographe embarqué 
+Il participe sous la responsabilité d'un chef d'équipe et d'un ingénieur hydrographe, au recueil des données hydrographiques lors de campagnes de mesures en mer. Il participe au quart à la mer et veille à la qualité des mesures collectées, et participe à leur traitement à bord. Ces informations sont ensuite diffusées pour assurer la sécurité de la navigation maritime au profit de tous, navigateurs professionnels et plaisanciers.
+
+#### Activités principales : 1/ Adjoint Logistique 
+- Préparation et conditionnement des matériels scientifiques au profit des missions de la BHNC. Inventaire et suivi du matériel scientifique sous le logiciel Pytheas ;
+- Stockage, entretien et veille des échéances d'étalonnage des équipements du Shom ;
+- En lien avec l'équipe Logistique, tenue d'un stock comptable des consommables et des Equipements de protection individuelle ;
+- En lien avec l'équipe Logistique, préparation, envoi et réception des équipements à destination et en retour de la métropole (pour étalonnage ou réparation) en relation avec les transitaires privés et les douanes de Nouvelle Calédonie ;
+- En lien avec l'hydrographe Programmeur, participation aux calibrations et ajustages des équipements scientifiques du GOP ;
+- En lien avec l'ingénieur Logistique, conduite d'essais de matériels, qualification et/ou recherche de panne et rédaction de rapports ;
+- En lien avec l'ingénieur Logistique, intégration technique et électrique des systèmes hydrographiques (sondeurs, antennes, matériel informatique, batteries,...).
+- Propose les investissements nécessaires pour l'équipe logistique et le bon déroulement de leurs mises en place.
+
+## 2/ Responsable du réseau de marégraphes permanents (MCN) de Nouvelle-Calédonie et de Wallis-et-Futuna 
+- Suivi et maintien en condition opérationnelle (MCO) des marégraphes côtiers numériques (MCN) de la Nouvelle-Calédonie et de Wallis-et-Futuna dans le cadre de la prévention des risques littoraux (Tsunami, submersions cycloniques, montée du niveau moyen) ;
+- Préparation et exécution des missions terrain de MCO, puis rédaction des comptes rendus d'intervention et mise à jour des Fiches d'observatoire de marée. Mise à jour du journal de bord grand public en ligne sur le site data.shom.fr ;
+- Suivi du stock de matériel de rechange et réalisation de commandes auprès des fournisseurs le cas échéant.
+
+## 3/ Hydrographe embarqué 
+- Embarquement pour les levés hydrographiques de la BHNC (2 semaines) en tant qu'hydrographe équipier en charge d'assurer le quart à la mer : conduite de l'acquisition, contrôle de la qualité et réalisation du traitement à la mer ;
+- Aide ponctuelle à la rédaction des rapports et traitement/mise en base des levés hydrographiques ;
+- Traitement de mesures marégraphiques sous le logiciel TDB et rédaction de fiches d'observatoires de marée (FOM) ;
+- Traitement de mesures courantométriques sous le logiciel TDB et rédaction de fiches d'observatoires de courant (FOC) ;
+- Encadrement et initiation à l'hydrographie de deux personnels composé d'un mécanicien et d'un manœuvrier mis à disposition du Shom par la Marine Nationale.
+
+# Caractéristiques particulières de l'emploi 
+L'emploi s'exerce d'une part à la mer ou sur le terrain, pour une activité à dominante opérationnelle, et d'autre part en bureau, pour un emploi comportant une dominante d'analyse et de mise en forme de documents de synthèse.
+
+Ces activités s'inscrivent dans un cadre normatif strict (travaux hydrographiques conformes aux standards de l'OHI notamment S-44 ; certification ISO9001 du Shom ; marégraphes validés internationalement pour GLOSS) : **ceci impose que le candidat ait une expérience en hydrographie obligatoire, et maîtrise les méthodes et procédures de levés hydrographiques S-44 de l'OHI (Organisation Hydrographique Internationale)**.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certification FIG-OHI B minimum (ou équivalent) et expérience exigée. Les candidatures sans expérience en hydrographie ne seront pas étudiées.
+- Maîtrise des méthodes et procédures de levés hydrographiques (S-44 OHI), notamment dans le cadre de la certification des activités ISO 9001 du Shom ;
+- Certificat restreint d'opérateur SMDSM (CRO) souhaité ;
+- Certificat de Formation de Base à la Sécurité (CFBS) souhaité ;
+- Habilitation électrique basse tension BR souhaité ;
+- Habilitation travaux en hauteur souhaité ;
+- Expérience sur la gestion de flux logistique souhaitée ;
+- Maîtrise des techniques d'analyse, de traitement et de synthèse des données hydrographiques recueillies et de leur mise en forme à l'aide d'outils informatiques ;
+- Connaissance des méthodes, procédures et outils de la géodésie, de la topographie et de l'hydrographie.
+- Connaissance des principes physiques employés dans les équipements scientifiques liés à l'hydrographie.
+- Connaissance des règles de sécurité concernant l'équipage et le matériel lors d'une navigation sur embarcation.
+
+## Savoir-faire 
+- Utiliser les matériels scientifiques et informatiques en suivant des procédures ;
+- Gestion d'un atelier (application des normes de sécurité tenue des stocks/inventaires) ;
+- S'assurer de leur bon état normatif (étalonnage) et fonctionnel (entretien) du matériel scientifique ;
+- Réaliser le Niveau Technique d'Intervention 1 (NTI1) de maintenance des équipements mise en œuvre en suivant des procédures ;
+- Gérer les missions de MCO du réseau de marégraphe (planification, organisation, suivi) ;
+- Rédiger des rapports et compte rendus d'opérations ;
+- Contribuer à l'amélioration continue des méthodes et procédures.
+
+#### Comportement professionnel 
+- Sens du travail en équipe ;
+- Goût pour les missions terrain (en mer ou à terre) ;
+- Goût pour les sciences de la mer ;
+- Goût pour les outils informatiques (logiciels, traitement numérique, courriels, rédaction)
+- Compatibilité avec le milieu militaire ;
+- Rigueur et sens de l'organisation ;
+- Curiosité, sens de l'analyse et esprit critique ;
+- Polyvalence.
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement sur le poste, vous pouvez contacter M. Guillaume
+
+VOINESON, directeur de l'antenne du SHOM dans le Pacifique
+
+tél : (+687) [📞 23.21.09](tel:232109) / mail : [gop-d@shom.fr](mailto:gop-d@shom.fr).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la base hydrographique de Nouvelle-Calédonie par :
+
+- Voie postale : BHNC, 14 rue des frères Terrasson 98800 NOUMEA
+
+- Dépôt physique : BHNC, 14 rue des frères Terrasson 98800 NOUMEA
+
+- Mail : [gop-d@shom.fr](mailto:gop-d@shom.fr), copie [section-recrutement@gouv.nc](mailto:section-recrutement@gouv.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Economie rurale](../#economie-rurale)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=nc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[NC]: Nouvelle-Calédonie
+
+
+---
+
 # 26-0654 - Gestionnaire des ressources humaines
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dd4335b979c54c21da0d3afc15bfdbb9/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -26619,6 +26636,188 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-62253_MPRH - Hydrogéologue expérimenté
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/04ab19193e44e951ba7e4a644807a0b9/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-62253/MPRH - Hydrogéologue expérimenté",
+  "description": "Domaine: Equipement. Direction: Direction de l'industrie, des mines et de l'énergie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'industrie, des mines et de l'énergie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-62253_MPRH/",
+  "datePosted": "2026-03-05",
+  "validThrough": "2026-05-14",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Hydrogéologue expérimenté
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-14  
+    **Direction :** DIMENC  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-62253/MPRH du 2026-03-06**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : ingénieur /Equipement** ou **ingénieur /Economie rurale Direction de l'industrie, des mines et de l'énergie (DIMENC)**
+
+**Service de la géologie**
+
+**Lieu de travail :** Koné ou Nouméa
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** - Ingénieur 2ème grade domaine de l'équipement : au moins égale à 5 ans,
+
+- Ingénieur 2ème grade domaine de l'économie rurale : au moins égale à 5 ans.
+
+**Date de dépôt de l'offre :** Vendredi 2026-03-06 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-05-15
+
+# Modification de la date de clôture initialement prévue le 2026-05-01
+
+## Détails de l'offre 
+La Direction de l'Industrie, des Mines et de l'Énergie de la Nouvelle-Calédonie (DIMENC) est une administration centrale et déconcentrée au service de la politique industrielle et énergétique, de la gestion des risques et de la connaissance géologique de la Nouvelle-Calédonie. Elle applique, évalue et conçoit les politiques publiques dans ses domaines de compétences, dans la perspective de concilier le développement industriel durable du territoire avec la protection des personnes et des biens, et la préservation de l'environnement et des ressources.
+
+Au sein de la DIMENC, le service de la géologie compte 9 personnes dont le chef de service. Il est organisé en 3 pôles correspondant exactement aux principales missions du service à savoir :
+
+- -de contribuer au développement de la connaissance géologique et d'en assurer la conservation et la diffusion ;
+- -de reconnaître et de valoriser les ressources du sous-sol dont l'eau ainsi que
+- -d'identifier et évaluer les aléas naturels susceptibles de générer des risques pour les populations notamment.
+
+**Emploi RESPNC :** Ingénieur hydrogéologue
+
+### Missions 
+Sous l'autorité du chef du service géologique, l'hydrogéologue sénior contribue principalement, mais pas seulement, à la mission relative à la gestion des ressources en eaux souterraines, dont il sera le référent sur l'ensemble du territoire :
+
+- L'évaluation et la gestion des ressources en eaux souterraines, notamment celles considérées comme stratégiques au regard de la Politique de l'Eau Partagée (PEP) ;
+- Le développement de la connaissance hydrogéologique, la conservation et la diffusion des bases de données dédiées ou en lien avec l'hydrogéologie (BDSSNC, BDLISA-NC) ;
+- L'évaluation des risques sanitaires (éléments traces métalliques, ETM).
+
+Il poursuit et développe les partenariats scientifiques et techniques dans son domaine.
+
+Il organise une veille scientifique et technologique sur l'ensemble de ses missions et en assure une information régulière.
+
+- **Activités principales :** Analyser les données hydrogéologiques, pour améliorer la connaissance des hydrosystèmes de Nouvelle-Calédonie.
+  - Emettre des avis ou expertise sur les dossiers en lien avec les eaux souterraines, notamment pour les services industrie et mines et carrières de la DIMENC.
+  - Réaliser et participer à des missions de terrain et études permettant la production de connaissance sur les écoulements et le transport dans les différents types d'aquifères en Nouvelle-Calédonie, y compris mobilité des ETM.
+  - Contribuer à la Politique de l'Eau Partagée (PEP) de Nouvelle-Calédonie, en particulier sur les ressources stratégiques (OS1) et la réglementation (OTA).
+  - Exploiter et interpréter les campagnes de données électro-magnétiques héliportées.
+  - Participer à des projets en lien avec la serpentinisation et la genèse d'hydrogène naturel.
+  - Monter des projets scientifiques et techniques.
+
+- **Activités secondaires :** Participer à la démarche qualité de la direction, notamment comme référent Hydrogéologie du processus "Connaissance".
+  - Valoriser les travaux scientifiques et techniques et communiquer.
+
+### Caractéristiques particulières de l'emploi 
+Pour la réalisation de ces missions, des déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie sont à prévoir, ainsi que l'organisation et l'animation de diverses réunions.
+
+**Profil du candidat** Savoir / Connaissances / Diplôme exigé :
+
+- Diplôme du 2ème ou 3ème cycle en hydrogéologie.
+- Hydrogéologie quantitative et hydrogéochimie.
+- Connaissances solides des milieux hétérogènes fracturés et multi-couches, hydrosystème des péridotites.
+- Géophysique appliquée à l'hydrogéologie.
+- Géologie de la Nouvelle-Calédonie.
+- La Nouvelle-Calédonie et de ses institutions.
+- Les us et coutumes de la Nouvelle-Calédonie.
+
+### Savoir-faire 
+- Pratiquer l'hydrogéologie de terrain : suivi piézométrique, essais, prélèvements
+- Utiliser des logiciels de modélisation hydrogéologique
+- Pratiquer des Systèmes d'Information Géographiques et des bases de données.
+- Synthétiser et rédiger
+
+Comportement professionnel :
+
+- Sens de l'intérêt général et du travail en équipe
+
+- Loyauté
+
+- Sens de la communication
+
+- Autonomie, force de proposition
+
+- Rigueur et méthode
+
+- Rendre compte, pratique du reporting
+
+**Contact et informations complémentaires :**
+
+Olivier MONGE, Chef de service
+
+Tél: [📞 27 02 37](tel:270237) / mail : *[✉️ olivier.monge@gouv.nc](mailto:olivier.monge@gouv.nc)*
+
+ou
+
+Jean-Sébastien BAILLE, Directeur Adjoint
+
+Tél: [📞 27 02 38](tel:270238) / mail : *[✉️ jean-sebastien.baille@gouv.nc](mailto:jean-sebastien.baille@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dimenc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+*[NC]: Nouvelle-Calédonie
 
 
 ---
