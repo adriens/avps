@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 197 offres extraites de la DRHFPNC.
+Ce document regroupe 205 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -8425,6 +8425,164 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 - 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0566 - Chef de projet
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/507b557f23395cbc08fe95a1a86c0b65/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0566 - Chef de projet",
+  "description": "Domaine: Autres filières. Direction: Agence sanitaire et sociale",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0566/",
+  "datePosted": "2026-04-16",
+  "validThrough": "2026-05-21",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 Chef de projet
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-21  
+    **Direction :** ASS-NC  
+    **Domaine :** Autres filières  
+    **Statut :** ⏳ **Cette semaine** (≤7 jours)
+
+
+
+**Référence :** 3134-26-0566/SR du 2026-04-17
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Attaché **Direction :** Programme pathologies de surcharge
+
+**Durée de résidence exigée**
+
+**Pour le recrutement sur titre (1) :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** juillet 2026
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre : 2026-04-17**
+
+**Date limite de candidature : 2026-05-22**
+
+### La date de clôture initialement prévue le 2026-05-08 a été reportée.
+
+#### Détails de l'offre 
+La délibération n°114 du 2016-03-24 relative au plan de santé calédonien « Do Kamo, Être épanoui ! » concernant l'organisation, la gouvernance, le pilotage et la régulation du système de protection sociale et de santé a posé les bases d'un renouveau en matière de santé publique et de protection sociale. L'axe 3 de ce plan place la promotion de la santé au cœur du dispositif.
+
+L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie. Le programme de prévention des pathologies de surcharge pondérale a pour objectif de promouvoir les comportements favorables à la santé et en particulier une alimentation saine et la pratique d'une activité physique adaptée dans l'objectif de prévenir des pathologies liées au surpoids et à l'obésité. C'est dans ce cadre que l'ASSNC est à la recherche d'un chef de projet.
+
+**Emploi RESPNC : Chef de projet**
+
+**Missions** : Le chef de projet a pour mission, et en transversalité avec l'ensemble des programmes de l'agence :
+
+- Coordonner et/ou participer aux actions et projets du programme et aux projets transversaux avec les différents programmes de l'agence,
+- Mener des sensibilisations auprès de tout type de public : grand public, en milieu scolaire, en milieu professionnel et auprès de publics spécifiques sur les comportements favorables à la santé (alimentation/activité physique/approche globale)
+- Contribuer à l'analyse du besoin en matière d'alimentation saine et de promotion de l'activité physique, à l'identification des acteurs, à l'étude des systèmes et organisations, dans le cadre de projets en promotion de la santé,
+- Entretenir le réseau de partenaires, en lien avec les projets du programme,
+- Contribuer à l'évaluation des projets,
+- Participer au suivi de l'atteinte des objectifs des projets, depuis la phase d'étude jusqu'à sa réalisation en s'assurant du respect des contraintes, et des délais,
+
+![](_page_0_Picture_24.jpeg)
+
+- Proposer des solutions, des mesures de simplifications ou des innovations,
+- Contribuer à la communication du programme (projets, campagnes de communication, réseaux),
+- Contribuer au reporting des actions et projets du programme
+
+- **Missions secondaires :** Contribuer à des projets transversaux de l'ASSNC, pour lesquels le programme est sollicité,
+  - Contribuer à des projets en lien avec les organismes régionaux et internationaux de santé publique,
+  - Contribuer à la veille bibliographique du programme
+
+## Profil du candidat : Savoir/Connaissance/Diplôme exigé 
+- Expérience en gestion de projet, si possible en promotion de la santé
+- Culture en santé publique et expérience dans le domaine d'action
+- Appétence pour le sport santé et les recommandations en matière d'alimentation saine, équilibrée et des bonnes pratiques pour un mode de vie favorable à sa santé
+- Connaissance de l'environnement sanitaire et social et du fonctionnement des institutions de la Nouvelle Calédonie
+- Connaissances des spécificités culturelles néo-calédoniennes
+- Connaissance des orientations de la politique de santé « Do Kamo, être épanoui »
+- Master en santé publique ou en gestion de projets apprécié
+
+#### Savoir-faire 
+- Analyser un contexte, une problématique, une complexité
+- Travailler en réseau de partenaires
+- Bonnes capacités de gestion de projet, suivi d'activités et d'indicateurs
+- Evaluer une procédure, une activité, une action, un résultat
+- Capacités de synthèse et rédaction
+- Maîtrise du Pack office
+
+#### Comportement professionnel 
+- Sens du relationnel et aptitude au travail en équipe
+- Autonomie, adaptation et rigueur
+- Goût pour l'interculturalité
+- Grande capacité d'organisation
+
+# Caractéristiques particulières de l'emploi 
+- Permis B
+- Des déplacements sur l'ensemble de la Nouvelle-Calédonie sont possibles
+- Des interventions en week-end sont possibles
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter madame Caroline Fulchiron, responsable de programme pathologies de surcharge. Tél : [📞 25.07.72](tel:250772) Mail : [✉️ caroline.fulchiron@ass.nc](mailto:caroline.fulchiron@ass.nc)
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non-bénéfice de la rupture conventionnelle, 3 dernières évaluations professionnelles ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction de l'ASSNC soit par :
+
+- Voie postale : BP P4 98851 NOUMEA CEDEX
+
+- Dépôt physique : Centre-ville – 16, rue du Général Gallieni – 3ème étage
+
+- Email : [recrutement@ass.nc](mailto:recrutement@ass.nc)
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2) La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+**Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.**
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=ass-nc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[NC]: Nouvelle-Calédonie
 
 
 ---
@@ -24960,6 +25118,401 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
+# 26-0706 - 5 Gardiens de police municipale
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/58fe7c08da24946f29b65edaeca58707/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0706 - 5 Gardiens de police municipale",
+  "description": "Domaine: Autres filières. Direction: Ville du Mont-Dore",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Mont-Dore"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2333,
+      "longitude": 166.5833
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0706/",
+  "datePosted": "2026-05-10",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 5 Gardiens de police municipale
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** Ville du Mont-Dore  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0706/SR du 2026-05-08**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :**
+
+gardien de la police municipale
+
+**Durée de résidence exigée pour le recrutement sur titre** ⁽**¹**⁾ **: /**
+
+**Poste à pourvoir :** immédiatement
+
+**Direction :** de la sécurité – service de la police municipale
+
+**Lieu de travail :** Boulari – Mont-Dore
+
+**Date de dépôt de l'offre :** vendredi 2026-05-08
+
+**Date limite de candidature :** vendredi 2026-05-29
+
+## Détails de l'offre 
+Placés sous l'autorité de la cheffe du service de la police municipale, les agents retenus seront chargés d'exercer les missions de prévention nécessaires au maintien du bon ordre, de la sûreté, de la sécurité et de la salubrité publiques. Ils assureront une relation de proximité avec la population, sur le territoire communal.
+
+**Emploi RESPNC :** Gardien de police municipale
+
+- **Missions :** Assurer les missions de police administrative en application des dispositions du code des communes de Nouvelle-Calédonie,
+  - Assurer les missions de police judiciaire, en qualité d'agent de police judiciaire adjoint,
+  - Assurer les missions de prévention/dissuasion,
+  - Contrôler le respect des lois et règlements,
+  - Veiller à la bonne application des arrêtés municipaux,
+  - Assurer des missions de sécurité routière,
+  - Veille et prévention en matière de maintien du bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques,
+  - Rechercher et relever des infractions,
+  - Rédaction et transmission d'écrits professionnels,
+  - Accueil et relation avec le public,
+  - Permanence opérationnelle et organisationnelle du service de police municipale.
+
+**Caractéristiques particulières de l'emploi :**
+
+- Présence par tous temps à l'extérieur,
+- Travail en bureau au poste de police,
+- Horaires irréguliers, avec amplitude variable et astreintes possibles,
+- Exercice soumis à des conditions réglementaires d'agrément, d'assermentation, de formation initiale et continue,
+- Bonne condition physique,
+- Port d'armes sous réserve d'autorisation réglementaire,
+- Port de l'uniforme et de la carte professionnelle obligatoire,
+- Spécialités possibles : cynophile, supervision vidéoprotection. Formation à une de ces spécialités et permis A (moto) serait un atout.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- **-** Diplôme de niveau 3 (anciennement V) exigé,
+- Réussite au concours de gardien de police municipale,
+- Avoir suivi la formation initiale de gardien de police municipale,
+- **-** Expérience sur le poste : 3 ans de service effectif,
+- Connaissance des pouvoirs de police du maire et des missions de la police municipale,
+- Maîtrise du code de la route de Nouvelle-Calédonie, des principales règles pénales et des procédures,
+- Connaissance des acteurs de la sécurité et de la prévention,
+- Capacité à surveiller et sécuriser les lieux sensibles,
+- Maîtrise des techniques de gestion des conflits et de médiation,
+- Connaissance des gestes de premier secours,
+- Savoir utiliser la radio, rédiger des rapports et transmettre les informations,
+- Bonne connaissance du territoire de la commune, des quartiers et des risques locaux.
+
+#### Savoir-faire 
+- Garantir la sécurité publique et faire respecter les pouvoirs de police du Maire sur le territoire communal,
+- Analyser rapidement une situation, évaluer les risques et décider des mesures adaptées,
+- Intervenir en cas de flagrant délit, sécuriser les lieux et présenter le contrevenant à un officier de police judiciaire,
+- Réguler et sécuriser la circulation routière, veiller au respect du code de la route de la Nouvelle-Calédonie et de la réglementation du stationnement,
+- Assurer une présence de proximité sur le terrain par des missions d'ilotage et de surveillance,
+- Veiller au bon déroulement des manifestations publiques, cérémonies et évènements organisés sur la commune,
+- Porter assistance, orienter et accompagner les usagers dans les situations nécessitant une aide immédiate,
+- Mener des enquêtes administratives et recueillir les informations utiles à l'exercice des missions,
+- Rédiger des rapports d'activité, procès-verbaux et comptes rendus relatifs aux interventions, missions d'ilotage et actions de prévention,
+- Organiser et animer des actions de prévention, notamment en milieu scolaire, afin de sensibiliser les publics aux règles de sécurité et de citoyenneté.
+
+#### Comportement professionnel 
+- **-** Respect des lois, des règles de sécurité et de la déontologie,
+- Intégrité, impartialité et sens des responsabilités,
+- **-** Respect de la hiérarchie et de la discipline,
+- Sens du service public et disponibilité,
+- **-** Rigueur face à l'application des procédures,
+- Esprit d'équipe, écoute et diplomatie,
+- Sens de l'adaptation et réactivité,
+- Sens de l'observation et de l'analyse,
+
+- Sang-froid, maîtrise de soi et stabilité émotionnelle,
+
+- Discrétion, respect et exemplarité.
+
+**Contact et informations complémentaires :**
+
+Madame Véronique WANEISI – Cheffe de service de la police municipale
+
+Courriel : [veronique.waneisi@ville-montdore.nc](mailto:veronique.waneisi@ville-montdore.nc)
+
+Tél : [📞 43.64.00](tel:436400)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, de la pièce d'identité et du permis B, extrait du casier judiciaire, fiche de renseignements, attestation sur l'honneur de non-bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction administrative par :
+
+- Voie postale : Ville du Mont-Dore – BP 3 - 98810 Mont-Dore
+
+- Voie électronique : [mairie@ville-montdore.nc](mailto:mairie@ville-montdore.nc)
+
+- Dépôt physique : Mairie du Mont-Dore - 4468 avenue des deux baies Boulari
+
+- Fax : [📞 43.64.94](tel:436494)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non-bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+**TOUTE CANDIDATURE NE COMPORTANT PAS L'ENSEMBLE DES PIECES DEMANDÉES OU NE RÉPONDANT PAS AUX CRITÈRES OBLIGATOIRES NE SERA PAS EXAMINÉE.**
+
+### *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+
+Les informations collectées par la ville du Mont-Dore directement auprès de vous font l'objet d'un traitement automatisé ayant pour finalité le recrutement de nouveaux agents. L'ensemble des éléments demandés est nécessaire.
+
+A défaut, la ville du Mont-Dore ne serait pas en mesure d'accepter votre candidature.
+
+Votre demande d'emploi est à destination exclusive du service des ressources humaines de la ville du Mont-Dore. Elle sera conservée :
+
+- ●Deux mois dans le cas où votre candidature ne serait pas retenue pour le poste à pourvoir ou pour un futur recrutement ;
+- ●Deux ans dans le cas contraire.
+
+Ces durées peuvent être différentes si :
+
+- ●Vous exercez votre droit d'opposition pour des motifs considérés comme légitimes et suivant les modalités décrites ci-après ;
+- ●Une durée de conservation plus longue est autorisée ou imposée en vertu d'une obligation légale ou règlementaire.
+
+Conformément à la législation informatique et libertés, vous disposez des droits suivants sur vos données : droit d'accès, droit de rectification, droit à l'effacement (droit à l'oubli), droit d'opposition, droit à la limitation du traitement, droit à la portabilité. Vous pouvez également définir des directives relatives à la conservation, à l'effacement et à la communication de vos données à caractère personnel après votre décès.
+
+#### Pour exercer vos droits, vous devez justifier de votre identité établie par tous moyens. Votre demande sera adressée à 
+Ville du Mont-Dore Délégué à la protection des données **Mairie du Mont-Dore** - BP 3 - 98810 Mont-Dore ou par courriel à [dpo@ville-montdore.nc](mailto:dpo@ville-montdore.nc)
+
+Sous réserve d'un manquement aux dispositions ci-dessous, vous avez le droit d'introduire une réclamation auprès de la CNIL [www.cnil.fr](http://www.cnil.fr)
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=ville du mont-dore)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0707 - 5 Gardes-Champêtres
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6135da3a88e48916c00243e835fbc17e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0707 - 5 Gardes-Champêtres",
+  "description": "Domaine: Autres filières. Direction: Ville du Mont-Dore",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Mont-Dore"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2333,
+      "longitude": 166.5833
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0707/",
+  "datePosted": "2026-05-10",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+## 5 Gardes-champêtres
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** Ville du Mont-Dore  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0707/SR du 2026-05-08**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** Agent contractuel de
+
+droit public – grille 2
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** /
+
+**Poste à pourvoir :** susceptible d'être à pourvoir
+
+**Direction :** de la sécurité – service de la police
+
+municipale
+
+**Lieu de travail :** Boulari – Mont-Dore
+
+**Date de dépôt de l'offre :** Vendredi 2026-05-08
+
+**Date limite de candidature :** Vendredi 2026-05-29
+
+# Détails de l'offre 
+Placés sous l'autorité de la cheffe du service de la police municipale, les agents retenus interviennent principalement en matière de police rurale. Il exécute, sous l'autorité du maire, des missions de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques. Ils recherchent et constatent les infractions aux lois et règlements dans leur compétence.
+
+**Emploi RESPNC :** Garde-champêtre
+
+### Missions : En matière de pouvoir de police du Maire, l'agent devra notamment 
+- Assurer le maintien du lien social par une police de proximité et par la mise en place d'actions de prévention,
+- Surveiller et prévenir des désordres et incivilités sur la voie publique,
+- Rechercher et constater des infractions relevant de la police des campagnes et des pouvoirs de police du maire,
+- Appliquer le pouvoir de police funéraire,
+- Assurer l'exécution des arrêtés de police du Maire et constater par procès-verbal les infractions auxdits arrêtés,
+- Rédiger des écrits professionnels et des comptes-rendus d'activité.
+
+### En qualité d'agent de police judiciaire adjoint, l'agent retenu devra notamment 
+- Seconder dans l'exercice de ses fonctions les officiers de police judiciaire,
+- Rendre compte à sa hiérarchie de tous crimes, délits ou contraventions,
+- Constater les infractions à la loi pénale conformément à la réglementation en vigueur.
+
+La Police municipale comporte des unités spécialisées ainsi qu'un centre de supervision urbain. L'agent est susceptible de venir compléter ces unités. Ainsi une expérience dans les domaines cités supra est souhaitée.
+
+### Caractéristiques particulières de l'emploi 
+- Présence par tous temps à l'extérieur,
+- Travail en bureau au poste de police,
+- Horaires irréguliers, avec amplitude variable et astreintes possibles,
+- Exercice soumis à des conditions réglementaires d'agrément, d'assermentation, de formation initiale et continue,
+- Bonne condition physique,
+- Port d'armes sous réserve d'autorisation réglementaire,
+- Port de l'uniforme et de la carte professionnelle obligatoire,
+- Spécialités possibles : cynophile, supervision vidéoprotection. Formation à une de ces spécialités et permis A (moto) serait un atout.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Être âgé de 21 ans minimum,
+- Jouir de ses droits civils, civiques et familiaux et avoir un casier judiciaire vierge,
+- Se trouver en position régulière au regard du Code du Service National,
+- Connaissance des pouvoirs de police du Maire et attributions des administrations,
+- Connaissance du territoire communal,
+- Niveau Brevet des collèges requis,
+- Permis de conduire B obligatoire.
+
+### Savoir-faire 
+- Veiller à l'application des règles de sécurité publique,
+- Informer les administrés,
+- Appliquer et contrôler le respect des pouvoirs de police du maire sur le territoire d'intervention,
+- Alerter l'autorité supérieure d'un risque relatif à la sécurité et à l'ordre public,
+- Prendre des mesures pour veiller à la sécurité des personnes et des biens et au maintien de l'ordre public,
+- Disposer de qualités rédactionnelles permettant d'établir et de rédiger des rapports d'activités, des comptes rendus de mission de prévention des documents administratifs courants,
+- Maîtrise de l'outil informatique.
+
+### Comportement professionnel 
+- Respect des lois, des règles de sécurité et de la déontologie,
+- Intégrité, impartialité et sens des responsabilités,
+- Respect de la hiérarchie et de la discipline,
+- Sens du service public et disponibilité,
+- Rigueur face à l'application des procédures,
+- Esprit d'équipe, écoute et diplomatie,
+- Sens de l'adaptation et réactivité,
+- Sens de l'observation et de l'analyse,
+- Sang-froid, maîtrise de soi et stabilité émotionnelle,
+- Discrétion, respect et exemplarité.
+
+**Contact et informations complémentaires :**
+
+Madame Véronique WANEISI – Cheffe de service de la police municipale
+
+Courriel : [veronique.waneisi@ville-montdore.nc](mailto:veronique.waneisi@ville-montdore.nc)
+
+Tél : [📞 43.64.00](tel:436400)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, de la pièce d'identité et du permis B, extrait du casier judiciaire, fiche de renseignements, attestation sur l'honneur de non-bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction administrative par :
+
+- Voie postale : Ville du Mont-Dore – BP 3 - 98810 Mont-Dore
+
+- Voie électronique : [mairie@ville-montdore.nc](mailto:mairie@ville-montdore.nc)
+
+- Dépôt physique : Mairie du Mont-Dore - 4468 avenue des deux baies Boulari
+
+- Fax : [📞 43.64.94](tel:436494)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non-bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+### TOUTE CANDIDATURE NE COMPORTANT PAS L'ENSEMBLE DES PIECES DEMANDÉES OU NE RÉPONDANT PAS AUX CRITÈRES OBLIGATOIRES NE SERA PAS EXAMINÉE.
+
+Les informations collectées par la ville du Mont-Dore directement auprès de vous font l'objet d'un traitement automatisé ayant pour finalité le recrutement de nouveaux agents. L'ensemble des éléments demandés est nécessaire.
+
+A défaut, la ville du Mont-Dore ne serait pas en mesure d'accepter votre candidature.
+
+Votre demande d'emploi est à destination exclusive du service des ressources humaines de la ville du Mont-Dore.
+
+Elle sera conservée :
+
+- ●Deux mois dans le cas où votre candidature ne serait pas retenue pour le poste à pourvoir ou pour un futur recrutement ;
+- ●Deux ans dans le cas contraire.
+
+Ces durées peuvent être différentes si :
+
+- ●Vous exercez votre droit d'opposition pour des motifs considérés comme légitimes et suivant les modalités décrites ci-après ;
+- ●Une durée de conservation plus longue est autorisée ou imposée en vertu d'une obligation légale ou règlementaire.
+
+Conformément à la législation informatique et libertés, vous disposez des droits suivants sur vos données : droit d'accès, droit de rectification, droit à l'effacement (droit à l'oubli), droit d'opposition, droit à la limitation du traitement, droit à la portabilité. Vous pouvez également définir des directives relatives à la conservation, à l'effacement et à la communication de vos données à caractère personnel après votre décès.
+
+**Pour exercer vos droits, vous devez justifier de votre identité établie par tous moyens. Votre demande sera adressée à :**
+
+Ville du Mont-Dore Délégué à la protection des données **Mairie du Mont-Dore** - BP 3 - 98810 Mont-Dore ou par courriel à [dpo@ville-montdore.nc](mailto:dpo@ville-montdore.nc)
+
+Sous réserve d'un manquement aux dispositions ci-dessous, vous avez le droit d'introduire une réclamation auprès de la CNIL [www.cnil.fr](http://www.cnil.fr)
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=ville du mont-dore)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
 # 26-0708 - Chef de bureau de la prévention des risques professionnels et de la santé au travail
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9392ae1ad061b187b3031bab2fdace47/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -29091,6 +29644,771 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0742 - Agent de gardiennage et de surveillance
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a9cbec8b6fc10dd47a5007d6e68710c9/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0742 - Agent de gardiennage et de surveillance",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Bourail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.5667,
+      "longitude": 165.5
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0742/",
+  "datePosted": "2026-05-11",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Agent de gardiennage et de surveillance
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0742/SR du 2026-05-08**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** ACDP - Grille 1 **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** Immédiatement **Date de dépôt de l'offre :** vendredi 2026-05-08
+
+**Date limite de candidature :** vendredi 2026-05-29
+
+**Lieu de travail : Bourail**
+
+# Détails de l'offre 
+La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.
+
+Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités.
+
+Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.
+
+#### Emploi RESPNC : Agent de gardiennage et de surveillance - veilleur de nuit
+
+## 🎯 Missions
+
+- La surveillance des zones définies (prévention des intrusions, dégradations et vols) ;
+- La détection des comportements suspects ;
+- L'intervention lors d'incidents et l'alerte subséquente aux autorités et/ou service compétents si nécessaire ;
+- La rédaction de rapports d'intervention et la tenue des registres de suivi.
+
+Des rondes régulières ou des stations fixes sont effectuées pour garantir la sécurité des lieux.
+
+### Caractéristiques particulières de l'emploi 
+- Horaires flexibles : Possibilité de travailler à différents moments de la journée et de la nuit
+- Travail en extérieur : Évoluer dans un environnement varié, loin d'un bureau traditionnel
+- Bonne condition physique et capacité à travailler en horaires décalés
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de formation en sécurité ou qualification similaire recommandé
+- Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée
+- Avoir des notions en self-défense serait un avantage
+- Permis B exigé
+
+### Savoir-faire 
+- Maîtrise des procédures de sécurité
+- Expérience dans la surveillance, la sécurité ou un poste similaire appréciée
+- Capacité de gestion de situations d'urgence et d'incidents, pouvant engendrer une pression importante
+
+- Capacité à rendre compte
+- Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité
+
+#### Comportement professionnel 
+- Rigueur
+- Sens de l'observation
+- Réactivité et sens du contact
+- Qualités relationnelles
+- Qualités rédactionnelles
+- Sens du travail en équipe
+- Sens de la communication
+- Disponibilité
+- Leadership
+- Discrétion et devoir de réserve
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. William Brevi – Chargé de sécurité - Référent du site de l'Artillerie et référent sûreté - Tél. : [📞 20 31 90](tel:203190) / e-mail : [✉️ william.brevi@province-sud.nc](mailto:william.brevi@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0743 - Agent de gardiennage et de surveillance
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/22f28d6c6154e0f49bf9ee4fb30e8aba/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0743 - Agent de gardiennage et de surveillance",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Bourail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.5667,
+      "longitude": 165.5
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0743/",
+  "datePosted": "2026-05-11",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Agent de gardiennage et de surveillance
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0743/SR du 2026-05-08**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine : ACDP - Grille 1 Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** Immédiatement
+
+**Date de dépôt de l'offre :** vendredi 2026-05-08
+
+**Date limite de candidature :** vendredi 2026-05-29
+
+**Lieu de travail :** Bourail
+
+# Détails de l'offre 
+La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.
+
+Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités.
+
+Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.
+
+#### Emploi RESPNC : Agent de gardiennage et de surveillance - veilleur de nuit
+
+## 🎯 Missions
+
+- La surveillance des zones définies (prévention des intrusions, dégradations et vols),
+- La détection des comportements suspects,
+- L'intervention lors d'incidents et l'alerte subséquente aux autorités et/ou services compétents si nécessaire,
+- La rédaction de rapports d'intervention et la tenue des registres de suivi.
+
+Des rondes régulières ou des stations fixes sont effectuées pour garantir la sécurité des lieux.
+
+## Caractéristiques particulières de l'emploi 
+- Horaires flexibles : Possibilité de travailler à différents moments de la journée et de la nuit
+- Travail en extérieur : Évoluer dans un environnement varié, loin d'un bureau traditionnel
+- Bonne condition physique et capacité à travailler en horaires décalés
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de formation en sécurité ou qualification similaire recommandé
+- Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée
+- Avoir des notions en self-défense serait un avantage
+- Permis B exigé
+
+### Savoir-faire 
+- Maîtrise des procédures de sécurité
+- Expérience dans la surveillance, la sécurité ou un poste similaire appréciée
+
+- Capacité de gestion de situations d'urgence et d'incidents, pouvant engendrer une pression importante
+- Capacité à rendre compte
+- Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité
+
+## Comportement professionnel 
+- Rigueur
+- Sens de l'observation
+- Réactivité et sens du contact
+- Qualités relationnelles
+- Qualités rédactionnelles
+- Sens du travail en équipe
+- Sens de la communication
+- Disponibilité
+- Leadership
+- Discrétion et devoir de réserve
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. William Brevi – Chargé de sécurité - Référent du site de l'Artillerie et référent sureté - Tél. : [📞 20 31 90](tel:203190) / e-mail : [✉️ william.brevi@province-sud.nc](mailto:william.brevi@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0744 - Agent de gardiennage et de surveillance
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5b283b619ecb832600791bd6992f5d12/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0744 - Agent de gardiennage et de surveillance",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Bourail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.5667,
+      "longitude": 165.5
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0744/",
+  "datePosted": "2026-05-11",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Agent de gardiennage et de surveillance
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0744/SR du 2026-05-08**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** ACDP - Grille 1 **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** Immédiatement
+
+**Date de dépôt de l'offre :** vendredi 2026-05-08
+
+**Date limite de candidature :** vendredi 2026-05-29
+
+**Lieu de travail :** Bourail
+
+# Détails de l'offre 
+La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.
+
+Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités.
+
+Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.
+
+#### Emploi RESPNC : Agent de gardiennage et de surveillance - veilleur de nuit
+
+## 🎯 Missions
+
+- La surveillance des zones définies (prévention des intrusions, dégradations et vols),
+- La détection des comportements suspects,
+- L'intervention lors d'incidents et l'alerte subséquente aux autorités et/ou services compétents si nécessaire,
+- La rédaction de rapports d'intervention et la tenue des registres de suivi.
+
+Des rondes régulières ou des stations fixes sont effectuées pour garantir la sécurité des lieux.
+
+## Caractéristiques particulières de l'emploi 
+- Horaires flexibles : Possibilité de travailler à différents moments de la journée et de la nuit
+- Travail en extérieur : Évoluer dans un environnement varié, loin d'un bureau traditionnel
+- Bonne condition physique et capacité à travailler en horaires décalés
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de formation en sécurité ou qualification similaire recommandé
+- Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée
+- Avoir des notions en self-défense serait un avantage
+- Permis B exigé
+
+### Savoir-faire 
+- Maîtrise des procédures de sécurité
+- Expérience dans la surveillance, la sécurité ou un poste similaire appréciée
+
+- Capacité de gestion de situations d'urgence et d'incidents, pouvant engendrer une pression importante
+- Capacité à rendre compte
+- Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité
+
+## Comportement professionnel 
+- Rigueur
+- Sens de l'observation
+- Réactivité et sens du contact
+- Qualités relationnelles
+- Qualités rédactionnelles
+- Sens du travail en équipe
+- Sens de la communication
+- Disponibilité
+- Leadership
+- Discrétion et devoir de réserve
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. William Brevi – Chargé de sécurité - Référent du site de l'Artillerie et référent sureté - Tél. : [📞 20 31 90](tel:203190) / e-mail : [✉️ william.brevi@province-sud.nc](mailto:william.brevi@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-61714_MPRH - Vérificateur
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/311fb09096fbe16edc1b6ecca47c40aa/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-61714/MPRH - Vérificateur",
+  "description": "Domaine: Autres filières. Direction: Direction des services fiscaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des services fiscaux",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-61714_MPRH/",
+  "datePosted": "2026-03-26",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Vérificateur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** DSF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-61714/MPRH du 2026-03-27**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine : attaché Direction des services fiscaux (DSF)**
+
+**Service de contrôle et d'expertise**
+
+**Durée de résidence exigée Lieu de travail :** Nouméa
+
+**pour le recrutement sur titre (1) :**
+
+**Date de dépôt de l'offre :** Vendredi 2026-03-27 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-05-29
+
+## Modification de la date de clôture initialement prévue le 2026-05-08
+
+## Détails de l'offre 
+La direction des services fiscaux (DSF), composée de treize services, est chargée d'asseoir et de contrôler la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle assure le recouvrement de certains d'entre eux. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle a en charge, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, l'élaboration de la législation fiscale ainsi que les mesures d'application.
+
+Le service de contrôle et d'expertise (SCE) est réglementairement chargé de la co-élaboration du programme de contrôle fiscal externe et après validation hiérarchique par le directeur, de sa mise en œuvre.
+
+**Emploi RESPNC :** Enquêteur
+
+Sous l'autorité du chef de service, le vérificateur mène des opérations de **Missions :**
+
+contrôle consistant à vérifier la cohérence entre les déclarations fiscales souscrites et la comptabilité des entreprises ou les revenus des particuliers. L'exercice de la mission concerne l'ensemble du territoire de la Nouvelle-Calédonie, le vérificateur peut donc être amené à effectuer des déplacements.
+
+**Activités principales :** Le vérificateur mène des opérations de contrôle fiscal externe :
+
+- Vérifier la comptabilité et effecteur une vérification approfondie de la
+
+situation fiscale d'ensemble ;
+
+- Conduire l'ensemble de la procédure sur place (débat oral et contradictoire) ;
+
+- Rédiger des pièces de procédure ;
+
+- Instruire des réclamations liées au contrôle fiscal externe et rédaction de leurs
+
+instructions et projets de décision.
+
+**Activités secondaires :** - Animer des actions de formation en interne ;
+
+- Participer à la stratégie de programmation du service et à sa mise en œuvre.
+
+![](_page_0_Picture_25.jpeg)
+
+## Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Connaissances approfondies en fiscalité de l'entreprise (et l'ensemble des impôts auxquels elles peuvent être assujetties) ;
+- Connaissances approfondies des règles concernant la fiscalité des particuliers (notamment règles incidentes pour les distributions de dividendes, les revenus qualifiés comme distribués, etc.) ;
+- Connaissances approfondies en procédures fiscales ;
+- Solides connaissances en comptabilité commerciale et en droit des affaires.
+
+#### Savoir-faire 
+- Appréhender le fonctionnement de la comptabilité commerciale, des circuits logistiques et de l'organisation interne des contribuables vérifiés (expérience souhaitée) ;
+- Poser un diagnostic rapide et précis, analyser et orienter le contrôle ;
+- Rédiger avec précision et concision et s'exprimer avec clarté ;
+- Mutualiser ses connaissances ;
+- Maîtriser les délais ;
+- Maîtriser les outils bureautiques (Word, Excel).
+
+### Comportement professionnel 
+- Rigueur (notamment dans l'analyse et la démonstration du raisonnement juridique) ;
+- Esprit d'analyse et de synthèse ;
+- Esprit d'initiative ;
+- Bon relationnel (tact, équité et neutralité) et sens de la pédagogie ;
+- Sens développé du travail en équipe ;
+- Disponibilité ;
+- Respect légal du secret professionnel ;
+- Curiosité intellectuelle.
+
+**Contact et informations complémentaires :**
+
+M. David DRIE, directeur adjoint
+
+Tél: [📞 25 75 83](tel:257583) / mail : *[✉️ david.drie@gouv.nc](mailto:david.drie@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dsf)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-61716_MPRH - Vérificateur
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7beaae7ff5e733dc9663d86b93018da8/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-61716/MPRH - Vérificateur",
+  "description": "Domaine: Autres filières. Direction: Direction des services fiscaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des services fiscaux",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-61716_MPRH/",
+  "datePosted": "2026-03-26",
+  "validThrough": "2026-05-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Vérificateur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-05-28  
+    **Direction :** DSF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-61716/MPRH du 2026-03-27**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine : attaché Direction des services fiscaux (DSF)**
+
+**Service de contrôle et d'expertise**
+
+**Durée de résidence exigée Lieu de travail :** Nouméa
+
+**pour le recrutement sur titre (1) :**
+
+**Date de dépôt de l'offre :** Vendredi 2026-03-27 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-05-29
+
+# Modification de la date de clôture initialement prévue le 2026-05-08
+
+# Détails de l'offre 
+La direction des services fiscaux (DSF), composée de treize services, est chargée d'asseoir et de contrôler la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle assure le recouvrement de certains d'entre eux. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle a en charge, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, l'élaboration de la législation fiscale ainsi que les mesures d'application.
+
+Le service de contrôle et d'expertise (SCE) est réglementairement chargé de la co-élaboration du programme de contrôle fiscal externe et après validation hiérarchique par le directeur, de sa mise en œuvre.
+
+**Emploi RESPNC :** Enquêteur
+
+Sous l'autorité du chef de service, le vérificateur mène des opérations de **Missions :**
+
+contrôle consistant à vérifier la cohérence entre les déclarations fiscales souscrites et la comptabilité des entreprises ou les revenus des particuliers. L'exercice de la mission concerne l'ensemble du territoire de la Nouvelle-Calédonie, le vérificateur peut donc être amené à effectuer des déplacements.
+
+**Activités principales :** Le vérificateur mène des opérations de contrôle fiscal externe :
+
+- Vérifier la comptabilité et effecteur une vérification approfondie de la
+
+situation fiscale d'ensemble ;
+
+- Conduire l'ensemble de la procédure sur place (débat oral et contradictoire) ;
+
+- Rédiger des pièces de procédure ;
+
+- Instruire des réclamations liées au contrôle fiscal externe et rédaction de leurs
+
+instructions et projets de décision.
+
+**Activités secondaires :** - Animer des actions de formation en interne ;
+
+- Participer à la stratégie de programmation du service et à sa mise en œuvre.
+
+![](_page_0_Picture_25.jpeg)
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Connaissances approfondies en fiscalité de l'entreprise (et l'ensemble des impôts auxquels elles peuvent être assujetties) ;
+- Connaissances approfondies des règles concernant la fiscalité des particuliers (notamment règles incidentes pour les distributions de dividendes, les revenus qualifiés comme distribués, etc.) ;
+- Connaissances approfondies en procédures fiscales ;
+- Solides connaissances en comptabilité commerciale et en droit des affaires.
+
+#### Savoir-faire 
+- Appréhender le fonctionnement de la comptabilité commerciale, des circuits logistiques et de l'organisation interne des contribuables vérifiés (expérience souhaitée) ;
+- Poser un diagnostic rapide et précis, analyser et orienter le contrôle ;
+- Rédiger avec précision et concision et s'exprimer avec clarté ;
+- Mutualiser ses connaissances ;
+- Maîtriser les délais ;
+- Maîtriser les outils bureautiques (Word, Excel).
+
+#### Comportement professionnel 
+- Rigueur (notamment dans l'analyse et la démonstration du raisonnement juridique) ;
+- Esprit d'analyse et de synthèse ;
+- Esprit d'initiative ;
+- Bon relationnel (tact, équité et neutralité) et sens de la pédagogie ;
+- Sens développé du travail en équipe ;
+- Disponibilité ;
+- Respect légal du secret professionnel ;
+- Curiosité intellectuelle.
+
+**Contact et informations complémentaires :**
+
+M. David DRIE, directeur adjoint
+
+Tél: [📞 25 75 83](tel:257583) / mail : *[✉️ david.drie@gouv.nc](mailto:david.drie@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dsf)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
