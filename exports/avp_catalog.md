@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 211 offres extraites de la DRHFPNC.
+Ce document regroupe 219 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -25619,169 +25619,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 
 ---
 
-# 26-0727 - Medecin itinérant et de téléconsultation (Nouméa)
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/68d8065f147aa029da772f71cd982e4d/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-0727 - Medecin itinérant et de téléconsultation (Nouméa)",
-  "description": "Domaine: Autres filières. Direction: Province Nord",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Nord",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-0727/",
-  "datePosted": "2026-05-07",
-  "validThrough": "2026-05-28",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-### MEDECIN ITINERANT ET DE TELECONSULTATION (Nouméa)
-
-**Référence : 3134-26-0727/SR du 2026-05-08**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-05-28  
-    **Direction :** PVN  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Corps /Domaine :** Médecin cadre Santé **Direction : Direction des affaires sanitaires et sociales, de**
-
-**la prévention et de la solidarité (DASSPS)**
-
-**Durée de résidence exigée pour le recrutement sur**
-
-**titre :** inférieur à 3 ans **Lieu de travail : Ensemble de la province Nord**
-
-**Poste à pourvoir :** Immédiatement **Date limite de candidature :** vendredi 2026-05-08
-
-**Date de dépôt de l'offre :** vendredi 2026-05-29
-
-## Détails de l'offre 
-La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux.
-
-La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.
-
-**Emploi RESPNC : Médecin**
-
-## 🎯 Missions
-
-de la continuité de l'offre de soin au sein de la collectivité. Elle est amenée à intervenir dans tous les centres médico-sociaux de la Province Nord au sein d'une équipe pluridisciplinaire (médecins, sage-femmes, assistantes sociales, spécialistes
-
-vacataires, psychothérapeutes etc..).
-
-**Activités principales : La personne retenue aura notamment en charge :**
-
-- La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du
-
-travail et du sport, éducation pour la santé, hygiène publique ; - La médecine curative : consultations, urgences, visites en tribu ;
-
-- Les activités administratives : gestion des moyens en personnel et matériel,
-
-rapports, etc… ; - La veille sanitaire et sociale.
-
-- Le remplacement des médecins en congés, sur poste vacant…
-
-**La personne retenue aura également en charge :**
-
-- L'établissement de partenariats extérieurs ;
-
-- La gestion de la pharmacie de la structure ;
-
-- La participation aux actions de formation et d'animation de sécurité civile ;
-
-- Le renfort aux CMS limitrophes essentiellement en cas de nécessité.
-
-**Caractéristiques particulières de l'emploi :**
-
-Poste soumis à astreinte.
-
-#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
-- Maitrise de la médecine générale et de l'urgence (CAMU souhaité) ;
-- Connaissance en santé publique ;
-- Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie seraient appréciées ;
-- Être titulaire du permis de conduire B.
-
-#### Savoir-faire 
-- Maitrise des logiciels de bureautique (Excel et Word) ;
-- Aptitude au management d'équipe ;
-- Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes.
-
-#### Comportement professionnel 
-- Goût des relations humaines ;
-- Esprit d'initiative ;
-- Capacité d'écoute ;
-- Goût du travail en équipe.
-
-#### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter :
-
-**Direction des affaires sanitaires et sociales, de la prévention et de la solidarité**
-
-Tél : [📞 47.71.00](tel:477100) ou [📞 47.72.30](tel:477230)
-
-**Madame Mylencka OUDARE, Directrice adjointe**
-
-Mail : m.oudare[@province-nord.nc](mailto:m.oudare@province-nord.nc)
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC ([www.drhfpnc.gouv.nc](http://www.drhfpnc.gouv.nc)) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord ([www.province-nord.nc\)](http://www.province-nord.nc).
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
-
-- Voie postale : BP 41 - 98860 Koné
-
-- Dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
-
-- Mail : [drh-emplois@province-nord.nc](mailto:drh-emplois@province-nord.nc)
-
-\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-*[PMI]: Protection Maternelle et Infantile
-
-
----
-
 # 26-0728 - Médecin (Nouméa)
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6c880462b43e6a475461cfece6991e79/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -32108,6 +31945,1513 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 - 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0786 - Travailleur social au service de prévention et promotion de la santé - dispositif bien avec mon école
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0e0494d8db1a3dc1fcaac34a8ee0154d/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0786 - Travailleur social au service de prévention et promotion de la santé - dispositif bien avec mon école",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0786/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0786/SR du 15 mai 202**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif – spécialité assistant de service social ou conseiller en économie sociale ou familiale ou éducateur spécialisé ou éducateur jeunes enfants
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-09-01
+
+## Direction Provinciale de l'Action Sanitaire et Sociale
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+# Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+A ce titre, il/elle aura pour missions :
+
+- D'assurer l'évaluation socio-éducative globale,
+- D'assurer le suivi individuel des enfants,
+- De venir en soutien à l'organisation scolaire,
+- De fournir une guidance parentale éducative,
+- D'apporter un accompagnement administratif et budgétaire,
+- De venir en soutien à l'insertion sociale et professionnelle,
+- D'assurer des médiations école-famille,
+- D'animer des ateliers collectifs,
+- D'effectuer des visites à domicile, en co-interventions avec le psychologue,
+- De rédiger des projets personnalisés,
+
+- De participer aux réunions partenariales,
+- D'être le/la référent(e) de parcours familles.
+
+# Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme d'Etat d'éducateur spécialisé (DEES), diplôme d'Etat d'assistant de service social (DEASS), diplôme d'Etat de conseiller en économie sociale et familiale (DECESF), diplôme d'Etat d'éducateur de jeune enfant (DEEJE)
+- Connaissances de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Connaissances des grands principes de la médiation
+- Permis B
+
+### Savoir-faire 
+- Justifier d'une expérience professionnelle souhaitée de 3 ans minimum souhaitée
+- Évaluer une situation éducative globale
+- Observer et analyser les comportements en contexte
+- Élaborer un projet éducatif individualisé
+- Conduire des entretiens structurés enfant/parent
+- Mettre en place des actions de médiation école-famille
+- Analyser les droits et dispositifs mobilisables
+- Accompagner dans les démarches administratives
+- Évaluer les vulnérabilités familiales
+- Identifier les situations à risque
+- Intervenir en visite à domicile
+- Travailler en co-intervention
+- Animer des ateliers collectifs
+- Mobiliser les partenaires
+- Rédiger des bilans et des comptes-rendus
+- Avoir une approche interculturelle
+
+#### Comportement professionnel 
+- Posture bienveillante et non jugeante
+- Capacité d'écoute active
+- Adaptabilité aux contextes familiaux variés
+- Capacité à poser un cadre sécurisant
+- Capacité à poser des limites professionnelles
+- Gestion des situations conflictuelles
+- Réactivité face aux situations complexes
+- Bonne organisation de travail
+- Capacité à travailler en équipe pluridisciplinaire
+- Respect du rythme des familles
+- Communication claire et structurée
+- Respect du cadre institutionnel
+- Discrétion professionnelle et respect de la confidentialité
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
+
+(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0787 - Travailleur social au service de prévention et promotion de la santé - dispositif bien avec mon école
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ef4f52ad8cb3dcc50dcf29f2d7115bc9/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0787 - Travailleur social au service de prévention et promotion de la santé - dispositif bien avec mon école",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0787/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 2026-0787/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif – spécialité assistant de service social ou conseiller en économie sociale ou familiale ou éducateur spécialisé ou éducateur jeunes enfants
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-09-01
+
+# Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+A ce titre, il/elle aura pour missions :
+
+- D'assurer l'évaluation socio-éducative globale,
+- D'assurer le suivi individuel des enfants,
+- De venir en soutien à l'organisation scolaire,
+- De fournir une guidance parentale éducative,
+- D'apporter un accompagnement administratif et budgétaire,
+- De venir en soutien à l'insertion sociale et professionnelle,
+- D'assurer des médiations école-famille,
+- D'animer des ateliers collectifs,
+- D'effectuer des visites à domicile, en co-interventions avec le psychologue,
+- De rédiger des projets personnalisés,
+- De participer aux réunions partenariales,
+- D'être le/la référent(e) de parcours familles.
+
+## Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme d'Etat d'éducateur spécialisé (DEES), diplôme d'Etat d'assistant de service social (DEASS), diplôme d'Etat de conseiller en économie sociale et familiale (DECESF), diplôme d'Etat d'éducateur de jeune enfant (DEEJE)
+- Connaissances de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Connaissances des grands principes de la médiation
+- Permis B
+
+#### Savoir-faire 
+- Justifier d'une expérience professionnelle de 3 ans minimum souhaitée
+- Évaluer une situation éducative globale
+- Observer et analyser les comportements en contexte
+- Élaborer un projet éducatif individualisé
+- Conduire des entretiens structurés enfant/parent
+- Mettre en place des actions de médiation école-famille
+- Analyser les droits et dispositifs mobilisables
+- Accompagner dans les démarches administratives
+- Évaluer les vulnérabilités familiales
+- Identifier les situations à risque
+- Intervenir en visite à domicile
+- Travailler en co-intervention
+- Animer des ateliers collectifs
+- Mobiliser les partenaires
+- Rédiger des bilans et des comptes-rendus
+- Avoir une approche interculturelle
+
+#### Comportement professionnel 
+- Posture bienveillante et non jugeante
+- Capacité d'écoute active
+- Adaptabilité aux contextes familiaux variés
+- Capacité à poser un cadre sécurisant
+- Capacité à poser des limites professionnelles
+- Gestion des situations conflictuelles
+- Réactivité face aux situations complexes
+- Bonne organisation de travail
+- Capacité à travailler en équipe pluridisciplinaire
+- Respect du rythme des familles
+- Communication claire et structurée
+- Respect du cadre institutionnel
+- Discrétion professionnelle et respect de la confidentialité
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+
+- Voie postale : Bureau du recrutement – BP L1 – 98849 Nouméa cedex
+
+- Dépôt physique : Centre administratif de la province Sud - 6 route des artifices - Nouméa
+
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0788 - Psychologue au service de prévention et de promotion de la santé - dispositif bien avec mon école
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/96d6b8e6dc0b0ff2bce6a6d5e4bcb791/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0788 - Psychologue au service de prévention et de promotion de la santé - dispositif bien avec mon école",
+  "description": "Domaine: médico-sociale et travail. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0788/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Psychologue au Service de Prévention et de Promotion de la Santé - Dispositif "Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** médico-sociale et travail  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 2026-0788/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Psychologue **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-09-01
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+# Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Psychologue**
+
+## 🎯 Missions
+
+#### Il aura pour mission 
+- De réaliser des bilans psychologiques,
+- D'effectuer des entretiens individuels,
+- D'apporter un soutien à la parentalité,
+- D'animer des groupes thérapeutiques ou préventifs,
+- De venir en appui clinique à l'équipe,
+- D'analyser des situations complexes,
+- De contribuer aux stratégies d'accompagnement,
+- D'effectuer des visites à domicile, en co-interventions avec le travailleur social,
+- De rédiger des projets personnalisés,
+- De participer aux réunions partenariales.
+
+**Caractéristiques particulières de l'emploi :**
+
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Master 2 en psychologie clinique ou développement de l'enfant
+- Connaissances de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Connaissances des grands principes de la médiation
+- Permis B
+
+#### Savoir-faire 
+- Disposer une expérience de 3 ans minimum en scolaire ou en accompagnement familial
+- Conduire des entretiens cliniques enfants/parents
+- Réaliser des évaluations psychologiques adaptées
+- Analyser les dynamiques familiales
+- Repérer les troubles anxieux, trauma, troubles émotionnels
+- Proposer des interventions brèves orientées solutions
+- Animer des groupes de parole
+- Apporter un éclairage clinique à l'équipe
+- Participer à l'élaboration des projets personnalisés
+- Rédiger des synthèses cliniques
+
+#### Comportement professionnel 
+- Neutralité bienveillante
+- Positionnement éthique clair
+- Capacité de distanciation émotionnelle
+- Discrétion professionnelle et respect de la confidentialité
+- Posture d'écoute approfondie
+- Capacité à travailler en équipe pluridisciplinaire
+- Capacité à soutenir l'équipe
+- Stabilité émotionnelle
+- Bonne organisation de travail
+- Communication claire et structurée
+- Réactivité face aux situations complexes
+- Respect du cadre institutionnel
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
+
+(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud -
+
+(www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en médico-sociale et travail](../#medico-sociale-et-travail)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0789 - Orthophoniste au service de prévention et de promotion de la santé - dispositif bien avec mon école
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/014163d8489b407dafcd4e516d47fa66/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0789 - Orthophoniste au service de prévention et de promotion de la santé - dispositif bien avec mon école",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0789/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Orthophoniste au Service de Prévention et de Promotion de la Santé – Dispositif « Bien avec mon école »
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0789/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10 **Lieu de travail :** Nouméa
+
+ans
+
+**Poste à pourvoir :** 2026-09-01 **Date limite de candidature :** vendredi 2026-06-05
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+A ce titre, il/elle sera en charge :
+
+- De réaliser des dépistages,
+- De réaliser des bilans,
+- De mettre en œuvre des rééducations,
+- De proposer des adaptations pédagogiques,
+- D'apporter des conseils aux familles et aux enseignants,
+- D'animer des ateliers de prévention du langage,
+- De dispenser des formations à destination des enseignants (TDAH, DYS, métacognition et troubles des apprentissages),
+- De participer aux réunions partenariales,
+- De participer aux projets personnalisés,
+- D'assurer un travail conjoint avec les équipes éducatives et pédagogiques.
+
+## Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie (CCO)
+- Connaissance de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Permis B
+
+#### Savoir-faire 
+- Justifier d'une expérience de 3 ans minimum et idéalement en milieu scolaire, en institution
+- Disposer d'une expérience dans la formation souhaitée
+- Maitriser la discipline orthophonique
+- Réaliser des bilans orthophoniques
+- Dépister précocement les troubles du langage
+- Mettre en place des programmes de rééducation ciblés
+- Adapter les supports pédagogiques
+- Conseiller les enseignants et parents
+- Concevoir et animer des ateliers de prévention langagière
+- Évaluer l'impact sur les apprentissages
+- Rédiger des compte-rendu spécialisés
+- Travailler en articulation avec l'équipe éducative et pédagogique
+
+### Comportement professionnel 
+- Précision technique
+- Sens de l'observation fine
+- Pédagogie et capacité à vulgariser
+- Patience et constance
+- Posture bienveillante et non jugeante
+- Adaptabilité aux jeunes enfants
+- Discrétion et respect du secret professionnel
+- Capacité à prioriser les situations
+- Capacité à travailler en équipe pluridisciplinaire
+- Communication claire et structurée
+- Réactivité face aux situations complexes
+- Respect du cadre institutionnel
+- Bonne organisation de travail
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
+
+(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0790 - Orthophoniste au service de prévention et de promotion de la santé
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4a6cfeb7e3a3f344e081c5a84779a0a8/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0790 - Orthophoniste au service de prévention et de promotion de la santé",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0790/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Orthophoniste au Service de Prévention et de Promotion de la Santé
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0790/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** 2026-07-01 **Date limite de candidature :** vendredi 2026-06-05
+
+## Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle Enfance-Famille, le service de prévention et de promotion de la santé (SPPS) qui comprend 14 agents permanents (éducateurs sanitaires, diététiciens, psychologues, orthophonistes...), élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention et développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité. En matière d'orthophonie, le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution. La volonté de promouvoir la réussite scolaire sous-tend cette orientation.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+- De réaliser des bilans orthophoniques et de rédiger les rapports qui en découlent ;
+
+**Lieu de travail : Nouméa et Grand Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+- De réaliser le suivi orthophonique des enfants dépistés ;
+- De conseiller les parents et les enseignants ;
+- D'orienter les enfants dépistés vers les structures de soins appropriées ;
+- De travailler en lien avec les équipes pluridisciplinaires des centres de soins
+- Provinciaux et les divers spécialistes ; - de réaliser des actions de prévention.
+
+**Caractéristiques particulières de l'emploi :**
+
+L'activité des orthophonistes de la DPASS se déroule sur les différents sites de la province Sud.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie
+- Connaissances de la politique de santé publique de la province Sud
+- Connaissances des outils et des pratiques de santé publique
+- Connaissances en prévention et en promotion de la santé (charte d'Ottawa)
+- Titulaire du permis B
+
+### Savoir-faire 
+- Maîtrise complète de la discipline orthophonique
+- Mise en œuvre des protocoles du métier
+- Travail en partenariat avec les équipes des centres médico-sociaux et avec les divers spécialistes
+
+#### Comportement professionnel 
+- Bonne organisation
+- Disponibilité
+- Mobilité
+- Goût pour le contact humain
+- Sens de la communication (avec enfants, parents, enseignants et autres professionnels)
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique YAMAMOTO – Chef du service de prévention et de promotion de la santé - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0791 - Orthophoniste au service de prévention et de promotion de la santé
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ae05ed2deedbaaa4c3f536c20e66a914/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0791 - Orthophoniste au service de prévention et de promotion de la santé",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0791/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### Orthophoniste au Service de Prévention et de Promotion de la Santé
+
+**Référence : 3134-26-0791/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** immédiatement **Date limite de candidature :** vendredi 2026-06-05
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé, qui comprend 16 agents permanents, élabore et met en oeuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention et développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+En matière d'orthophonie, le champ d'activité couvert concerne la rééducation des troubles du langage des enfants des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution. La volonté de promouvoir la réussite scolaire sous-tend cette orientation.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+- De réaliser des bilans orthophoniques et de rédiger les rapports qui en découlent,
+- De réaliser le suivi orthophonique des enfants dépistés,
+- De conseiller les parents et les enseignants,
+- D'orienter les enfants dépistés vers les structures de soins appropriées,
+- De travailler en lien avec les équipes pluridisciplinaires des centres de soins provinciaux et les divers spécialistes,
+- De réaliser des actions de prévention.
+
+**Caractéristiques particulières de l'emploi :**
+
+L'activité des orthophonistes de la DPASS se déroule sur les différents sites de la province Sud.
+
+L'attention des candidats est portée sur les déplacements hebdomadaires à prévoir pour le professionnel retenu et la nécessité d'être titulaire du permis de conduire.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie
+- Connaissances de la politique de santé publique de la province Sud
+- Connaissances des outils et des pratiques de santé publique
+- Titulaire du permis B
+
+#### Savoir-faire 
+- Maîtrise complète de la discipline orthophonique
+- Mise en œuvre des protocoles du métier
+- Travail en partenariat avec les équipes des centres médico-sociaux et avec les divers spécialistes
+
+#### Comportement professionnel 
+- Bonne organisation
+- Disponibilité
+- Mobilité
+- Goût pour le contact humain
+- Sens de la communication (avec enfants, parents, enseignants et autres professionnels)
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique YAMAMOTO – Chef du service de prévention et de promotion de la santé - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0792 - Orthophoniste au service de prévention et de promotion de la santé
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/aff1cb3924eb9bf4e3c51c83ddf057d2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0792 - Orthophoniste au service de prévention et de promotion de la santé",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0792/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### Orthophoniste au Service de Prévention et de Promotion de la Santé
+
+**Référence : 3134-26-0792/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1):** au moins égale à 10 ans
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+**Lieu de travail :** Nouméa et Grand Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+## Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les
+
+Au sein du pôle Enfance-Famille, le service de prévention et de promotion de la santé (SPPS) qui comprend 15 agents permanents (éducateurs sanitaires, diététiciens, psychologues, orthophonistes...), élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention et développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité. En matière d'orthophonie, le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution. La volonté de promouvoir la réussite scolaire sous-tend cette orientation.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+- De réaliser des bilans orthophoniques et de rédiger les rapports qui en découlent,
+- De réaliser le suivi orthophonique des enfants dépistés,
+- De conseiller les parents et les enseignants,
+- D'orienter les enfants dépistés vers les structures de soins appropriées,
+- De travailler en lien avec les équipes pluridisciplinaires des centres de soins provinciaux et les divers spécialistes,
+- De réaliser des actions de prévention.
+
+**Caractéristiques particulières de l'emploi :**
+
+L'activité des orthophonistes de la DPASS se déroule sur les différents sites de la province Sud. L'attention des candidats est portée sur le fait que ce poste demande des déplacements fréquents en province Sud.
+
+**Profil du candidat Savoir / Connaissance/Diplôme exigé :**
+
+établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+- Certificat de capacité en orthophonie
+- Connaissances de la politique de santé publique de la province Sud
+- Connaissances des outils et des pratiques de santé publique
+- Connaissances en prévention et en promotion de la santé (charte d'Ottawa)
+- Titulaire du permis B
+
+#### Savoir-faire 
+- Maîtrise complète de la discipline orthophonique
+- Mise en œuvre des protocoles du métier
+- Travail en partenariat avec les équipes des centres médico-sociaux et avec les divers spécialistes
+
+#### Comportement professionnel 
+- Bonne organisation
+- Disponibilité
+- Mobilité
+- Goût pour le contact humain
+- Sens de la communication (avec enfants, parents, enseignants et autres professionnels)
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique YAMAMOTO – Chef du service de prévention et de promotion de la santé - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0793 - Chef d'équipe
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1df9be7aac79647dc76b14670e9c0950/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0793 - Chef d'équipe",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0793/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Chef d'équipe
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence :** 3134-26-0793/SR du 2026-05-15
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** ACDP - Grille 2 **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** 2026-06-01
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+# Détails de l'offre 
+La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.
+
+Jouant un rôle crucial dans l'organisation de la mission de détection des risques et la prévention des incidents, le chef d'équipe, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, travaillera sous la gestion directe du responsable des agents de gardiennage et de surveillance et aura sous sa responsabilité des superviseurs de terrain. Il est chargé de faire le lien opérationnel et organisationnel entre les équipes sur le terrain et le travail administratif en journée et de participer à la structuration et l'organisation du service.
+
+#### Emploi RESPNC : Chef d'équipe - responsable d'unité réglementairement constituée
+
+## 🎯 Missions
+
+- La gestion des plannings ;
+- Le suivi des indicateurs mensuels (nombre de rond effectuée, nombre de kilomètres parcourus, nombre d'anomalies relevées...) ;
+- L'organisation, le suivi et le ravitaillement du matériel fournis aux agents de gardiennage et de surveillance ;
+- La recherche et le suivi de produits nouveaux, la veille technique et les consultations pour l'obtention de devis ;
+- La rédaction des feuilles de rondes sur les sites provinciaux ;
+- La réalisation des entretiens annuels d'échanges (EAE) des agents de gardiennage et de surveillance ;
+- La participation au processus de recrutement des agents de gardiennage et de surveillance ;
+- La gestion et la vérification des rondes effectuées (sites, distances) ;
+- Le support opérationnel durant sa présence terrain sur les alertes.
+
+**Caractéristiques particulières de l'emploi :**
+
+- Horaires flexibles : possibilités de travailler à différents moments de la journée et de la nuit
+- Travail en extérieur : évoluer dans un environnement varié, loin d'un bureau traditionnel
+- Bonne condition physique et capacité à travailler en horaires décalés
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de formation en sécurité ou qualification similaire recommandé
+- Formation aux gestes de premier secours et aux techniques de prévention des risques souhaitée
+- Avoir des notions en self-défense serait un avantage
+- Permis B exigé
+
+#### Savoir-faire 
+- Maîtrise des procédures de sécurité
+- Capacité à animer et à coordonner une équipe
+- Expérience dans la surveillance, la sécurité ou un poste similaire appréciée
+- Capacité à gérer les situations d'urgence et les incidents, pouvant engendrer une pression importante
+- Capacité à rendre compte
+- Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité
+
+#### Comportement professionnel 
+- Rigueur
+- Sens de l'observation
+- Réactivité et sens du contact
+- Qualités relationnelles
+- Qualités rédactionnelles
+- Sens du travail en équipe
+- Sens de la communication
+- Disponibilité
+- Leadership
+- Discrétion et devoir de réserve
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. William BREVI – Chargé de sécurité - Référent du site de l'Artillerie et référent sûreté - Tél. : [📞 20 31 90](tel:203190) / e-mail : [✉️ william.brevi@province-sud.nc](mailto:william.brevi@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0794 - Travailleur social au service de prévention et de promotion de la santé
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d286de704632e9d354184b45231fd41/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0794 - Travailleur social au service de prévention et de promotion de la santé",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0794/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-06-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-04  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0794/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif – spécialité assistant de service social ou conseiller en économie sociale ou familiale ou éducateur spécialisé ou éducateur jeunes enfants
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-09-01
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-05
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+A ce titre, il/elle aura pour missions :
+
+- D'assurer l'évaluation socio-éducative globale,
+- D'assurer le suivi individuel des enfants,
+- De venir en soutien à l'organisation scolaire,
+- De fournir une guidance parentale éducative,
+- D'apporter un accompagnement administratif et budgétaire,
+- De venir en soutien à l'insertion sociale et professionnelle,
+- D'assurer des médiations école-famille,
+- D'animer des ateliers collectifs,
+- D'effectuer des visites à domicile, en co-interventions avec le psychologue,
+- De rédiger des projets personnalisés,
+- De participer aux réunions partenariales,
+- D'être le/la référent(e) de parcours familles.
+
+### Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme d'Etat d'éducateur spécialisé (DEES), diplôme d'Etat d'assistant de service social (DEASS), diplôme d'Etat de conseiller en économie sociale et familiale (DECESF), diplôme d'Etat d'éducateur de jeune enfant (DEEJE)
+- Connaissances de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Connaissances des grands principes de la médiation
+- Permis B
+
+#### Savoir-faire 
+- Justifier d'une expérience professionnelle de 3 ans minimum souhaitée
+- Évaluer une situation éducative globale
+- Observer et analyser les comportements en contexte
+- Élaborer un projet éducatif individualisé
+- Conduire des entretiens structurés enfant/parent
+- Mettre en place des actions de médiation école-famille
+- Analyser les droits et dispositifs mobilisables
+- Accompagner dans les démarches administratives
+- Évaluer les vulnérabilités familiales
+- Identifier les situations à risque
+- Intervenir en visite à domicile
+- Travailler en co-intervention
+- Animer des ateliers collectifs
+- Mobiliser les partenaires
+- Rédiger des bilans et des comptes-rendus
+- Avoir une approche interculturelle
+
+#### Comportement professionnel 
+- Posture bienveillante et non jugeante
+- Capacité d'écoute active
+- Adaptabilité aux contextes familiaux variés
+- Capacité à poser un cadre sécurisant
+- Capacité à poser des limites professionnelles
+- Gestion des situations conflictuelles
+- Réactivité face aux situations complexes
+- Bonne organisation de travail
+- Capacité à travailler en équipe pluridisciplinaire
+- Respect du rythme des familles
+- Communication claire et structurée
+- Respect du cadre institutionnel
+- Discrétion professionnelle et respect de la confidentialité
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
 *[AVP]: Avis de Vacance de Poste
 
 
