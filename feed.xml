@@ -6,7 +6,7 @@
   <description>Avis de vacances de poste en cours et publiés par la DRHFPNC (Nouvelle Calédonie)</description>
   <language>fr</language>
   <managingEditor>contact@example.com</managingEditor>
-  <lastBuildDate>Sat, 23 May 2026 02:50:34 +1100</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 03:29:10 +1100</lastBuildDate>
   <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://adriens.github.io/avps/assets/favicon.png</url>
@@ -24,13 +24,13 @@
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-0785 - Agent gestionnaire polyvalent</title>
-    <link>https://adriens.github.io/avps/26-0785/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0785/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <title>26-62777_MPRH - Assistant administratif</title>
+    <link>https://adriens.github.io/avps/26-62777_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-62777_MPRH/</guid>
+    <description><strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a27e8c58b28f826cf447e61152a7f3c7/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/890da5f23058cd375dd26031c2d44a31/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -114,13 +114,13 @@
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-61895_MPRH - Inspecteur des mines et carrières</title>
-    <link>https://adriens.github.io/avps/26-61895_MPRH/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-61895_MPRH/</guid>
-    <description><strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Equipement</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7491853001f7e2875dc1c94c5eb78ffc/download/" length="0" type="application/pdf"/>
+    <title>26-0768 - Agent comptable</title>
+    <link>https://adriens.github.io/avps/26-0768/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0768/</guid>
+    <description><strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6fa71f523a5c242dc03a6041b01aac5b/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -131,16 +131,6 @@
     <content:encoded><![CDATA[<strong>Direction :</strong> DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
     <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e3081b872bf1ea8757c7264a5a20403d/download/" length="0" type="application/pdf"/>
-    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-0795 - Chef de projet géomatique  (Koné)</title>
-    <link>https://adriens.github.io/avps/26-0795/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0795/</guid>
-    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Equipement</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bf87154bda9b293e3543c2f55d53898f/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -194,16 +184,6 @@
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-0768 - Agent comptable</title>
-    <link>https://adriens.github.io/avps/26-0768/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0768/</guid>
-    <description><strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6fa71f523a5c242dc03a6041b01aac5b/download/" length="0" type="application/pdf"/>
-    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
     <title>26-63200_MPRH - Approvisionneur achat public</title>
     <link>https://adriens.github.io/avps/26-63200_MPRH/</link>
     <guid isPermaLink="true">https://adriens.github.io/avps/26-63200_MPRH/</guid>
@@ -211,6 +191,36 @@
     <content:encoded><![CDATA[<strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
     <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/c6196639bb1c7400f6c707dd783b8ee9/download/" length="0" type="application/pdf"/>
+    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-61895_MPRH - Inspecteur des mines et carrières</title>
+    <link>https://adriens.github.io/avps/26-61895_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-61895_MPRH/</guid>
+    <description><strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Equipement</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7491853001f7e2875dc1c94c5eb78ffc/download/" length="0" type="application/pdf"/>
+    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-63373_MPRH - Sismologue</title>
+    <link>https://adriens.github.io/avps/26-63373_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-63373_MPRH/</guid>
+    <description><strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DIMENC<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Equipement</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/8bc79e7caf034c05fa86bb5ab24408db/download/" length="0" type="application/pdf"/>
+    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-0785 - Agent gestionnaire polyvalent</title>
+    <link>https://adriens.github.io/avps/26-0785/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0785/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a27e8c58b28f826cf447e61152a7f3c7/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -234,73 +244,43 @@
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-0793 - Chef d'équipe</title>
-    <link>https://adriens.github.io/avps/26-0793/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0793/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e5f5e44c20d00494f8f592e3a9522132/download/" length="0" type="application/pdf"/>
+    <title>26-0795 - Chef de projet géomatique  (Koné)</title>
+    <link>https://adriens.github.io/avps/26-0795/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0795/</guid>
+    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Equipement</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bf87154bda9b293e3543c2f55d53898f/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-0786 - Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"</title>
-    <link>https://adriens.github.io/avps/26-0786/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0786/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <title>26-0773 - Directeur</title>
+    <link>https://adriens.github.io/avps/26-0773/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0773/</guid>
+    <description><strong>Direction :</strong> PIL<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PIL<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/922dd1321208e10a5d3e477c9e0212d1/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/605608583e0b9ead2e35607e401e0366/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-62777_MPRH - Assistant administratif</title>
-    <link>https://adriens.github.io/avps/26-62777_MPRH/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-62777_MPRH/</guid>
-    <description><strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/890da5f23058cd375dd26031c2d44a31/download/" length="0" type="application/pdf"/>
+    <title>26-0771 - Technicien(ne) informatique</title>
+    <link>https://adriens.github.io/avps/26-0771/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0771/</guid>
+    <description><strong>Direction :</strong> UNC<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> UNC<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Informatique</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5f83ed57c0f1c72edd9b872f2079f4ba/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-0784 - Gestionnaire des ressources humaines</title>
-    <link>https://adriens.github.io/avps/26-0784/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0784/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <title>26-63477 - Chargée de projets Station N</title>
+    <link>https://adriens.github.io/avps/26-63477/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-63477/</guid>
+    <description><strong>Direction :</strong> DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/af19d8cdd5023603bac704da515716bb/download/" length="0" type="application/pdf"/>
-    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-0779 - Secrétaire général</title>
-    <link>https://adriens.github.io/avps/26-0779/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-0779/</guid>
-    <description><strong>Direction :</strong> OCCE-NC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> OCCE-NC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/537f17ed4772de035ef0de11dff3a7a4/download/" length="0" type="application/pdf"/>
-    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-63240_MPRH - Inspecteur sanitaire aux frontières</title>
-    <link>https://adriens.github.io/avps/26-63240_MPRH/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-63240_MPRH/</guid>
-    <description><strong>Direction :</strong> DAVAR<br/><strong>Domaine :</strong> Economie rurale<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> DAVAR<br/><strong>Domaine :</strong> Economie rurale<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Economie rurale</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a3e89d5a950d66f451f98b8dbb5a309b/download/" length="0" type="application/pdf"/>
-    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-63592_MPRH - Vaguemestre</title>
-    <link>https://adriens.github.io/avps/26-63592_MPRH/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-63592_MPRH/</guid>
-    <description><strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> DAPM<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7eeecbd1a0d4a6f559cedef1bc09fba3/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1fbeb2564ef2e70c11b01b3471f0ab0f/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -311,6 +291,26 @@
     <content:encoded><![CDATA[<strong>Direction :</strong> DTEFP<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
     <category>Autres filières</category>
     <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/58a62c711187d2356754fb090ef34242/download/" length="0" type="application/pdf"/>
+    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-0772 - Secrétaire-comptable</title>
+    <link>https://adriens.github.io/avps/26-0772/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0772/</guid>
+    <description><strong>Direction :</strong> Ville du Mont-Dore<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> Ville du Mont-Dore<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3a1baf73396b21996857e60bac81ba2f/download/" length="0" type="application/pdf"/>
+    <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-0783 - Gestionnaire au sein du bureau de scolarité d'un département</title>
+    <link>https://adriens.github.io/avps/26-0783/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-0783/</guid>
+    <description><strong>Direction :</strong> UNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> UNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-06-11]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/be9d8e6f5f5c61e0d58bf079ef7be8f5/download/" length="0" type="application/pdf"/>
     <pubDate>Thu, 21 May 2026 00:00:00 +1100</pubDate>
   </item>
 </channel>
