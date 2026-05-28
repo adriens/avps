@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 219 offres extraites de la DRHFPNC.
+Ce document regroupe 221 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -9154,6 +9154,335 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 *[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
 *[AVP]: Avis de Vacance de Poste
 *[PMI]: Protection Maternelle et Infantile
+
+
+---
+
+# 26-0646 - Travailleur social chargé des PEAD au service de protection de l'enfance (BAFS)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/865028fba71cea6707dfd8aec12160ef/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0646 - Travailleur social chargé des PEAD au service de protection de l'enfance (BAFS)",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0646/",
+  "datePosted": "2026-04-30",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Travailleur social chargé des PEAD au service de protection de l'enfance (BAFS)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0646/SR du 2026-05-01**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif spécialité éducateur spécialisé, conseiller en économie sociale et familiale ou éducateur de jeune
+
+enfant
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-08-01
+
+## Direction Provinciale de l'Action Sanitaire et Sociale
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-05-01
+
+**Date limite de candidature :** vendredi 2026-06-19
+
+## La date de clôture initialement prévue le 2026-05-22 a été reportée.
+
+# Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de la protection de l'enfance (SPE) compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif et est en charge de la mise en œuvre de l'ensemble des actions de prévention et de protection de l'enfance.
+
+Le candidat retenu exercera ses fonctions au bureau de l'accueil familial Sud.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+- D'assurer l'accompagnement éducatif des enfants confiés au SPE, dans le cadre d'une mesure judiciaire de type PEAD (placement éducatif à domicile), donc à partir du domicile parental, au travers de temps privilégiés au quotidien permettant une observation et un soutien ;
+- D'identifier les dysfonctionnements mais aussi les leviers d'évolution du système familial ;
+- D'accompagner les parents dans leur parentalité en mobilisant leurs compétences ainsi que les ressources familiales et environnementales afin de favoriser le développement et le bien-être de l'enfant ;
+- De fixer des objectifs avec la famille et l'enfant dans le cadre du projet personnel de l'enfant, tout en intégrant les attendus du jugement d'assistance éducative ;
+- De proposer des activités permettant de mobiliser les ressources de la famille ;
+- De rédiger des écrits apportant des éléments pour aider à la décision du magistrat quant aux suites données à la situation ;
+- De travailler en réseau pour permettre une intégration de l'enfant et de sa famille dans son environnement social.
+
+De manière secondaire, l'agent retenu pourra être amené en fonction de sa charge de travail, à mener des évaluations sociales au niveau des demandes d'agrément des familles d'accueil. De même, il pourra être sollicité pour intervenir dans le
+
+cadre de toutes les actions relatives à la parentalité (modules de rappel à la responsabilité parentale, stage allégé…)
+
+#### Caractéristiques particulières de l'emploi 
+La personne retenue aura particulièrement vocation à effectuer de nombreux déplacements et visites à domicile y compris en dehors des horaires traditionnels de bureau.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Titulaire du diplôme d'État d'éducateur spécialisé ou d'éducateur de jeunes enfants ou d'assistant de service social, ou de conseiller en économie sociale et familiale
+- Bonnes connaissances de l'environnement institutionnel de la Nouvelle-Calédonie
+- Bonnes connaissances en approche interculturelle néo-calédonienne
+- Titulaire du permis B
+
+#### Savoir-faire 
+- Expérience dans le domaine de la protection de l'enfance
+- Qualités rédactionnelles
+
+#### Comportement professionnel 
+- Disponibilité avec horaires pouvant être décalés (visites tardives…)
+- Capacité à témoigner d'une autorité bienveillante tout en faisant preuve de patience
+- Rigueur, méthode, organisation
+- Autonomie tout en sachant rendre compte de son activité à sa hiérarchie
+- Aptitudes au travail en équipe
+- Esprit d'analyse et de synthèse
+- Capacité d'écoute
+- Adaptabilité
+- Respect strict de la confidentialité des dossiers confiés ou rencontrés au sein du service
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Barbara PELLAN – Chef de service de protection de l'enfance - Tél. : [📞 20 44 00](tel:204400) / e-mail : [✉️ barbara.pellan@province-sud.nc](mailto:barbara.pellan@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0648 - Travailleur Social au sein de la maison de l'enfance de Bourail
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a8eb2b9f3cfdf89cef104561ac91d02c/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0648 - Travailleur Social au sein de la maison de l'enfance de Bourail",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Bourail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.5667,
+      "longitude": 165.5
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0648/",
+  "datePosted": "2026-04-30",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Travailleur Social au sein de la maison de l'enfance de Bourail
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0648/SR du 2026-05-01**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif spécialité éducateur spécialisé, assistant de service social, conseiller en économie sociale et familiale ou éducateur de jeune enfant
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** Susceptible d'être vacant
+
+#### Direction Provinciale de l'Action Sanitaire et Sociale
+
+**Lieu de travail :** Bourail
+
+**Date de dépôt de l'offre :** vendredi 2026-05-01
+
+**Date limite de candidature :** vendredi 2026-06-19
+
+## La date de clôture initialement prévue le 2026-05-22 a été reportée.
+
+## Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif.
+
+La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative (articles 375 à 375-9 du Code Civil). Cette structure, qui dépend du service de la protection de l'enfance (SPE), a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité. Le but est de permettre à ces jeunes de se poser dans un milieu sécurisé, de travailler autour de leur estime de soi, de leur accès à l'autonomie et de leur projet scolaire tout en travaillant sur le lien avec leur famille afin d'envisager un retour à domicile lorsque cela est possible.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+- D'assurer le suivi des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement au sein de la MDEB dans leurs différents aspects (scolarité, soins…) pour garantir leur santé physique et morale, leur épanouissement, leur développement affectif, intellectuel, etc. ;
+- De participer au soutien du parcours scolaire de l'enfant, en facilitant son intégration scolaire, en collaboration avec l'enseignante spécialisée de la MDEB ainsi qu'avec l'établissement scolaire de l'enfant ;
+- D'élaborer et de mettre en œuvre le projet pour l'enfant avec les prises en charge adaptées aux problématiques familiales pour travailler sur un retour à terme quand cela est envisageable ;
+- De procéder à l'évaluation des situations familiales dans une approche globale en prenant en compte à la fois l'intérêt de l'enfant, la place des parents et les
+
+ressources de l'environnement, notamment sur le plan coutumier ou de la famille élargie ;
+
+- De garantir en lien avec le référent socio-éducatif des familles de la MDEB l'accompagnement des familles naturelles, de les soutenir et de les accompagner dans leurs compétences parentales, tout en favorisant le lien avec l'enfant et en proposant des prises en charge adaptées pour faire évoluer la situation ;
+- D'organiser et d'encadrer les rencontres et les visites médiatisées parents/enfants;
+- De participer à la révision des situations aux échéances prévues (audiences, synthèses, réunions partenariales…), en produisant les écrits nécessaires à destination du service et du magistrat ordonnateur de la mesure, pour l'aider à la décision ;
+- De proposer, de planifier et d'animer des activités à visée de responsabilisation et d'accès à l'autonomie ;
+- De participer à l'encadrement des camps de vacances dans le cadre de projets collectifs ;
+- De participer aux commissions de placement ;
+- De travailler avec les jeunes autour de l'appropriation des règles et des normes de la vie en société ;
+- De participer à garantir la sécurité des personnes comme des biens ;
+- De constituer, de développer et de pérenniser le réseau partenarial ;
+- De contribuer à la mise en œuvre et à l'évaluation de l'accueil et à la prise en charge ainsi qu'aux réflexions autour de son évolution et à la démarche qualité ;
+- De participer à l'accueil des stagiaires.
+
+#### Caractéristiques particulières de l'emploi 
+- Poste à temps plein à horaires d'internat (soirées, week-ends et jours fériés)
+- Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Titulaire du diplôme d'État d'éducateur spécialisé (DEES) ou du diplôme de conseiller en économie sociale et familiale (CESF) (niveau 6) ou du diplôme d'assistant de service social ou du diplôme d'éducateur de jeunes enfants
+- Expérience dans le domaine souhaitée
+- Connaissances des techniques de prévention et de gestion des conflits
+- Connaissances du développement de l'enfant, des approches systémiques (génogramme, médiation familiale, etc.) appréciées
+- Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie, etc.), appréciées
+- Titulaire du permis B (indispensable)
+
+### Savoir-faire 
+- Maîtrise des techniques d'entretien
+- Maîtrise des écrits professionnels
+- Capacités à gérer un groupe
+- Capacités à alerter et à rendre compte
+- Maîtrise de l'outil informatique et bureautique
+
+#### Comportement professionnel 
+- Grandes aptitudes au travail en équipe pluridisciplinaire
+- Qualités relationnelles
+- Bienveillance
+- Respect strict de la confidentialité des dossiers confiés ou rencontrés au sein du service
+- Capacité d'écoute et de communication
+- Disponibilité
+- Rigueur et sens de l'organisation
+- Autonomie et créativité
+- Prise d'initiatives
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Géraldine BOEREREOU – Directrice de la MDE de Bourail - Tél. : [📞 20 37 45](tel:203745) / e-mail : [✉️ geraldine.boerereou@province-sud.nc](mailto:geraldine.boerereou@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
 
 
 ---
