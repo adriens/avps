@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 185 offres extraites de la DRHFPNC.
+Ce document regroupe 186 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -4210,182 +4210,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 *[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
 *[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
 *[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-0381 - INFIRMIER EN SOINS GENERAUX  - Touho
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/886bc63aa8791e50caf8533044c595df/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-0381 - INFIRMIER EN SOINS GENERAUX  - Touho",
-  "description": "Domaine: Infirmiers. Direction: Province Nord",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Nord",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Nord",
-      "addressLocality": "Touho"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -20.7833,
-      "longitude": 165.2333
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-0381/",
-  "datePosted": "2026-03-12",
-  "validThrough": "2026-05-28",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-## **INFIRMIER EN SOINS GENERAUX - Touho**
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-05-28  
-    **Direction :** PVN  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-**Référence : 3134-26-0381/SR du 2026-03-13**
-
-## 🏢 Employeur
-
-**Corps /Domaine : Infirmier en soins généraux Direction : Direction des affaires sanitaires et sociales, de**
-
-**la prévention et de la solidarité**
-
-**Durée de résidence exigée pour le recrutement sur**
-
-**titre (1) :** au moins égale à 5 ans **Lieu de travail : CMS de TOUHO**
-
-**Poste à pourvoir :** dès que possible **Date de dépôt de l'offre :** Vendredi 2026-03-13
-
-**Date limite de candidature :** Vendredi 2026-05-29
-
-# Modification de la date de clôture initialement prévue le 2026-05-01
-
-# Détails de l'offre :
-
-La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux.
-
-La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.
-
-**Emploi RESPNC : Infirmier**
-
-## 🎯 Missions
-
-soins généraux assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe.
-
-**Activités principales : La personne retenue aura notamment en charge :**
-
-- Les actes curatifs (consultations, urgences, soins) ;
-
-- Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail,
-
-suivi des maladies chroniques...) ;
-
-- Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques,
-
-santé scolaire…) ;
-
-- La téléconsultation (en l'absence de médecin en présentiel).
-
-**Activité secondaire :** - Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers.
-
-**Caractéristiques particulières de l'emploi :** Ce poste est soumis à astreinte de nuit.
-
-**Profil du candidat Savoir / Connaissance/Diplôme exigé :**
-
-**-** Diplôme d'état infirmier exigé ;
-
-- Expérience du travail en poste isolé ;
-
-- Expérience des urgences ;
-
-- Être titulaire du permis de conduire B.
-
-![](_page_0_Picture_32.jpeg)
-
-#### **Savoir-faire :**
-
-- Maîtrise des logiciels de bureautique (Excel et Word) ;
-
-## **Comportement professionnel :**
-
-- **-** Disponibilité et rigueur ;
-- Respect de la confidentialité des informations et du secret médical ;
-- Sens des responsabilités ;
-- Goût des relations humaines ;
-- Esprit d'initiative ;
-- Capacité d'écoute ;
-- Goût du travail en équipe.
-
-## **Contact et informations complémentaires :**
-
-Pour tout renseignement complémentaire, vous pouvez contacter :
-
-**Direction des affaires sanitaires et sociales, de la prévention et de la solidarité**
-
-Tél : [📞 47.71.00](tel:477100) ou [📞 47.72.30](tel:477230)
-
-**Madame Jessica WADRENGES, Cheffe de bureau de proximité de soins « Côte Océanienne ».**
-
-Mail : [j.wadrenges@province-nord.nc](mailto:j.wadrenges@province-nord.nc) Tel : [📞 76.08.89](tel:760889)
-
-**ou Madame OUDARE Mylencka, Directrice adjointe de la DASSPS** :
-
-[m.oudare@province-nord.nc](mailto:m.oudare@province-nord.nc)
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord ([www.province-nord.nc](http://www.province-nord.nc)).
-
-# **POUR RÉPONDRE À CETTE OFFRE**
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
-
-- Internet : <https://www.province-nord.nc/avp> - voie postale : BP 41 - 98860 Koné
-
-- dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
-
-- mail : [drh-emplois@province-nord.nc](mailto:drh-emplois@province-nord.nc)
-
--
-
-(¹)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé « Notice explicative : pièces à fournir de votre citoyenneté ou de votre résidence » qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(²)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#) {target="_blank"}
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-*[PMI]: Protection Maternelle et Infantile
 
 
 ---
@@ -25521,6 +25345,176 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 ---
 
+# 26-62613_MPRH - Coordonnateur du dispositif VAE
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/04e25dcf372a89a851d3472e89e9a8d2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-62613/MPRH - Coordonnateur du dispositif VAE",
+  "description": "Domaine: Autres filières. Direction: Direction du travail, de l'emploi et de la formation professionnelle",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction du travail, de l'emploi et de la formation professionnelle",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-62613_MPRH/",
+  "datePosted": "2026-05-31",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Coordonnateur du dispositif VAE
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DTEFP  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-62613/MPRH du 2026-06-01**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : attaché Direction du travail, de l'emploi et de la formation**
+
+**professionnelle (DTEFP)**
+
+**SERVICE DE L'EMPLOI ET DE LA FORMATION**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-06-01 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+# Détails de l'offre 
+La direction du travail, de l'emploi et de la formation professionnelle (DTEFP) a pour mission, sous l'autorité du secrétaire général du gouvernement, de mettre en œuvre les politiques publiques de la collectivité relatives au travail, à l'emploi, à la formation et à la certification professionnelles.
+
+Le service de l'emploi et de la formation a notamment pour missions :
+
+- De gérer, dans une finalité de fluidité du marché du travail, les dispositifs de formation professionnelle ainsi que les mesures de soutien à l'emploi et à l'insertion professionnelle ;
+- De contribuer, en lien avec les collectivités provinciales, à l'animation, à la coordination et au suivi du service public de l'emploi ;
+- D'assurer, le contrôle du respect de la réglementation en matière d'emploi et de formation ;
+- De mettre en œuvre la politique de certification professionnelle de la Nouvelle-Calédonie.
+
+Il est composé de quatre sections dont la section "certification professionnelle".
+
+Piloter le dispositif VAE en NC : **Missions :**
+
+- Assurer l'animation et le fonctionnement du comité VAE ;
+- Gérer le réseau des points relais conseil ;
+- Assurer l'information du public ;
+- Gérer l'habilitation des accompagnateurs VAE ;
+- Gérer les dossiers de prise en charge des demandeurs d'emploi ;
+- Rédiger le bilan annuel de la VAE en NC.
+
+**Activités principales :** - Assurer l'animation et le fonctionnement du comité VAE ;
+
+- Gérer le réseau des Points Relais Conseil ;
+- Apporter une expertise en matière de VAE et de conseil ;
+- Professionnaliser les futurs conseillers VAE et les accompagner dans leurs missions ;
+- Assurer l'information du public et une veille réglementaire et technique ;
+- Gérer l'habilitation des accompagnateurs VAE ;
+- Gérer les dossiers de prise en charge des demandeurs d'emploi ;
+- Rédiger le bilan annuel de la validation des acquis de l'expérience en NC ;
+- Rédiger tout rapport ou étude en lien avec la VAE.
+
+- **Activités secondaires :** Assurer la gestion du site VAE.nc ;
+  - Venir en appui technique des Points Relais Conseil avec la conduite des entretiens conseils VAE ;
+  - Venir en appui des chargés des opérations de certification professionnelle pour l'organisation des examens VAE ;
+  - Participer à la mise en œuvre des examens (VAE) ;
+  - Traiter les demandes de VAE pour les diplômes de la Nouvelle-Calédonie et les titres professionnels du Ministère du Travail.
+
+## Caractéristiques particulières de l'emploi 
+L'agent peut avoir à assurer des missions en horaires décalés en fonction des rendez-vous avec les personnes qui souhaitent se lancer dans une démarche de VAE.
+
+# Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Droit du travail / Droit de la formation ;
+- Connaissance de l'environnement économique et des institutions calédoniennes ;
+- Connaissance des certifications.
+
+## Savoir-faire 
+- Maîtrise des outils de base de gestion des RH ;
+- Ingénierie de formation et ingénierie de certification professionnelle ;
+- Maîtrise de la gestion de projet ;
+- Création et gestion des outils de suivi (tableaux de bord, statistiques, ...) et des outils bureautiques ;
+- Création d'outils pédagogiques adaptés pour la professionnalisation des conseillers en distanciel ou en présentiel ;
+- Rédaction des divers types de documents administratifs ou techniques ;
+- Prise de parole en public et animation de réunions.
+
+### Comportement professionnel 
+Sens de l'organisation, rigueur et méthode, capacité à instaurer des relations de confiance avec ses interlocuteurs, autonomie, capacité d'initiative, aptitude à communiquer, autorité, capacité à s'imposer, sens du travail en équipe et par objectif.
+
+## Contact et informations complémentaires 
+BROQUET Christian
+
+Tél: [📞 26 34 65](tel:263465) / mail : *[✉️ christian.broquet@gouv.nc](mailto:christian.broquet@gouv.nc)*
+
+ou
+
+ADI Jessica
+
+Tél: [📞 27 24 87](tel:272487) / mail : *[✉️ jessica.adi@gouv.nc](mailto:jessica.adi@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dtefp)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+*[NC]: Nouvelle-Calédonie
+*[RH]: Ressources Humaines
+
+
+---
+
 # 26-62772_MPRH - Educateur spécialisé - UEMOHD Sud/Iles
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d7b1a0e6df7259aba9c6fb03fc0f0fdd/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -30206,6 +30200,222 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-63695_MPRH - Conseiller technique sportif de volley-ball
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a67b97828ba39631c073b3165cee00a1/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-63695/MPRH - Conseiller technique sportif de volley-ball",
+  "description": "Domaine: Autres filières. Direction: Direction de la jeunesse et des sports",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la jeunesse et des sports",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-63695_MPRH/",
+  "datePosted": "2026-05-31",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Conseiller technique sportif de volley-ball
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DJS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-63695/MPRH du 2026-06-01**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine : conseiller des APS Direction de la jeunesse et des sports (DJS)**
+
+**Service des sports**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) : Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-06-01 **Poste à pourvoir :** 2026-08-01
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+# Détails de l'offre 
+La Nouvelle-Calédonie met en œuvre sa politique sportive par l'intermédiaire de la Direction de la Jeunesse et des Sports (DJSNC), chargée d'accompagner le développement des activités physiques et sportives sur le territoire, d'en structurer l'organisation et de soutenir les acteurs du mouvement sportif.
+
+Au sein de la DJSNC, le Service des sports assure le pilotage et la mise en œuvre des actions relevant du champ des activités physiques et sportives, notamment en matière de développement des pratiques, d'accompagnement des ligues, de structuration des disciplines et du soutien à la performance.
+
+# Ancrage institutionnel 
+Le présent poste s'inscrit dans la mise en œuvre du Plan Stratégique de la Pratique Sportive (PSPS) de la Nouvelle-Calédonie, notamment en matière de gouvernance du mouvement sportif, de développement de la pratique pour tous, de structuration de l'encadrement et d'accès au sport de haut niveau.
+
+# Le volley-ball en Nouvelle-Calédonie 
+Le volley-ball occupe une place significative dans le paysage sportif calédonien, avec une pratique structurée sur l'ensemble des trois provinces à travers un réseau de clubs actifs et plusieurs centaines de licenciés. Depuis l'élection d'une nouvelle équipe dirigeante à la tête de la Ligue Calédonienne de Volley-Ball (LCVB) en avril 2024, un important travail de redynamisation a été engagé : restructuration interne, relance d'une dynamique fédératrice avec les clubs, organisation de séminaires dans les trois provinces, présence renforcée sur le terrain lors des différentes éditions de la Fête du Volley.
+
+L'année 2025 constitue la première année complète de déploiement du projet de mandature, avec des actions structurantes en matière de formation d'entraîneurs, de formation d'arbitres, d'accompagnement des clubs et de développement de la pratique chez les jeunes. Ces efforts reposent toutefois essentiellement sur l'engagement bénévole des dirigeants, ce qui en limite la pérennité et l'amplification.
+
+### Contexte du poste 
+La remise en fonction de cette mission constitue un enjeu stratégique pour la Direction de la Jeunesse et des Sports et la Ligue Calédonienne de Volley-Ball, dans un contexte de structuration et de développement de la discipline à l'échelle territoriale.
+
+Les premières dynamiques engagées, notamment l'intégration récente de jeunes sportifs en structures de formation en métropole, confirment le potentiel de la discipline et la nécessité de renforcer l'encadrement technique. Dans cette perspective, la Fédération Française de Volley-Ball, à travers sa Direction Technique Nationale, soutient la mise en place d'un dispositif structuré permettant d'accompagner les parcours vers la performance.
+
+![](_page_0_Picture_19.jpeg)
+
+**Emploi RESPNC :** Conseiller jeunesse et sports
+
+## 🎯 Missions
+
+Placé(e) sous l'autorité du chef du Service des Sports de la DJSNC, le/la Conseiller(ère) Technique Sportif(ve) est mis(e) est placé(e) auprès de la Ligue Calédonienne de Volley-Ball. Il/elle a pour mission principale d'accompagner la stratégie générale de développement de la discipline sur le territoire, d'en renforcer la structuration et d'inscrire le volley-ball calédonien dans un parcours d'excellence cohérent avec les orientations de la Fédération Française de Volley-Ball (FFVB)
+
+- **Activités principales :** \*Développement et structuration de la discipline :
+  - Contribuer à la mise en œuvre du plan stratégique de développement du volley-ball en Nouvelle-Calédonie en cohérence avec le Projet de Performance Fédéral (PPF) de la FFVB,
+  - Appuyer la LCVB dans la gouvernance et le fonctionnement de la ligue et des clubs,
+  - Participer aux réseaux de développement de la Direction Technique Nationale, représenter la NC au sein du mouvement sportif fédéral,
+  - Contribuer à l'élaboration et au suivi des conventions d'objectifs entre la LCVB et la DJSNC.
+  - \*Détection, formation et parcours vers l'excellence :
+  - Définir et mettre en œuvre une méthodologie calédonienne de détection des talents sur l'ensemble des trois provinces,
+  - Structurer un parcours de formation progressive permettant d'amener les jeunes joueurs et joueuses vers les pôles espoirs métropolitains,
+  - Mettre en place une structure permanente d'entraînement en Nouvelle-Calédonie avec des volumes horaires adaptés à un niveau intermédiaire entre la pratique locale et les exigences des pôles fédéraux,
+  - Porter une attention particulière au développement des postes techniques lacunaires (libéro, passeur) pour lesquels la formation locale est insuffisante,
+  - Assurer un suivi individualisé des sportifs inscrits dans un projet de haute performance, en lien avec la DTN et les structures d'accueil métropolitaines,
+  - Préconiser et mettre en œuvre des créneaux d'entraînement prioritairement dédiés aux jeunes, en amont des seniors.
+
+## \*Encadrement des sélections et représentation 
+- Coordonner et/ou encadrer les sélections territoriales (masculines et féminines) pour les compétitions régionales et internationales (Jeux du Pacifique, championnats d'Océanie...),
+- Assurer la liaison opérationnelle entre la LCVB, la DTN de la FFVB et les structures de formation en métropole,
+- Participer aux réunions de travail, colloques CTS et séminaires d'entraîneurs de pôle prévus annuellement.
+- \*Formation des cadres techniques et des officiels :
+- Organiser et animer des formations à destination des entraîneurs de clubs sur l'ensemble du territoire,
+- Contribuer à la formation des arbitres et des officiels techniques en lien avec la commission compétente de la LCVB,
+- Développer des ressources pédagogiques adaptées au contexte calédonien.
+- \*Promotion et développement de la pratique pour tous :
+- Contribuer au développement d'une pratique inclusive et accessible sur l'ensemble du territoire, en lien avec les politiques publiques territoriales de sport-santé, de cohésion sociale et d'éducation par le sport,
+- Développer une offre de pratiques diversifiées (loisir, santé, compétition) en cohérence avec les offres promues par la FFVB,
+- Contribuer à la promotion du volley-ball dans les provinces, notamment auprès des jeunes et dans les établissements scolaires,
+- Soutenir l'organisation d'événements fédérateurs et d'animations grand public (Fête du Volley, tournois provinciaux...),
+- Participer à la valorisation de la pratique féminine et au développement du volley-ball dans les zones éloignées, en cohérence avec les objectifs de mixité et d'équité territoriale.
+- \*Gestion et montage de dossiers :
+- Contribuer à la réponse aux appels à projets fédéraux et institutionnels (Agence Nationale du Sport, DJSNC, provinces),
+- Participer à l'élaboration des bilans d'activité et des rapports annuels de la ligue,
+- Assurer une veille sur les financements disponibles et construire des
+
+partenariats publics/privés au bénéfice du développement de la discipline.
+
+- **Activités secondaires :** Suivi et accompagnement technique des clubs (visites, assistance, conseil),
+  - Présence aux réunions du Service des Sports de la DJSNC,
+  - Présence aux réunions du comité directeur de la LCVB,
+  - Participation aux travaux des différentes commissions de la ligue sur invitation du bureau directeur,
+  - Possibilité de participation aux réunions des comités directeurs provinciaux sur demande,
+  - Mise en place d'une programmation et d'une planification des regroupements des sélections,
+  - Contribution aux actions de prévention et d'éducation (lutte contre le dopage, fair-play, valeurs du sport).
+
+# Caractéristiques particulières de l'emploi 
+- Bonne condition physique requise,
+- Permis de conduire B obligatoire ; déplacements fréquents sur l'ensemble du territoire (Grande Terre et îles),
+- Horaires atypiques (week-ends, soirées, compétitions) inhérents à l'activité d'encadrement sportif,
+- Capacité à être mobilisé(e) en fonction des impératifs sportifs et institutionnels,
+- Déplacements occasionnels en métropole et dans la zone Océanie-Pacifique, dans le cadre des missions de représentation, de coordination et de suivi des sportifs et équipes de Nouvelle-Calédonie.
+
+# Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Diplôme d'État Supérieur de la Jeunesse, de l'Éducation Populaire et du Sport (DESJEPS), spécialité « Performance sportive », mention volley-ball souhaité,
+- À défaut, diplôme d'État de niveau 6 minimum dans le champ de l'encadrement sportif , assorti d'une expérience significative dans le développement, l'encadrement ou la structuration du volley-ball,
+- Formation complémentaire ou certification fédérale délivrée par la Fédération Française de Volley-Ball (entraîneur, formateur...) appréciée,
+- Expérience significative dans l'encadrement, le développement ou la structuration du volley-ball, en tant qu'entraîneur, cadre technique ou responsable de projet.
+- Expérience dans la mise en place ou l'animation de dispositifs de formation (jeunes, entraîneurs, dirigeants) ou de parcours de progression sportive appréciée,
+- Une expérience dans des environnements de performance (structures fédérales, sélections, compétitions de niveau régional ou national) constitue un atout,
+- Connaissance du mouvement sportif calédonien, océanien et/ou français appréciée,
+- Techniques du volley-ball et pédagogie des activités physiques et sportives,
+- Organisation et fonctionnement du mouvement sportif (calédonien, océanien et/ou français),
+- Principes de structuration des parcours sportifs, du développement à la performance,
+- Règlements fédéraux et internationaux du volley-ball,
+- Techniques de management, d'animation et d'accompagnement des acteurs,
+- Méthodes de formation, de détection et d'accompagnement des pratiquants,
+- Environnement institutionnel et fonctionnement des collectivités territoriales,
+- Techniques d'évaluation, d'organisation et de planification.
+
+### Savoir-faire 
+- Concevoir et piloter un projet de développement sportif,
+- Adapter les interventions aux publics, niveaux et contextes,
+- Animer des formations et des séances d'entraînement,
+- Conduire des réunions et communiquer en équipe,
+- Mobiliser et coordonner des partenaires multiples,
+- Produire des bilans d'activité et des rapports techniques,
+- Répondre à des appels à projets et monter des dossiers,
+- Respecter les règles de sécurité et d'éthique sportive.
+
+### Comportement professionnel 
+- Sens des responsabilités et forte autonomie dans la conduite des missions,
+- Capacité à analyser des situations complexes et à formuler des propositions adaptées,
+- Aptitude à prendre des décisions et à agir dans des environnements contraints ou isolés,
+- Capacité à mobiliser, fédérer et accompagner des acteurs aux profils variés,
+- Posture de conseil, d'expertise et d'accompagnement auprès des partenaires institutionnels et associatifs,
+- Excellentes qualités relationnelles et de communication orale et écrite,
+- Capacité à travailler en environnement géographiquement isolé et à distance des ressources fédérales métropolitaines,
+- Aptitude à s'inscrire dans un environnement multiculturel calédonien (mélanésien, polynésien, européen),
+- Rigueur, sens de l'organisation et respect des échéances institutionnelles,
+- Engagement dans une démarche d'amélioration continue et de qualité des actions.
+
+**Contact et informations complémentaires :**
+
+Marc HMAZUN - Chef de service des sports
+
+Tél: [📞 25 07 40](tel:250740) / mail : *[✉️ djsnc@gouv.nc](mailto:djsnc@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/culture.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=djs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+*[NC]: Nouvelle-Calédonie
 
 
 ---
