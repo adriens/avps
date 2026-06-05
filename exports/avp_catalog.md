@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 187 offres extraites de la DRHFPNC.
+Ce document regroupe 240 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -21685,6 +21685,170 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 
 ---
 
+# 26-0813 - Chargé(e) d'action culturelles (PDH)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6f8940fe1936a5bfd2ec835728c09558/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0813 - Chargé(e) d'action culturelles (PDH)",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0813/",
+  "datePosted": "2026-06-02",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Chargé(e) d'action culturelles
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0813/SR du 2026-05-29**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Attaché d'administration ou attaché de conservation
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** 2026-07-01
+
+![](_page_0_Picture_8.jpeg)
+
+## Direction de la culture de la jeunesse et des sports
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-05-29
+
+**Date limite de candidature :** vendredi 2026-06-19
+
+# Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. Le Pôle Développement Humain veille à contribuer à l'épanouissement de la personne au sein de la société, notamment grâce au sport et à la culture. Ses actions consistent à soutenir le milieu associatif sportif, à soutenir la création et la diffusion artistique sur son territoire et à déployer des actions et dispositifs au bénéfice des publics jeunes conformément à la politique provinciale jeunesse.
+
+**Emploi RESPNC : Chargé d'actions culturelles**
+
+## 🎯 Missions
+
+- De participer à la mise en œuvre de la politique culturelle provinciale de la collectivité au sein de son pôle ;
+- D'apporter une expertise dans le domaine culturel ;
+- D'assurer le suivi administratif et financier des demandes de subventions relevant du secteur de la culture ;
+- De concevoir, d'organiser, de soutenir et de suivre des évènements autour d'un projet ou d'un équipement culturel, des projets de créations artistiques, d'éducation artistique et culturelle, des dispositifs d'aides à la création et de diffusion artistiques, des partenariats nationaux, des projets de formation des artistes et des actions spécifiques en faveur des publics ;
+- D'apporter un soutien à la professionnalisation des acteurs (artistiques et culturels et encadrement des activités sportives, culturelles ou de jeunesse) au travers des dispositifs existants à ajuster ou à développer ;
+- De piloter et de participer avec les partenaires institutionnels et privés aux plans d'actions de la direction en faveur de la culture, de la jeunesse et du sport ;
+- De développer des logiques de coproduction de l'action publique avec les institutions ou avec les structures culturelles et les artistes ;
+- D'évaluer et de mettre en cohérence les différents projets selon les orientations politiques de la collectivité, notamment le dispositif dématérialisé d'accès des jeunes à des offres d'activités artistiques et culturelles ;
+- D'assurer une veille stratégique des associations porteuses de projets et d'analyser les besoins et les demandes des artistes et des organisateurs notamment sur les besoins en formation et en encadrement dans les domaines des activités artistiques et culturelles ;
+- De proposer et d'élaborer des dispositifs innovants et transversaux et plus particulièrement sur l'engagement des jeunes ;
+
+- De concevoir des actions de sensibilisation vers des publics cibles et de les mettre en œuvre ;
+- D'accompagner les actions du pôle développement humain ;
+- De gérer le budget du domaine d'intervention.
+
+### Caractéristiques particulières de l'emploi 
+- Participation aux évènements et aux manifestations organisés par le pôle et plus largement par la direction et la province Sud
+- Travail occasionnel le week-end, le soir et les jours fériés
+- Transversalité opérationnelle
+
+# Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Formation BAC + 3 minimum
+- Formation supérieure et/ou expérience avérée dans les domaines concernés
+- Connaissances du contexte institutionnel de la Nouvelle-Calédonie, des partenaires et notamment du mouvement associatif calédonien
+- Connaissances du fonctionnement administratif et en techniques de projet
+- Connaissances des réseaux institutionnels et associatifs locaux, nationaux et régionaux
+
+### Savoir-faire 
+- Maîtrise des méthodes et techniques de projet
+- Maîtrise des outils d'informatique, de bureautique (Word, Excel, Power Point), de planification et de communication
+- Management par projet
+- Qualités rédactionnelles
+- Capacités à analyser et à synthétiser
+- Capacités à travailler en réseau et en transversalité
+- Élaboration de tableaux de bord
+- Élaboration de documents administratifs (convention, arrêté, délibération, etc.)
+
+#### Comportement professionnel 
+- Sens du service public
+- Sens de l'organisation
+- Autonomie
+- Prise d'initiatives
+- Force de propositions
+- Capacité d'écoute et de communication
+- Capacité d'adaptation
+- Bonnes qualités relationnelles
+
+# Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Christine Aita – Directrice adjointe - Tél. : [📞 20 48 05](tel:204805) / e-mail : [✉️ christine.aita@province-sud.nc](mailto:christine.aita@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+
+- Voie postale : Bureau du recrutement – BP L1 – 98849 Nouméa cedex
+
+- Dépôt physique : Centre administratif de la province Sud - 6 route des artifices - Nouméa
+
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
 # 26-0814 - Educateur spécialisé à la maison maternelle Marcelle JORDA
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d3043deec6e79bccc2a437ebddb0ebdc/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -24811,6 +24975,7998 @@ Sous réserve d'un manquement aux dispositions ci-dessous, vous avez le droit d'
 - 🏢 [Toutes les offres DRHFPNC](./?direction=ville du mont-dore)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0835 - 3 Nageurs sauveteurs
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4a078769de1062a21b4a238eb679782f/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0835 - 3 Nageurs sauveteurs",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0835/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 3 nageurs sauveteurs
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0835/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** opérateur des activités
+
+physiques et sportives
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Postes à pourvoir :** 1 en août 2026 et 2 susceptibles d'être
+
+vacants
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction :** des services d'incendie et de secours
+
+**Service :** des centres de secours
+
+**Lieu de travail :** centre de surveillance et de sauvetage
+
+nautique
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.
+
+Placée sous l'autorité directe du Secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.
+
+Le centre de surveillance et de sauvetage nautique est un centre de secours opérationnel dédié, 365 jours par an, à la surveillance des plages de la ville de Nouméa.
+
+## 🎯 Missions
+
+**Activités principales :** Dans ce cadre, il est notamment chargé de :
+
+- Intervenir rapidement et efficacement lorsqu'un usager est en difficulté dans l'eau ou sur terre ;
+- Pratiquer les gestes de premiers secours en cas de nécessité ;
+- Prévenir les usagers des risques de la baignade par une information explicite (qualité de l'eau, conditions météorologiques, etc.) ;
+- Sensibiliser le grand public sur les comportements à risques sur les plages et en mer ;
+- Assurer l'évacuation des plages, des zones de baignade et d'activités nautiques définies en cas d'alerte ;
+- Participer aux activités de formation.
+
+**Caractéristiques particulières de l'emploi :**
+
+Participer à la surveillance toute l'année : en semaine, week-ends et jours fériés.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Être titulaire du BNSSA (recyclage à jour) et du permis B ;
+- Prérequis souhaités : permis bateau, CRR et PSE 2 ;
+- Connaissance et utilisation des outils de radiocommunication ;
+- Ce poste requiert de l'autonomie, de la rigueur et un esprit d'initiative, ainsi qu'une grande maîtrise de soi dans les situations de crise, d'urgence ou dangereuses. En outre, il nécessite une grande disponibilité, de la réactivité, un sens aigu du service public et de la discipline.
+
+**Contact et informations complémentaires :**
+
+Commandant Anthony GUEPY - chef du service des centres de secours
+
+Tél : [📞 24.38.13](tel:243813) - email : [anthony.guepy@ville-noumea.nc](mailto:anthony.guepy@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+- Une lettre de motivation ;
+- Un curriculum vitae (CV) détaillé ;
+- La fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+- L'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+- La photocopie des diplômes ;
+- Pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+- Les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+- Pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- Courriel : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16 rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0836 - Responsable budget et comptabilité
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9b5e7f28fa7eaf8a49d31a11b1de5834/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0836 - Responsable budget et comptabilité",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0836/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 responsable budget et comptabilité
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0836/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine : attaché**
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** septembre 2026
+
+![](_page_0_Picture_6.jpeg)
+
+**Direction : des ressources humaines Service : carrières et rémunérations**
+
+**Lieu de travail :** Hôtel de Ville de Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.
+
+Rattachée directement au Secrétaire Général, la Direction des Ressources Humaines (DRH) est structurée en 4 entités : le service emplois et développement des compétences, le service carrières et rémunérations, le service dialogue social et réglementation et la section prévention, sécurité et santé.
+
+Le service carrières et rémunérations est chargé de la gestion de la paie, de l'administration du personnel et de la gestion de la masse salariale.
+
+## 🎯 Missions
+
+**Activités principales :** Il assure notamment les missions suivantes :
+
+- Préparer les éléments liés à la masse salariale pour le budget prévisionnel annuel et les décisions modificatives, en prévoyant notamment le GVT et l'effet noria,
+- Suivre la consommation mensuelle de la masse salariale et des crédits RH,
+- Elaborer et suivre les tableaux de suivi,
+- Élaborer des stratégies financières et des outils d'aide à la décision,
+- Suivre les évolutions réglementaires et anticiper leur impact sur la masse salariale,
+- Participer à l'élaboration du bilan social,
+- Assurer le suivi des sapeurs-pompiers volontaires,
+- Gérer les contrats des engagés de service civique,
+- Assurer la prise en charge des frais liés aux accidents de travail et des maladies professionnelles,
+- Assurer la gestion des déplacements professionnels,
+- Participer aux projets transversaux de la direction.
+
+#### Profil du candidat Savoirs / Connaissances / Diplôme exigé 
+- Fonctionnaire du corps des attachés ou, à défaut, agent contractuel,
+- Diplôme de niveau 6 (BAC+3) minimum,
+- Expérience significative sur un poste similaire,
+- Maîtrise du cadre juridique, comptable et budgétaire d'une commune,
+- Techniques et outils de suivi d'activité,
+- Maîtrise des outils informatiques et bureautiques,
+- Sens de l'organisation,
+- Qualités relationnelles et rédactionnelles avérées,
+- Adaptabilité,
+- Esprit d'analyse et de synthèse,
+- Force de proposition,
+- Disponibilité,
+- Discrétion professionnelle.
+
+### Contact et informations complémentaires 
+Madame Myren CARRERE-GEE - Directrice des Ressources Humaines
+
+Tél : [📞 27 67 36](tel:276736) - Mail : [myren.carrere-gee@ville-noumea.nc](mailto:myren.carrere-gee@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+une lettre de motivation ;
+
+un curriculum vitae (CV) détaillé ;
+
+la fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+
+l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ; la photocopie des diplômes ;
+
+pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+
+les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+
+pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[RH]: Ressources Humaines
+
+
+---
+
+# 26-0837 - Agent d'accueil et de secrétariat
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/49d1f67603e4939f7236cf57ef9abeb3/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0837 - Agent d'accueil et de secrétariat",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0837/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 agent d'accueil et de secrétariat
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0837/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** adjoint administratif
+
+**Durée de résidence exigée**
+
+**pour le recrutement direct des adjoints administratifs :** au
+
+moins égale à 10 ans
+
+**Poste à pourvoir :** septembre 2026
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction :** des ressources humaines **Pôle :** administratif et budgétaire
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La ville de Nouméa et ses 1500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.
+
+Rattachée directement au Secrétaire Général, la direction des ressources humaines est structurée en 4 entités. Le pôle administratif et budgétaire fait partie du service dialogue social et réglementation. Ce pôle assure le suivi des courriers entrants et sortants, et traite les parapheurs de la direction. Il garantit le formalisme et la conformité de l'ensemble des documents produits par la direction. Il gère la préparation et le suivi du budget de fonctionnement de la direction. Il assure l'accueil des agents et des administrés qui se présentent à la DRH.
+
+## 🎯 Missions
+
+**Activités principales :**
+
+Il est notamment chargé de :
+
+- Réceptionner et traiter les appels téléphoniques ;
+- Accueillir les agents et les administrés dans les meilleures conditions et les orienter ;
+- Réceptionner, diffuser et assurer le suivi de l'ensemble des courriers (enregistrement, diffusion, frappe, archivage, etc.) et effectuer toutes les tâches courantes liées aux activités du pôle ;
+- Saisir, mettre à jour et sauvegarder les données et fichiers issus de tableaux de suivi ;
+- Compléter et alimenter les tableaux de suivi d'activité du pôle ;
+- Etablir les bons de commande, réceptionner, vérifier et classer les pièces comptables (devis, facture, état des sommes dues, certificat administratif, etc.) et gérer les relations avec les fournisseurs ;
+- Préparer les dossiers pour les instances (réunions du Comité Technique Paritaire notamment) ;
+- Participer à l'organisation de la cérémonie de remise des médailles du travail ;
+- Gérer les cartes de fonction du personnel municipal ;
+- Participer à la mise en œuvre des projets confiés au pôle.
+
+### Profil du candidat Savoirs faire / Connaissances 
+- Connaissance des procédures et circuits administratifs de la collectivité ;
+- Maîtrise des outils bureautique et informatique (google docs, sheets) ;
+- Techniques de réception et d'accueil ;
+- Notions de comptabilité publique ;
+- Techniques de communication écrite et orale ;
+- Procédures administratives et comptables ;
+- Rédiger et mettre en forme tous types de courrier ;
+- Organiser et classer divers documents ;
+- Maîtriser les applications informatiques (ASTRE/ GECCO, POST OFFICE) ;
+- Bonne aptitude d'organisation et de gestion du temps ;
+- Respect de la confidentialité et discrétion ;
+- Qualités relationnelles et rédactionnelles ;
+- Grande disponibilité ;
+- Gestion des situations de stress ;
+- Sens du travail en équipe ;
+- Esprit d'initiative ;
+- Rigueur et sens de l'organisation.
+
+**Contact et informations complémentaires :**
+
+Madame Sylvia PRAPOTNICH – Responsable du pôle administratif et budgétaire
+
+tél : [📞 27.07.17](tel:270717) – Mail : [✉️ sylvia.prapotnich@ville-noumea.nc](mailto:sylvia.prapotnich@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+une lettre de motivation ;
+
+un curriculum vitae (CV) détaillé ;
+
+la fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+
+l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+
+la photocopie des diplômes ;
+
+pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+
+les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+
+pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0838 - Chef de centre adjoint
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d39654655ec8b240b7abd01c38619136/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0838 - Chef de centre adjoint",
+  "description": "Domaine: Officiers. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0838/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 chef de centre adjoint
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Officiers  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0838/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** major
+
+sapeur-pompier professionnel
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** des services d'incendie et de secours
+
+**Service :** des centres de secours
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.
+
+Placée sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.
+
+## 🎯 Missions
+
+secours.
+
+**Activités principales :** Dans ce cadre, il sera notamment chargé de :
+
+- Faire respecter le règlement intérieur de la Ville et de la direction ;
+- Assurer le suivi administratif de ses équipes, notamment en termes de ressources humaines ;
+- Maintenir la capacité opérationnelle du centre d'incendie et de secours, notamment le personnel et les engins ;
+- Assurer le suivi fonctionnel et opérationnel du centre afin d'assurer le Potentiel Opérationnel Journalier ;
+- Promouvoir et favoriser le développement du volontariat ;
+- Organiser la mise en œuvre des règles d'hygiène, de santé et de sécurité au travail ;
+- Exécuter des tâches de gestion administrative et technique nécessaires au fonctionnement de la direction ;
+- Être le relais des valeurs de la collectivité ;
+- Participer aux cérémonies officielles ;
+- Participer aux activités de formation.
+
+**Caractéristiques particulières de l'emploi :**
+
+- Assurer des gardes de chef de groupe ;
+- Régime de travail en hebdo-garde.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Prérequis souhaité : diplôme de chef de groupe ;
+- Technique de management ;
+- Maîtrise des outils informatiques ;
+- Connaissance des techniques de rédaction administrative ;
+- Ce poste requiert de l'autonomie, de la rigueur et un esprit d'initiative, ainsi qu'une grande maîtrise de soi dans les situations de crise, d'urgence ou dangereuse. En outre, il nécessite une grande disponibilité, de la réactivité ainsi qu'un sens aigu du service public et de la discipline.
+
+**Contact et informations complémentaires :**
+
+Capitaine Anthony GUEPY - chef du service des centres de secours
+
+Tél : [📞 24.38.13](tel:243813) - email : [anthony.guepy@ville-noumea.nc](mailto:anthony.guepy@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+une lettre de motivation ;
+
+un curriculum vitae (CV) détaillé ;
+
+la fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+
+l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+
+la photocopie des diplômes ;
+
+pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+
+les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+
+pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Officiers](../#officiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0839 - Opérateur
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3b7d718914db1df1effe422b7bc34d9e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0839 - Opérateur",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0839/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 opérateur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0839/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** ACDP / Grille 1-
+
+échelon 1
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** septembre 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** des services d'incendie et de secours
+
+**Service :** des centres de secours
+
+**Lieu de travail :** centre de traitement de l'alerte
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.
+
+Placée sous l'autorité directe du Secrétaire Général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.
+
+Le centre de traitement de l'alerte (CTA) de Normandie est un outil opérationnel permettant une gestion efficace des alertes 18 et un traitement des opérations performant. Il est dédié, 24 heures sur 24, 7 jours sur 7, au secours d'urgence au service de la population des communes de Nouméa et de Païta.
+
+## 🎯 Missions
+
+**Activités principales :** Dans ce cadre, il est notamment chargé de :
+
+- Assurer le traitement de l'alerte en assurant l'interface entre l'usager et les services d'incendie et de secours ;
+- Réceptionner et analyser les appels et demandes de secours ;
+- Conseiller le requérant ;
+- Déclencher la chaîne d'intervention et les moyens de secours appropriés et rendre compte au chef de salle ;
+- Suivre le déroulement de l'intervention et assurer la liaison entre les intervenants ;
+- Réaliser toutes les activités contribuant à la réalisation des missions de la direction et confiées à l'agent par la hiérarchie ;
+- Participer à la mise à jour des données opérationnelles ;
+- Se tenir informé des missions de la direction.
+
+**Caractéristiques particulières de l'emploi :**
+
+- 39h/semaine : en journée, nuit, week end et jour férié.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Maîtrise des outils informatiques ;
+- Bonne connaissance du règlement opérationnel et de la doctrine opérationnelle ;
+- SIC 1 souhaité ;
+- Connaissance de l'organisation et du fonctionnement d'un CTA ;
+- Connaissance des techniques de rédaction administrative ;
+- Ce poste requiert de la rigueur et une grande maîtrise de soi dans les situations de crise, d'urgence ou dangereuse. En outre, il nécessite une grande disponibilité, de la réactivité, un sens aigu du service public ainsi que de la discipline.
+
+**Contact et informations complémentaires :**
+
+Lieutenant Hélène THOURY - chef du centre de traitement de l'alerte ou Adjudant-chef Mikaël MAURIN - adjoint chef du centre de traitement de l'alerte
+
+Tél : [📞 44.40.73](tel:444073) - Mail : [helene.thoury@ville-noumea.nc](mailto:helene.thoury@ville-noumea.nc) Tél : [📞 44.90.22](tel:449022) - Mail : [mickael.maurin@ville-noumea.nc](mailto:mickael.maurin@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+une lettre de motivation ;
+
+un curriculum vitae (CV) détaillé ;
+
+la fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+
+l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+
+la photocopie des diplômes ;
+
+pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+
+les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+
+pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site [DRHFPNC\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0840 - Animateur sportif de proximité à mi-temps
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/711aa7d4596156efb49ca80787161188/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0840 - Animateur sportif de proximité à mi-temps",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0840/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 animateur sportif de proximité à mi-temps
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0840/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :**
+
+agent contractuel de droit public / grille 1 - échelon 5
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** de la vie citoyenne, éducative et sportive
+
+**Service :** municipal des sports
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.
+
+Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives. Elle est composée de 4 services :
+
+- Service coordination administrative et financière,
+- Service de la vie citoyenne,
+- Service de la vie éducative,
+- Service municipal des sports.
+
+Au sein de la direction, le service municipal des sports est composé de 2 sections « piscines » et « animations sportives ». Il est notamment chargé de pérenniser et développer les dispositifs d'insertion par le sport comme vecteur d'intégration sociale.
+
+## 🎯 Missions
+
+Il est notamment chargé de :
+
+- Concevoir des projets d'animations socio-éducatives envers la jeunesse, plus particulièrement vers le public des 8-20 ans ;
+- Participer à l'élaboration des séances pratiques d'animations sportives en collaboration avec l'éducateur ;
+- Évaluer les activités en cours et réajuster si nécessaire ;
+- Elaborer le bilan administratif des séances d'animation en fin d'année ;
+- Mettre en place des séances pratiques d'animations sportives ;
+- Aider physiquement à l'encadrement des séances pratiques ;
+- Organiser et transmettre des informations diverses en direction du public cible ;
+- Suivre et entretenir le matériel pédagogique.
+
+### Caractéristiques particulières de l'emploi 
+L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés. L'agent pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Diplôme d'animateur de proximité ou diplôme de niveau 3 (CAP/BEP) souhaité ;
+- Être titulaire du BAFA ;
+- BNSSA et/ou Brevet de Surveillant de Baignade (BSB) apprécié ;
+- Connaissance du milieu sportif ;
+- Techniques de pédagogie ;
+- Bonne connaissance des quartiers et de leur fonctionnement ;
+- Respecter les règles de sécurité ;
+- Appliquer et faire appliquer la réglementation en vigueur.
+
+### Contact et informations complémentaires 
+Monsieur Alexandre HENRARD – Chef du service municipal des sports
+
+Tél : [📞 23.26.50](tel:232650) - Mail : [alexandre.henrard@ville-noumea.nc](mailto:Alexandre.henrard@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+- Une lettre de motivation ;
+- Un curriculum vitae (CV) détaillé ;
+- La fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+- L'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+- La photocopie des diplômes ;
+- Pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+- Les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+- Pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 98849 Nouméa Cedex
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[BAFA]: Brevet d'Aptitude aux Fonctions d'Animateur
+*[CAP]: Certificat d'Aptitude Professionnelle
+*[BEP]: Brevet d'Études Professionnelles
+
+
+---
+
+# 26-0841 - 2 Responsables des équipes piscines
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0df81de32c5c2a7e42392cbb018d2034/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0841 - 2 Responsables des équipes piscines",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0841/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 2 responsables des équipes piscines
+
+**Référence : 3134-26-0841/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi / Domaine :** éducateur des activités
+
+physiques et sportives
+
+**Durée de résidence exigée pour le recrutement sur titre :**
+
+**Poste à pourvoir :** octobre 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** de la vie citoyenne, éducative et sportive
+
+**Service :** municipal des sports
+
+**Lieu de travail :** Piscine municipale Jacques MOUREN
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.
+
+Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives. Elle est composée de 4 services :
+
+- Service coordination administrative et financière,
+- Service de la vie citoyenne,
+- Service de la vie éducative,
+- Service municipal des sports.
+
+Au sein de la direction, le service municipal des sports est composé de 2 sections « piscines » et « animations sportives ». Il est notamment chargé de pérenniser et développer les dispositifs d'insertion par le sport comme vecteur d'intégration sociale.
+
+## 🎯 Missions
+
+Il est notamment chargé de :
+
+- Assurer et participer à la sécurité des usagers, la surveillance des bassins et l'animation de l'établissement ;
+- Coordonner les maîtres-nageurs sauveteurs pour la réalisation de leurs missions en lien étroit avec le chef de la section piscines ;
+- Assurer l'application du protocole de nettoyage de l'établissement ;
+- Participer à la gestion et à la création des plannings des usagers de la piscine en collaboration avec le chef de la section piscines ;
+- Assurer des missions de reporting ainsi qu'une veille sur la gestion des stocks auprès du chef de la section piscines ;
+- Assurer l'enseignement des activités aquatiques et le suivi du matériel pédagogique ;
+- Contrôler les caractéristiques de l'eau et, le cas échéant, participer à la manipulation technique des filtres, pompes, chlorinateur, chaudière, vannes de vidange et tout autre équipement de la salle des machines ;
+- Gérer du matériel et des produits de traitement des eaux ;
+
+- Appliquer la réglementation en vigueur au sein de l'établissement et celle relative aux activités aquatiques.
+
+### Caractéristiques particulières de l'emploi 
+L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés et pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Les candidats devront impérativement être titulaires du Brevet Professionnel Jeunesse, Education Populaire et Sport Activités Aquatiques et de la Natation (BPJEPS AAN) ou équivalent ;
+- Être titulaire de la carte professionnelle de Nouvelle-Calédonie conformément à la loi de pays 2023-7 du 2023-07-10 ;
+- BPJEPS Activités Gymniques de la Forme et de la Force (AGFF) (mentions C et D) apprécié ;
+- Techniques et pédagogie des activités physiques et sportives ;
+- Caractéristiques et spécificités des différents publics ;
+- Environnement juridique et réglementaire du domaine d'activités et des établissements recevant du public ;
+- Techniques de communication ;
+- Outils de bureautique ;
+- Expérience professionnelle sur un poste similaire appréciée ;
+- Appliquer et faire appliquer la réglementation en vigueur.
+
+**Contact et informations complémentaires :**
+
+Monsieur Alexandre HENRARD, chef du service municipal des sports Tél : [📞 23.26.50](tel:232650) - Mail : [alexandre.henrard@ville-noumea.nc](mailto:alexandre.henrard@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+- Une lettre de motivation ;
+- Un curriculum vitae (CV) détaillé ;
+- La fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+- L'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+- La photocopie des diplômes ;
+- Pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+- Les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+- Pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0842 - 5 Maîtres-nageurs sauveteurs
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6627736cc48cd8fc5cce10bfbd74d34e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0842 - 5 Maîtres-nageurs sauveteurs",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0842/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 5 maîtres-nageurs sauveteurs
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0842/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** éducateur des activités
+
+physiques et sportives
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** septembre et octobre 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** de la vie citoyenne, éducative et sportive
+
+**Service :** municipal des sports
+
+**Lieu de travail :** toutes piscines
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.
+
+Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives. Elle est composée de 4 services :
+
+- Service coordination administrative et financière
+- Service de la vie citoyenne
+- Service de la vie éducative
+- Service municipal des sports.
+
+Au sein de la direction, le service municipal des sports est composé de 2 sections « piscines » et « animations sportives ». Il est notamment chargé de pérenniser et développer les dispositifs d'insertion par le sport comme vecteur d'intégration sociale.
+
+## 🎯 Missions
+
+Il est notamment chargé de :
+
+- Assurer la surveillance des bassins et des divers espaces ludiques ;
+- Effectuer le nettoyage des bassins et de leurs abords ;
+- Assurer l'enseignement des activités aquatiques ;
+- Gérer le matériel et l'utilisation des équipements ;
+- Faire respecter le règlement intérieur de la structure ;
+- Contrôler les caractéristiques de l'eau et, le cas échéant, participer à la manipulation technique des filtres, pompes, chlorinateurs, chaudières, vannes de vidange et tout autre équipement de la salle des machines ;
+- Gérer du matériel et des produits de traitement des eaux ;
+- Appliquer la réglementation en vigueur au sein de l'établissement et celle relative aux activités aquatiques.
+
+### Caractéristiques particulières de l'emploi 
+L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés et pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Les candidats devront impérativement être titulaires du Brevet Professionnel Jeunesse, Education Populaire et Sport Activités Natation (BPJEPS AN) ou équivalent ;
+- Être titulaire de la carte professionnelle de Nouvelle-Calédonie conformément à la loi de pays 2023-7 du 2023-07-10 ;
+- Être à jour dans le recyclage de leurs différents diplômes et/ou certifications ;
+- BPJEPS Activités Gymniques de la Forme et de la Force (AGFF) (mentions C et D) apprécié ;
+- Techniques et pédagogie des activités physiques et sportives ;
+- Caractéristiques et spécificités des différents publics ;
+- Environnement juridique et réglementaire du domaine d'activités et des établissements recevant du public ;
+- Techniques de communication ;
+- Expérience professionnelle sur un poste similaire appréciée ;
+- Appliquer et faire appliquer la réglementation en vigueur.
+
+**Contact et informations complémentaires :**
+
+Monsieur Alexandre HENRARD – chef du service municipal des sports
+
+Tél : [📞 23.26.50](tel:232650) - Mail : [alexandre.henrard@ville-noumea.nc](mailto:alexandre.henrard@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+une lettre de motivation ;
+
+un curriculum vitae (CV) détaillé ;
+
+la fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+
+l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+
+la photocopie des diplômes ;
+
+pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+
+les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+
+pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0843 - Chargé d'études et de projets stratégiques
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/66b0f26f82450035cd75e87f22f62e09/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0843 - Chargé d'études et de projets stratégiques",
+  "description": "Domaine: Equipement. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0843/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 chargé d'études et de projets stratégiques
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0843/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** ingénieur 2 ème /
+
+équipement ou environnement
+
+**Durée de résidence exigée pour le recrutement sur titre:** au moins égale à 10 ans pour un
+
+ingénieur 2 ème grade/environnement
+
+au moins égale à 5 ans pour un ingénieur 2 ème grade
+
+/équipement
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+![](_page_0_Picture_10.jpeg)
+
+**Direction :** de l'espace public
+
+**Service :** aménagement de l'espace public
+
+**Lieu de travail :** Annexe Ferry
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.
+
+Sous l'autorité du secrétaire général adjoint en charge du pôle aménagement, la direction de l'espace public regroupe les métiers en relation avec la création et la gestion des espaces publics (hors construction), et comprend 4 services. Parmi eux, le service aménagement de l'espace public, composé de 17 agents (dont 1 chef de service et 2 chefs de section), planifie, étudie, produit et livre les nouvelles infrastructures nécessaires à la réalisation des services publics (domaine voirie, eau, assainissement, infrastructures), élabore les schémas directeurs pour planifier les investissements et assure la maîtrise d'œuvre pour les études et suivis de chantiers.
+
+## 🎯 Missions
+
+**Activités principales :** Il est notamment chargé de :
+
+- Concevoir et réaliser en pleine autonomie des projets stratégiques ;
+- Assurer le rôle de maître d'ouvrage et de maître d'œuvre sur des opérations complexes, comportant des enjeux financiers conséquents et des enjeux techniques et juridiques ;
+- Assurer un appui technique aux juristes sur les dossiers en contentieux ;
+- Gérer les études et la mise en œuvre des schémas directeurs au niveau technique, administratif et budgétaire ;
+- Suivre les projets et les chantiers concernant la voirie et réseaux divers (réalisation de chaussées, trottoirs, réseaux d'éclairage public, réseaux de feux de circulation et ouvrages de retenue de terre, etc.) ;
+- Réaliser toutes les activités contribuant à la réalisation des missions de la direction et confiées à l'agent par la hiérarchie ;
+- Rendre compte auprès de la hiérarchie.
+
+### Profil du candidat Savoir / Connaissance / Diplôme exigé 
+- Diplôme technique niveau 7 minimum (BAC+5) dans le domaine de l'équipement ou de l'environnement ;
+- Expérience en maîtrise d'œuvre dans le domaine Voiries et Réseaux Divers (VRD) ;
+- Expérience en diagnostic, conception et dimensionnement des ouvrages de VRD ;
+- Expérience de suivi de chantiers VRD ;
+- Bonne connaissance du logiciel AUTOCAD ;
+- Connaissance sur les outils informatiques MENSURA, CANECO et DIALUX appréciées ;
+- Développer, planifier, réaliser et coordonner des projets ;
+- Rédiger des notes techniques et des actes administratifs (délibération, avenants, ordres de service,etc.) ;
+- Autonomie, rigueur, réactivité et esprit d'initiative ;
+- Sens de l'organisation, des priorités et de l'anticipation ;
+- Qualités relationnelles et esprit d'équipe ;
+- Force de proposition.
+
+**Contact et informations complémentaires :**
+
+Madame Fanny MARTINEZ – Chef de la section aménagement et voirie
+
+Tél : [📞 27.07.13](tel:270713) – Mail : [fanny.martinez@ville-noumea.nc](mailto:fanny.martinez@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+- Une lettre de motivation ;
+- Un curriculum vitae (CV) détaillé ;
+- La fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+- L'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+- La photocopie des diplômes ;
+- Pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+- Les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+- Pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 - 98849 Nouméa Cedex
+
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0844 - Agent gestionnaire polyvalent
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/42ca7d39c8eb03bc8712bca6c6e4c791/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0844 - Agent gestionnaire polyvalent",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0844/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 1 agent gestionnaire polyvalent
+
+**Référence : 3134-26-0844/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** adjoint administratif **Direction :** de la vie citoyenne, éducative et sportive
+
+**Durée de résidence exigée**
+
+**pour le recrutement direct des adjoints administratifs :**
+
+au moins égale à 10 ans
+
+**Postes à pourvoir :** septembre 2026 **Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+**Service :** de la vie citoyenne
+
+**Lieu de travail :** Hôtel de Ville
+
+![](_page_0_Picture_9.jpeg)
+
+## Détails de l'offre 
+La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.
+
+Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives. Elle est composée de 4 services :
+
+- Service coordination administrative et financière
+- Service de la vie citoyenne
+- Service de la vie éducative
+- Service municipal des sports.
+
+Au sein de la direction, le service de la vie citoyenne est chargé de la tenue des registres de l'état civil, de la délivrance des passeports et des cartes nationales d'identité, de l'offre des services mortuaires et de la gestion des cimetières, de la mise à jour des listes électorales, du recensement citoyen obligatoire, de la tenue des élections, ainsi que du développement de la proximité et de l'accessibilité au service public.
+
+## 🎯 Missions
+
+suivre et gérer les dossiers liés à l'état civil, aux élections et aux prestations
+
+administratives.
+
+**Activités principales :** Il est notamment chargé de :
+
+- Réceptionner les déclarations et établir les actes d'état civil ;
+
+- Établir les dossiers de mariage et assister les élus lors des célébrations ;
+- Assurer la tenue administrative des registres d'état civil ;
+- Établir les formalités administratives ;
+- Enregistrer les demandes de titres (passeport et carte nationale d'identité) ;
+- Instruire les inscriptions sur les listes électorales ;
+- Assurer l'accueil physique et téléphonique du public, l'informer et l'orienter ;
+- Gérer de l'information, classer et archiver des documents.
+
+**Conditions particulières d'exercice :**
+
+- Travail en bureau et guichet d'accueil à l'Hôtel de Ville ;
+- Déplacements réguliers à domicile pour des prestations (CNI, certifications diverses, mariages in extremis, etc.) ;
+- Horaires fixes avec amplitude variable, en fonction des horaires d'ouverture au public ;
+
+- L'agent sera amené à travailler en soirée, certains week-ends et jours fériés pour les différentes manifestations organisées par le service (cérémonie des naissances, Toussaint, élections, etc.) et les autres services de la mairie.
+
+#### Profil du candidat : Savoir / Connaissances / Diplôme exigé 
+- Maîtrise des techniques de réception et d'accueil physique et téléphonique ;
+- Maîtrise des activités et organisation du service ou de la collectivité ;
+- Connaissances de la réglementation de l'état civil, des élections et des prestations administratives (notamment en matière de titres d'identité) ;
+- Connaissances de base en bureautique et informatique ;
+- Contrôle de la fiabilité et des éléments d'un dossier ;
+- Gestion d'éventuelles situations conflictuelles.
+
+**Contact et informations complémentaires :**
+
+Monsieur Mathieu GALEA – chef du service de la vie citoyenne
+
+Tél : [📞 27 31 15](tel:273115) - Mail : [mathieu.galea@ville-noumea.nc](mailto:mathieu.galea@ville-noumea.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Votre candidature doit **obligatoirement** comporter les documents suivants :
+
+- Une lettre de motivation ;
+- Un curriculum vitae (CV) détaillé ;
+- La fiche de renseignements dûment complétée à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/recrutement_-_fiche_de_renseignements_candidature_vf_0.pdf) ici (site DRHFPNC) ;
+- L'attestation sur l'honneur de non bénéfice de la rupture conventionnelle à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/attestation_sur_lhonneur_de_non_benefice_de_la_rupture_conventionnelle.pdf) ici (site DRHFPNC) ;
+- La photocopie des diplômes ;
+- Pour les fonctionnaires, l'arrêté de dernière situation administrative ;
+- Les justificatifs concernant la citoyenneté ou la durée de résidence *si nécessaire* (liste des pièces à fournir dans le document "notice explicative" à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_explicative_emploi_local.pdf) ici (site DRHFPNC)) ;
+- Pour les fonctionnaires, la demande de changement de corps ou cadre d'emploi *si nécessaire* (demande à [télécharger](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/formulaire_de_changement_de_corps_ou_de_cadre_demploi.pdf) ici (site DRHFPNC)).
+
+Votre candidature, précisant la référence de l'offre, doit parvenir au maire de la ville de Nouméa **prioritairement** par :
+
+**- mail : [mairie.recrutement@ville-noumea.nc](mailto:mairie.recrutement@ville-noumea.nc)**
+
+En cas d'impossibilité de candidater par le biais de la messagerie électronique, les dossiers de candidatures peuvent parvenir au maire de la ville de Nouméa par :
+
+- Voie postale : BP K1 98849 Nouméa Cedex
+- Dépôt physique : 16, rue du général Mangin Nouméa
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0845 - Secrétaire Général(e)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0d548c9c77bef8146f93249263467c3b/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0845 - Secrétaire Général(e)",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Dumbéa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.15,
+      "longitude": 166.45
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0845/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Secrétaire général(e)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0845/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Cadre/Corps/Grade : emploi fonctionnel Direction :** Secrétariat Général
+
+**Durée de résidence exigée pour le recrutement sur titre :** / **Lieu de travail :** Hôtel de Ville de Dumbéa
+
+**Poste à pourvoir :** vacant au 1 er août 2026 **Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+Dumbéa se caractérise par sa dualité urbaine et rurale, et se distingue par la vitalité de ses quartiers, la richesse de son tissu associatif, la diversité de ses équipements éducatifs, sportifs et culturels, ainsi que par une politique volontariste en faveur de la jeunesse, de l'insertion et de la qualité de vie.
+
+Portée par une ambition forte en matière de politiques publiques de proximité, d'innovation administrative et de performance du service public, la municipalité s'appuie sur une administration structurée, engagée et résolument tournée vers l'avenir pour la gestion quotidienne des 35.000 Dumbéens.
+
+Les 300 agents communaux œuvrent au développement de la Ville avec plus de 50 équipements et services, et assurent au quotidien un service public de qualité, pour un budget de 6 milliards (près de 4 milliards en fonctionnement et 2 milliards en investissement). La Ville dispose par ailleurs de deux établissements publics (Caisse des Ecoles et Centre Communal d'Action Sociale) et est actionnaire majoritaire d'une société publique locale (SPL CARD), qui regroupent près de 300 agents pour un budget de 900 millions de francs
+
+Dans ce contexte, la Ville de Dumbéa recrute un(e) Secrétaire Général(e), emploi fonctionnel stratégique au cœur de l'action publique communale.
+
+**Emploi RESPNC :** Responsable administratif
+
+**Missions principales :** Collaborateur(trice) principal(e) du Maire, le(la) secrétaire général(e) est chargé(e), sous l'autorité de ce dernier, de diriger l'ensemble des services de la commune et d'en coordonner l'organisation :
+
+- Il(elle) concourt à la définition et à la mise en œuvre des orientations stratégiques de la Ville et des modes de gestion associés, dans une finalité de service public,
+- Il(elle) supervise, arbitre et organise les moyens et les ressources,
+- Il(elle) impulse et accompagne la modernisation et l'optimisation de l'administration communale.
+
+À ce titre, il(elle) est chargé(e) de :
+
+- Préparer le processus décisionnel, et assister l'exécutif municipal dans la définition des orientations stratégiques de la collectivité,
+- Mettre en œuvre les politiques publiques définies par l'exécutif,
+- Concevoir une organisation interne en adéquation avec ces politiques publiques,
+- Impulser une dynamique de direction afin de mobiliser les ressources humaines et l'ensemble des moyens d'actions en adéquation avec le contexte financier,
+- Coordonner les services et évaluer l'efficacité des actions menées en mettant en œuvre des outils de pilotage et de contrôle,
+- Garantir la légalité de l'ensemble des décisions prises par l'exécutif
+
+**Caractéristiques particulières de l'emploi :** Très grande disponibilité Horaires d'amplitude variable
+
+Mobilisation les week-ends et jours fériés
+
+#### Profil du candidat Savoir/Connaissance/Diplôme exigé 
+- Expérience avérée sur un poste de direction au sein d'une collectivité territoriale, d'un organisme public ou expérience significative sur des postes à responsabilité dans le secteur privé,
+- Maîtrise de la comptabilité publique et du droit administratif,
+- Parfaite connaissance du fonctionnement et de l'organisation des institutions de la Nouvelle-Calédonie, et des instances et processus de décision des collectivités,
+- Diplôme de niveau Bac+5 requis.
+
+### Savoir-faire 
+- Manager une équipe relevant de filières et métiers différents,
+- Maîtriser les techniques de communication internes et externes,
+- Maîtriser les techniques d'accompagnement au changement,
+- Évaluer les risques lors de choix et de prise de décisions
+
+Ce poste requiert une très forte disponibilité, de fortes capacités relationnelles et rédactionnelles, un grand sens de la négociation et de la concertation ainsi qu'une solide capacité d'analyse et de synthèse
+
+### Comportement professionnel 
+- Sens du service public exigé,
+- Capacité d'adaptation face à la multiplicité des tâches et au travail en réseau,
+- Gestion de la pression et du stress,
+- Loyauté et discrétion.
+
+**Contact et informations complémentaires :**
+
+Monsieur Patrice CUER, Secrétaire Général, [patrice.cuer@ville-dumbea.nc](mailto:patrice.cuer@ville-dumbea.nc), Tel
+
+[📞 41.40.00](tel:414000)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent par :
+
+- Voie postale : 66 avenue de la vallée 98835 Dumbéa
+
+- Dépôt physique : 66 avenue de la vallée 98835 Dumbéa
+
+- Mail : [courrier@ville-dumbea.nc](mailto:courrier@ville-dumbea.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0846 - Directeur des services techniques
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/8cbd9ce4b1c4b85e16a2364b6f528c7a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0846 - Directeur des services techniques",
+  "description": "Domaine: Equipement. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Thio"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.6167,
+      "longitude": 166.2167
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0846/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# DIRECTEUR DES SERVICES TECHNIQUES
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+**Conseiller la direction et les élus / responsables sur les questions techniques**
+
+**Référence : 3134-26-0846/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou cadre d'emploi / Domaine :** Technicien / Equipement
+
+**Durée de résidence exigée Direction :** SERVICE TECHNIQUE
+
+**Pour le recrutement sur titre (1) :** /
+
+**Lieu de travail :** THIO
+
+**Poste à pourvoir :** immédiatement
+
+**Durée du contrat :** 1 an renouvelable **Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+Détails de l'offre :
+
+**Emploi RESPNC : Directeur des services techniques**
+
+# Missions 
+Sous l'autorité du Maire et du Secrétaire général, le/la Directeur(trice) des Services Techniques assure la coordination, l'organisation et le pilotage des services techniques de la collectivité pour contribuer à une qualité des services publics locaux (eau, ordure ménagères, voierie, école, espaces verts, fourniture électrique, habitat…)
+
+# Activités principales
+
+- Conseiller l'Exécutif et les conseillers sur les questions techniques ;
+- Participer à l'élaboration et à la mise en œuvre de la politique municipale en matière de services publics locaux ;
+- Mettre en œuvre la politique d'investissement de la commune par un taux de réalisation de bon niveau grâce à l'utilisation d'outils (PPI, APC/CP, études)
+- Encadrer, former et manager les équipes administrative, bâtiments, voirie, espaces verts, de l'eau dans un objectif de performance (20 agents) ;
+- Préparer et exécuter le budget de la direction des services techniques ;
+- Veiller au respect des normes de sécurité, d'hygiène et de réglementation ;
+- Assurer le suivi des prestataires et partenaires extérieurs ;
+- Participer à la gestion de crise ;
+- Assurer la gestion du patrimoine de la commune
+
+# Caractéristiques particulières de l'emploi 
+- Sollicitation en dehors des horaires habituels
+- Gestion des conflits
+
+#### Profil du candidat Savoir/connaissance/Diplôme exigé 
+- Formation supérieure dans les domaines du bâtiment, génie civil, travaux publics, infrastructures ou équivalent ;
+- Expérience significative dans un poste similaire ;
+- Connaître le fonctionnement des collectivités en Nouvelle-Calédonie ;
+- Savoir préparer et exécuter un budget dans les règles de l'orthodoxie budgétaire ;
+- Maîtriser la conduite de projets et la maîtrise d'ouvrage public ;
+- Connaître l'essentiel de la réglementation des marchés publics ;
+- Savoir manager les équipes, planifier leur travail et le contrôler ;
+- Savoir rendre compte à sa hiérarchie de son action ;
+- Connaître la gestion des conflits et l'écosystème de Thio ;
+- Savoir rédiger des courriers, des notes explicatives et des projets de délibérations ;
+- Permis B exigé.
+
+![](_page_0_Picture_40.jpeg)
+
+**Complémentaires :** Mairie de Thio - Le secrétariat général
+
+Tél : [📞 44.52.20](tel:445220) mail : [✉️ mairie@mairie-thio.nc](mailto:mairie@mairie-thio.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir Secrétariat de la Mairie de Thio par :
+
+voie postale : 1 rue du Gouverneur Feuillet – 98829 Thio dépôt physique : 1 rue du Gouverneur Feuillet – 98829 Thio
+
+mail : [✉️ mairie@mairie-thio.nc](mailto:mairie@mairie-thio.nc)
+
+- (1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+- (2) La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0847 - Gestionnaire des ressources humaines
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/92ef6f58d12f216a5a0808136ada6085/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0847 - Gestionnaire des ressources humaines",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0847/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Gestionnaire des ressources humaines
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0847/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+![](_page_0_Picture_8.jpeg)
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Lieu de travail : Poya**
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+**Emplois RESPNC : Gestionnaire des ressources humaines**
+
+#### Missions
+
+**Principales** Sur la base des politiques publiques de la commune, les agents concernés sont chargés des missions suivantes :
+
+- Gestion des carrières et des rémunérations du personnel en poste à la Mairie ;
+- Constitution et gestion du fichier du personnel communal ;
+- Information et conseil en ressources humaines aux personnels encadrants ;
+- Rédaction des actes administratifs liés à la carrière des agents titulaires et contractuels ;
+- Calcul des paies, établissement des fiches de paye et des charges sociales des agents communaux ;
+- Réalisations des déclarations des différentes caisses et régimes de retraite.
+
+#### Profil des candidats
+
+#### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+### Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0848 - Gestionnaire comptable
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/849b291f6af3500ce114bcae8bafd8de/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0848 - Gestionnaire comptable",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0848/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### Gestionnaire comptable
+
+**Référence : 3134-26-0848/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+![](_page_0_Picture_8.jpeg)
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+**Emplois RESPNC : Gestionnaire comptable**
+
+# Missions
+
+**Principales** Traitement comptable ou exécution des dépenses et de recettes courantes. Il assure la relation avec les usagers, les fournisseurs et les services utilisateurs :
+
+**Lieu de travail : Poya**
+
+- Gestion des engagements, des mandatements et des titres de recettes ;
+- Gestion des facturiers ;
+- Gestion des relations avec les fournisseurs et les agents ;
+- Gestion des tiers et mise à jour des bases à données ;
+- Réception, vérification et classement des pièces comptables ;
+- Préparation et suivi des lignes de crédits et des différents états.
+
+#### Profil des candidats
+
+#### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+#### Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0849 - Gestionnaire des marchés publics
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/726c72ca44a6d373780ae517064e39fb/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0849 - Gestionnaire des marchés publics",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0849/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Gestionnaire des marchés publics
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0849/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+![](_page_0_Picture_8.jpeg)
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Lieu de travail : Poya**
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+**Emplois RESPNC : Gestionnaire des marchés publics**
+
+### Missions Principales
+
+**:**
+
+Gestion des marchés publics, des transports et cantines scolaires :
+
+- Gestion administrative des marchés publics ;
+
+- Assure les secrétariats de la commission d'ouverture des plis et d'AO ;
+- Suivi financier des marchés publics ;
+- Suivi et organisation des circuits de transports scolaires ;
+- Gestion de l'organisation de la restauration collective scolaires municipales ;
+- Suivi des fournitures scolaires ;
+- Coordination de l'activité des agents des écoles ;
+- Gestion des produits d'entretien des écoles.
+
+#### Profil des candidats
+
+#### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+#### Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0850 - Gestionnaire du bureau du courrier
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0092a20337443830c33fe795c17550aa/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0850 - Gestionnaire du bureau du courrier",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0850/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Gestionnaire du bureau du courrier
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0850/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Lieu de travail :** Poya
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+### Emplois RESPNC : gestionnaire du courrier et de la procédure électorale
+
+## Missions
+
+**Principales** Gestionnaire du bureau du courrier, d'Etat Civil, de titres d'identité et des procédures électorales :
+
+- Enregistrement du courrier entrant et sortant ;
+- Gestion des opérations électorales ;
+- Tenue des listes électorales ;
+- Préparation et tenue des commissions électorales ;
+- Instruction et constitution de l'ensemble des actes d'Etat-Civil (naissances mariage, décès…) et assure la tenue administrative des registres ;
+- Réception des demandes de titres d'identité (CNI et passeport) ;
+- Transmission des dossiers de demandes aux services de l'Etat pour instruction et délivrance ;
+- Remise des titres au public demandeur.
+
+#### Profil des candidats
+
+### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+### Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0851 - Gestionnaire de la régie des recettes
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d0a7684609cb22e1aef3c89ba1415ba7/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0851 - Gestionnaire de la régie des recettes",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0851/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### Gestionnaire de la régie des recettes
+
+**Référence : 3134-26-0851/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+![](_page_0_Picture_8.jpeg)
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Lieu de travail : Poya**
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+**Emplois RESPNC : gestionnaire de régie**
+
+# Missions
+
+**Principales** Gestionnaire de la régie des recettes : sous la responsabilité du comptable public, les missions principales sont les suivantes :
+
+- Encaissement des recettes liées aux factures d'eau, d'ordures ménagères, aux cantines et transports scolaires ainsi que tous services que la collectivité communale autorise règlementairement ;
+- Réalisation de toute la procédure d'encaissement ;
+- Tenue journalière de la caisse et du quittancier ;
+- Tenue du compte bancaire de la régie ;
+- Justification des encaissements mensuels ;
+- Versement des fonds sur le compte du payeur ;
+- Gestion des relations avec le public.
+
+#### Profil des candidats
+
+#### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+#### Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0852 - Gestionnaire des animations communales
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/8f3322b18f97bf20d1609c443e9fc064/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0852 - Gestionnaire des animations communales",
+  "description": "Domaine: Autres filières. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0852/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Gestionnaire des animations communales
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** Commune de Poya  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0852/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Adjoint administratif **Direction : Secrétariat Général**
+
+**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs :** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** à compter du 1 er octobre 2026
+
+*Réorganisation interne*
+
+![](_page_0_Picture_8.jpeg)
+
+**Lieu de travail : Poya**
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05 **Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+*Dans le cadre de la délibération n° 153/CP /CP DU 2024-09-12 portant diverses mesures d'urgence en faveur de la caisse locale de retraites et relatives à l'attractivité du secteur de la fonction publique, la commune de Poya procède à un recrutement direct dans la fonction publique communale parmi ces agents contractuels.*
+
+**Emplois RESPNC : Gestionnaire de commissions et des animations communales**
+
+## Missions Principales 
+- Suivi et secrétariat de la commission d'animation communale en relation étroite avec les élus concernés,
+- Participation à la mise en œuvre des actions d'animation de la commune ;
+- Etablissement d'une programmation annuelle de manifestations ;
+- Conception et organisation logistique des manifestations ayant pour but la valorisation de produits locaux ;
+- Création de partenariats locaux (associations, entreprises ……)
+- Soutien aux associations locales : traitement et instruction des demandes d'aides ;
+- Préparation et gestion du budget de chaque action mise en place ;
+- Communication sur la collectivité et ses activités aux administrés ;
+
+## Profil des candidats
+
+#### Savoir / Connaissance / Diplôme exigé 
+- Être en position d'activité à la commune
+- Bonne maîtrise des outils informatiques (Millésime, TIARHE…………)
+- Maîtrise parfaite des logiciels bureautique (Word, Excel………)
+- Connaissance parfaite du territoire communal et de ses spécificités
+- Connaissance de l'organisation administrative communale
+
+#### Savoir-faire 
+- ⬪ Faire face à l'exécution de tâches très variées
+- ⬪ Travail en équipe
+- ⬪ Sens du service public
+- ⬪ Maîtrise des procédures administratives de chaque domaine d'activité
+- ⬪ Connaissance parfaite du territoire communal
+
+## Comportement professionnel 
+- ⬪ Bon relationnel, sens du contact et de l'écoute
+- ⬪ Rigueur et sens de l'organisation
+- ⬪ Sens du contact de l'écoute et du service public
+- ⬪ Esprit d'équipe
+- ⬪ Grande disponibilité, travail le WE et les jours fériés lors de manifestations
+- ⬪ Sens de l'initiative
+- ⬪ Réactivité
+- ⬪ Capacité à faciliter la communication
+- ⬪ Curiosité et ouverture sur l'ensemble des activités
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie, fiche de renseignements) précisant la référence de l'offre doivent parvenir à Monsieur le Maire par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au bureau du courrier de la Mairie de Poya
+- Mail : [rh@mairie-poya.nc](mailto:rh@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0853 - Coordonnateur - programme santé orale
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/07dbee78381f3516aea5b927c0490b46/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0853 - Coordonnateur - programme santé orale",
+  "description": "Domaine: Autres filières. Direction: Agence sanitaire et sociale",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0853/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 coordonnateur – programme santé orale
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** ASS-NC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0853/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** rédacteur **Direction :** Programme santé orale « mes dents ma santé »
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** / **Lieu de travail :** Nouméa
+
+**Poste à pourvoir :** Août 2026 **Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La délibération n°114 du 2016-03-24 relative au plan de santé calédonien « Do Kamo, Être épanoui ! » concernant l'organisation, la gouvernance, le pilotage et la régulation du système de protection sociale et de santé a posé les bases d'un renouveau en matière de santé publique et de protection sociale. L'axe 3 de ce plan place la promotion de la santé au cœur du dispositif.
+
+L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.
+
+Le programme de santé orale de l'agence a pour missions de promouvoir l'alimentation favorable à la santé et la pratique quotidienne de l'hygiène buccodentaire auprès de la population Calédonienne. Ses champs d'intervention sont variés (éducation pour la santé en milieu scolaire, accompagnement de projets communautaires, santé au travail, communication, dépistage et prévention…). Un travail en partenariat avec les acteurs (institutionnels, associatifs ou entreprises) des secteurs de l'éducation, de la santé et de la petite enfance est priorisé.
+
+### Emploi RESPNC : Chef de projets
+
+## 🎯 Missions
+
+- Définir des objectifs, mettre en œuvre les actions du programme et en évaluer les résultats, dans le respect des ressources et délais allouées ;
+- Organiser la campagne annuelle de scellements des sillons sur tout le territoire (plannings des caravanes, des professionnels de santé, des remorqueurs, des établissements scolaires et de l'assistante dentaire) ;
+- Gérer les stocks et les commandes de matériel pédagogique et de soin ;
+- Animer des partenariats avec des opérateurs externes en charge de la mise en œuvre de ces actions (associations, institutions sanitaires, sociales, éducation …) et conduire des réunions de travail ;
+- Animer des partenariats avec des organismes d'évaluation ou de santé publique ;
+- Coordonner les prestataires de service et partenaires : identification des besoins, planification, rédaction de conventions, validation des factures, suivi de la prestation ;
+- Mener des actions d'information, d'éducation et de prévention en santé orale auprès de tout public cible ;
+- Communiquer sur les projets de l'ASSNC ;
+- Etablir le bilan des actions menées ;
+- Contribuer à la conception et à la diffusion des outils pédagogiques du programme.
+
+# Activités complémentaires 
+Le coordonnateur se verra confier, dans la limite de sa disponibilité et de ses compétences, des activités complémentaires par sa hiérarchie :
+
+- Soutenir l'action communautaire ;
+- Se déplacer sur l'ensemble du territoire pour participer aux actions communautaires et aux actions de terrain, y compris au sein de la caravane dentaire, et apporter si nécessaire un soutien logistique et opérationnel aux équipes ;
+- Encadrer des stagiaires ;
+- Contribuer à la mise en place de projets ou d'actions transversales avec les autres programmes de l'ASSNC, et notamment dans le champ de la santé communautaire et de l'éducation pour la santé ;
+- Animer des séances de sensibilisation sur la santé orale adaptées aux publics scolaires, jeunes, adultes, ou personnes vulnérables ;
+- Soutenir les partenaires et collaborer à des projets externes.
+
+# Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Baccalauréat/Bac +2 minimum dans le domaine de la santé, de la prévention, de la coordination de projets ou de la santé publique. Une expérience dans la gestion de projets ou l'éducation pour la santé serait appréciée.
+- Connaissances des spécificités culturelles néo-calédoniennes ;
+- Culture en santé publique et expérience dans le domaine d'action ;
+- Techniques de planification, de pilotage et d'évaluation ;
+- Connaissance de l'environnement sanitaire et social et du fonctionnement des institutions.
+
+# Savoir-faire 
+- Comprendre les enjeux ;
+- Mettre en cohérence l'intervention de l'ensemble des partenaires ;
+- Evaluer et restituer les résultats d'une activité ;
+- Maîtriser la communication écrite et orale dans un objectif de valorisation des projets ;
+- Maîtriser les logiciels courants de bureautique ;
+
+# Comportement professionnel 
+- Diplomatie
+- Grande capacité d'organisation
+- Disponibilité
+- Autonomie
+- Innovation et imagination
+- Réactivité
+- Aisance orale
+- Bon esprit d'équipe et de partage
+- Sens du service public
+
+# Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Madame Anne-Laurence GOULIN Tél : [📞 25.07.60](tel:250760)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, copies des 3 derniers entretiens annuels d'échange [EAE] ou évaluations, fiche de renseignements, attestation sur l'honneur de non-bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la Direction de l'Agence sanitaire et sociale de la Nouvelle-Calédonie par :
+
+- Voie postale : BP P4 – 98851 NOUMEA CEDEX
+
+- Dépôt physique : Centre-ville – 16 rue du Général Gallieni – 3 ème étage
+
+- Mail : [recrutement@ass.nc](mailto:recrutement@ass.nc) au format PDF
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=ass-nc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[NC]: Nouvelle-Calédonie
+
+
+---
+
+# 26-0854 - Surveillant de port principal
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ded74111ec782f2088ef3add29000bfb/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0854 - Surveillant de port principal",
+  "description": "Domaine: Equipement. Direction: Port autonome de Nouvelle-Calédonie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Port autonome de Nouvelle-Calédonie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0854/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# SURVEILLANT DE PORT PRINCIPAL
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PANC  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0854/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+#### Corps ou Cadre d'emploi / Domaine 
+Technicien 1 er grade du cadre des personnels techniques de Nouvelle-Calédonie – domaine équipement
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** Immédiatement
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+Le Port Autonome est un établissement public de la Nouvelle-Calédonie à caractère industriel et commercial composé d'une quarantaine d'employés. Il est chargé de gérer le domaine maritime et terrestre confié par la Nouvelle-Calédonie, d'en assurer l'administration, l'entretien, la protection et l'exploitation.
+
+# À ce titre, le Port Autonome 
+- Réalise tous les travaux de construction nécessaires (rénovations ou construction d'infrastructures neuves),
+- Veille à la bonne exploitation de son domaine (optimisation des espaces terrestres loués aux usagers, organisation de son plan d'eau et élaboration des délégations des services publics),
+- Travaille à l'exploitation optimisée du terminal de commerce (accostage des navires et flux de marchandises conteneurisées).
+- Travaille à la sécurité de ses installations.
+
+Le Port Autonome de la Nouvelle-Calédonie peut prendre des participations dans les entreprises privées ou sociétés d'économie mixte installées dans les enceintes portuaires ou dont l'objet s'inscrit de manière directe ou indirecte dans les activités portuaires.
+
+### Emploi RESPNC 
+## 🎯 Missions
+
+> Sous l'autorité du Responsable de la Police Portuaire, le Surveillant de Port est chargé de la surveillance et de la sécurité de la zone portuaire, des installations, des équipements, des navires, des marchandises ainsi que des personnes présentes sur le domaine portuaire (plaisanciers et visiteurs). À ce titre, il participe à la mise en œuvre des mesures de sûreté portuaire et de prévention des risques et procède, dans le cadre de ses compétences et habilitations, à la constatation des infractions. Il veille au respect des procédures internes et des dispositions réglementaires en vigueur et contribue à la prévention et à la détection des actes de malveillance. Il effectue seul ou en équipe des rondes de surveillance, vérifie les accès, les lieux, les équipements et les systèmes de sécurité et de prévention.
+
+> Il détecte les anomalies, dangers, la présence de personnes ou véhicules non autorisés.
+
+> Il met en œuvre rapidement les actions appropriées en fonction des situations (incendie, infraction, etc.), selon les procédures établies et la réglementation en vigueurs.
+
+L'agent retenu sera notamment chargé :
+
+# Application des procédures de sécurité et de sûreté
+
+- Appliquer les procédures de sécurité, de sûreté et de prévention des risques (incendie, terrorisme, malveillance, vol, etc.) conformément au cadre législatif et réglementaire portuaire.
+- Contribuer à la sécurisation des systèmes d'information utilisés pour la sûreté portuaire et à la protection des données associées.
+
+### Surveillance des infrastructures portuaires
+
+- Effectuer des rondes de surveillance régulières des installations et infrastructures portuaires.
+- Utiliser les systèmes de vidéoprotection pour détecter les anomalies ou comportements suspects.
+- Vérifier le bon fonctionnement des dispositifs de sécurité, de sûreté et de contrôle des accès (portes, portails, etc.).
+
+#### Contrôle des accès et gestion des flux
+
+- Contrôler l'accès des personnes, véhicules et marchandises sur la zone portuaire, en collaboration avec les ACVS (Agents chargés des Contrôles et Visites de Sûreté).
+- Détecter et signaler les accès non autorisés, les véhicules suspects ou les incidents, et mettre en œuvre les mesures correctives adaptées.
+- Gérer les flux d'accès en appliquant les procédures internes et les consignes de sûreté.
+
+## Gestion administrative des titres d'accès
+
+- Traiter les demandes d'accès aux installations portuaires.
+- Éditer les titres d'accès (badges pour les personnes et accès pour les véhicules).
+- Assurer le suivi administratif et opérationnel des badges :
+- Création, renouvellement, restitution, désactivation.
+- Tenir à jour les registres et bases de données des titres d'accès.
+
+# Reporting et traçabilité
+
+- Rédiger les documents officiels liés à l'activité :
+- Procès-verbaux de constatation
+- Rapports d'incident ou d'accident
+- Mises en demeure
+- Mains courantes
+- Informer la hiérarchie de la situation en temps réel.
+- Alerter les forces de l'ordre ou les services de secours en cas de nécessité.
+- Tenir à jour les registres d'interventions et assurer la traçabilité des actions.
+
+# Caractéristiques particulières de l'emploi 
+- **Astreinte opérationnelle :** Intervention possible en dehors des heures de bureau.
+- **Agent assermenté :** Habilité à constater des infractions et à rédiger des procès-verbaux.
+
+- **Profil du candidat - Savoir / Connaissance / Diplôme exigé :**
+  - Connaissances réglementaires : Réglementation portuaire et des règles de sûreté (Code ISPS).
+  - Connaissances des outils et systèmes de contrôle
+  - Gestion des incidents : Capacité d'analyse, de diagnostic et de résolution des situations à risque.
+  - Rédaction professionnelle : Aptitude à rédiger des rapports, procédures et comptes-rendus clairs et précis
+
+# Savoir-être 
+- Engagement : Loyauté et sens du service public.
+- Disponibilité : Rigueur et réactivité, avec une grande disponibilité (astreintes incluses).
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire, vous pouvez contacter :
+
+M. Steeve WEBER, Responsable de la police portuaire Tel : [📞 25 50 10](tel:255010) / e-mail : [sweber@noumeaport.nc](mailto:sweber@noumeaport.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non-bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir au service des ressources humaines du Port Autonome de la Nouvelle-Calédonie par :
+
+- Voie postale : BP 14, 98845 Nouméa Cédex
+- Dépôt physique : Port Autonome de la Nouvelle-Calédonie, 34 avenue James Cook, Nouville
+- Mail : [recrutement@noumeaport.nc](mailto:recrutement@noumeaport.nc)
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2) La fiche de renseignements, l'attestation sur l'honneur de non-bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=panc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0855 - Infirmier(e)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b171ab3613c0c0c303d319ab3dc29fe4/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0855 - Infirmier(e)",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier du Nord",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0855/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 01 INFIRMIER (ERE)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHN  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0855/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** Infirmier en Soins **Direction : Centre Hospitalier du Nord**
+
+Généraux
+
+**Lieu de travail :** Pôle Sanitaire du Nord, Koohnê
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** au moins égale à 5 ans **Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Poste à pourvoir : Immédiatement. Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+**Emploi RESPNC : Infirmier**
+
+## 🎯 Missions
+
+> - Contribuer à l'éducation, à la santé et à l'accompagnement des personnes hospitalisées dans leur parcours de soins en lien avec leur projet de vie.
+
+**Caractéristiques particulières de l'emploi :**
+
+Planning de travail : - Roulement en 12 heures
+
+- Polyvalence Jour-Nuit
+
+- Travail week end et jours fériés
+
+Poste à temps plein
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+Soins infirmiers
+
+- Méthode de recherche en soins
+- Médicales générales et/ou scientifiques en fonction du domaine d'activité
+- Droit des patients
+- Gestes et postures-manutention
+- Gestion du stress
+- Hygiène hospitalière
+- Communication et relation d'aide
+- Méthodologie d'analyse de situation d'urgences spécifiques à son domaine de compétence et définir les actions.
+- Analyser/évaluer la situation clinique d'une personne, d'un groupe de personnes, relative à son domaine de compétence.
+- Etre titulaire du diplôme d'état infirmier
+- AFGSU 2
+
+#### Savoir-faire 
+- Eduquer, conseiller le patient et son entourage dans le cadre du projet de soins.
+- Analyser, synthétiser des informations permettant la prise en charge de la personne soignée et la continuité des soins.
+- Identifier, analyser, évaluer et prévenir les risques relevant de son domaine, définir les actions correctives/préventives.
+- Conduire un entretien d'aide.
+- Elaborer et formaliser un diagnostic santé de la personne, relatif à son domaine de compétence.
+- Concevoir, formaliser et adapter des procédures/protocoles/modes opératoires/consignes relatives à son domaine de compétence.
+- Evaluer les pratiques professionnelles de soins sans son domaine de compétence.
+- Identifier/analyser des situations
+
+![](_page_0_Picture_42.jpeg)
+
+#### Comportement professionnel 
+- Disponibilité
+- Autonomie
+- Respect
+- Sens de l'organisation
+- Esprit de synthèse et d'analyse
+- Esprit d'équipe
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire vous pouvez contacter la Direction des Ressources Humaines – Recrutement tél : [📞 42.65.09](tel:426509) ou la Coordinatrice des Soins – tél : [📞 42.65.85](tel:426585)/ [📞 42.11.15](tel:421115) / mail : [✉️ recrutement@chn.nc](mailto:recrutement@chn.nc)*.*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir au Centre Hospitalier du Nord par :
+
+- Voie postale : Pôle Sanitaire du Nord BP 688 98860 KONE.
+- Dépôt physique (Secrétariat de direction, Pôle Sanitaire du Nord , rue Jimmy WELEPANE derrière la Province Nord à Paiamboué)
+- Mail : [recrutement@chn.nc](mailto:recrutement@chn.nc)
+- Fax (n° [📞 42 11 90](tel:421190))
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=chn)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHN]: Centre Hospitalier du Nord
+
+
+---
+
+# 26-0856 - Aide-soignant(e) en endoscopie
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d57eaa5e45fd3645290660e03a398ea6/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0856 - Aide-soignant(e) en endoscopie",
+  "description": "Domaine: Aide-soignant. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0856/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+#### 1 Aides soignant(e) en endoscopie
+
+**Référence : 3134-26-0856/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Aide-soignant  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Aide-soignant- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** Juin 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre : Endoscopie
+
+## À propos du poste 
+Au sein du service d'endoscopie, vous accompagnez le patient avant, pendant et après l'examen, afin d'assurer son confort, sa sécurité et la qualité de sa prise en charge. En collaboration avec l'équipe infirmière, les médecins gastro-entérologues et les autres professionnels du service, vous participez à la préparation, à l'installation et aux transferts du patient, dans le respect strict des protocoles d'hygiène, d'asepsie et de désinfection des dispositifs médicaux. Votre rigueur et votre sens de l'organisation contribuent au bon déroulement du programme d'endoscopie et à la prévention du risque infectieux.
+
+Pour en savoir plus sur notre établissement et le service d'endoscopie, cliquez sur le lien suivant : [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
+
+#### Missions 
+- Accueil, information et accompagnement du patient et/ou de son entourage avant l'examen, dans le respect de la confidentialité,
+- Préparation du patient : aide à l'installation, vérifications de première intention dans votre champ de compétence, confort et accompagnement avant et après l'examen,
+- Participation aux transferts et au positionnement du patient en salle d'endoscopie, en collaboration avec l'équipe soignante,
+- Participation à la mise en œuvre des mesures d'hygiène, d'asepsie, de désinfection et au respect des circuits propres/sales ainsi qu'à la gestion des déchets,
+- Bionettoyage et remise en état des salles d'examen et des zones attenantes selon les protocoles en vigueur,
+- Préparation, entretien courant et réassort des matériels et consommables nécessaires à l'activité d'endoscopie,
+- Surveillance et traçabilité des éléments relevant de votre champ de compétence ; transmissions orales et écrites pour assurer la continuité des soins,
+- Aide au brancardage et à l'orientation des patients avant et après l'examen, selon l'organisation du service,
+- Signalement des anomalies et contribution à la sécurité des soins, à l'identitovigilance et au bon fonctionnement du service selon les procédures en vigueur.
+
+## Profil du candidat 
+- - Diplôme d'Etat d'Aide-soignant ou Certificat d'Aptitude à la Fonction d'Aide-soignant.
+- - Soins de premiers secours (AFGSU)
+
+- - Gestes et postures Manutention,
+- - Hygiène hospitalière,
+- - Bionettoyage et hygiène des locaux,
+- - Expérience souhaitée en service similaire.
+
+#### Conditions de travail et avantages 
+- - Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- - Primes spécifiques (nuit, week-end…) selon statut
+- - Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille [salariale](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) de la santé de Nouvelle [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+### ℹ️ Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter François Perraudeau Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : [✉️ francois.perraudeau@cht.nc](mailto:francois.perraudeau@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+# 1 Aide [soignant\(e\)](https://recrutement.cht.nc/jobs/7808652-1-aide-soignant-e-en-endoscopie) en endoscopie - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Aide-soignant](../#aide-soignant)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0857 - Assistante de direction à la DAFI
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/74a2154e4840c8c5616b1cfeffa9569e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0857 - Assistante de direction à la DAFI",
+  "description": "Domaine: Autres filières. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0857/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 Assistante de direction à la DAFI
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0857/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine : Rédacteur du cadre d'administration**
+
+**générale**
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) : /**
+
+**Poste à pourvoir :** Immédiatement
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction des Affaires Financières et Informatiques**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre : Direction des Affaires Financière et Informatique
+
+La Direction des Affaires Financières et Informatiques (DAFI) est une des 8 directions administratives du CHT Gaston Bourret. Elle est dirigée par un directeur adjoint et est composée de 3 services : les finances, le contrôle de gestion et l'informatique. La direction comprend 75 agents.
+
+L'assistant(e) de direction est placé(e) sous l'autorité du Chef de service des Finances. Il (elle) organise et coordonne, avec son binôme, le secrétariat de direction : accueil, information, communication, gestion et suivi des dossiers et classement.
+
+Il (elle) participe aux activités spécifiques de la Direction en lien avec les chefs de service.
+
+Pour en savoir plus sur notre établissement et la Direction des Affaires Financières et Informatiques, cliquez sur le lien suivant : [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston Bourret
+
+## Missions 
+#### Gestion administrative et organisationnelle 
+- Accueil physique et téléphonique,
+- Gestion des agendas,
+- Rédaction de courrier, documents administratifs et dossiers relatifs à la direction,
+- Organisation de réunion et réservation de salles,
+- Gestion de la logistique de la direction (commande de fournitures, ...),
+- Traitement du courrier,
+- Organisation du classement et de l'archivage des dossiers,
+- Gestion RH (arrêts de travail, absences diverses, primes de véhicules, ordres de mission...).
+
+#### Acheteur pour le service informatique 
+- Établissement et suivi des bons de commandes des comptes d'investissement et de fonctionnement de l'informatique,
+- Gérer les relances fournisseurs (paiements/factures),
+- Suivi des contrats de maintenance/service en collaboration avec la direction des achats et de la logistique,
+- Suive des dépenses et du budget du service Informatique,
+- Préparation des dossiers d'investissement et de Marchés Publics en collaboration avec la direction des achats et de la logistique,
+- Création et suivi des tableaux de bord (dépenses de maintenance, consommation MFP et téléphonie, les lignes spécialisées et les marchés...).
+
+#### Gestion des dossiers pour les instances du CHT Gaston Bourret 
+- Préparation et diffusion des documents de présentation et rapports annuels de la Direction (notes de présentation, délibérations, rapports de gestion, rapports d'activité hospitalière...).
+
+#### Gestion des dossiers de régie 
+- Communication des informations internes et externes au service,
+- Suivi et rédaction des décisions des mandataires, des avenants relatifs à l'acte constitutif de la régie, en lien avec le Trésor Public
+
+### Profil du candidat 
+- Formation de niveau bac minimum obligatoire
+- Maîtrise des techniques de rédaction administrative
+- Maîtrise des outils bureautiques (Word, Excel, PowerPoint, Outlook, Teams)
+- Capacité à gérer les priorités et à hiérarchiser les urgences
+- Connaissance du logiciel Cpage appréciée
+- Discrétion et respect de la confidentialité
+- Rigueur et organisation
+- Polyvalence et adaptabilité
+
+## Conditions de travail et avantages 
+- Travail en horaires de journée
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (cadre de [l'administration](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf) générale)
+
+## ℹ️ Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter sabelle JOUET Chef du service des finances du CHT - tél : [📞 20.86.00](tel:208600) / mail : [isabelle.jouet@cht.nc](mailto:isabelle.jouet@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+# [Assistante](https://recrutement.cht.nc/jobs/7801602-assistante-de-direction-a-la-dafi) de direction à la DAFI - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+*[RH]: Ressources Humaines
+
+
+---
+
+# 26-0858 - 2 Infirmier(e)s en médecine polyvalente
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/86bf667c1ba810a3eebd29a096058233/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0858 - 2 Infirmier(e)s en médecine polyvalente",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0858/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 2 Infirmier(e)s en médecine polyvalente
+
+**Référence : 3134-26-0858/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la
+
+Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** septembre 2026
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+# À propos du poste 
+Le service de médecine polyvalente est une unité d'hospitalisation de courte durée pour des bilans et stabilisations des patients polypathologiques et complexe, qui sont ensuite orientés vers leurs domiciles ou en service spécialisé.
+
+**Pour en savoir plus sur notre établissement et le service de médecine polyvalente, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston Bourret*
+
+## Missions 
+L'infirmier(e) réalise des soins infirmiers afin de maintenir ou de restaurer la santé du patient et l'accompagner. Par ces activités, il/elle contribue à la prévention, au dépistage, au diagnostic, au traitement et à la recherche.
+
+#### Activités principales
+
+- Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient.
+- Prioriser l'urgence, pratiquer les premiers gestes et participer au diagnostic.
+- Surveiller l'évolution de l'état de santé et accompagner les familles.
+- Assister les médecins lors des soins et des procédures.
+- Etablir le projet de soins personnalisés, planifier et organiser les activités en soins durant l'hospitalisation et jusqu'à la sortie du patient
+- Réaliser des soins ainsi que les surveillances en lien avec les effets secondaires induits par les traitements
+- Manipuler les dispositifs utilisés en médecine polyvalente et les surveiller
+- Eduquer et conseiller le patient et l'entourage dans une démarche d'autonomisation
+
+#### Profil du candidat 
+- Titulaire du **diplôme d'état d'infirmier / infirmier en soins généraux**
+- Connaissance des pathologies en lien avec la spécialité en médecine polyvalente
+- Formation AFGSU niveau 2 attendu
+- Rigueur, sens de l'organisation et du travail en équipe pluridisciplinaire ainsi qu'un bon relationnel sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande polyvalence et une maîtrise de ses émotions.
+
+## Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Primes spécifiques (nuit, week-end…)
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*
+- Prise en charge du billet aller uniquement
+
+#### ℹ️ **Contact et informations complémentaires :**
+
+Pour toutes informations supplémentaires, veuillez contacter Alice HONAKOKO -Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) – poste 8054 - mail : [alice.honakoko@cht.nc](mailto:alice.honakoko@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### *2 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/7824313-2-infirmier-e-s-en-medecine-polyvalente) en médecine polyvalente - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0859 - 2 Préparateurs en pharmacie hospitalière
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b81133f84720c900f4c2af5652e413cc/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0859 - 2 Préparateurs en pharmacie hospitalière",
+  "description": "Domaine: Médico-technique. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0859/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 2 Préparateurs en pharmacie hospitalière
+
+**Référence : 3134-26-0859/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Médico-technique  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Préparateur en pharmacie/ Statut particulier des personnels paramédicaux de la
+
+Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** Juin et juillet 2026
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre : Pharmacie
+
+## À propos du poste 
+Le préparateur en pharmacie hospitalière exerce en pharmacie à usage intérieur et participe, sous l'autorité technique du pharmacien chargé de la gérance à la gestion, l'approvisionnement, la délivrance des médicaments et autres produits de santé, à la réalisation des préparations magistrales et hospitalières, de préparation de poches de nutrition parentérale, de préparation de médicaments de chimiothérapie anti-cancéreuses. Il est soumis au secret professionnel.
+
+**Pour en savoir plus sur notre établissement et la pharmacie, cliquez sur le lien suivant :** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston [Bourret](https://recrutement.cht.nc/pages/decouvrez-le-medipole)*
+
+### Missions 
+- Délivrance de médicaments et de dispositifs médicaux
+- Réalisation des opérations d'approvisionnement et de gestion au sein de la pharmacie à usage intérieur et des services de soins
+- Réalisation de conditionnements
+- Réalisation de préparations pharmaceutiques en milieu hospitalier
+- Conduite des opérations de préparation des dispositifs médicaux stériles
+- Maintenance et contrôle des équipements de préparation, de conditionnement, de stérilisation, de stockage, de production d'eau
+- Traitement de l'information et contrôle de la traçabilité
+- Conseil, encadrement et formation
+
+#### Profil du candidat 
+- Titulaire du **diplôme de** *préparateur en pharmacie hospitalière*
+- Rigueur, sens de l'organisation et du travail en équipe ainsi qu'un bon relationnel sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, ainsi qu'une forte adaptabilité.
+
+#### Conditions de travail et avantages 
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*
+- Prise en charge du billet aller uniquement
+
+# ℹ️ **Contact et informations complémentaires :**
+
+Pour toutes informations supplémentaires, veuillez contacter Anne LEDU - Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) - Poste 8660 / mail : [✉️ anne.ledu@cht.nc](mailto:anne.ledu@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+## *2 [Préparateur](https://recrutement.cht.nc/jobs/7824686-2-preparateur-en-pharmacie-hospitaliere) en pharmacie hospitalière - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Médico-technique](../#medico-technique)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0860 - 3 infirmier(e)s anesthésistes
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d699704c46fc11ff26093beb4c73fdbd/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0860 - 3 infirmier(e)s anesthésistes",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0860/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+#### 3 Infirmier(e)s anesthésistes
+
+**Référence : 3134-26-0860/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Infirmier anesthésiste- Statut particulier des personnels paramédicaux de la
+
+Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 3 ans
+
+**Poste à pourvoir :** à partir de septembre 2026
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+Détails de l'offre : Bloc opératoire
+
+### À propos du poste
+
+Membre du service de soins infirmiers, il (elle) est placé(e) sous l'autorité du cadre infirmier anesthésiste du D.A.R., du cadre infirmier supérieur et du directeur du service de soins infirmiers.
+
+## Missions 
+Dans le cadre général du service public, l'infirmier anesthésiste concourt, par ses compétences propres définies réglementairement, à la sécurité et à la qualité des soins des personnes accueillies.
+
+Dans ce cadre l'infirmier anesthésiste devra notamment :
+
+- Assurer des actes relevant des techniques d'anesthésie générale, loco régionale et de réanimation per opératoire et est habilité(e) à la prise en charge de la douleur postopératoire relevant des mêmes techniques ;
+- Être gestionnaire du matériel d'anesthésie réanimation, des médicaments et drogues utilisés, de l'approvisionnement en produits sanguins dont il assure la vérification de la délivrance, de la conservation et de la traçabilité ;
+- Encadrer les étudiants qui lui sont confiés par le SSI et le CFPS ;
+- Participer aux travaux de recherche relevant du domaine des soins infirmiers, à l'élaboration de protocoles ainsi qu'à l'évaluation des soins infirmiers en anesthésie, ainsi qu'aux actions de recherche mises en œuvre par des MAR.
+
+#### Profil du candidat
+
+- Titulaire du diplôme d'état d'infirmier anesthésiste ou d'une équivalence reconnue par la DASS de Nouvelle Calédonie,
+- Maîtrise des outils bureautique, informatique et des logiciels métiers
+- Formation AFGSU niveau 2 attendu
+- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande polyvalence et gestion du stress.
+
+## Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Primes spécifiques (nuit, week-end…)
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+- Prise en charge du billet aller uniquement
+
+### ℹ️ Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter François Perraudeau Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : [✉️ francois.perraudeau@cht.nc](mailto:francois.perraudeau@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+### 3 Infirmier(e) [anesthésiste](https://recrutement.cht.nc/jobs/7808645-3-infirmier-e-anesthesiste-iade) (IADE) - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0861 - 6 Techniciens de laboratoires
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0b7e2306320f6a924947a8d35df9a734/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0861 - 6 Techniciens de laboratoires",
+  "description": "Domaine: Médico-technique. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0861/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+#### 6 Technicien(ne)s de laboratoires
+
+**Référence : 3134-26-0861/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Médico-technique  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Technicien de laboratoire/Statut
+
+particulier des personnels paramédicaux
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** Immédiatement
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+Détails de l'offre : Laboratoire
+
+## À propos du poste 
+Au cœur de l'activité du laboratoire, vous réalisez les analyses dans le strict respect des procédures, en coordination avec le responsable d'analyse et l'ingénieur de laboratoire. Vous contribuez directement à la fiabilité des résultats en assurant le contrôle des produits et le suivi opérationnel des équipements dont vous avez la charge, au service de la qualité et de la sécurité des prises en charge.
+
+Pour en savoir plus sur notre établissement et le service du laboratoire, cliquez sur le lien suivant : [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
+
+### Missions 
+- Réception et enregistrement des examens
+- Réalisation des analyses
+- Application des procédures et documentation technique
+- Etalonnage des appareils de mesure
+- Maintenance de premier niveau de l'équipement
+- Validation technique des résultats
+- Participation à la mise en œuvre des projets établis par le responsable d'analyse
+- Contrôle les produits et équipements
+- Gestion des disponibilités du consommable en rapport avec l'activité
+- Gestion des déchets
+
+#### Profil du candidat 
+- Diplôme de technicien de laboratoire BAC +2 (BTS en Analyses biologiques, DETAB, DUT) ou équivalent (Arrêté n°2025-1861/GNC du 2025-10-29 fixant la liste des titres d'accès au corps de technicien de laboratoire du cadre des personnels paramédicaux de Nouvelle-Calédonie)
+- Maîtriser des documents techniques
+- Maîtriser des logiciels techniques
+- Respecter des procédures
+- Rédiger les comptes rendus d'analyses
+- Utiliser des outils statistiques
+
+#### Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille [salariale](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) de la santé de Nouvelle [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+## ℹ️Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter Anne LEDU -Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) – Poste 8060 / mail : [anne.ledu@cht.nc](mailto:anne.ledu@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### 6 [Technicien\(ne\)s](https://recrutement.cht.nc/jobs/7808643-6-technicien-ne-s-de-laboratoire) de laboratoire - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Médico-technique](../#medico-technique)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+*[DUT]: Diplôme Universitaire de Technologie
+*[BTS]: Brevet de Technicien Supérieur
+
+
+---
+
+# 26-0862 - Infirmier(e) en soins généraux - salle de soins post interventionnel
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0659699fb45eedb8fb8b242c3f901b45/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0862 - Infirmier(e) en soins généraux - salle de soins post interventionnel",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0862/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 Infirmier(e) en soins généraux – Salle de soins post interventionnel
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0862/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Infirmier(ère) en soins généraux - Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** Aout 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+Détails de l'offre : Salle de soins post interventionnel
+
+### À propos du poste 
+L'infirmier / infirmière en salle de soins post interventionnel exerce dans le respect de la réglementation en lien avec l'ensemble des « vigilances ». Il travaille au sein d'une équipe pluriprofessionnelle médicale et paramédicale. Il participe également à la prise en charge des patients après un acte opératoire et assure la surveillance post-interventionnelle sous la responsabilité d'un Médecin Anesthésiste-Réanimateur (MAR).
+
+**Pour en savoir plus sur notre établissement et le service du bloc opératoire, cliquez sur le lien suivant : [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston Bourret**
+
+#### Missions 
+- Dispense des soins individualisés au patient quel que soit le secteur. Les soins peuvent relever du rôle propre de l'infirmier ou du rôle sur prescription par le MAR référent,
+- Collabore avec les différents partenaires de soins dans le cadre d'une activité programmée ou urgente,
+- Assure la sécurité et la prise en charge des patients en SSPI, sous la responsabilité de l'Infirmier Anesthésiste Diplômé d'Etat (IADE) et du médecin anesthésiste,
+- Assure des transmissions écrites et orales lors du transfert du patient dans l'unité d'hospitalisation,
+- Est impliqué, en collaboration avec les IADE, dans les processus de vigilances hospitalières et veille à l'application des procédures concernant l'identitovigilance, l'hémovigilance, la matériovigilance et la lutte contre les maladies nosocomiales,
+- Participe à la prise en charge et l'évaluation de la douleur post-opératoire
+
+## Profil du candidat 
+- Titulaire du **diplôme d'état d'infirmier / infirmier en soins généraux**
+- Maîtrise des outils bureautique, informatique et des logiciels métiers
+- Expérience exigée de plus de 3 ans dans bloc opératoire ou interventionnel
+- Formation AFGSU niveau 2 attendu
+- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande polyvalence et gestion du stress.
+
+#### Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du bloc (week-ends, nuit, jours fériés et chômé)
+- Primes spécifique (nuit, bloc, week-end…) selon statut
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Prise en charge du billet aller uniquement
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille [salariale](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) de la santé de Nouvelle [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+## ℹ️ **Contact et informations complémentaires :**
+
+Pour toutes informations supplémentaires, veuillez contacter François Perraudeau Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : [✉️ francois.perraudeau@cht.nc](mailto:francois.perraudeau@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### 1 Infirmier(e)s en soins généraux – Salle de soins post [interventionnel](https://recrutement.cht.nc/jobs/7808647-1-infirmier-e-s-en-soins-generaux-salle-de-soins-post-interventionnel) - CHT Gaston [Bourret](https://recrutement.cht.nc/jobs/7808647-1-infirmier-e-s-en-soins-generaux-salle-de-soins-post-interventionnel)
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0863 - Aide-soignant(e) en pneumologie
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0037d84c5faaac6cb1e62978db39f696/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0863 - Aide-soignant(e) en pneumologie",
+  "description": "Domaine: Aide-soignant. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0863/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 1 Aide-soignant(e) en pneumologie
+
+**Référence : 3134-26-0863/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Aide-soignant  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** aide-soignant(e)/ statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** immédiatement
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+### À propos du poste 
+Intégré au pôle médecine, le service de pneumologie prend en charge notamment les pathologies bronchiques, PID et les maladies rares, cancers pulmonaires et divers appareillages.
+
+**Pour en savoir plus sur notre établissement et le service de pneumologie, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret*
+
+### Missions 
+L'aide-soignant(e) dispense, en collaboration avec l'infirmier, des soins de prévention, de maintien, de relation et d'éducation à la santé, pour préserver et restaurer la continuité de la vie, le bien-être et l'autonomie de la personne.
+
+#### Activités principales 
+- Accueil, informer et accompagner les patients ainsi que leur entourage,
+- Entretien de l'environnement immédiat du patient et réfection du lit, ainsi que du matériel de soins et de l'approvisionnement des chariots,
+- Réalisation des transmissions par oral et par écrit, pour maintenir la continuité des soins,
+- Observation du bon fonctionnement des appareillages et dispositifs médicaux,
+- Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires),
+- Réaliser des soins infirmiers et assurer la prise en charge globale des patients,
+- Evaluer l'état de santé, surveiller l'évolution clinique et identifier les situations d'urgences,
+- Assurer la traçabilité des soins et la mise à jour des dossiers patient,
+- Travailler en coordination avec l'équipe pluridisciplinaire.
+
+### Profil du candidat 
+- Titulaire du diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e),
+- Expérience dans un service similaire serait un plus,
+- Formation AFGSU niveau 2 attendu,
+- Esprit d'équipe, qualité d'écoute et relationnelles sont indispensable pour occuper ce poste,
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une solide aptitude physique au port de charge.
+
+## Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*cadre de la santé de N[ouvelle-Calédonie](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*)
+
+![](_page_1_Figure_0.jpeg)
+
+Pour toutes informations supplémentaires, veuillez contacter Alice HONAKOKO -Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) – poste 8054 - mail : [✉️ alice.honakoko@cht.nc](mailto:alice.honakoko@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### *1 [Aide-soignant\(e\)](https://recrutement.cht.nc/jobs/7824303-1-aide-soignant-e-en-pneumologie) en pneumologie - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Aide-soignant](../#aide-soignant)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0864 - Aide-soignant(e) aux urgences
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/429375b254bbf2b701cb0d5a65fa8f12/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0864 - Aide-soignant(e) aux urgences",
+  "description": "Domaine: Aide-soignant. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0864/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### 1 Aide-soignant(e) aux urgences
+
+**Référence : 3134-26-0864/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** CHT  
+    **Domaine :** Aide-soignant  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** aide-soignant(e)/ statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** immédiatement
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+### Détails de l'offre 
+## À propos du poste 
+Partie intégrante du plateau technique, le service des urgences assure une continuité des soins 24h/24 et une réactivité immédiate face aux situations critiques. Il comprend un volet adulte - SAMU/SMUR et un volet pédiatrique et gynécologique.
+
+**Pour en savoir plus sur notre établissement et le service des urgences, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret*
+
+## Missions 
+L'aide-soignant(e) participe à la prise en charge globale des patients aux urgences adultes, dans le cadre du rôle propre de l'infirmier(ère), en assurant des soins d'hygiène, de confort et de bien-être, tout en contribuant à la fluidité du parcours patient dans un environnement d'urgence.
+
+#### Activités principales 
+- Accueil, informer et accompagner les patients ainsi que leur entourage,
+- Entretien de l'environnement immédiat du patient et réfection du lit, ainsi que du matériel de soins et de l'approvisionnement des chariots,
+- Réalisation des transmissions par oral et par écrit, pour maintenir la continuité des soins,
+- Observation du bon fonctionnement des appareillages et dispositifs médicaux,
+- Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires),
+- Réaliser des soins infirmiers et assurer la prise en charge globale des patients,
+- Evaluer l'état de santé, surveiller l'évolution clinique et identifier les situations d'urgences,
+- Assurer la traçabilité des soins et la mise à jour des dossiers patient,
+- Travailler en coordination avec l'équipe pluridisciplinaire.
+
+### Profil du candidat 
+- Titulaire du diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e),
+- Expérience dans un service similaire serait un plus,
+- Formation AFGSU niveau 2 attendu,
+- Esprit d'équipe, qualité d'écoute et relationnelles sont indispensable pour occuper ce poste,
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une solide aptitude physique au port de charge.
+
+## Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*cadre de la santé de N[ouvelle-Calédonie](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*)
+
+![](_page_1_Figure_0.jpeg)
+
+Pour toutes informations supplémentaires, veuillez contacter Helena LE GUYON Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : [helena.leguyon@cht.nc](mailto:helena.leguyon@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### *1 [Aide-soignant\(e\)](https://recrutement.cht.nc/jobs/7824299-1-aide-soignant-e-aux-urgences) aux urgences - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Aide-soignant](../#aide-soignant)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-0865 - Travailleur social référent publics prioritaires
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3ba84e84643c5fad62ff2ec9c7bcc5be/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0865 - Travailleur social référent publics prioritaires",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0865/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 TRAVAILLEUR SOCIAL RÉFÉRENT PUBLICS PRIORITAIRES
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0865/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps /Domaine :** Assistant socio-éducatif/ Spécialité Assistant de Service Social ou Conseiller en
+
+Économie Sociale et Familiale
+
+**Durée de résidence exigée pour le**
+
+**Recrutement sur titre** : au moins égale à 5 ans
+
+**Poste à pourvoir :** 1 er septembre 2026 **Direction :** Centre Communal d'Action Sociale de la Ville de
+
+Nouméa - Service Accompagnement Individualisé
+
+**Lieu de travail :** Mairie annexe Galliéni 1
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+Le Centre Communal d'Action Sociale (CCAS) de la ville de Nouméa est un établissement public de la commune géré par un Conseil d'Administration.
+
+Il anime une action générale de prévention et de développement social dans la commune, en liaison étroite avec les institutions publiques et privées. Il comprend 3 services opérationnels (le service accompagnement individualisé, le service animation et actions collectives, le service famille et coéducation) et un service fonctionnel chargé de la gestion administrative, financière et logistique.
+
+Le service accompagnement individualisé a pour mission de mettre en place des accompagnements individualisés à destination des personnes en situation de handicap, des séniors, des familles, issues notamment de sites prioritaires de résorption de l'habitat insalubre ou accueillies au pôle d'aide aux victimes.
+
+#### Emploi RESPNC : travailleur social
+
+#### Missions
+
+- Assurer un accompagnement publics prioritaires définies : seniors, personnes en situation de handicap et des familles en relogement dans le cadre du dispositif d'accompagnement au logement de la Province Sud
+- Accueillir, informer, conseiller et orienter les nouméens lors de permanences d'accueil d'informations et d'orientation ou sur orientation de la direction du CCAS.
+
+#### Activités principales
+
+#### Liées à la 1 ère mission 
+- Accueillir le public dit prioritaire se présentant au CCAS de Nouméa ou sollicitant un rendez-vous,
+- Réaliser une évaluation sociale permettant de recueillir les données socio-économiques de la situation,
+- Proposer des solutions adaptées aux besoins,
+- Mettre en place des mesures d'accompagnement social (individuelles et collectives),
+- Assurer la révision des dossiers d'aides du CCAS en fonction de la situation et des besoins, sur sollicitation de l'administré
+- Participer à des activités encourageant le lien social avec les partenaires associatifs, institutionnels œuvrant en faveur des seniors, des personnes en situation de handicap ou des familles suivies,
+- Participer en transversalité aux actions et activités proposées par les services opérationnels du CCAS de Nouméa en faveur des publics prioritaires.
+
+#### Liées à la 2 ème mission 
+- Réaliser des permanences d'accueil d'information et d'orientation,
+- Instruire des dossiers de demande d'aide financière, sur sollicitation de l'administré,
+
+- Recevoir sur astreinte ou sur demande, les personnes orientées par la direction du CCAS,
+- Aider à la constitution des dossiers de surendettement dans le respect de la convention signée avec l'IEOM,
+- Instruire les demandes d'obligations alimentaires provenant des institutions d'autres collectivités hors NC.
+
+#### Profil du candidat
+
+### Savoir / Connaissance/Diplôme exigé 
+- Être titulaire du diplôme d'Etat d'Assistant de Service Social ou de Conseiller en Économie Sociale et Familiale
+- Connaissance de la politique sociale en Nouvelle-Calédonie,
+- Connaissance des aides légales en Nouvelle-Calédonie,
+- Connaissance en matière de prise en charge de la dépendance et du handicap,
+- Connaissance du réseau partenarial pour la prise en charge de la personne âgée et en situation de handicap
+- Adaptation des modalités d'intervention en fonction de la population ciblée,
+- Connaissance du dispositif d'accompagnement au logement de la province Sud,
+- Connaissance du réseau partenarial autour de l'accompagnement au logement et des bailleurs sociaux,
+
+#### Savoir-faire 
+- Maîtrise des écrits professionnels
+- Techniques d'accompagnement personnalisé
+- Maîtrise de l'outil informatique
+- Maîtrise de la méthodologie de projet
+
+### Comportements professionnels 
+- Faire preuve d'écoute active
+- Être force de proposition auprès de son manager
+- **-** Capacité d'analyse et d'adaptabilité
+- Capacité à gérer son temps et à planifier ses activités
+- Discrétion et confidentialité
+- Esprit d'initiative
+- Capacité à travailler en équipe et en réseau
+- Disponibilité
+- Sens du service public
+- Respect des consignes et des directives de la hiérarchie
+
+#### Contact et informations complémentaires 
+*Madame Philipina SOEPARNO* .*tél : [📞 27.07.86](tel:270786) / mail : [philipina.soeparno@ville-noumea.nc](mailto:philipina.soeparno@ville-noumea.nc)*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, copie des 3 derniers EAE pour les candidats fonctionnaires, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire) précisant la référence de l'offre doivent parvenir :
+
+- Par voie postale à Madame la Présidente du Centre Communal d'Action Sociale de la Ville de Nouméa BP X3 98852 Nouméa Cedex
+- Ou directement au Centre Communal d'Action Sociale de la Ville de Nouméa 20 rue Gallieni / annexe Gallieni 1
+- Ou par mail à : [chrystelle.maurice@ville-noumea.nc](mailto:chrystelle.maurice@ville-noumea.nc)
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[IEOM]: Institut d'Émission d'Outre-Mer
+*[NC]: Nouvelle-Calédonie
+
+
+---
+
+# 26-0866 - 2 Gardiens de police municipale
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/917f08c4616aa77656189c65b23f6988/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0866 - 2 Gardiens de police municipale",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Dumbéa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.15,
+      "longitude": 166.45
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0866/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 2 Gardiens de police municipale
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0866/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi/Domaine :** Gardien de police
+
+municipale
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) : /**
+
+**Poste à pourvoir :** août 2026
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction :** Direction de la Police Municipale
+
+**Lieu de travail :** Dumbéa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Avec cette forte densification des infrastructures et de logements, les actions de tranquillité publique, de sécurité et bon ordre se sont diversifiées et multipliées ces dernières années. Il convient d'assurer également la tranquillité et le respect de l'environnement et des usages dans la partie Nord de la commune qui s'affiche comme le poumon vert de l'agglomération.
+
+Placé sous l'autorité du Directeur de la police municipale, l'agent a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Le directeur placé à sa tête agit également dans le cadre de ses compétences judiciaires, sous le contrôle du Procureur de la République.
+
+## Emploi RESPNC : Policier municipal
+
+## 🎯 Missions
+
+> Il développera une relation de proximité avec la population, il appliquera les directives en matière de bon ordre, de sûreté, de salubrité et de sécurité publique. Il exercera ses fonctions en brigade administrative, brigades de roulement, brigade de surveillance urbaine ou brigade VTT en fonction des nécessités de service.
+
+- **Activités principales :** Surveillance et prévention des désordres et incivilités sur la voie publique et le parc de Dumbéa ;
+  - Opérateur vidéo ;
+  - Recherche et constat des infractions relevant des pouvoirs de police du maire, ou du code de la sécurité intérieure (APJA) ;
+  - Rédaction d'écrits de service et comptes rendus d'activité ;
+  - Maintien du lien social ;
+  - Application de la police funéraire et de l'urbanisme.
+
+### Caractéristiques particulières de l'emploi 
+- Travail en régime hebdomadaire ou cyclique selon l'affection ;
+- Disponibilité ;
+- Titulaire du permis B ;
+- Compétences judiciaires (APJA) ;
+- Bonne condition physique ;
+- Aptitude médicale à l'exercice de l'emploi et au port d'armes de catégories B et D ;
+- La ville de DUMBEA demandera l'agrément et assermentation délivrés par le procureur de la République ainsi que l'agrément délivré par le Haut-commissaire ;
+- Casier judiciaire vierge ;
+- Visite médicale d'aptitude conforme aux statuts.
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Textes législatifs, règlements et codes relevant des compétences de l'activité ;
+- Code de la route ;
+- Mode de fonctionnement des institutions judiciaires et des procédures pénales ;
+
+- Code des communes ;
+- Code de la sécurité intérieure ;
+- Pouvoirs de police du maire ;
+- Méthodes et principes de surveillance des lieux sensibles ;
+- Techniques de résolution de conflits ;
+- Techniques de négociation et médiation ;
+- Acteurs et intervenants de la sécurité et de la prévention ;
+- Caractéristiques géographiques et socio-économiques du territoire de compétences ;
+- Bonne maîtrise de l'outil informatique et des logiciels Word et Excel sous Windows ;
+- Réussite au concours de gardien de police municipale ;
+- Avoir déjà suivi la formation initiale des agents de police municipale serait un plus.
+
+### Savoir-faire 
+- Appliquer les missions définies par la hiérarchie ;
+- Tenir des permanences au centre de vidéo protection ;
+- Analyser et gérer les situations ;
+- Réaliser des enquêtes administratives, établir et rédiger des rapports d'activités, des comptes rendus de missions d'îlotage et de prévention ;
+- Porter assistance à des usagers ;
+- Accueil du public ;
+- Sécurité des biens et des personnes.
+
+### Comportement professionnel 
+- Probité ;
+- Respect de la hiérarchie ;
+- Sens aigu de la discipline et du service public en général ;
+- Aptitude au travail en équipe ;
+- Disponibilité et forte motivation ;
+- Respect des mesures de sécurité, du cadre juridique et de la déontologie ;
+- Rigueur face à l'application des procédures ;
+- Diplomatie et qualités relationnelles ;
+- Sens de l'adaptation et de réactivité ;
+- Sens de l'observation et de l'écoute ;
+- Respect du devoir de réserve ;
+- Stabilité d'humeur, maîtrise de soi dans les situations d'urgence.
+
+**Contacts et informations complémentaires :**
+
+Olivier Le Beulze - directeur de la direction de la police municipale Tél :[📞 41.88.88](tel:418888) ou [olivier.lebeulze@ville-dumbea.nc](mailto:olivier.lebeulze@ville-dumbea.nc) .
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à la ville de Dumbéa par :
+
+- Voie postale : 66 avenue de la Vallée 98835 Dumbéa
+
+- Dépôt physique : Hôtel de Ville de Dumbéa - mail : [courrier@ville-dumbea.nc](mailto:courrier@ville-dumbea.nc)
+
+\*Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0867 - Directeur(trice) de cabinet
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/715a042a1cd5bb17b27e457707c54caa/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0867 - Directeur(trice) de cabinet",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Païta"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.1333,
+      "longitude": 166.35
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0867/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 Directeur(trice) de Cabinet
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0867/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Rédacteur de la filière
+
+administrative
+
+**Durée de résidence exigée pour le recrutement sur titre :** /
+
+**Poste à pourvoir :** immédiatement
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction :** Cabinet du Maire
+
+**Lieu de travail :** Mairie de Païta
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+Le Cabinet accompagne l'exécutif dans l'exercice quotidien de leurs mandats. Ce service est donc un acteur clef des liens entre les élus, la population, les services et les partenaires.
+
+A la tête d'une équipe de 4 personnes, le (la) Directeur (trice) de cabinet participe à la conduite stratégique du projet municipal en collaboration avec les élus et les services.
+
+**Emploi RESPNC :** Directeur
+
+Placé sous l'autorité de l'exécutif, le (la) Directeur (trice) de cabinet sera chargé des missions ci-après :
+
+- **Missions :** Assister le Maire dans l'ensemble de ses missions : gestion de l'agenda, suivi et traitement de courriers signalés, préparation des dossiers, gestion des représentations
+  - Traiter des affaires réservées et/ou des dossiers spécifiques (demandes d'administrés, rendez-vous, interventions, etc.),
+  - Assurer une veille sur les principaux dossiers faisant l'objet d'une actualité pour la commune, et le cas échéant, suivi de dossiers thématiques en lien avec les élus de secteur et les services municipaux,
+  - Coordonner et gérer les réunions de l'équipe municipale,
+  - Gérer l'organisation et le suivi des déplacements des autorités et personnalités : cérémonies officielles et réception, organisation d'évènements à la demande du Maire,
+  - Superviser la gestion des fichiers de contacts des partenaires et l'ensemble de l'équipe municipale,
+  - Représenter le Maire dans des réunions techniques,
+  - Exercer une fonction d'alerte : identifications des situations à enjeux, conseil sur les choix et orientations,
+  - Manager le service
+
+### Caractéristiques particulières de l'emploi 
+- Emploi directement rattaché à l'exécutif municipal ;
+- Travail en bureau avec déplacements sur tout le territoire ;
+- Horaires irréguliers (y compris les weekends), avec amplitude variable en fonction des obligations liées à la fonction.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Expérience du fonctionnement de la collectivité et des institutions de la Nouvelle-Calédonie ;
+- Connaissance de l'organisation politique, administrative et économique de la Nouvelle-Calédonie ;
+- Connaissance des procédures administratives ;
+- Connaissance de la méthodologie gestion de projets
+- Maîtrise de l'outil informatique ;
+- Maîtrise des techniques d'argumentations et communication ;
+- Expérience managériale souhaitée ;
+- Expérience significative sur un poste similaire exigée.
+
+### Savoir-faire 
+- Organiser et hiérarchiser l'information
+- Jouer un rôle de conseil et d'aide à la décision
+- Communiquer pour expliquer le sens de l'action
+- Gérer des situations d'urgence
+- Initier et conduire des partenariats
+
+### Comportement professionnel 
+- Force de proposition
+- Disponibilité
+- Sens relationnel
+- Sens critique
+- Réactivité
+- Sens de l'organisation
+- Sens de l'initiative
+- Capacité d'adaptation
+
+**Contact et informations complémentaires :**
+
+Monsieur le Maire de Paita – Tél : [📞 35.21.12](tel:352112)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures, adressées au Maire de la Ville de Païta, (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir au service du personnel par :
+
+- Voie postale : BP 7 – 98890 PAITA
+
+- Dépôt physique : Service du personnel – Mairie de Païta - VU 12, route de la Mairie
+
+- Mail : [✉️ recrutement@ville-paita.nc](mailto:recrutement@ville-paita.nc)
+
+- Fax : [📞 35 26 77](tel:352677)
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0868 - Animateur sportif
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fad05952d4975b0f05fe6bd46611466f/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0868 - Animateur sportif",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0868/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Animateur sportif
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0868/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Animateur socio-éducatif du cadre
+
+de la Jeunesse et sport
+
+**Durée de résidence exigée**
+
+**Pour le recrutement sur titre (1) :** au moins égale à 10
+
+ans
+
+**Direction :** Service Animations et sports (SAS)
+
+**Lieu de travail :** KONE
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+**Poste à pourvoir :** début juillet 2026
+
+# Détails de l'offre 
+**Emploi RESPNC : Animateur sportif**
+
+**Missions** : Placé sous l'autorité du Maire, sous la responsabilité du Secrétaire général,
+
+l'animateur sportif supervisera l'assistant RH et aura en charge l'organisation et l'encadrement des activités physiques, sportives et socio-éducatives auprès des différents publics de la commune (enfants, jeunes, associations scolaires et
+
+population)
+
+### L'agent retenu sera chargé 
+#### Activités principales 
+- D'encadrer et d'animer les activités physiques et sportives
+- D'organiser des animations sportives et culturelles communales
+- De concevoir des projets éducatifs, sportifs et citoyens
+- De participer à l'accueil périscolaire
+- De développer les pratiques sportives pour les jeunes et les associations locales
+- De participer à la valorisation des équipements sportifs municipaux
+- De veiller à la sécurité des publics et des équipements
+- D'assurer le lien avec les partenaires externes et les secteurs communaux concernés par les missions du service
+- D'assurer une présence sur le terrain
+
+#### Activités secondaires L'agent retenu sera également chargé 
+- De développer l'offre sportive communale
+- De participer à la cohésion sociale
+- De développer des partenariats locaux
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Connaissance des activités physiques et sportives
+- Connaissance des techniques d'animation
+- Connaissance des publics enfants et adolescents
+- Réglementation des APS et sécurité
+
+![](_page_0_Picture_38.jpeg)
+
+- Diplôme BPJEPS ou spécialité sportive souhaité
+- PSC1 ou diplôme de secourisme obligatoire
+- Permis B obligatoire
+
+#### Savoir-faire 
+- Concevoir et animer des séances sportives
+- Adapter les activités aux différents publics
+- Travailler en équipe et en partenariat
+- Organiser des évènements
+
+#### Comportement professionnel 
+- Sens du service public
+- Dynamisme et autonomie
+- Polyvalence
+- **-** Qualités relationnelles et esprit d'équipe
+
+- **Conditions d'exercice :** Horaires variables selon les activités
+  - Travail possible en soirée, week-ends et jours fériés
+  - Déplacements réguliers sur les sites communaux
+  - **-** Travail fréquent en extérieur
+  - Port et manutention de matériel sportif
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire vous pouvez contacter M. David MANUOHALALO, (SG) Tél. [📞 47.22.06](tel:472206)/mail : sg[@koohne.nc](mailto:sg@koohne.nc) ou Mme Monique
+
+TOURTE., Tel. [📞 47.22.06](tel:472206)/mail : [m.tourte@koohne.nc](mailto:m.tourte@koohne.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, copie du permis de conduire, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à la Mairie de KONE :
+
+- Voie postale : BP 6 – 98860 KONE
+
+- Dépôt physique (adresse) : 154 rue Pierre CHIVOT
+
+- Mail (adresse) : [grh@koohne.nc](mailto:grh@koohne.nc)
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[RH]: Ressources Humaines
+
+
+---
+
+# 26-0869 - Assistant(e) administratif(ve)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4b5fcca4543484064cef3b2966ba978b/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0869 - Assistant(e) administratif(ve)",
+  "description": "Domaine: Autres filières. Direction: Institut de formation des professions sanitaires et sociales",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de formation des professions sanitaires et sociales",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0869/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Assistant(e) administratif(ve)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** IFPSS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0869/SR du 2026-06-05**
+
+![](_page_0_Picture_2.jpeg)
+
+**Corps /Domaine :** Rédacteur **Direction :** IFPSS-NC
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre :** /
+
+**Poste à pourvoir** : **2026-07-28**
+
+**Lieu de travail :** 12, rue Juliette Bernard - Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+## Emploi RESPNC : Assistant administratif
+
+Sous l'autorité du directeur de l'établissement, l'assistant(e) administratif(ve) a pour missions de participer aux processus administratifs relatifs à la gestion des concours, des apprenants en formation, des stages et des examens de fin d'étude.
+
+- **Missions Gestion de l'accueil** : accueil physique et téléphonique ainsi que la prise en charge et l'orientation des usagers et partenaires
+  - **Gestion des concours** : préparations des concours, suivi des modalités d'inscription aux concours, rédaction et diffusion des courriers et des convocations diverses, gestion des bases de données des candidats et publipostage, préparation des dossiers de délibération des jurys.
+  - **Formation initiale** : constitution des dossiers administratifs des apprenants, rédaction et envoi de divers courriers aux apprenants, gestion et suivi des absences des apprenants, préparation des jurys d'examens
+  - **Gestion des intervenants extérieurs** : rédaction des lettres de commande et des contrats des intervenants, constitution des dossiers intervenants, gestion et suivi jusqu'à transmission à la comptabilité
+  - **Gestion des stages** : préparation des conventions de stage pour chaque structure d'accueil, gestion et suivi des conventions de stage avec les cadres concernés
+  - **Gestion des formations continues** : suivi administratif des sessions, contrat et conventions avec les prestataires et les personnes en formation
+  - **Polyvalence** : assurer les missions administratives (secrétariat, scolarité …)
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Connaissance de l'organisation des administrations et des institutions de la Nouvelle-Calédonie
+- Respect des procédures administratives (circuit DFPC, AGORA, SEFORA, Plateforme FIAF etc…)
+- Maîtrise des outils bureautiques (Word, Excel, Outlook, PowerPoint)
+
+### Savoir-faire 
+- Accueil et prise en charge du public
+- Rédaction et mise en forme de notes
+
+### Comportement professionnel 
+- Sens aigu du travail en équipe
+- Sens de l'organisation
+- Polyvalence Capacité d'adaptation
+- Autonomie
+- Rigueur et discrétion
+
+**Contact et informations complémentaires :**
+
+Pour tous renseignements complémentaires vous pouvez contacter
+
+Monsieur Hnassil DUHNARA, directeur de l'IFPSS-NC
+
+Mail : [hnassil.duhnara@ifpssnc.nc](mailto:hnassil.duhnara@ifpssnc.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire) précisant la référence de l'offre doivent parvenir à **l'Institut de Formation des Professions Sanitaires et Sociales de la Nouvelle-Calédonie,** à l'attention de **Monsieur Hnassil DUHNARA**, directeur de l'IFPSS-NC par :
+
+- Voie postale : 4 bis Boulevard VAUBAN, BP 587 98845 NOUMÉA Cedex
+- Dépôt physique : 4, bis Boulevard VAUBAN Centre ville NOUMEA
+- Mail à l'assistante de direction et RH : [harmony.bolo@ifpssnc.nc](mailto:harmony.bolo@ifpssnc.nc)
+- (1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+- (2) La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=ifpss)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[NC]: Nouvelle-Calédonie
+*[RH]: Ressources Humaines
+
+
+---
+
+# 26-0870 - Chef de garde
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/722866fee07db5954b9c95bd4a8940f6/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0870 - Chef de garde",
+  "description": "Domaine: Non-officiers. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Pouembout"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.1333,
+      "longitude": 164.8833
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0870/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Chef de garde
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Non-officiers  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0870/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** SERGENT à Adjudant-chef **Service :** Sécurité Publique
+
+**Statut :** Sapeur-pompier professionnel
+
+Catégorie : C **Lieu de travail** : Centre de secours de Pouembout et Koné
+
+(CSPK)
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** /
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Poste à pourvoir :** début juillet **Date limite de candidature :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La Commune de Koné met en place son Service de la Sécurité Publique, sous la responsabilité de l'Exécutif et du Secrétaire général.
+
+Placé sous l'autorité du Chef du Service de la Sécurité Publique, le chef de corps des sapeurs-pompiers de la Ville de KONE dirige le Centre de secours qui fonctionne 24h/24 et 365 jours par an. Le corps des sapeurs-pompiers de la Commune de KOOHNÊ est chargé de la protection des personnes, des biens et de l'environnement et notamment :
+
+- De la prévention et évaluation des risques de sécurité civile,
+- De la préparation des mesures de sauvegarde et l'organisation des moyens de secours,
+- De la lutte et de la protection contre les incendies,
+- Du secours aux personnes victimes d'accidents ou consécutifs à un sinistre ou présentant un risque particulier et de leur évacuation d'urgence,
+- De la lutte et de la protection contre les périls et les catastrophes.
+
+#### Emploi RESPNC : Chef de garde
+
+Le chef de garde, durant le temps de la garde, gère les moyens du centre d'incendie et de secours pour maintenir le potentiel opérationnel de l'équipe de garde.
+
+## 🎯 Missions
+
+- Gestion de la garde
+- Gestion et contrôle logistique du centre, de ses matériels et de ses équipements
+- Participation à la gestion des qualifications des personnels de garde
+- Animation et pilotage des équipes
+- **-** Participation au fonctionnement du Service de la Sécurité Publique
+- Gestion du standard et de l'accueil du centre opérationnel du CSPK
+- Participation au fonctionnement et à l'entretien du Centre
+- Commandement d'une intervention de secours
+- Commandement d'un véhicule spécialisé en fonction des unités de valeur de l'agent
+- Commandement d'un véhicule de secours et d'assistance aux victimes
+
+![](_page_0_Picture_32.jpeg)
+
+#### Caractéristiques particulières de L'emploi 
+- Travail fréquent en extérieur et par tous types de temps
+- Contrainte du lieu de résidence
+- Contrainte de poste : possibilité d'être chef d'agrès sur les engins les moins sollicités quotidiennement
+- Aptitude physique et médicale définie réglementairement
+- Horaires irrégulières (soirées, congés de fin de semaine, jours fériés) avec amplitude variable en fonction de l'organisation des astreintes de l'activité opérationnelle
+- Possession des unités de valeur de formation de chef de garde
+- Possession de l'unité de valeur de chef d'agrée tout engin (INC2)
+- Possession de l'unité de valeur de chef d'agrée feu de forêt (FDF 2)
+- Formateur aux premiers secours (PAE PS)
+- Conducteur PL tout terrain (COD2 PL),
+
+#### Profil du candidat
+
+#### Savoir / Connaissance/Diplôme exigé 
+- Caractéristiques et mises en œuvre des matériels du CSPK
+- Exercices d'entraînement physique et technique
+- Réglementation hygiène, sécurité et formation
+- Coordination SPS (Sécurité, Protection de la Santé)
+- Techniques de management
+- Règlement intérieur du CSPK
+- Cadre juridique de la responsabilité civile et pénale
+- Instances et procédures de décision du CSPK
+- Réglementations (guide national de référence, règlement opérationnel, règlement intérieur, plan d'intervention …)
+- Procédures administratives
+- Bonne connaissance des services transversaux, tels que SAMU, gendarmerie, garde champêtre
+- Bonnes connaissances de la commune
+- Permis de conduire B, permis C souhaité
+
+#### Savoir-faire 
+- Conseiller et alerter les instances et les responsables sur un risque technique et matériel particulier
+- Réaliser un diagnostic de la conformité des équipements et des matériels
+- Optimiser la gestion d'un parc ou d'un équipement
+- Planifier et contrôler la réalisation des approvisionnements et des interventions sur les équipements
+- Contrôler l'application des normes d'hygiène et de sécurité
+- Encadrer et animer une équipe
+- Maintenir le niveau opérationnel de l'équipe de garde et des matériels
+- Planifier et contrôler la réalisation des approvisionnements et des interventions sur les équipements et matériels
+- Participer à la mise en place et à l'animation d'un système de contrôle adapté au service
+- Proposer et participer aux améliorations pour le fonctionnement du Centre et veiller à l'application des orientations et décisions
+- Elaborer les règlements et procédures d'utilisation des équipements avec les responsables et veiller à leur application
+- Coordonner l'activité sportive
+
+## Comportement professionnel 
+- Bon relationnel et sens aigu de l'esprit de corps
+- Rigueur et sens de l'organisation
+- Maîtrise de soi dans les situations difficiles
+- Sens de l'anticipation
+- Autonomie dans l'organisation du travail
+- Disponibilité
+- Sens aigu de la discipline
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire vous pouvez contacter MR MANUOHALALO David Secrétaire Générale tél [📞 47 22 06](tel:472206) / mail : [sg@koohne.nc](mailto:sg@koohne.nc) ou
+
+M. OYE Willy tél : [📞 78-29-54](tel:782954), [📞 84-38-22](tel:843822) / mail [pompiers@koohne.nc](mailto:pompiers@koohne.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à la Mairie de Koné par :
+
+- Voie postale : BP 6 – 98860 KONE
+
+- Dépôt physique (adresse) : 154 rue Pierre CHIVOT
+
+- Mail (adresse) : grh[@koohne.nc](mailto:grh@koohne.nc)
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+### *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Non-officiers](../#non-officiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[PS]: Province Sud
+
+
+---
+
+# 26-0871 - Directeur(trice) des services techniques
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0a6fbfbf4ad225ba081dadba1367cf92/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0871 - Directeur(trice) des services techniques",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Païta"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.1333,
+      "longitude": 166.35
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0871/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 Directeur / Directrice des Services Techniques
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0871/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Emploi fonctionnel **Direction : Services techniques**
+
+**Poste à pourvoir :** immédiatement **Lieu de travail :** Mairie de Païta
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre
+
+L'agglomération du Grand Nouméa a connu un ralentissement démographique ces dernières années. Païta a toutefois continué de croître avec une population qui devrait atteindre les 30 000 habitants d'ici quelques années. Grande de 700 km², la ville de Païta est techniquement confrontée à des problématiques urbaines comme rurales, sans oublier la grande et riche façade maritime et l'aéroport international qu'elle accueille.
+
+Placé sous l'autorité hiérarchique directe du secrétariat général, le directeur des services techniques dirige et coordonne l'action des services techniques. Il pilote les projets techniques (routes, bâtiments, environnements, déchets…) de la ville en veillant au respect des coûts, des délais et de la qualité. Il gère les ressources humaines et financières qui y sont rattachées.
+
+- **Missions :** Mise en œuvre de la politique de la Ville, en matière :
+  - D'infrastructures, d'aménagements et d'équipements publics ;
+  - D'entretien et de maintenance des espaces et équipements publics ;
+  - Management des services techniques de la ville de Païta ;
+  - Analyse des besoins de la ville en termes d'infrastructures et de réseaux ;
+  - Planification et mise en œuvre de la programmation pluriannuelle des investissements de la ville, des activités d'exploitation et de suivi des infrastructures ;
+  - Mise en œuvre opérationnelle et suivi des réalisations décidées par l'exécutif municipal ;
+  - Assistance du Secrétaire général dans l'élaboration et la préparation des décisions à soumettre au Maire et aux élus ;
+  - Gestion des relations avec les opérateurs, les prestataires et les partenaires institutionnels techniques de la commune ;
+  - Evaluation des effets des politiques publiques.
+
+### Caractéristique particulières de l'emploi 
+Excellente compréhension et maîtrise du contexte local ; Respect des obligations de discrétion et de confidentialité ; Participation aux astreintes techniques ;
+
+Horaires irréguliers, avec amplitude variable en fonction des obligations du service public.
+
+## Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Diplôme d'ingénieur en travaux publics exigé
+- Expérience minimum de trois ans exigée sur un poste similaire en collectivités locales ou établissements publics;
+- Management stratégique et opérationnel ;
+- Processus de décision des exécutifs locaux ;
+- Connaissance règlementaires, juridiques et financières ; (CMP, code des Domaines, statuts des collectivités, budgets…)
+- Connaissance des techniques du BTP ;
+- Maîtrise des outils informatiques.
+
+## Savoir-faire 
+- Forte aptitude à la gestion d'équipe ;
+- Qualités relationnelles et rédactionnelles ;
+- Expérience de fonctions analogues. (Notamment du management d'une équipe et de la gestion de projets)
+
+#### Comportement professionnel 
+- Esprit d'initiative ;
+- Fortes capacités d'organisation et de négociation ;
+- Rigueur ;
+- Esprit de synthèse et d'analyse ;
+- Grande capacité d'adaptation face à la multiplicité des tâches ;
+- Savoir gérer la pression et le stress ;
+- Grande discrétion ;
+- Très grande disponibilité.
+
+### Contact et informations complémentaires 
+Monsieur Christophe LEFEVRE, secrétaire général adjoint – Tél : [📞 35 21 13](tel:352113)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures, adressées au Maire de la Ville de Païta, (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire) précisant la référence de l'offre doivent parvenir au service du personnel, par :
+
+- Voie postale : BP 7 – 98890 PAITA
+
+- Dépôt physique (adresse) : VU 12, route de la Mairie
+
+- Mail (adresse) : [recrutement@ville-paita.nc](mailto:recrutement@ville-paita.nc)
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0872 - Garde champêtre
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/93c493638e7e836d46c7d74dfc80839c/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0872 - Garde champêtre",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Dumbéa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.15,
+      "longitude": 166.45
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0872/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 Garde champêtre
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0872/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou cadre d'emploi/domaine :** Agent contractuel de droit public
+
+grille 2
+
+**Durée de résidence exigée pour le recrutement sur titre : /**
+
+**Poste à pourvoir :** août 2026
+
+![](_page_0_Picture_7.jpeg)
+
+**Direction de la police municipale**
+
+**Lieu de travail :** Dumbéa
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Avec cette forte densification des infrastructures et de logements, les actions de tranquillité publique, de sécurité et bon ordre se sont diversifiées et multipliées ces dernières années. Il convient d'assurer également la tranquillité et le respect de l'environnement et des usages dans la partie Nord de la commune qui s'affiche comme le poumon vert de l'agglomération.
+
+Placé sous l'autorité du Directeur de la police municipale a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Le garde champêtre assure l'ensemble de ces missions en renfort aux brigades, selon un planning bien spécifique.
+
+**Emploi RESPNC : Garde champêtre**
+
+## 🎯 Missions
+
+Le garde champêtre exécute des missions de prévention, de surveillance du bon ordre, de tranquillité, de la sécurité et de la salubrité publique. Il recherche et constate les infractions aux lois et règlements dans sa compétence.
+
+Il développera une relation de proximité avec la population.
+
+Il exercera ses fonctions en brigade administrative ou en brigade de voie publique de jour ou de nuit ou en brigade VTT ou en brigade de surveillance urbaine ou en milieu rural et régulièrement au parc de la DUMBEA en fonction des nécessités de service.
+
+**Activités principales :**
+
+- Surveillance et prévention des désordres et incivilités sur la voie publique et le parc de Dumbéa,
+- Opérateur vidéo,
+- Recherche et constat des infractions relevant des pouvoirs de police du maire, ou du code de la sécurité intérieure (APJA)
+- Rédaction d'écrits de service et comptes rendus d'activité,
+- Maintien du lien social,
+- Application de la police funéraire et de l'urbanisme.
+
+**Caractéristiques particulières de l'emploi :**
+
+- Travail en régime hebdomadaire ou cyclique selon l'affectation ;
+- Disponibilité ;
+
+- Titulaire du permis B ;
+- Compétences judiciaires APJA ;
+- Bonne condition physique ;
+- Aptitude médicale à l'exercice de l'emploi et au port d'armes de catégories B et D ;
+- Agrément délivré par le Procureur de la République ;
+- Casier judiciaire vierge ;
+- Visite médicale d'aptitude conforme aux statuts.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Textes législatifs, règlements et codes relevant des compétences de l'activité ;
+- Méthodes et principes de surveillance des lieux sensibles ;
+- Techniques de résolution de conflits ;
+- Techniques de négociation et médiation ;
+- -Caractéristiques géographiques et socio-économiques du territoire de compétences ;
+- Pouvoirs de police du Maire et attributions des administrations ;
+- Code de la route ;
+- Acteurs et intervenants de la sécurité et de la prévention ;
+- Code de fonctionnement des institutions judiciaires et des procédures pénales ;
+- Techniques de neutralisation des armes et animaux dangereux ;
+- Bonne maîtrise de l'outil informatique et des logiciels Word et Excel sous Windows ;
+- Avoir déjà suivi la formation de gardes champêtres serait un plus.
+
+#### Savoir-faire 
+- Appliquer les missions définies par la hiérarchie ;
+- Reporting, statistiques et tenue des tableaux de bord ;
+- Tenir des permanences au centre de vidéo protection ;
+- Veiller au bon déroulement des manifestations et des cérémonies ;
+- Analyser et gérer les situations ;
+- Réaliser des enquêtes administratives, établir et rédiger des rapports d'activités, des comptes rendus de missions d'îlotage et de prévention ;
+- Porter assistance à des usagers ;
+- Gérer le service des objets trouvés ;
+- Veiller à l'application des règles de sécurité publique ;
+- Sécurité des biens et des personnes.
+
+## Comportement professionnel 
+- Respect de la hiérarchie ;
+- Sens aigu de la discipline et du service public en général ;
+- Aptitude au travail en équipe ;
+- Disponibilité et forte motivation ;
+- Respect des mesures de sécurité, du cadre juridique et de la déontologie ;
+- Rigueur face à l'application des procédures ;
+- Diplomatie ;
+- Sens de l'adaptation et de réactivité ;
+- Sens de l'observation et de l'écoute ;
+- Stabilité d'humeur, maîtrise de soi dans les situations d'urgence.
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à la ville de Dumbéa par :
+
+- Voie postale : 66 avenue de la vallée 98835 Dumbéa - dépôt physique : 66 avenue de la vallée 98835 Dumbéa
+
+- Mail : [✉️ courrier@ville-dumbea.nc](mailto:courrier@ville-dumbea.nc)
+
+\*Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-0873 - Responsable du bureau des logements
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a6e65559e8193e870acfc982aabe3949/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0873 - Responsable du bureau des logements",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0873/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Responsable du bureau des logements
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0873/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Attaché d'administration ou ingénieur 1er ou 2ème grade
+
+domaine équipement
+
+ans
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** au moins égale à 10
+
+**Poste à pourvoir :** 2026-09-02
+
+# Direction de l'Aménagement de l'Équipement et des Moyens
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+Rattachée au pôle transition écologique la direction de l'aménagement, de l'équipement et des moyens de la province Sud (DAEM) met en œuvre l'ensemble des politiques provinciales sur les champs de l'aménagement du territoire et de l'urbanisme, de la protection et de la mise en valeur du foncier provincial, tant public que privé, du développement et de l'entretien des infrastructures de transport routières, maritimes et aéronautiques. Pour le compte de l'ensemble des directions provinciales, elle construit et assure le gros entretien des bâtiments accueillant les différents services publics provinciaux, et apporte un soutien logistique au travers d'une gestion des moyens centralisée.
+
+**Emploi RESPNC : Gestionnaire du domaine**
+
+## 🎯 Missions
+
+Plus exactement, le/la candidat(e) retenu(e) sera chargé(e) :
+
+- En management opérationnel :
+- D'encadrer ses équipes et de coordonner l'activité du bureau ;
+- De fixer les objectifs opérationnels des agents placés sous sa responsabilité et d'en assurer le suivi ;
+- D'être responsable de l'expertise de ses secteurs pour la collectivité ;
+- D'être force de propositions pour le chef de service ;
+- D'alerter et de conseiller dans ses domaines d'intervention.
+- En gestion des projets et de dossiers :
+- De garantir la qualité technique et administrative des dossiers transmis ;
+- D'appliquer et de faire appliquer les procédures ;
+- D'assurer la gestion contractuelle des contrats confiés (marchés, contrats, conventions, transactions, commandes, etc.) ;
+- De participer à la préparation du budget (dépenses, recettes) et au suivi de son exécution ;
+- D'instruire les dossiers qui lui sont confiés avec diligence et neutralité dans le respect des délais fixés ;
+- De renseigner des outils de pilotage (RAM, TDB, indicateurs) et d'évaluer l'activité du bureau en produisant les indicateurs statistiques ;
+- De contribuer à la mise à jour et à l'évolution des outils du bureau, ainsi qu'au contrôle des données au sein de l'application PATIMMO ;
+
+- De piloter l'amélioration des processus, des procédures et des circuits du bureau ;
+- De rédiger des projets de délibérations et des actes.
+
+Il/elle aura également, pour missions secondaires :
+
+- D'assurer la veille réglementaire dans son domaine d'activité ;
+- D'assister et de conseiller les services dans son domaine d'activité ;
+- De participer à l'amélioration des procédures et des documents types du service ;
+- De participer à des groupes de travail transversaux ;
+- De développer et de gérer les relations partenariales.
+
+## Caractéristiques particulières de l'emploi 
+# /
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Formation administrative
+- Connaissances des normes en bâtiment et génie civil
+- Connaissances de la réglementation des marchés publics (délibérations et cahier des clauses administratives générales)
+- Maîtrise des outils de diagnostic et de gestion du patrimoine
+- Maîtrise des outils de pilotage opérationnel des activités (tableaux de bord) et de planification de projets
+- Connaissances en comptabilité publique
+- Connaissances en droit de la construction et en droit domanial
+- Environnement administratif, institutionnel et politique
+- Système d'information géographique
+- Connaissances des principes de la démarche haute qualité environnementale (HQE)
+
+#### Savoir-faire 
+- Manager des équipes et des projets par objectifs
+- Rédiger des rapports de présentation, de synthèse et d'activités
+- Définir des objectifs et des missions prioritaires
+- Organiser et optimiser des procédures administratives
+- Identifier, suivre et contrôler des indicateurs et ratios
+- Appliquer et veiller au respect des normes et procédures
+- Planifier, maîtriser les délais et anticiper les échéances
+- S'adapter aux évolutions (réglementation applicable, outils informatiques et organisation du service)
+
+## Comportement professionnel 
+- Autonomie
+- Rigueur
+- Sens de l'organisation
+- Sens des responsabilités
+- Sens de la communication
+- Sens du travail en équipe
+- Bon relationnel
+- Adaptabilité
+- Qualités d'analyse et de synthèse
+- Force de propositions
+- Disponibilité
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Emmanuelle Duquesne – Cheffe de service - Tél. : [📞 20 41 30](tel:204130) / e-mail :
+
+[✉️ emmanuelle.duquesne@province-sud.nc](mailto:emmanuelle.duquesne@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
+
+(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0874 - Chargé d'affaires au bureau ouvrages d'art
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b1eeebf860b92a627d963e9b3f1f80c9/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0874 - Chargé d'affaires au bureau ouvrages d'art",
+  "description": "Domaine: Equipement. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0874/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Chargé d'affaires au bureau ouvrages d'art
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0874/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Technicien 2ème
+
+ou 3ème grade - domaine équipement
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** 2026-07-01
+
+**Direction de l'Aménagement de l'Équipement et des Moyens**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+Au sein de la direction de l'aménagement, de l'équipement et des moyens de la province Sud (DAEM), rattachée au pôle transition écologique, le service de la subdivision Sud est un service opérationnel en charge de la gestion administrative et technique du réseau routier provincial Sud, sur le secteur Grand Nouméa jusqu'à Yaté, avec notamment :
+
+- La gestion du domaine public routier ;
+- L'entretien et l'exploitation du réseau routier provincial ;
+- La maîtrise d'œuvre travaux sur le réseau routier provincial ;
+- L'exploitation et l'entretien des ouvrages maritimes (wharfs) de la province Sud.
+
+Le service compte une vingtaine d'agents répartis en 5 bureaux. Il exécute annuellement environ 250 millions de travaux d'exploitation et près de 2 milliards de travaux d'investissement.
+
+#### Emploi RESPNC : Responsable d'exploitation et conducteur de travaux en infrastructures
+
+## 🎯 Missions
+
+- Dans le domaine des ouvrages d'art sur le réseau routier provincial Sud (réparations, mise en conformité, démolition, reconstruction),
+- Dans le domaine des ouvrages maritimes (wharfs),
+- Dans le domaine des infrastructures routières et des réseaux.
+
+A ce titre, il aura pour activités principales :
+
+- D'analyser et d'assimiler les dossiers techniques,
+- D'élaborer et de suivre les dossiers de consultation des entreprises (commandes/contrats/marchés),
+- D'élaborer le planning d'opérations des travaux et des délais et prévisions de consommation de crédit,
+- De coordonner l'exécution des travaux,
+- De représenter le maître d'œuvre aux réunions de chantier,
+- De rédiger les comptes rendus, les métrés contradictoires de travaux et le suivi administratif de chantiers,
+- De traiter les situations et les factures,
+- De prescrire et de vérifier la signalisation et le respect des clauses de prévention et de sécurité sur les chantiers,
+- De réceptionner les travaux, de contrôler les dossiers de récolement,
+- D'évaluer et de décider du traitement des principales dégradations,
+- De coordonner les interventions d'urgence,
+- De suppléer le responsable de bureau en son absence.
+
+A titre secondaire et suivant l'activité du service, l'agent pourra également être chargé du suivi des marchés à commande relatifs à l'entretien/exploitation des ouvrages d'art (entretien courant et spécifique).
+
+![](_page_0_Picture_40.jpeg)
+
+### Caractéristiques particulières de l'emploi 
+Le candidat retenu pourra, suivant les chantiers affectés au bureau, être amené à travailler de nuit et/ou le week-end. Il pourra également être amené à assurer les permanences de service (astreintes cyclonique et week-end).
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme homologué de niveau III (BTS, DEUST, DUT…) dans le domaine du BTP
+- Connaissances dans le domaine des infrastructures routières (y compris ouvrages d'art)
+- Connaissances des marchés publics
+- Titulaire du permis B
+
+#### Savoir-faire 
+- Expérience professionnelle de 5 ans dans le domaine des infrastructures routières (maîtrise d'œuvre)
+- Expérience professionnelle dans les travaux en ouvrages d'art serait appréciée
+- Maîtrise des outils informatiques et techniques (Excel, Word, Autocad)
+- Méthodes et techniques de programmation opérationnelle
+- Maîtrise de la rédaction des rapports et des comptes rendus
+
+#### Comportement professionnel 
+- Qualités relationnelles
+- Aptitude au travail en équipe
+- Sens des responsabilités
+- Sens de l'organisation
+- Disponibilité (travaux de nuit / week-end / astreintes)
+- Réactivité
+- Autonomie
+- Force de propositions
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. Guillaume DERQUENNES – Chef de la subdivision Sud - Tél. : [📞 20 40 00](tel:204000) / e-mail : [✉️ guillaume.derquennes@province-sud.nc](mailto:guillaume.derquennes@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+*[DEUST]: Diplôme d'Études Universitaires Scientifiques et Techniques
+*[DUT]: Diplôme Universitaire de Technologie
+*[BTS]: Brevet de Technicien Supérieur
+
+
+---
+
+# 26-0875 - Chargé(e) d'études juridiques
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/c6879d220d0262d96a52d9c9db1233fd/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0875 - Chargé(e) d'études juridiques",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0875/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Chargé(e) d'études juridiques
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0875/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Attaché
+
+d'administration
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** immédiatement
+
+![](_page_0_Picture_9.jpeg)
+
+## Direction des Affaires Juridiques et Institutionnelles
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+Rattachée au pôle fonctionnel, la direction des affaires juridiques et institutionnelles de la province Sud (DAJI) assure une mission de conseil juridique auprès de l'Exécutif et de l'administration pour sécuriser ses actions, et elle défend les intérêts de la province Sud devant les juridictions.
+
+Elle est en charge de l'organisation et du bon déroulement de toute l'activité institutionnelle provinciale, elle assure la coordination des dossiers entre les directions de la Province, le secrétariat général, le cabinet de la Présidence et l'Exécutif.
+
+Elle supervise l'organisation des réunions de commissions intérieures et des séances de l'Assemblée de la province Sud et de son bureau (BAPS).
+
+Elle assure également la gestion des moyens du centre administratif de la province Sud, ainsi que l'accueil professionnalisé du public pour le compte des différentes directions provinciales.
+
+Enfin, la DAJI instruit les demandes relatives aux débits de boissons, aux groupements de droit particulier local (terres coutumières).
+
+Le service des affaires juridiques et de la réglementation (SAJR) a pour missions :
+
+- D'apporter un conseil juridique auprès de l'exécutif, du secrétariat général et des directions de la province Sud dans l'ensemble de leurs sollicitations et de leurs projets ;
+- De représenter et de défendre les intérêts de la province Sud devant les juridictions, ainsi que d'apporter un accompagnement dans le traitement des dossiers pré-contentieux ou l'instruction des procédures de transaction ;
+- D'accompagner et de conseiller sur le plan juridique les directions instructrices dans l'élaboration des projets de réglementation de la province Sud et d'élaborer directement ceux qui lui sont confiés ;
+- D'inventorier, de consolider et de diffuser la réglementation provinciale.
+
+## Emploi RESPNC : Chargé d'études juridiques
+
+## 🎯 Missions
+
+- De dispenser des conseils juridiques par la réalisation d'études juridiques, la rédaction de notes administratives et la participation à des réunions ;
+- De participer, en lien avec les directions concernées, à l'élaboration et au contrôle des projets de décision réglementaire ou individuelle de la province Sud, ainsi que des projets de convention ;
+- D'assurer une veille juridique et jurisprudentielle ;
+- De réaliser la consolidation de la réglementation provinciale ;
+- De gérer le progiciel JURIBASE et le site internet JURIBASE WEB en mettant à jour l'ensemble des données disponibles (réglementation provinciale, travaux préparatoires, jurisprudence…).
+
+Le/la chargé(e) d'études juridiques a pour missions secondaires :
+
+- D'instruire et de suivre les affaires contentieuses, éventuellement en lien avec des avocats, de rédiger les mémoires en défense ou en demande de la province Sud devant les juridictions administratives, judiciaires et financières, ainsi que de participer aux éventuelles discussions tendant à mettre fin à un différend par voie transactionnelle et, le cas échéant, formaliser l'accord ;
+
+- De piloter des projets structurants visant à optimiser l'efficacité opérationnelle et la performance du service, notamment via l'intégration de solutions d'intelligence artificielle.
+
+## Caractéristiques particulières de l'emploi 
+## /
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Solide formation juridique notamment en droit administratif et en droit du contentieux administratif
+- Maîtrise des règles relatives aux bonnes pratiques de légistique et d'interprétation du droit
+- Parfaite maîtrise de la langue française
+- Parfaite connaissance de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie
+
+### Savoir-faire 
+- Excellente maîtrise de la rédaction administrative et juridique (courriers, notes, requêtes, mémoires en défense, rapports, projets de texte, etc.)
+- Rigueur de l'analyse juridique
+- Maîtrise de l'outil informatique
+
+## Comportement professionnel 
+- Aptitude à travailler à flux tendu
+- Esprit d'analyse et de synthèse
+- Esprit d'équipe
+- Prise d'initiatives
+- Qualités relationnelles
+- Organisation
+- Grande disponibilité
+- Discrétion professionnelle
+- Autonomie
+- Capacité d'adaptation
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Mathéa Rossignol – Cheffe de service adjointe - Tél. : [📞 20 31 71](tel:203171) / e-mail :
+
+[✉️ mathea.rossignol@province-sud.nc](mailto:mathea.rossignol@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
+
+(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - ([www.province-sud.nc\)](http://www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0876 - Conseiller(ère) à l'emploi et au logement
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/db42a1ccab0b27ff039832cf34397126/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0876 - Conseiller(ère) à l'emploi et au logement",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "La Foa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.7167,
+      "longitude": 165.8333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0876/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Conseiller(ère) à l'emploi et au logement
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0876/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Rédacteur
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** Susceptible d'être vacant
+
+**Direction de l'Emploi et du Logement**
+
+**Lieu de travail : La Foa**
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+La direction de l'emploi et du logement de la province Sud (DEL), rattachée au pôle développement et épanouissement de la personne, est chargée de la mise en œuvre de la politique publique en matière d'emploi, de logement et d'insertion de la province Sud.
+
+### A ce titre, la DEL est amenée 
+- À assurer la réception, l'information et l'orientation des demandeurs de logement et d'emploi, tout en coordonnant pour ces derniers la relation avec les entreprises ;
+- À élaborer et à mettre en œuvre les stratégies en matière d'habitat, d'emploi et d'insertion ;
+- À mettre en œuvre les diverses mesures d'aides à l'emploi et à soutenir la production et la réhabilitation de logements ;
+- À mettre en œuvre un accompagnement social spécifique pour l'accès au logement des familles modestes et pour leur maintien dans les lieux, en lien avec les partenaires de l'action sociale.
+
+### Emploi RESPNC : Conseiller à l'emploi et à l'insertion
+
+## 🎯 Missions
+
+Le/la candidat(e) retenu(e) sera chargé(e) :
+
+- Du traitement des demandes d'emploi et de logement :
+- \* renseigner, conseiller et orienter le public (accueil physique et numérique) ;
+- \* prendre en charge, saisir et actualiser les dossiers des demandeurs d'emploi et de logement en province Sud ;
+- \* informer et conseiller les demandeurs sur les dispositifs provinciaux relatifs à l'emploi et au logement ;
+- \* conseiller et proposer des actions d'accompagnement vers l'emploi, mobiliser les services adaptés à la situation du public ;
+- \* assurer le suivi de ces demandeurs, contribuer à leur placement et à la satisfaction des besoins en recrutement des entreprises ;
+- \* conseiller les demandeurs de logement en matière d'accession à la propriété ;
+- \* instruire les dossiers de logement dans le respect des procédures internes ;
+- \* assurer une coordination avec les différents partenaires (opérateurs sociaux notamment) en cas de besoin sur les dossiers de demande de logement.
+- Du traitement des demandes d'emploi :
+- \* définir avec les demandeurs leurs besoins en lien avec leur projet professionnel ;
+- \* informer, conseiller sur le marché du travail et la méthodologie de recherche d'emploi ;
+- \* assurer un suivi personnalisé des demandeurs jusqu'au placement ;
+- \* mettre en relation les demandeurs d'emploi avec les employeurs.
+
+![](_page_0_Picture_35.jpeg)
+
+- Du traitement des offres d'emploi :
+- \* enregistrer et gérer un portefeuille d'offres d'emploi ;
+- \* définir avec les employeurs leurs besoins en personnel ;
+- \* conseiller, proposer les services et les outils adaptés au recrutement (mesures d'aide à l'emploi, aide au recrutement, méthode de recrutement par simulation (MRS), tests, évaluation en milieu de travail (EMT), etc.) et accompagner l'employeur dans son opération de recrutement ;
+- \* identifier, sélectionner et proposer des candidats.
+- De la prospection des entreprises :
+- \* développer un réseau professionnel ;
+- \* anticiper sur les futurs emplois et les besoins en recrutement ;
+- \* négocier les critères des profils de poste ;
+- \* effectuer des analyses de poste.
+
+### Caractéristiques particulières de l'emploi 
+Le/la candidat(e) retenu(e) devra rapidement être polyvalent(e) en emploi et en logement afin d'assurer la réception de tous les demandeurs.
+
+De plus, l'agent réalisera la primo-information en matière d'emploi et de logement.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Titulaire au minimum d'un baccalauréat
+- Bonnes connaissances des enjeux, du fonctionnement et des acteurs du marché local de l'habitat
+- Bonnes connaissances du principe du fichier commun, de la demande et du logement social
+- Bonnes connaissances du marché du travail, de l'économie calédonienne et de ses entreprises
+- Bonnes connaissances du droit du travail
+- Bonnes connaissances des techniques commerciales et prospectives vivement souhaitées
+- Titulaire du permis de conduire B
+
+### Savoir-faire 
+- Bonnes expériences dans le domaine de l'insertion professionnelle et du logement
+- Maîtrise des techniques de réception et d'accueil
+- Maîtrise des techniques d'entretien professionnel serait un plus
+- Maîtrise des logiciels bureautiques et informatiques (Word, Excel et Internet)
+- Maîtrise des dispositifs liés à l'emploi, l'insertion professionnelle et au logement
+- Capacités à s'adapter à l'évolution des procédures
+- Capacités à accueillir et à prendre en charge des publics variés
+- Capacités à gérer d'éventuelles situations d'accueil difficiles
+- Aisance à l'oral et à l'écrit
+
+## Comportement professionnel 
+- Capacité d'adaptation
+- Organisation du travail et sens des priorités
+- Prise d'initiatives
+- Travail en équipe
+- Sens du service public
+- Disponibilité
+- Respect de la confidentialité des données
+- Bon relationnel
+- Bonne qualité d'écoute
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Jeannine VALAGATUKEHE – Chef du service de l'emploi et du logement de l'Agglomération et de l'Intérieur - Tél. : [📞 20.36.91](tel:203691) / e-mail : [✉️ jeannine.valagatukehe@province-sud.nc](mailto:jeannine.valagatukehe@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0877 - Gestionnaire de site web et graphiste éditorial
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6a27e1c124544e231ec0fc5b0894a254/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0877 - Gestionnaire de site web et graphiste éditorial",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0877/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Gestionnaire de site web et graphiste éditorial
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0877/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Rédacteur **Direction du Système d'Information et du Numérique**
+
+**Durée de résidence exigée pour le recrutement sur titre (1):** /
+
+**Poste à pourvoir :** 2026-12-01
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.
+
+La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.
+
+La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services :
+
+- CDS : Centre De Services (10 personnes)
+- SIL : Service des Infrastructures et de la Logistique (11 personnes)
+- DEVOPS : Service des Développements et des Opérations (14 personnes)
+- POP : Service de la Performance Opérationnelle (12 personnes)
+
+La direction est composée d'un directeur et d'une directrice adjointe.
+
+Les principaux interlocuteurs du gestionnaire de site web et graphiste éditorial sont :
+
+- Le chef de service POP
+- Le chef projet digital
+- Les équipes opérationnelles DEVOPS et SIL lors des développements et déploiements
+- La direction (directeur + directrice adjointe)
+
+**Emploi RESPNC : Webmestre**
+
+## 🎯 Missions
+
+- En qualité de gestionnaire de site web et développeur de contenu, vous façonnerez l'expérience numérique de nos usagers dans le cadre de la modernisation et de l'innovation du site internet de la province Sud ;
+- En qualité de graphiste éditorial(e) pour le magazine Sudmag, vous apporterez une touche artistique à notre publication emblématique.
+
+En tant que gestionnaire de site web et développeur de contenu, votre mission principale sera de gérer de manière globale le site internet de la province Sud. Vous devrez à la fois administrer et développer le site, ainsi que gérer le contenu pour garantir une expérience utilisateur optimale.
+
+A ce titre, vous aurez pour missions :
+
+- D'assurer la gestion et la maintenance technique du site web Province Sud ;
+- De garantir le bon fonctionnement du site et de gérer les mises à jour, les sauvegardes et les correctifs nécessaires ;
+- De concevoir et de développer de nouvelles fonctionnalités en utilisant des
+
+![](_page_0_Picture_33.jpeg)
+
+langages de programmation tels que HTML, CSS, JavaScript, PHP, etc. ;
+
+- De gérer les contenus (création, modification et publication en respectant les consignes éditoriales et graphiques) ;
+- D'optimiser le référencement naturel du site web afin d'améliorer sa visibilité sur les moteurs de recherche et d'augmenter son trafic ;
+- D'accompagner les directions opérationnelles dans l'utilisation du Content Management System (CMS) et l'ajout de contenu.
+
+En tant que graphiste éditorial(e) pour le magazine Sudmag, vous serez responsable de la création visuelle, de la mise en page et de la conception graphique du magazine.
+
+A ce titre, vous aurez pour missions :
+
+- De créer et de réaliser la mise en page et le montage du magazine de sa conception initiale jusqu'aux différents livrables ;
+- De collaborer avec les rédacteurs, les photographes, les illustrateurs et l'équipe éditoriale pour garantir le respect des objectifs éditoriaux et esthétiques ;
+- De développer des gabarits et des modèles pour assurer une cohérence visuelle, ainsi que de faire évoluer la qualité d'un numéro à l'autre ;
+- D'effectuer une relecture minutieuse de la mise en page pour détecter et corriger les erreurs, les fautes de frappe, les problèmes de césure ou de justification du texte.
+
+#### Caractéristiques particulières de l'emploi 
+Pourquoi nous rejoindre ?
+
+- Pour intégrer une équipe dynamique au sein d'une collectivité en pleine transformation numérique
+- Pour participer à des projets innovants ayant un impact réel sur le service public
+- Pour bénéficier d'opportunités de formation continue et de développement professionnel
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Maîtrise des langages de développement web tels que HTML, CSS, JavaScript, et des frameworks associés
+- Maîtrise des logiciels de conception graphique tels qu'Adobe Creative Suite (Photoshop, InDesign, Illustrator) ou équivalents
+- Aptitudes à réaliser des retouches photos
+- Maîtrise parfaite de la chaine graphique (print + web)
+- Connaissances des techniques d'optimisation du référencement naturel
+- Connaissances approfondies des systèmes de gestion de contenu (CMS) tels que Drupal, WordPress ou équivalents
+- Connaissances des technologies de bases de données et des requêtes SQL
+- Connaissances des normes et des standards du web, y compris les normes W3C
+- Connaissances des tendances actuelles en matière de design et de mise en page
+- Connaissances des processus d'impression et de production pour garantir une qualité de publication élevée.
+- Compétences en gestion de contenu, y compris la création, la mise à jour et la publication de contenu
+- Compréhension des besoins et des attentes des utilisateurs finaux
+- Compréhension des processus de développement de logiciels, y compris l'analyse des exigences, la conception, la programmation et les tests
+- Compréhension des principes de l'expérience utilisateur (UX) et de l'accessibilité Web
+- Compréhension des principes fondamentaux de la conception graphique, de la typographie et de la composition visuelle
+- Compréhension de la chaîne de production photographique (lieu, matériel, etc)
+- Maîtrise des technologies 3D et vidéo serait appréciées
+
+### Savoir-faire 
+- Capacité à créer et à développer de nouvelles pages web et d'espaces en utilisant les technologies web modernes pour répondre aux besoins des directions métiers
+- Capacité à gérer techniquement le site web, y compris la maintenance, les mises à jour, l'optimisation des performances et la résolution des problèmes techniques
+- Capacité à gérer du contenu, y compris la structuration du contenu, la mise à jour régulière, et l'optimisation pour l'audience cible
+
+- Capacité à collaborer étroitement avec les directions métiers pour comprendre leurs besoins et de définir des solutions web appropriées
+- Capacité à collaborer étroitement avec l'équipe éditoriale pour comprendre les exigences visuelles et les orientations créatives
+- Capacité à suivre des tendances et des évolutions dans le domaine du développement web et de la gestion de contenu pour proposer des améliorations constantes
+- Capacité à créer des mises en page attractives et fonctionnelles pour le magazine, en intégrant le contenu éditorial, les images et les éléments graphiques
+- Capacité à développer des visuels percutants pour illustrer les articles et les reportages
+- Capacité à adapter des designs en fonction des besoins spécifiques de chaque numéro du magazine
+- Grande capacité à respecter des délais de production et des contraintes budgétaires
+
+#### Comportement professionnel 
+- Sens de la créativité et artistique pour concevoir des solutions web attractives et fonctionnelles et produire des designs originaux et percutants
+- Capacité à travailler de manière autonome tout en étant un membre collaboratif de la DSIN et de l'équipe éditoriale
+- Capacité à la communication pour interagir efficacement avec les différentes directions métiers
+- Capacité à gérer efficacement le temps pour respecter les délais
+- Capacité à s'adapter aux changements de contenu et aux ajustements de dernière minute
+- Capacité à s'adapter aux changements technologiques et aux nouvelles exigences du secteur
+- Souci du détail et de la qualité pour garantir une expérience utilisateur optimale et une publication visuellement impeccable
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Laure Siret – Chef de service de la performance opérationnelle - Tél. : [📞 20 32 71](tel:203271) / e-mail : [✉️ laure.siret@province-sud.nc](mailto:laure.siret@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0878 - Orthophoniste au service de prévention promotion de la santé - dispositif " Bien avec mon école"
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3e4e4ab8bb8690b0c2cad3bde85032aa/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0878 - Orthophoniste au service de prévention promotion de la santé - dispositif \" Bien avec mon école\"",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0878/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Orthophoniste au Service de Prévention Promotion de la Santé - Dispositif " Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0878/SR/ du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste
+
+du personnels paramédicaux
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** Immédiatement
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+A ce titre, il/elle sera en charge :
+
+- De réaliser des dépistages,
+- De réaliser des bilans,
+- De mettre en œuvre des rééducations,
+- De proposer des adaptations pédagogiques,
+- D'apporter des conseils aux familles et aux enseignants,
+- D'animer des ateliers de prévention du langage,
+- De dispenser des formations à destination des enseignants (TDAH, DYS, métacognition et troubles des apprentissages),
+- De participer aux réunions partenariales,
+- De participer aux projets personnalisés,
+- D'assurer un travail conjoint avec les équipes éducatives et pédagogiques.
+
+## Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie (CCO)
+- Connaissance de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Permis B
+
+### Savoir-faire 
+- Justifier d'une expérience de 3 ans minimum et idéalement en milieu scolaire, en institution
+- Disposer d'une expérience dans la formation souhaitée
+- Maîtriser la discipline orthophonique
+- Réaliser des bilans orthophoniques
+- Dépister précocement les troubles du langage
+- Mettre en place des programmes de rééducation ciblés
+- Adapter les supports pédagogiques
+- Conseiller les enseignants et parents
+- Concevoir et animer des ateliers de prévention langagière
+- Évaluer l'impact sur les apprentissages
+- Rédiger des compte-rendu spécialisés
+- Travailler en articulation avec l'équipe éducative et pédagogique
+
+#### Comportement professionnel 
+- Précision technique
+- Sens de l'observation fine
+- Pédagogie et capacité à vulgariser
+- Patience et constance
+- Posture bienveillante et non jugeante
+- Adaptabilité aux jeunes enfants
+- Discrétion et respect du secret professionnel
+- Capacité à prioriser les situations
+- Capacité à travailler en équipe pluridisciplinaire
+- Communication claire et structurée
+- Réactivité face aux situations complexes
+- Respect du cadre institutionnel
+- Bonne organisation de travail
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0879 - Orthophoniste au service de prévention et de promotion de la santé - Dispositif "Bien avec mon école"
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9b9bc1f36a6197fdec05abecd13418f6/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0879 - Orthophoniste au service de prévention et de promotion de la santé - Dispositif \"Bien avec mon école\"",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0879/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Orthophoniste au Service de Prévention Promotion de la Santé - Dispositif " Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0879/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste
+
+du personnels paramédicaux
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** immédiatement
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+A ce titre, il/elle sera en charge :
+
+- De réaliser des dépistages,
+- De réaliser des bilans,
+- De mettre en œuvre des rééducations,
+- De proposer des adaptations pédagogiques,
+- D'apporter des conseils aux familles et aux enseignants,
+- D'animer des ateliers de prévention du langage,
+- De dispenser des formations à destination des enseignants (TDAH, DYS, métacognition et troubles des apprentissages),
+- De participer aux réunions partenariales,
+- De participer aux projets personnalisés,
+- D'assurer un travail conjoint avec les équipes éducatives et pédagogiques.
+
+### Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie (CCO)
+- Connaissance de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Permis B
+
+#### Savoir-faire 
+- Justifier d'une expérience de 3 ans minimum et idéalement en milieu scolaire, en institution
+- Disposer d'une expérience dans la formation souhaitée
+- Maîtriser la discipline orthophonique
+- Réaliser des bilans orthophoniques
+- Dépister précocement les troubles du langage
+- Mettre en place des programmes de rééducation ciblés
+- Adapter les supports pédagogiques
+- Conseiller les enseignants et parents
+- Concevoir et animer des ateliers de prévention langagière
+- Évaluer l'impact sur les apprentissages
+- Rédiger des compte-rendu spécialisés
+- Travailler en articulation avec l'équipe éducative et pédagogique
+
+#### Comportement professionnel 
+- Précision technique
+- Sens de l'observation fine
+- Pédagogie et capacité à vulgariser
+- Patience et constance
+- Posture bienveillante et non jugeante
+- Adaptabilité aux jeunes enfants
+- Discrétion et respect du secret professionnel
+- Capacité à prioriser les situations
+- Capacité à travailler en équipe pluridisciplinaire
+- Communication claire et structurée
+- Réactivité face aux situations complexes
+- Respect du cadre institutionnel
+- Bonne organisation de travail
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0880 - Orthophoniste au service de prévention et de promotion de la santé - Dispositif "Bien avec mon école"
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1223d5c74096461021f0109d3b8758ea/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0880 - Orthophoniste au service de prévention et de promotion de la santé - Dispositif \"Bien avec mon école\"",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0880/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Orthophoniste au Service de Prévention Promotion de la Santé - Dispositif " Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0880/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste
+
+du personnels paramédicaux
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 10
+
+ans
+
+**Poste à pourvoir :** immédiatement
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+A ce titre, il/elle sera en charge :
+
+- De réaliser des dépistages,
+- De réaliser des bilans,
+- De mettre en œuvre des rééducations,
+- De proposer des adaptations pédagogiques,
+- D'apporter des conseils aux familles et aux enseignants,
+- D'animer des ateliers de prévention du langage,
+- De dispenser des formations à destination des enseignants (TDAH, DYS, métacognition et troubles des apprentissages),
+- De participer aux réunions partenariales,
+- De participer aux projets personnalisés,
+- D'assurer un travail conjoint avec les équipes éducatives et pédagogiques.
+
+## Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie (CCO)
+- Connaissance de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Permis B
+
+## Savoir-faire 
+- Justifier d'une expérience de 3 ans minimum et idéalement en milieu scolaire, en institution
+- Disposer d'une expérience dans la formation souhaitée
+- Maîtriser la discipline orthophonique
+- Réaliser des bilans orthophoniques
+- Dépister précocement les troubles du langage
+- Mettre en place des programmes de rééducation ciblés
+- Adapter les supports pédagogiques
+- Conseiller les enseignants et parents
+- Concevoir et animer des ateliers de prévention langagière
+- Évaluer l'impact sur les apprentissages
+- Rédiger des compte-rendu spécialisés
+- Travailler en articulation avec l'équipe éducative et pédagogique
+
+#### Comportement professionnel 
+- Précision technique
+- Sens de l'observation fine
+- Pédagogie et capacité à vulgariser
+- Patience et constance
+- Posture bienveillante et non jugeante
+- Adaptabilité aux jeunes enfants
+- Discrétion et respect du secret professionnel
+- Capacité à prioriser les situations
+- Capacité à travailler en équipe pluridisciplinaire
+- Communication claire et structurée
+- Réactivité face aux situations complexes
+- Respect du cadre institutionnel
+- Bonne organisation de travail
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail :
+
+[✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0881 - Développeur d'apllications full stack
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/8ebb355efc66fe7f5a368bb144310f24/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0881 - Développeur d'apllications full stack",
+  "description": "Domaine: Informatique. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0881/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Développeur d'applications full stack
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Informatique  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0881/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Ingénieur 1er grade ou ingénieur 2ème grade domaine informatique
+
+**Durée de résidence exigée pour le recrutement sur titre (1):**
+
+**-** ingénieur 1er grade **:** au moins égale à 10 ans - ingénieur 2ème grade : au moins égale à 5 an**s**
+
+**Poste à pourvoir :** 2026-07-15
+
+![](_page_0_Picture_7.jpeg)
+
+## Direction du Système d'Information et du Numérique
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-06-05
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+# Détails de l'offre 
+La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.
+
+La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.
+
+La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services :
+
+- CDS : Centre De Services (10 personnes)
+- SIL : Service des Infrastructures et de la Logistique (11 personnes)
+- DEVOPS : Service des Développements et des Opérations (14 personnes)
+- POP : Service de la Performance Opérationnelle (13 personnes)
+
+La direction est composée d'un directeur et d'une directrice adjointe.
+
+Les principaux interlocuteurs du développeur fullstack sont :
+
+- L'équipe du DEVOPS
+- L'équipe du POP (chefs de projet, data scientists)
+- L'équipe du SIL (admin système et réseau)
+
+**Emploi RESPNC : Concepteur / développeur**
+
+## 🎯 Missions
+
+> Vous intégrerez une équipe DEVOPS dynamique, collaborative et accueillante, impliquée dans des projets à forts enjeux métiers et sociétaux et serez chargé(e) :
+
+- De concevoir, de développer et de faire évoluer les applications ;
+- D'assurer la maintenance applicative (corrective, réglementaire et évolutive) afin de garantir la fiabilité, la sécurité et la pérennité des solutions existantes ;
+- De suivre les développements confiés à des prestataires externes, en veillant à la qualité des livrables, au respect des exigences techniques et des délais ;
+- De travailler en étroite collaboration avec les équipes internes et les directions métiers, afin de comprendre leurs besoins, de co-construire des solutions sur mesure et d'assurer leur bonne appropriation ;
+- D'apporter un leadership technique en accompagnant et en encadrant les développeurs, en diffusant les bonnes pratiques et en garantissant un haut niveau de qualité du code ;
+- De contribuer à la gestion complète des projets applicatifs, de la phase de
+
+cadrage à la mise en production, incluant la planification, la coordination des ressources et le suivi des coûts ;
+
+- De sécuriser la livraison des projets dans les délais, en anticipant les risques, en identifiant les points de blocage et en proposant des solutions adaptées ;
+- De maintenir une veille technologique active, afin d'anticiper les évolutions du numérique, d'intégrer les meilleures pratiques du marché et de nourrir l'innovation au sein de la DSIN.
+
+Dans le cadre de vos missions, vous interviendrez sur un large périmètre applicatif et métier, nécessitant une forte capacité d'adaptation et un réel sens du service public.
+
+## Caractéristiques particulières de l'emploi 
+Pourquoi nous rejoindre ?
+
+- Intégrer une structure dynamique et ambitieuse, attachée à la qualité de vie au travail.
+- Participer à des projets techniques variés et valorisants.
+- Bénéficier d'un environnement qui encourage la montée en compétences et l'innovation.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Bonne connaissance du développement d'applications sur les technologies : Java, Javascript, HTML et CSS
+- Bonne connaissance des frameworks Grails, ExtJs et Angular appréciée
+- Maîtrise des architectures Web type micro-services RIA/REST
+- Maîtrise des méthodes et des techniques de gestion de projets informatiques (Agile/Scrum)
+- Maîtrise des techniques de recueil de besoin, de modélisation et de conception (UML)
+- Maîtrise en développement d'applications Web et Mobile
+
+#### Savoir-faire 
+- Communication efficace
+- Capacité à adapter ses explications techniques envers des non-initiés
+- Capacité d'écoute
+- Capacité à animer un groupe
+- Capacité à remettre en cause, et à persuader
+- Maîtrise en développement d'applications Web et Mobile
+- Maîtrise des méthodes et des techniques de gestion de projets informatiques et d'outils multi-canal de gestion des demandes administratives et des actes (CRM)
+
+### Comportement professionnel 
+- Esprit d'analyse
+- Souci de la qualité
+- Méthode et rigueur
+- Capacité à gérer plusieurs projets en parallèle
+- Capacité à s'adapter aux changements et à ajuster la stratégie en conséquence
+- Gestion de la pression et du stress
+- Capacité d'écoute et de dialogue
+- Capacité à négocier et diplomatie
+- Autonomie
+- Disponibilité
+- Prise d'initiatives
+- Curiosité professionnelle
+- Sens du service public et du service aux utilisateurs
+- Force de propositions
+- Capacité à adapter ses explications techniques envers des non-initiés
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. Mathieu Fabre – Chef de service des applications métiers - Tél. : [📞 20 32 19](tel:203219) / e-mail : [✉️ mathieu.fabre@province-sud.nc](mailto:mathieu.fabre@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Informatique](../#informatique)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0882 - Infirmier(e) en soins généraux à Belep
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cb25403b417eff0fc571f2229601b084/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0882 - Infirmier(e) en soins généraux à Belep",
+  "description": "Domaine: Infirmiers. Direction: Province Nord",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0882/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+### Infirmier(e) en soins généraux (BELEP)
+
+**Référence : 3134-26-0882/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVN  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine : Infirmier en soins généraux Direction : Direction des affaires sanitaires et sociales, de**
+
+**la prévention et de la solidarité**
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre :** au moins égale 5 ans
+
+**Lieu de travail :** CMS de BELEP
+
+**Poste à pourvoir :** dès que possible **Date limite de candidature :** Vendredi 2026-06-05
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux.
+
+La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.
+
+#### Emploi RESPNC : Infirmier
+
+## 🎯 Missions
+
+soins généraux assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe.
+
+#### Activités principales : La personne retenue aura notamment en charge 
+- Les actes curatifs (consultations, urgences, soins) ;
+
+- Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail,
+
+suivi des maladies chroniques...) ;
+
+- Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques,
+
+santé scolaire…) ;
+
+- La téléconsultation (en l'absence de médecin en présentiel).
+
+**Activité secondaire :** - Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers.
+
+**Caractéristiques particulières de l'emploi :** Ce poste est soumis à astreinte de nuit.
+
+#### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- **-** Diplôme d'état infirmier exigé ;
+- Expérience du travail en poste isolé ;
+- Expérience des urgences ;
+- Être titulaire du permis de conduire B.
+
+#### Savoir-faire 
+- Maîtrise des logiciels de bureautique (Excel et Word) ;
+
+![](_page_0_Picture_33.jpeg)
+
+#### Comportement professionnel 
+- **-** Disponibilité et rigueur ;
+- Respect de la confidentialité des informations et du secret médical ;
+- Sens des responsabilités ;
+- Goût des relations humaines ;
+- Esprit d'initiative ;
+- Capacité d'écoute ;
+- Goût du travail en équipe.
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire, vous pouvez contacter :
+
+**Direction des affaires sanitaires et sociales, de la prévention et de la solidarité**
+
+Tél : [📞 47.71.00](tel:477100) ou [📞 47.72.30](tel:477230)
+
+**Madame SIVETON Laurie Cheffe de bureau de proximité de soins** *« Grand*
+
+*Nord »* Mail : [l.siveton@province-nord.nc](mailto:l.siveton@province-nord.nc) Tel : [📞 96.61.84](tel:966184)
+
+**ou Madame OUDARE Mylencka, Directrice adjointe de la DASSPS,**
+
+Mail : m.oudare[@province-nord.nc](mailto:m.oudare@province-nord.nc)
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord ([www.province-nord.nc](http://www.province-nord.nc)).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
+
+- Internet : <https://www.province-nord.nc/avp> - voie postale : BP 41 - 98860 Koné
+
+- Dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
+
+- Mail : [drh-emplois@province-nord.nc](mailto:drh-emplois@province-nord.nc)
+
+-
+
+(¹)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé « Notice explicative : pièces à fournir de votre citoyenneté ou de votre résidence » qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(²)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération ?
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+*[PMI]: Protection Maternelle et Infantile
+
+
+---
+
+# 26-0883 - Infirmier(e) en soins généraux à Touho
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a2bb6bc7429edf72f3d8c395cb79ae08/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0883 - Infirmier(e) en soins généraux à Touho",
+  "description": "Domaine: Infirmiers. Direction: Province Nord",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0883/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Infirmier(e) en soins généraux (TOUHO)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVN  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0883/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Infirmier en soins généraux **Direction : Direction des affaires sanitaires et sociales, de**
+
+**la prévention et de la solidarité**
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre :** au moins égale 5 ans **Lieu de travail :** CMS de TOUHO
+
+**Poste à pourvoir :** dès que possible **Date limite de candidature :** Vendredi 2026-06-05
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-26
+
+# Détails de l'offre 
+La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux.
+
+La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.
+
+### Emploi RESPNC : Infirmier
+
+## 🎯 Missions
+
+soins généraux assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe.
+
+#### Activités principales : La personne retenue aura notamment en charge 
+- Les actes curatifs (consultations, urgences, soins) ;
+
+- Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...) ;
+
+- Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…) ;
+
+- La téléconsultation (en l'absence de médecin en présentiel).
+
+**Activité secondaire :** - Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers.
+
+**Caractéristiques particulières de l'emploi :**
+
+Ce poste est soumis à astreinte de nuit.
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- **-** Diplôme d'état infirmier exigé ;
+- Expérience du travail en poste isolé ;
+- Expérience des urgences ;
+- Être titulaire du permis de conduire B.
+
+#### Savoir-faire 
+- Maîtrise des logiciels de bureautique (Excel et Word) ;
+
+#### Comportement professionnel 
+- **-** Disponibilité et rigueur ;
+- Respect de la confidentialité des informations et du secret médical ;
+
+![](_page_0_Picture_33.jpeg)
+
+- Sens des responsabilités ;
+- Goût des relations humaines ;
+- Esprit d'initiative ;
+- Capacité d'écoute ;
+- Goût du travail en équipe.
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire, vous pouvez contacter :
+
+**Direction des affaires sanitaires et sociales, de la prévention et de la solidarité**
+
+Tél : [📞 47.71.00](tel:477100) ou [📞 47.72.30](tel:477230)
+
+**Madame OUDARE Mylencka, Directrice Adjointe de la DASSPS**
+
+Mail : m.oudare[@province-nord.nc](mailto:m.oudare@province-nord.nc)
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord ([www.province-nord.nc](http://www.province-nord.nc)).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
+
+- Internet : <https://www.province-nord.nc/avp> - voie postale : BP 41 - 98860 Koné
+
+- Dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
+
+- Mail : [drh-emplois@province-nord.nc](mailto:drh-emplois@province-nord.nc)
+
+-
+
+(¹)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé « Notice explicative : pièces à fournir de votre citoyenneté ou de votre résidence » qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(²)La fiche de renseignements, l'attestation sur l'honneur de non bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération ?
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+*[PMI]: Protection Maternelle et Infantile
+
+
+---
+
+# 26-0884 - Médecin à hienghène
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cfdf9b0fe8c62fb2b0cd38ebc7756016/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0884 - Médecin à hienghène",
+  "description": "Domaine: Autres filières. Direction: Province Nord",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0884/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Médecin (HIENGHENE)
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVN  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0884/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Médecin **Direction des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité (DASSPS)**
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre :** au moins égale à 3 ans
+
+**Poste à pourvoir :** dès que possible **Date limite de candidature :** Vendredi 2026-06-05
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-26
+
+**Lieu de travail :** CMS de HIENGHENE
+
+## Détails de l'offre 
+La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux.
+
+La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.
+
+**Emploi RESPNC : Médecin**
+
+## 🎯 Missions
+
+Sociales, de la Prévention et de la Solidarité. La personne retenue aura la charge de
+
+la continuité de l'offre de soin au sein du centre médico-social.
+
+**Activités principales : La personne retenue aura notamment en charge :**
+
+- La médecine curative : consultations, urgences, visites en tribu ;
+
+- La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du
+
+travail et du sport, éducation pour la santé, hygiène publique ;
+
+- Les activités administratives : gestion des moyens en personnel et matériel,
+
+rapports, etc… ;
+
+- La veille sanitaire et sociale.
+
+#### La personne retenue aura également en charge 
+- L'établissement de partenariats extérieurs ;
+
+- La gestion de la pharmacie de la structure ;
+
+- La participation aux actions de formation et d'animation de sécurité civile ;
+
+- Le renfort aux CMS limitrophes essentiellement en cas de nécessité ;
+
+- Etablir un bilan d'activité annuel.
+
+**Caractéristiques particulières de l'emploi :**
+
+Poste soumis à astreintes.
+
+**Profil du candidat Savoir / Connaissance/Diplôme exigé :**
+
+- Maîtrise de la médecine générale et de l'urgence (CAMU souhaité) ;
+
+- Connaissance en santé publique ;
+
+- Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie
+
+et/ou infectiologie seraient appréciées ;
+
+- Être titulaire du permis de conduire B.
+
+![](_page_0_Picture_36.jpeg)
+
+### Savoir-faire 
+- Maîtrise des logiciels de bureautique (Excel et Word) ;
+- Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes.
+
+#### Comportement professionnel 
+- Goût des relations humaines ;
+- Esprit d'initiative ;
+- Capacité d'écoute ;
+- Goût du travail en équipe.
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire, vous pouvez contacter :
+
+**Direction des affaires sanitaires et sociales, de la prévention et de la solidarité**
+
+Tél : [📞 47.71.00](tel:477100) ou [📞 47.72.30](tel:477230)
+
+**Madame OUDARE Mylencka, Directrice adjointe**
+
+Mail : m.oudare[@province-nord.nc](mailto:m.oudare@province-nord.nc)
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord [\(www.province-nord.nc\)](http://www.province-nord.nc).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
+
+- Voie postale : BP 41 - 98860 Koné
+
+- Dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
+
+- Mail : [drh-emplois@province-nord.nc](mailto:drh-emplois@province-nord.nc)
+
+\*La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+*[PMI]: Protection Maternelle et Infantile
+
+
+---
+
+# 26-0885 - Technicien milieux et ressources aquatiques, référent pour le dévellopement de la pêche artisanale
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/093649e144ffe172fc2770869d572f1d/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0885 - Technicien milieux et ressources aquatiques, référent pour le dévellopement de la pêche artisanale",
+  "description": "Domaine: Economie rurale. Direction: Province Nord",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Canala"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.5333,
+      "longitude": 165.9667
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0885/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Technicien milieux et ressources aquatiques, référent pour le développement de la pêche artisanale
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVN  
+    **Domaine :** Economie rurale  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0885/SR du 2026-06-05**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi / Domaine :** Technicien 1 er grade du cadre des personnels techniques du domaine
+
+de l'économie rurale
+
+**Durée de résidence exigée pour le recrutement sur**
+
+**titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** 2026-09-15
+
+![](_page_0_Picture_8.jpeg)
+
+**Direction :** Direction du Développement Economique et de
+
+l'Environnement
+
+**Lieu de travail :** Canala
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La Direction du Développement Economique et de l'Environnement (DDE-E) a pour mission principale d'accompagner la structuration et le développement de l'économie de la province Nord tout en respectant, conservant et valorisant l'environnement. La DDE-E est placée sous l'autorité d'un directeur et d'un directeur adjoint pouvant être assistés par des chargés de mission. La direction compte environ 110 agents répartis sur l'ensemble de la province Nord, et comprend 9 services et 4 antennes réparties en trois pôles : ressources, développement local et services sectoriels.
+
+Le Service des Milieux et Ressources Aquatiques (SMRA) est l'un des services sectoriels de la DDE-E, chargé de la mise en œuvre coordonnée de l'action provinciale en matière de développement économique des filières halieutiques et aquacoles et gestion durable des ressources marines et dulçaquicoles. Ce service est placé sous l'autorité d'un∙e chef∙fe de service, assisté∙e d'un∙e adjoint∙e.
+
+Pour assurer sa mission d'accompagnement des pêcheurs professionnels, le service comprend une équipe constituée de 3 technicien∙ne∙s et d'une chargé∙e des filières pêche.
+
+**Emploi RESPNC :** Animateur des pêches
+
+## 🎯 Missions
+
+Placée sous l'autorité fonctionnelle de la cheffe de service des milieux et ressources aquatiques (SMRA) et l'autorité hiérarchique du chef∙ d'antenne Sud Minier, la personne retenue aura pour mission d'accompagner le développement de la pêche artisanale sur les communes de Hienghène, Touho, Poindimié, Ponérihouen, Houaïlou, Kouaoua et Canala : mise en œuvre des interventions provinciales pour la pêche, appui technique aux projets du secteur de la pêche artisanale, diffusion de l'information, animation de réunions publiques, participation aux chantiers de structuration et de professionnalisation, amélioration des données de pêche.
+
+**Activités principales :**
+
+En tant que technicien∙ne pêche référent pour Hienghène, Touho, Poindimié, Ponérihouen, Houaïlou, Kouaoua et Canala, la personne retenue aura en charge de :
+
+- Accompagner dans son secteur géographique le développement de la pêche artisanale ;
+- Mettre en œuvre les interventions provinciales pour la pêche (instruction des demandes d'autorisations, saisie des productions, instruction des demandes d'autorisation de colportage, identification des besoins en formation, montage des dossiers de subvention, suivi des projets financés, etc.) sur ces communes ;
+- Appuyer techniquement les pêcheurs, diffuser l'information, animer la structuration de la filière et la professionnalisation des pêcheur∙se∙s en relation avec la Fédération des Pêcheurs Professionnels du Nord ;
+
+• Assurer des permanences hebdomadaires à l'antenne DDE-E de Poindimié.
+
+### Activités secondaires 
+La personne retenue aura également en charge de façon occasionnelle :
+
+- Participer à des missions scientifiques en lien avec l'activité dans les lagons de la province Nord en apportant notamment un soutien aux intervenants (contacts, moyens logistiques, moyens humains) ;
+- Participer à des réunions ou missions de terrain menées par le service sur les trois secteurs (pêche, aquaculture, environnement marin), sur l'ensemble de la province Nord ;
+- Participer aux réflexions sur les grands axes d'intervention des secteurs d'activités du service ;
+- Représenter le service dans des réunions techniques ;
+- Assurer l'application de la réglementation des pêches du code de l'environnement provincial par la réalisation de missions de contrôle de terrain coordonnées avec la brigade des gardes nature.
+
+### Caractéristiques particulières de l'emploi 
+Déplacements fréquents sur le territoire de la province Nord. Une permanence hebdomadaire à Poindimié.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Connaissance du contexte de la pêche en Nouvelle-Calédonie et plus particulièrement en province Nord ;
+- Maîtrise des principales techniques de pêche ;
+- Connaissance des réglementations locales liées à l'activité ;
+- Connaissance de l'économie des pêches maritimes ;
+- Connaissance des procédures relatives au suivi de la pêche professionnelle en PN ;
+- Maîtrise des outils d'intervention provinciale ;
+- Notions de comptabilité d'entreprise.
+
+### Savoir-faire 
+- Savoir nager ;
+- Maîtrise de l'outil bureautique (logiciels Word, Excel, ArcGIS) ;
+- Capacité d'adaptation à des situations et à des interlocuteurs variés ;
+- Esprit d'équipe, d'initiative et sens du reporting ;
+- Rigueur et autonomie, organisation ;
+- Être titulaire du permis de conduire B.
+
+### Comportement professionnel 
+- Qualité relationnelle ;
+- Respect de la hiérarchie et des procédures ;
+- Rigueur, notamment dans la production d'écrit et le respect des protocoles et de la confidentialité ;
+- Capacité à travailler et vivre en équipe ;
+- Sens de l'organisation de terrain et prise d'initiative ;
+- Exemplarité en matière de respect de la réglementation l'environnementale ;
+- Goût des relations humaines, volonté d'aller au contact du public et contrôle de soi.
+
+**Contact et informations complémentaires :**
+
+Pour tout renseignement complémentaire, vous pouvez contacter Madame Josina TIAVOUANE, Cheffe adjointe du Service des milieux et ressources aquatiques, Direction du Développement Economique et de l'Environnement - Tél : [📞 47.72.39](tel:477239)/ mail : [j.tiavouane@province-nord.nc](mailto:j.tiavouane@province-nord.nc)
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province-Nord [\(www.province-nord.nc\)](http://www.province-nord.nc).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à **la Direction des Ressources Humaines (DRH) de la province Nord** par :
+
+- Internet : <https://www.province-nord.nc/avp> - voie postale : BP 41 - 98860 Koné
+
+- Dépôt physique : Hôtel de la province Nord - 41 avenue Jimmy Welepane – 98860 Koné
+
+- Mail : [drh.emplois@province-nord.nc](mailto:drh.emplois@province-nord.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non-bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Economie rurale](../#economie-rurale)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvn)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[AVP]: Avis de Vacance de Poste
+*[PN]: Province Nord
 
 
 ---
@@ -31400,6 +39556,170 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 *[MPRH]: Mission Politique de Ressources Humaines
 *[AVP]: Avis de Vacance de Poste
 *[RH]: Ressources Humaines
+
+
+---
+
+# 26-64326_MPRH - LOGISTICIEN DU CENTRE DE FORMATION
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/43a053c9ae704f9317d0e6f706a6612a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64326/MPRH - LOGISTICIEN DU CENTRE DE FORMATION",
+  "description": "Domaine: Autres filières. Direction: Direction de la sécurité civile et de la gestion des risques",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la sécurité civile et de la gestion des risques",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64326_MPRH/",
+  "datePosted": "2026-06-04",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## LOGISTICIEN DU CENTRE DE FORMATION
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DSCGR  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-64326/MPRH du 2026-06-05**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : adjoint administratif Direction de la sécurité civile et de la gestion des risques**
+
+**(DSCGR)**
+
+**Lieu de travail :** Nouméa
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** pour le recrutement direct
+
+d'un adjoint administratif : au moins égale à 10 ans.
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-05 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+## Détails de l'offre 
+La Direction de la Sécurité Civile et de la Gestion des Risques est chargée de la prévention et de la gestion des risques incombant à la Nouvelle-Calédonie. Elle assure la coordination des moyens humains, matériels et organisationnels nécessaires à la protection des populations et à la gestion des crises.
+
+Le/La logisticien(ne) est basé au centre de formation peut être amené ponctuellement à travailler sur un autre site de la sécurité civile.
+
+Il/Elle garantit la gestion et la disponibilité des moyens logistiques nécessaires au bon fonctionnement administratif et opérationnel du centre de formation.
+
+**Emploi RESPNC :** Inspecteur
+
+ Le/La logisticien(ne) assure la gestion des stocks nécessaires au bon **Missions :**
+
+fonctionnement du centre de formation.
+
+Il/Elle veille à l'harmonisation des pratiques logistiques, à la bonne tenue des
+
+inventaires consolidés.
+
+**Activités principales :** Assurer principalement la logistique du Centre de Formation de la sécurité
+
+civile. L'agent(e) sera placé(e) sous l'autorité du Chef de bureau du soutien
+
+logistique
+
+- Organiser la récupération des épaves et des convoyages de véhicules
+
+- Préparer, convoyer et livrer des engins et matériels nécessaires pour les
+
+formations
+
+- Préparer les salles de cours
+
+- Suivre les demandes d'approvisionnement et leur livraison
+
+- Réaliser des actions de logistique de formation sur le Plateau Technique
+
+- Suivi des stocks du centre de formation
+
+**Activités secondaires :** Participer à la mobilisation en cas de crise.
+
+**Caractéristiques particulières de l'emploi :**
+
+Ancrage opérationnel : Le/La logisticien(ne) est physiquement basé(e) au sein du centre de formation. Il/elle assure le soutien logistique quotidien nécessaire au bon déroulement des sessions (préparation des salles, gestion des flux, matériels pédagogiques) sous la responsabilité du chef de bureau formation.
+
+Mutualisation des ressources : Bien que affecté(e) aux besoins du centre de formation, l'agent fait partie intégrante de la logistique de la Direction. À ce titre, il participe à la mutualisation des achats et applique les procédures transverses définies par le bureau logistique, surveille et rend compte du niveau d'alerte des stocks.
+
+**Profil du candidat** Savoir / Connaissances / Diplôme exigé :
+
+Aptitude à conduire les véhicules. Permis C exigé
+
+Bonnes connaissances de l'usage des matériels d'incendie et de secours
+
+Capacité d'analyse des imprévus lors des livraisons Aptitude au travail manuel et à la manutention
+
+Capacité à communiquer
+
+Comportement professionnel :
+
+Disponibilité et engagement : dévouement au service de la sécurité du public,
+
+disponibilité pour être mobilisé en cas de crise.
+
+**Contact et informations complémentaires :**
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
