@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 201 offres extraites de la DRHFPNC.
+Ce document regroupe 202 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -32825,6 +32825,185 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 - 📄 [Télécharger le PDF original](#)
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Non-officiers](../#non-officiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-64014_MPRH - Agent de développement  des réserves communales  de sécurité civile
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3c855a951579f99065f9a1ad62f4eb68/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64014/MPRH - Agent de développement  des réserves communales  de sécurité civile",
+  "description": "Domaine: Autres filières. Direction: Direction de la sécurité civile et de la gestion des risques",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la sécurité civile et de la gestion des risques",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64014_MPRH/",
+  "datePosted": "2026-06-07",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Agent de développement des réserves communales de sécurité civile
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** DSCGR  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-64014/MPRH du 2026-06-08**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : adjoint administratif**
+
+ou **technicien adjoint /Equipement**
+
+**Direction de la sécurité civile et de la gestion des risques (DSCGR)**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 10 ans pour :
+
+- Technicien adjoint 1er grade du domaine de l'équipement ou de l'économie rurale
+
+- Adjoint administratif
+
+**Date de dépôt de l'offre :** Lundi 2026-06-08 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-06-26
+
+## Détails de l'offre 
+La Direction de la Sécurité Civile et de la Gestion des Risques (DSCGR) est chargée de la prévention et de la gestion des risques incombant à la Nouvelle-Calédonie. Son action porte notamment sur la prévention des risques majeurs, le développement de la culture du risque, l'appui aux communes et la préparation des populations aux situations de crise.
+
+Dans ce cadre, la DSCGR souhaite renforcer le développement des Réserves Communales de Sécurité Civile (RCSC) et des actions de résilience communautaire, notamment dans les communes et tribus exposées aux risques naturels majeurs.
+
+Le poste vise à accompagner le développement d'actions de prévention, de sensibilisation et d'engagement citoyen en matière de sécurité civile, en lien avec les communes, autorités coutumières, associations .
+
+**Emploi RESPNC :** Inspecteur
+
+L'agent participe au développement des Réserves Communales de Sécurité **Missions :**
+
+Civile (RCSC) et à la promotion de la culture du risque en Nouvelle-Calédonie. Il accompagne les communes, autorités coutumières et partenaires dans la mise en œuvre d'actions de prévention, de sensibilisation et de préparation des
+
+populations face aux risques naturels majeurs.
+
+Il contribue à l'engagement citoyen, notamment des jeunes, à travers des dispositifs communautaires tels que les éco-gardes, relais locaux ou réservistes citoyens, tout en valorisant les savoirs traditionnels liés à la gestion des risques. Il participe également à la création d'outils pédagogiques, à l'animation du réseau partenarial et aux actions de gestion de crise conduites par la DSCGR.
+
+**Activités principales :** Participer au développement et à l'animation des Réserves Communales de Sécurité Civile (RCSC) sur l'ensemble du territoire, en favorisant l'intégration des autorités coutumières, des tribus et des relais communautaires dans les dispositifs locaux de prévention, de sauvegarde et de résilience ;
+
+Animer des réunions de concertation avec les communes, districts, chefferies et des associations ;
+
+Accompagner les communes et autorités coutumières dans les actions de prévention, de sensibilisation et de préparation des populations face aux risques naturels majeurs ;Participer à l'organisation d'ateliers, d'exercices de simulation et d'actions de préparation aux catastrophes ;
+
+Contribuer à la diffusion des consignes de sauvegarde, des comportements adaptés face aux risques majeurs et de la culture des premiers secours ; Participer au développement des dispositifs d'engagement citoyen : éco-gardes, relais communautaires et réservistes citoyens ;
+
+Structurer et assurer le suivi des réseaux de référents locaux de sécurité civile ; Contribuer à l'évaluation des actions menées, à la remontée des informations de terrain et à la production de bilans d'activité ;
+
+Assurer un rôle de référent pour les actes et relations coutumières engagés dans le cadre des missions et actions conduites par la sécurité civile ;
+
+**Activités secondaires :** Participer à l'organisation d'évènements territoriaux de prévention et de sensibilisation ;
+
+Participer aux exercices de gestion de crise et aux missions opérationnelles de la DSCGR lorsque nécessaire.
+
+Contribuer à l'animation des réseaux associatifs et partenaires locaux ;
+
+Participer aux actions de communication de la DSCGR ;
+
+Appuyer ponctuellement les autres services de la direction dans le cadre de leurs missions.
+
+# Caractéristiques particulières de
+
+Déplacements fréquents sur l'ensemble du territoire, y compris dans les communes
+
+Animation régulière d'ateliers, d'interventions publiques et de temps pédagogiques ;
+
+Poste nécessitant une aisance confirmée dans la prise de parole en public et la représentation institutionnelle ;
+
+Capacité à fédérer les partenaires autour d'une démarche partagée de culture du risque et de sécurité civile citoyenne.
+
+**l'emploi :**
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+Connaissance du territoire calédonien et de ses réalités culturelles ; Sensibilité aux enjeux de prévention des risques et de sécurité civile ;
+
+Connaissance du fonctionnement des communes et des autorités coutumières appréciée ;
+
+Intérêt pour les actions de sensibilisation, de prévention et d'engagement citoyen ;
+
+Connaissance du tissu associatif et communautaire local appréciée.
+
+### Savoir-faire 
+Capacité à animer des actions de sensibilisation et des réunions de terrain ; Aptitude au travail partenarial et au contact avec différents publics ; Capacité à travailler en équipe et en autonomie ; Capacité à rendre compte des actions réalisées ; Maîtrise des outils bureautiques courants.
+
+### Comportement professionnel 
+Sens du dialogue et respect des équilibres territoriaux : entretenir des relations de confiance avec les communes, autorités coutumières, associations et partenaires institutionnels afin de favoriser une dynamique collective autour de la prévention des risques et de la résilience territoriale. Faire preuve d'écoute, de pédagogie et de respect des réalités culturelles locales.
+
+Capacité d'adaptation et engagement de terrain : savoir intervenir dans des contextes variés, parfois isolés ou sensibles, en faisant preuve de disponibilité, de réactivité et d'implication au service des populations. Être en capacité de représenter la DSCGR lors d'actions de sensibilisation, de réunions ou d'exercices.
+
+Esprit d'initiative et travail partenarial : être force de proposition dans le développement des réserves communales de sécurité civile et des actions de prévention citoyenne, tout en favorisant la coopération entre les différents acteurs du territoire. Faire preuve d'autonomie, de rigueur et d'organisation dans le suivi des projets et actions menées.
+
+**Contact et informations**
+
+Alexandre ROSSIGNOL
+
+**complémentaires :**
+
+Tél: [📞 78 72 28](tel:787228) / mail : *[✉️ alexandre.rossignol@gouv.nc](mailto:alexandre.rossignol@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
