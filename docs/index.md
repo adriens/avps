@@ -13,10 +13,10 @@ search:
 
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
-Dernière mise à jour : **12/06/2026 03:47** (Nouvelle Calédonie)
+Dernière mise à jour : **13/06/2026 03:34** (Nouvelle Calédonie)
 
 !!! info "Statistiques"
-    **237** offres disponibles — **64** urgent (≤2j) — **38** cette semaine
+    **236** offres disponibles — **64** urgent (≤2j) — **38** cette semaine
 
 ## 📝 Comment postuler ?
 
@@ -36,7 +36,7 @@ Les personnes intéressées doivent déposer à l'adresse indiquée dans l'avis 
 ## Sommaire par domaines
 
 - [📋 Aide-soignant (5)](#aide-soignant)
-- [📋 Autres filières (163)](#autres-filieres)
+- [📋 Autres filières (162)](#autres-filieres)
 - [🏥 Cadre de santé (5)](#cadre-de-sante)
 - [🌾 Economie rurale (4)](#economie-rurale)
 - [📋 Equipement (13)](#equipement)
@@ -63,43 +63,43 @@ __5 offres__
 
 ## 📋 Autres filières {: #autres-filieres }
 
-__163 offres__
+__162 offres__
 
 - **26-0704** `🟢 EN COURS` — [Directeur(trice)](26-0704/) | PIL | Clôture: 2026-06-11
-- **26-63188_MPRH** `🟢 EN COURS` — [Acheteur public](26-63188_MPRH/) | DAPM | Clôture: 2026-06-11
-- **26-64079_MPRH** `🟢 EN COURS` — [Chargé en développement des compétences](26-64079_MPRH/) | DRHFPNC | Clôture: 2026-06-11
 - **26-62777_MPRH** `🟢 EN COURS` — [Assistant administratif](26-62777_MPRH/) | DAPM | Clôture: 2026-06-11
 - **26-63059_MPRH** `🟢 EN COURS` — [Conseiller pédagogique 1ère circonscription](26-63059_MPRH/) | DENC | Clôture: 2026-06-11
 - **26-63258_MPRH** `🟢 EN COURS` — [Educateur spécialisé en hébergement collectif](26-63258_MPRH/) | DPJEJ | Clôture: 2026-06-11
-- **26-0770** `🟢 EN COURS` — [Chargé d'étude "développement des compétences DACAS"](26-0770/) | PIL | Clôture: 2026-06-11
-- **26-0782** `🟢 EN COURS` — [Gestionnaire au sein du bureau de scolarité d'un département](26-0782/) | UNC | Clôture: 2026-06-11
-- **26-0769** `🟢 EN COURS` — [Secrétaire de direction](26-0769/) | VR | Clôture: 2026-06-11
+- **26-63188_MPRH** `🟢 EN COURS` — [Acheteur public](26-63188_MPRH/) | DAPM | Clôture: 2026-06-11
+- **26-64079_MPRH** `🟢 EN COURS` — [Chargé en développement des compétences](26-64079_MPRH/) | DRHFPNC | Clôture: 2026-06-11
 - **26-63053_MPRH** `🟢 EN COURS` — [Contrôleur des dépenses et des recettes](26-63053_MPRH/) | DBAF | Clôture: 2026-06-11
 - **26-0781** `🟢 EN COURS` — [Femme de service](26-0781/) | - | Clôture: 2026-06-11
 - **26-0778** `🟢 EN COURS` — [Acheteur - CENTAL](26-0778/) | OPT | Clôture: 2026-06-11
+- **26-0770** `🟢 EN COURS` — [Chargé d'étude "développement des compétences DACAS"](26-0770/) | PIL | Clôture: 2026-06-11
+- **26-0782** `🟢 EN COURS` — [Gestionnaire au sein du bureau de scolarité d'un département](26-0782/) | UNC | Clôture: 2026-06-11
+- **26-0769** `🟢 EN COURS` — [Secrétaire de direction](26-0769/) | VR | Clôture: 2026-06-11
 - **26-0773** `🟢 EN COURS` — [Directeur](26-0773/) | PIL | Clôture: 2026-06-11
 - **26-64032_MPRH** `🟢 EN COURS` — [Secrétaire général](26-64032_MPRH/) | Conseil coutumier Ajie Aro | Clôture: 2026-06-11
 - **26-63259_MPRH** `🟢 EN COURS` — [Chargé de mission](26-63259_MPRH/) | DPJEJ | Clôture: 2026-06-11
 - **26-63596_MPRH** `🟢 EN COURS` — [Secrétaire Général](26-63596_MPRH/) | Conseil coutumier Iaii | Clôture: 2026-06-11
-- **26-0768** `🟢 EN COURS` — [Agent comptable](26-0768/) | OPT | Clôture: 2026-06-11
-- **26-0787** `🟢 EN COURS` — [Travailleur social au Service de Prévention et Promotion de la Santé  - Dispositif "Bien avec mon école"](26-0787/) | PVS | Clôture: 2026-06-11
 - **26-0785** `🟢 EN COURS` — [Agent gestionnaire polyvalent](26-0785/) | - | Clôture: 2026-06-11
 - **26-63056_MPRH** `🟢 EN COURS` — [Conseiller(ère) pédagogique - Service pédagogique](26-63056_MPRH/) | DENC | Clôture: 2026-06-11
 - **26-63808_MPRH** `🟢 EN COURS` — [Educateur spécialisé - PEAD](26-63808_MPRH/) | DPJEJ | Clôture: 2026-06-11
 - **26-63444_MPRH** `🟢 EN COURS` — [Contrôleur des affaires économiques](26-63444_MPRH/) | DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS | Clôture: 2026-06-11
+- **26-0768** `🟢 EN COURS` — [Agent comptable](26-0768/) | OPT | Clôture: 2026-06-11
+- **26-0787** `🟢 EN COURS` — [Travailleur social au Service de Prévention et Promotion de la Santé  - Dispositif "Bien avec mon école"](26-0787/) | PVS | Clôture: 2026-06-11
 - **26-63200_MPRH** `🟢 EN COURS` — [Approvisionneur achat public](26-63200_MPRH/) | DAPM | Clôture: 2026-06-11
 - **26-0783** `🟢 EN COURS` — [Gestionnaire au sein du bureau de scolarité d'un département](26-0783/) | UNC | Clôture: 2026-06-11
 - **26-63592_MPRH** `🟢 EN COURS` — [Vaguemestre](26-63592_MPRH/) | DAPM | Clôture: 2026-06-11
+- **26-0786** `🟢 EN COURS` — [Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"](26-0786/) | PVS | Clôture: 2026-06-11
+- **26-0793** `🟢 EN COURS` — [Chef d'équipe](26-0793/) | PVS | Clôture: 2026-06-11
 - **26-61097_MPRH** `🟢 EN COURS` — [Assistant de direction](26-61097_MPRH/) | DGRAC | Clôture: 2026-06-11
 - **26-63866_MPRH** `🟢 EN COURS` — [Directeur adjoint](26-63866_MPRH/) | DAPM | Clôture: 2026-06-11
 - **26-62772_MPRH** `🟢 EN COURS` — [Educateur spécialisé - UEMOHD Sud/Iles](26-62772_MPRH/) | DPJEJ | Clôture: 2026-06-11
-- **26-0780** `🟢 EN COURS` — [Femme de service](26-0780/) | - | Clôture: 2026-06-11
-- **26-0784** `🟢 EN COURS` — [Gestionnaire des ressources humaines](26-0784/) | - | Clôture: 2026-06-11
 - **26-63623_MPRH** `🟢 EN COURS` — [Chargé(e) de mission](26-63623_MPRH/) | Conseil coutumier Drehu | Clôture: 2026-06-11
 - **26-63477** `🟢 EN COURS` — [Chargée de projets Station N](26-63477/) | DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS | Clôture: 2026-06-11
+- **26-0780** `🟢 EN COURS` — [Femme de service](26-0780/) | - | Clôture: 2026-06-11
+- **26-0784** `🟢 EN COURS` — [Gestionnaire des ressources humaines](26-0784/) | - | Clôture: 2026-06-11
 - **26-0779** `🟢 EN COURS` — [Secrétaire général](26-0779/) | OCCE-NC | Clôture: 2026-06-11
-- **26-0786** `🟢 EN COURS` — [Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"](26-0786/) | PVS | Clôture: 2026-06-11
-- **26-0793** `🟢 EN COURS` — [Chef d'équipe](26-0793/) | PVS | Clôture: 2026-06-11
 - **26-0722** `🟢 EN COURS` — [2 Responsables des équipes piscines - Henri DALY](26-0722/) | - | Clôture: 2026-06-11
 - **26-0710** `🟢 EN COURS` — [Gestionnaire ressources humaines](26-0710/) | - | Clôture: 2026-06-11
 - **26-0723** `🟢 EN COURS` — [2 Educateurs de rue](26-0723/) | - | Clôture: 2026-06-11
@@ -128,16 +128,15 @@ __163 offres__
 - **26-0812** `🟠 CETTE SEMAINE` — [Responsable du bureau financier et des moyens](26-0812/) | PVS | Clôture: 2026-06-18
 - **26-0818** `🟠 CETTE SEMAINE` — [Chef de service de la stratégie et de la production](26-0818/) | PVS | Clôture: 2026-06-18
 - **26-0819** `🟠 CETTE SEMAINE` — [Gestionnaire RH](26-0819/) | - | Clôture: 2026-06-18
+- **26-0811** `🟠 CETTE SEMAINE` — [Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer](26-0811/) | PVS | Clôture: 2026-06-18
 - **26-0822** `🟠 CETTE SEMAINE` — [Attaché chargé de l'intercommunalité et de la recherche de financement](26-0822/) | - | Clôture: 2026-06-18
 - **26-0808** `🟠 CETTE SEMAINE` — [Médiateur culturel](26-0808/) | - | Clôture: 2026-06-18
 - **26-0824** `🟠 CETTE SEMAINE` — [Attaché gestionnaire RH](26-0824/) | - | Clôture: 2026-06-18
 - **26-0823** `🟠 CETTE SEMAINE` — [Responsable budget et comptabilité](26-0823/) | - | Clôture: 2026-06-18
 - **26-0828** `🟠 CETTE SEMAINE` — [Assistant(e) de direction - DAM](26-0828/) | CHT | Clôture: 2026-06-18
-- **26-0811** `🟠 CETTE SEMAINE` — [Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer](26-0811/) | PVS | Clôture: 2026-06-18
 - **26-0648** `🟠 CETTE SEMAINE` — [Travailleur Social au sein de la maison de l'enfance de Bourail](26-0648/) | PVS | Clôture: 2026-06-18
 - **26-0646** `🟠 CETTE SEMAINE` — [Travailleur social chargé des PEAD au service de protection de l'enfance (BAFS)](26-0646/) | PVS | Clôture: 2026-06-18
 - **26-0662** `🟠 CETTE SEMAINE` — [Directeur de cabinet](26-0662/) | - | Clôture: 2026-06-18
-- **26-64014_MPRH** `🟢 EN COURS` — [Agent de développement  des réserves communales  de sécurité civile](26-64014_MPRH/) | DSCGR | Clôture: 2026-06-25
 - **26-0886** `🟢 EN COURS` — [Assistant(e) de direction](26-0886/) | - | Clôture: 2026-06-25
 - **26-0845** `🟢 EN COURS` — [Secrétaire Général(e)](26-0845/) | - | Clôture: 2026-06-25
 - **26-0844** `🟢 EN COURS` — [Agent gestionnaire polyvalent](26-0844/) | - | Clôture: 2026-06-25
@@ -149,13 +148,15 @@ __163 offres__
 - **26-0877** `🟢 EN COURS` — [Gestionnaire de site web et graphiste éditorial](26-0877/) | PVS | Clôture: 2026-06-25
 - **26-0850** `🟢 EN COURS` — [Gestionnaire du bureau du courrier](26-0850/) | Commune de Poya | Clôture: 2026-06-25
 - **26-0803** `🟢 EN COURS` — [Surveilant 2 de port principal](26-0803/) | PANC | Clôture: 2026-06-25
-- **26-0853** `🟢 EN COURS` — [Coordonnateur - programme santé orale](26-0853/) | ASS-NC | Clôture: 2026-06-25
-- **26-0857** `🟢 EN COURS` — [Assistante de direction à la DAFI](26-0857/) | CHT | Clôture: 2026-06-25
 - **26-0875** `🟢 EN COURS` — [Chargé(e) d'études juridiques](26-0875/) | PVS | Clôture: 2026-06-25
 - **26-0871** `🟢 EN COURS` — [Directeur(trice) des services techniques](26-0871/) | - | Clôture: 2026-06-25
 - **26-0842** `🟢 EN COURS` — [5 Maîtres-nageurs sauveteurs](26-0842/) | - | Clôture: 2026-06-25
 - **26-0836** `🟢 EN COURS` — [Gestionnaire carrières et paie](26-0836/) | - | Clôture: 2026-06-25
 - **26-0840** `🟢 EN COURS` — [Animateur sportif de proximité à mi-temps](26-0840/) | - | Clôture: 2026-06-25
+- **26-0853** `🟢 EN COURS` — [Coordonnateur - programme santé orale](26-0853/) | ASS-NC | Clôture: 2026-06-25
+- **26-0857** `🟢 EN COURS` — [Assistante de direction à la DAFI](26-0857/) | CHT | Clôture: 2026-06-25
+- **26-0873** `🟢 EN COURS` — [Responsable du bureau des logements](26-0873/) | PVS | Clôture: 2026-06-25
+- **26-0876** `🟢 EN COURS` — [Conseiller(ère) à l'emploi et au logement](26-0876/) | PVS | Clôture: 2026-06-25
 - **26-0867** `🟢 EN COURS` — [Directeur(trice) de cabinet](26-0867/) | - | Clôture: 2026-06-25
 - **26-0837** `🟢 EN COURS` — [Agent d'accueil et de secrétariat](26-0837/) | - | Clôture: 2026-06-25
 - **26-0841** `🟢 EN COURS` — [2 Responsables des équipes piscines](26-0841/) | - | Clôture: 2026-06-25
@@ -167,13 +168,11 @@ __163 offres__
 - **26-0849** `🟢 EN COURS` — [Gestionnaire des marchés publics](26-0849/) | Commune de Poya | Clôture: 2026-06-25
 - **26-0869** `🟢 EN COURS` — [Assistant(e) administratif(ve)](26-0869/) | IFPSS | Clôture: 2026-06-25
 - **26-0884** `🟢 EN COURS` — [Médecin à hienghène](26-0884/) | PVN | Clôture: 2026-06-25
-- **26-0873** `🟢 EN COURS` — [Responsable du bureau des logements](26-0873/) | PVS | Clôture: 2026-06-25
-- **26-0876** `🟢 EN COURS` — [Conseiller(ère) à l'emploi et au logement](26-0876/) | PVS | Clôture: 2026-06-25
 - **26-0772** `🟢 EN COURS` — [Secrétaire-comptable](26-0772/) | Ville du Mont-Dore | Clôture: 2026-06-25
 - **26-0728** `🟢 EN COURS` — [Médecin (Nouméa)](26-0728/) | PVN | Clôture: 2026-06-25
 - **26-0727** `🟢 EN COURS` — [Medecin itinérant et de téléconsultation (Nouméa)](26-0727/) | PVN | Clôture: 2026-06-25
-- **26-0609** `🟢 EN COURS` — [Responsable du bureau administratif et financier](26-0609/) | PVN | Clôture: 2026-06-25
 - **26-62819_MPRH** `🟢 EN COURS` — [Adjoint au chef de service de la fiscalité immobilière et du patrimoine](26-62819_MPRH/) | DSF | Clôture: 2026-06-25
+- **26-0609** `🟢 EN COURS` — [Responsable du bureau administratif et financier](26-0609/) | PVN | Clôture: 2026-06-25
 - **26-0606** `🟢 EN COURS` — [Agent d'entretien - Ambulancier (Touho)](26-0606/) | PVN | Clôture: 2026-06-25
 - **26-0620** `🟢 EN COURS` — [1 référent carrière et temps de travail / analyste de gestion](26-0620/) | - | Clôture: 2026-06-25
 - **26-62774_MPRH** `🟢 EN COURS` — [Contrôleur enquêtes et poursuites](26-62774_MPRH/) | DSF | Clôture: 2026-06-25
@@ -193,9 +192,9 @@ __163 offres__
 - **26-0240** `🟢 EN COURS` — [MEDECIN - CMS de Belep](26-0240/) | PVN | Clôture: 2026-06-25
 - **25-1593** `🟢 EN COURS` — [Médecin à l'UPASS de Bourail](25-1593/) | PVS | Clôture: 2026-06-25
 - **25-1027** `🟢 EN COURS` — [Sage-femme échographiste itinérante](25-1027/) | PVS | Clôture: 2026-06-25
-- **26-63594_MPRH** `🟢 EN COURS` — [Médecin /Conseiller technique médical performance](26-63594_MPRH/) | DASS | Clôture: 2026-07-02
 - **26-63593_MPRH** `🟢 EN COURS` — [Chargé d'études - contrats et marchés publics](26-63593_MPRH/) | DAPM | Clôture: 2026-07-02
 - **26-0914** `🟢 EN COURS` — [Gestionnaire du parc automobile](26-0914/) | PVN | Clôture: 2026-07-02
+- **26-63594_MPRH** `🟢 EN COURS` — [Médecin /Conseiller technique médical performance](26-63594_MPRH/) | DASS | Clôture: 2026-07-02
 - **26-0891** `🟢 EN COURS` — [Accompagnateur de nuit au sein de la maison de l'enfance de Bourail](26-0891/) | PVS | Clôture: 2026-07-02
 - **26-0890** `🟢 EN COURS` — [Accompagnateur de jour-nuit au sein de la maison de l'enfance de Bourail](26-0890/) | PVS | Clôture: 2026-07-02
 - **26-0908** `🟢 EN COURS` — [Agent de gardiennage et de surveillance 3](26-0908/) | PVS | Clôture: 2026-07-02
@@ -206,11 +205,11 @@ __163 offres__
 - **26-0912** `🟢 EN COURS` — [Agent informateur et animateur jeunesse Koné](26-0912/) | PVN | Clôture: 2026-07-02
 - **26-0907** `🟢 EN COURS` — [Agent de gardiennage et de surveillance 2](26-0907/) | PVS | Clôture: 2026-07-02
 - **26-0906** `🟢 EN COURS` — [Agent de gardiennage et de surveillance](26-0906/) | PVS | Clôture: 2026-07-02
-- **26-0902** `🟢 EN COURS` — [Médiateur culturel et patrimonial](26-0902/) | - | Clôture: 2026-07-02
-- **26-0909** `🟢 EN COURS` — [Chef de service de l'audit interne](26-0909/) | OPT | Clôture: 2026-07-02
 - **26-0893** `🟢 EN COURS` — [Conseiller(ère) à l'emploi et au logement](26-0893/) | PVS | Clôture: 2026-07-02
 - **26-0892** `🟢 EN COURS` — [Conseiller(ère) à l'emploi et au logement](26-0892/) | PVS | Clôture: 2026-07-02
 - **26-0904** `🟢 EN COURS` — [Gestionnaire en ressources humaines](26-0904/) | PVS | Clôture: 2026-07-02
+- **26-0902** `🟢 EN COURS` — [Médiateur culturel et patrimonial](26-0902/) | - | Clôture: 2026-07-02
+- **26-0909** `🟢 EN COURS` — [Chef de service de l'audit interne](26-0909/) | OPT | Clôture: 2026-07-02
 - **26-63412_MPRH** `🟢 EN COURS` — [Contrôleur IR](26-63412_MPRH/) | DSF | Clôture: 2026-07-02
 - **26-63455_MPRH** `🟢 EN COURS` — [Chef de section IR](26-63455_MPRH/) | DSF | Clôture: 2026-07-02
 - **26-63338_MPRH** `🟢 EN COURS` — [Inspecteur du travail](26-63338_MPRH/) | DTEFP | Clôture: 2026-07-02
@@ -252,9 +251,9 @@ __4 offres__
 
 __13 offres__
 
+- **26-63373_MPRH** `🟢 EN COURS` — [Sismologue](26-63373_MPRH/) | DIMENC | Clôture: 2026-06-11
 - **26-0795** `🟢 EN COURS` — [Chef de projet géomatique  (Koné)](26-0795/) | PVN | Clôture: 2026-06-11
 - **26-0774** `🟢 EN COURS` — [Chef de la subdivision Sud](26-0774/) | PVS | Clôture: 2026-06-11
-- **26-63373_MPRH** `🟢 EN COURS` — [Sismologue](26-63373_MPRH/) | DIMENC | Clôture: 2026-06-11
 - **26-0820** `🟠 CETTE SEMAINE` — [Technicien systemes](26-0820/) | - | Clôture: 2026-06-18
 - **26-0843** `🟢 EN COURS` — [Chargé d'études et de projets stratégiques](26-0843/) | - | Clôture: 2026-06-25
 - **26-0854** `🟢 EN COURS` — [Surveillant de port principal](26-0854/) | PANC | Clôture: 2026-06-25
@@ -263,8 +262,8 @@ __13 offres__
 - **26-0797** `🟢 EN COURS` — [Acheteur](26-0797/) | - | Clôture: 2026-06-25
 - **26-0901** `🟢 EN COURS` — [Chef de section exploitation voirie](26-0901/) | - | Clôture: 2026-07-02
 - **26-0888** `🟢 EN COURS` — [Chargé d'affaires](26-0888/) | PVS | Clôture: 2026-07-02
-- **26-0900** `🟢 EN COURS` — [Chef de la section achat](26-0900/) | - | Clôture: 2026-07-02
 - **26-889** `🟢 EN COURS` — [Chargé d'affaires maintenance bâtiment](26-889/) | PVS | Clôture: 2026-07-02
+- **26-0900** `🟢 EN COURS` — [Chef de la section achat](26-0900/) | - | Clôture: 2026-07-02
 
 ## 💉 Infirmiers {: #infirmiers }
 
