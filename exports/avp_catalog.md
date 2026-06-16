@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 179 offres extraites de la DRHFPNC.
+Ce document regroupe 184 offres extraites de la DRHFPNC.
 
 # 25-1027 - Sage-femme échographiste itinérante
 
@@ -5272,212 +5272,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 
 ---
 
-# 26-0579 - Ingénieur en ingénierie logicielle
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/c31c3106c0777564786a001ae5b7b232/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-0579 - Ingénieur en ingénierie logicielle",
-  "description": "Domaine: Informatique. Direction: Université de Nouvelle-Calédonie",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Université de Nouvelle-Calédonie",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-0579/",
-  "datePosted": "2026-04-16",
-  "validThrough": "2026-06-14",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-# Un ingénieur ou une ingénieure en ingénierie logicielle – Développeur & Support Applications Cocktail
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-06-14  
-    **Direction :** UNC  
-    **Domaine :** Informatique  
-    **Statut :** 📋 En cours
-
-
-
-**Référence : 3134-26-0579/SR du 2026-04-17**
-
-## 🏢 Employeur
-
-![](_page_0_Picture_3.jpeg)
-
-![](_page_0_Picture_4.jpeg)
-
-**Corps/Domaine :** Un ingénieur informatique du 1 er ou du 2 ème grade de la fonction publique de la Nouvelle-Calédonie ou un ingénieur d'étude du cadre état (ministère de l'enseignement)
-
-**Durée de résidence exigée pour le recrutement sur titre (1) : /**
-
-**Poste à pourvoir :** dès que possible
-
-**Direction : Direction du Numérique et des Systèmes d'Information (DNSI)**
-
-**Lieu de travail :** Nouméa – Campus de Nouville
-
-**Date de dépôt de l'offre :** 2026-04-17
-
-**Date limite de candidature :** 2026-06-15
-
-# Détails de l'offre 
-L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques. L'UNC, ancrée dans son environnement et sa région, a pour ambition de promouvoir son activité de recherche sur la base de l'excellence et de la reconnaissance nationale et internationale. Cette promotion passe par la mise en valeur de ses enjeux scientifiques, de ses capacités d'innovation et de transfert ainsi que par la qualité des formations qu'elle dispense.
-
-L'UNC mène une politique académique et scientifique dynamique et reconnue. Ainsi l'UNC est notamment lauréate des appels à projets "Nouveaux cursus à l'université" et "Dispositifs territoriaux pour l'orientation vers les études supérieures" du Programme d'Investissement d'Avenir 3 et plus récemment des appels à projets « Accélération des Stratégies de Développement des Établissements d'Enseignement Supérieur et de Recherche » et « ExcellencES » du Programme d'Investissement d'Avenir 4. Sur le plan scientifique, l'université est lauréate d'un appel à projets très sélectif du schéma directeur pour la recherche et l'innovation "Horizon 2020" (RISE-MSCA) de la commission européenne.
-
-L'UNC en chiffres, c'est 250 personnels, 3 800 étudiants, 3 départements de formation (Droit, Économie, Gestion ; Lettres, Langues, Sciences Humaines ; Sciences et Techniques), 1 IAE, 1 IUT, 1 INSPE, 1 pôle Formation continue et alternance (Pôle FCA), 3 équipes de recherche, 2 UMR, 1 école doctorale.
-
-L'UNC, c'est également deux campus dynamiques (Nouville en province Sud et Baco en province Nord), des infrastructures modernes (installations dédiées à la recherche et aux pédagogies innovantes, plateaux techniques, studio audiovisuel, Fablab, etc.) des installations sportives de qualité, un accès privilégié à la vie culturelle et artistique, et un environnement et une qualité de travail uniques.
-
-Pour renforcer une équipe de 3 personnes, la Direction du Numérique et des Systèmes d'Information (DNSI) qui en compte 14 recrute pour son pôle « applications et plateformes Web » un **ingénieur en ingénierie logicielle (Référens BAP E – E2C45)** spécialisé dans le développement et le support des applications **Cocktail**.
-
-Emploi Référens BAP E : **: Ingénieur en ingénierie logicielle (fiche E2C45), Développeur et support applications Cocktail**
-
-## Missions : Développement et intégration
-
-- Développer des évolutions spécifiques autour de la suite Cocktail.
-- Réaliser des interfaces entre Cocktail et d'autres applications du SI (scolarité, finances, RH, LMS, outils décisionnels).
-- Concevoir et maintenir des API, web services et scripts d'automatisation.
-- Participer aux montées de version et aux phases de recette technique.
-
-- Traduire les besoins métiers en solutions techniques adaptées en lien avec les services fonctionnels.
-- Garantir la cohérence technique des solutions mises en œuvre.
-
-#### Support applicatif et expertise technique (N2/N3)
-
-- Assurer un support applicatif de niveau expert sur des applications critiques pour l'établissement.
-- Contribuer à la fiabilisation des environnements et à la résolution des incidents complexes.
-- Analyser et résoudre des incidents complexes.
-- Diagnostiquer les anomalies fonctionnelles ou techniques.
-- Assurer un appui technique aux gestionnaires métiers.
-- Documenter les procédures et maintenir la base de connaissances.
-
-## Administration et exploitation applicative
-
-- Participer à l'exploitation des applications en production (suivi, diagnostic, amélioration continue)
-- Garantir la qualité et l'intégrité des données.
-- Participer à la sécurisation des accès et au respect du RGPD.
-- Prendre en compte les enjeux de cohérence, de performance et de sécurité des échanges entre applications.
-- Intervenir dans un système d'information complexe et fortement interconnecté.
-
-### Pilotage technique et amélioration continue
-
-- Contribuer aux choix d'architecture applicative.
-- Participer aux projets de modernisation (urbanisation, APIisation, dématérialisation).
-- Être force de proposition sur l'optimisation des processus numériques.
-- Participer à la diffusion des bonnes pratiques au sein de l'équipe.
-
-#### L'environnement technique du pôle repose notamment sur
-
-- Développement Java / Spring Boot et framework Vaadin pour les applications Web ;
-- Usine logicielle basée sur GitLab (gestion de sources, CI/CD, automatisation des builds et déploiements) ;
-- Déploiements applicatifs en environnement conteneurisé (Kubernetes)
-- Bases de données Oracle et PostgreSQL ;
-- L'utilisation de l'apport que peut apporter l'IA dans le périmètre au quotidien est favorisé.
-- Outils collaboratifs et de suivi : Jira, Confluence, méthodes agiles adaptées au contexte universitaire.
-
-Le poste s'inscrit dans une démarche d'amélioration continue des pratiques de développement, de qualité logicielle et d'industrialisation.
-
-### Compétences technique attendues 
-#### Environnement technique
-
-- Maîtrise d'un ou plusieurs langages : Java, PHP, PL/SQL ou équivalent.
-- Excellente maîtrise SQL (PostgreSQL, Oracle ou équivalent).
-- Connaissance des architectures web (Tomcat, Apache, REST).
-- Expérience en intégration d'applications et interopérabilité SI.
-- Gestion de versions (Git).
-
-## Environnement métier (Connaissance de Cocktail + expérience enseignement supérieur)
-
-- Connaissance de la suite Cocktail.
-- Connaissance des processus universitaires (scolarité, inscriptions, maquettes, diplômes).
-
-- Expérience dans un environnement d'enseignement supérieur ou public.
-
-### Compétences
-
-**comportementales :**
-
-- Aptitudes au travail en équipe et en mode projet ;
-- Curiosité technologique
-- Intérêt marqué pour l'utilisation des outils d'intelligence artificielle dans les pratiques quotidiennes de développement.
-- Sens de la communication et de l'écoute
-- Esprit d'équipe, solidarité
-- Rigueur, sens de l'organisation et réactivité
-- Esprit d'initiative et autonomie.
-
-#### Enjeux du poste
-
-- Sécurisation et fiabilisation du SI COKTAIL.
-- Réduction de la dette technique.
-- Amélioration de l'expérience utilisateur.
-- Maintien de la cohérence technique et de l'interopérabilité des applications du périmètre.
-- Fiabilisation de l'exploitation et amélioration continue de la qualité de service.
-
-**Profil du candidat :**
-
-- Bac+5 en informatique / systèmes d'information.
-- Expérience confirmée en développement applicatif (3 à 5 ans minimum).
-- Capacité d'analyse et de diagnostic avancé. - Autonomie, rigueur et sens du service public.
-- Capacité à dialoguer avec des interlocuteurs non techniques.
-
-**Caractéristiques particulières de l'emploi :**
-
-- Selon certaines conditions, l'UNC offre la possibilité de télétravailler jusqu'à 1,5 jours par semaine.
-
-**Contact et** Direction du Numérique et des Systèmes d'Information (DNSI)
-
-**informations complémentaires :** Monsieur Emmanuel BONNET [emmanuel.bonnet@unc.nc](mailto:emmanuel.bonnet@unc.nc) Tél (687) 290 094 Direction des Ressources Humaines, [recrutement@unc.nc](mailto:recrutement@unc.nc) Tél (687) 290 020
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les dossiers de candidature **en format PDF** (CV détaillé, lettre de motivation, photocopie diplôme le plus élevé, fiche de renseignements\*) précisant la référence de l'offre doivent parvenir à la Direction des Ressources Humaines de l'Université de la Nouvelle-Calédonie par :
-
-- Voie postale (BP R4 98851 Nouméa cedex)
-- Dépôt physique (Campus de Nouville)
-- Mail : [recrutement@unc.nc](mailto:recrutement@unc.nc) copie à [emmanuel.bonnet@unc.nc](mailto:emmanuel.bonnet@unc.nc)
-
-\*La fiche de renseignements est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Informatique](../#informatique)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=unc)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[RH]: Ressources Humaines
-
-
----
-
 # 26-0606 - Agent d'entretien - Ambulancier (Touho)
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d9251e1fd46b88a17756c1369aa9cf83/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -7927,6 +7721,357 @@ L'attention des candidats est portée sur les déplacements hebdomadaires à pr�
 
 #### Contact et informations complémentaires 
 Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique YAMAMOTO – Chef du service de prévention et de promotion de la santé - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0792 - Orthophoniste au service de prévention et de promotion de la santé
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/aff1cb3924eb9bf4e3c51c83ddf057d2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0792 - Orthophoniste au service de prévention et de promotion de la santé",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0792/",
+  "datePosted": "2026-05-19",
+  "validThrough": "2026-07-02",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Orthophoniste au Service de Prévention et de Promotion de la Santé
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-07-02  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0792/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Orthophoniste **Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Durée de résidence exigée pour le recrutement sur Lieu de travail :** Nouméa et Grand Nouméa
+
+**titre (1):** au moins égale à 10 ans
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+**Date limite de candidature :** vendredi 2026-07-03
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+La date de clôture initialement prévue le 2026-06-12 a été reportée.
+
+# Détails de l'offre 
+Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle Enfance-Famille, le service de prévention et de promotion de la santé (SPPS) qui comprend 15 agents permanents (éducateurs sanitaires, diététiciens, psychologues, orthophonistes...), élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention et développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité. En matière d'orthophonie, le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution. La volonté de promouvoir la réussite scolaire sous-tend cette orientation.
+
+L'orthophoniste recruté(e) interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention.
+
+**Emploi RESPNC : Orthophoniste**
+
+## 🎯 Missions
+
+# SUIVI CLINIQUE 
+- De réaliser des bilans orthophoniques et de rédiger les rapports qui en découlent,
+- De réaliser le suivi orthophonique des enfants dépistés,
+- De conseiller les parents et les enseignants,
+- D'orienter les enfants dépistés vers les structures de soins appropriées,
+- De travailler en lien avec les équipes pluridisciplinaires des centres de soins provinciaux et les divers spécialistes,
+- De réaliser des actions de prévention.
+
+## ACTIONS DE PREVENTION ET PROMOTION DE LA SANTE 
+- D'intervenir en crèches-garderies et écoles maternelles et primaires pour animer des ateliers de prévention auprès des familles sur des thématiques clés : écrans et langage, lecture partagée, repérage précoce des troubles du langage, développement du langage… ;
+
+- De conseiller et d'accompagner le personnel enseignant dans leur compréhension des étapes du développement langagier, les signaux d'alerte des troubles du langage ;
+- De co-animer des formations adressées aux professionnels du champ médico-social, de la petite enfance et de l'enseignement sur l'impact des écrans sur la santé et les apprentissages scolaires, sur l'alimentation et les troubles de la déglutition ;
+- D'intervenir en binôme puéricultrice/orthophoniste lors d'actions de prévention « journée sans écran » dans les CMS ;
+- De concevoir des outils pédagogiques et des supports de prévention destinés aux professionnels de terrain et aux familles.
+
+Ces actions sont données à titre indicatif. Le ou la candidat(e) est encouragé(e) à apporter ses propres idées et initiatives.
+
+## Caractéristiques particulières de l'emploi 
+L'activité des orthophonistes de la DPASS se déroule sur les différents sites de la province Sud. L'attention des candidats est portée sur les déplacements hebdomadaires à prévoir pour le professionnel retenu et la nécessité d'être titulaire du permis de conduire.
+
+Temps de travail : 39h hebdomadaires du lundi au vendredi 7h30-16h. Déplacements : véhicule de service mis à disposition pour les interventions extérieures.
+
+Compensation : récupération prévue pour les interventions réalisées en dehors des horaires de travail.
+
+Matériel : outils orthophoniques et supports de prévention disponibles.
+
+# Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Certificat de capacité en orthophonie
+- Connaissances de la politique de santé publique de la province Sud
+- Connaissances des outils et des pratiques de santé publique
+- Connaissances en prévention et en promotion de la santé (charte d'Ottawa)
+- Titulaire du permis B
+
+## Savoir-faire 
+- Maîtrise complète de la discipline orthophonique
+- Mise en œuvre des protocoles du métier
+- Travail en partenariat avec les équipes des centres médico-sociaux et avec les divers spécialistes
+
+# Comportement professionnel 
+- Bonne organisation
+- Autonomie
+- Disponibilité
+- Mobilité
+- Goût pour le contact humain
+- Sens de la communication (avec enfants, parents, enseignants et autres professionnels)
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique YAMAMOTO – Chef du service de prévention et de promotion de la santé - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
+
+Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Rééducation](../#reeducation)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
+# 26-0794 - Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ded95884c98deadc6404079d844c9c99/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-0794 - Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif \"Bien avec mon école\"",
+  "description": "Domaine: Rééducation. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-0794/",
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-25",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-25  
+    **Direction :** PVS  
+    **Domaine :** Rééducation  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 3134-26-0794/SR du 2026-05-15**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine :** Assistant socio-éducatif – spécialité assistant de service social ou conseiller en économie sociale ou familiale ou éducateur spécialisé ou éducateur jeunes enfants
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2026-05-15
+
+**Date limite de candidature :** vendredi 2026-06-26
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1):** au moins égale à 5 ans
+
+**Poste à pourvoir :** 2026-09-01
+
+La date de clôture initialement prévue le 2026-06-12 a été reportée.
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.
+
+Dans le cadre d'un dispositif expérimental d'accompagnement des familles, "Bien avec mon école", le service constitue une brigade mobile de prévention chargée, par une approche pluri-disciplinaire, de prévenir les ruptures scolaires et sociales dès l'école primaire, de soutenir les compétences parentales, de renforcer le développement global de l'enfant, de favoriser l'accès aux droits et de coordonner les acteurs en fonction des ressources présentes sur le territoire. Cette brigade sera composée de travailleurs sociaux, de psychologues et d'orthophonistes pour intervenir dans plusieurs écoles prioritaires de la province Sud.
+
+**Emploi RESPNC : Travailleur social**
+
+## 🎯 Missions
+
+A ce titre, il/elle aura pour missions :
+
+- D'assurer l'évaluation socio-éducative globale,
+- D'assurer le suivi individuel des enfants,
+- De venir en soutien à l'organisation scolaire,
+- De fournir une guidance parentale éducative,
+- D'apporter un accompagnement administratif et budgétaire,
+- De venir en soutien à l'insertion sociale et professionnelle,
+- D'assurer des médiations école-famille,
+- D'animer des ateliers collectifs,
+- D'effectuer des visites à domicile, en co-interventions avec le psychologue,
+- De rédiger des projets personnalisés,
+- De participer aux réunions partenariales,
+- D'être le/la référent(e) de parcours familles.
+
+## Caractéristiques particulières de l'emploi 
+Des déplacements hebdomadaires sont à prévoir.
+
+Le candidat recruté travaillera 39h du lundi au vendredi. Toutefois, en fonction des situations et des besoins du service, il sera amené régulièrement à intervenir en soirée. Un système de récupération est prévu.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme d'Etat d'éducateur spécialisé (DEES), diplôme d'Etat d'assistant de service social (DEASS), diplôme d'Etat de conseiller en économie sociale et familiale (DECESF), diplôme d'Etat d'éducateur de jeune enfant (DEEJE)
+- Connaissances de l'environnement institutionnel de Nouvelle-Calédonie
+- Connaissances du milieu et des spécificités de la Nouvelle-Calédonie
+- Connaissances des grands principes de la médiation
+- Permis B
+
+#### Savoir-faire 
+- Justifier d'une expérience professionnelle de 3 ans minimum souhaitée
+- Évaluer une situation éducative globale
+- Observer et analyser les comportements en contexte
+- Élaborer un projet éducatif individualisé
+- Conduire des entretiens structurés enfant/parent
+- Mettre en place des actions de médiation école-famille
+- Analyser les droits et dispositifs mobilisables
+- Accompagner dans les démarches administratives
+- Évaluer les vulnérabilités familiales
+- Identifier les situations à risque
+- Intervenir en visite à domicile
+- Travailler en co-intervention
+- Animer des ateliers collectifs
+- Mobiliser les partenaires
+- Rédiger des bilans et des comptes-rendus
+- Avoir une approche interculturelle
+
+#### Comportement professionnel 
+- Posture bienveillante et non jugeante
+- Capacité d'écoute active
+- Adaptabilité aux contextes familiaux variés
+- Capacité à poser un cadre sécurisant
+- Capacité à poser des limites professionnelles
+- Gestion des situations conflictuelles
+- Réactivité face aux situations complexes
+- Bonne organisation de travail
+- Capacité à travailler en équipe pluridisciplinaire
+- Respect du rythme des familles
+- Communication claire et structurée
+- Respect du cadre institutionnel
+- Discrétion professionnelle et respect de la confidentialité
+- Neutralité et éthique
+- Capacité de recul et d'analyse
+- Grande autonomie
+- Capacité à rendre compte de son activité à sa hiérarchie
+- Grande disponibilité
+- Mobilité
+
+## Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Frédérique Yamamoto – chef du service SPPS - Tél. : [📞 20 44 61](tel:204461) / e-mail : [✉️ frederique.yamamoto@province-sud.nc](mailto:frederique.yamamoto@province-sud.nc).
 
 Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
 
@@ -26601,6 +26746,179 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 ---
 
+# 26-62772_MPRH - Educateur spécialisé - UEMOHD Sud/Iles
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d7b1a0e6df7259aba9c6fb03fc0f0fdd/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-62772/MPRH - Educateur spécialisé - UEMOHD Sud/Iles",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-62772_MPRH/",
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Educateur spécialisé - UEMOHD Sud/Iles
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Référence : 26-62772/MPRH du 2026-05-22**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : assistant socio-**
+
+**éducatif**
+
+**Direction de la protection judiciaire de l'enfance et de la**
+
+**jeunesse (DPJEJ)**
+
+**Service éducatif de milieu ouvert et d'insertion**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** au moins égale à 5 ans.
+
+**Lieu de travail :** NOUMEA
+
+**Date de dépôt de l'offre :** Vendredi 2026-05-22 **Poste à pourvoir :** vacant à partir du 2026-07-01
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+# Modification de la date de clôture initialement prévue le 2026-06-12
+
+## Détails de l'offre 
+La direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ) accueille, protège et accompagne des jeunes au titre de la protection de l'enfance et de l'enfance délinquante.
+
+L'équipe pluridisciplinaire se compose d'éducateur spécialisé, moniteur éducateur, psychologue, infirmier, veilleurs, ouvrier polyvalent, assistant de service social et chef de service/chef de service éducatif. En plus de cette équipe, il est possible d'activer certaines ressources de la direction comme le pool de chargés de mission et les agents supports.
+
+Pour renforcer son équipe, nous recherchons un éducateur spécialisé au sein du Service Educatif de Milieu Ouvert et d'Hébergement Diversifié (SEMOHD)- UEMOH SUD/ILES.
+
+**Emploi RESPNC :** Educateur spécialisé
+
+Par son implication dans une relation socio-éducative de proximité inscrite dans **Missions :**
+
+une temporalité, l'éducateur accompagne les mineurs et jeunes majeurs en difficulté, pour la mise en œuvre des mesures éducatives ordonnées par les magistrats dans le cadre de l'enfance délinquante (CJPM) ou de la protection de
+
+l'enfance (article 375 et suivant du code civil) confiées au SEMOHD.
+
+**Activités principales :** Mission spécifique ou contextuelle :
+
+- Mettre en œuvre les mesures éducatives ordonnées par les magistrats dans le cadre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (article 375 et suivant du code civil) confiées au SEMOHD.
+
+A partir d'une relation de confiance, l'éducateur :
+
+- Favorise des mises en situations dans un milieu protégé (l'institution),
+- Aide le mineur à devenir acteur de son projet de vie.
+
+Sur le plan institutionnel l'éducateur :
+
+- Participe à l'évaluation et au diagnostic des situations des mineurs et de leur famille,
+- Est dans une démarche permanente de recherche et de réflexion sur la pratique éducative (formation continue, lecture, analyse de pratique etc...),
+- Assure les fonctions de référent de projet,
+- Participe aux réunions institutionnelles,
+- Rédige les rapports, nécessaires aux différents dossiers.
+
+### Caractéristiques particulières de l'emploi 
+- Être titulaire du permis de conduire B ;
+- Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge ;
+- Participer aux Permanences auprès du Tribunal (PEAT).
+
+**Profil du candidat** Savoir / Connaissances / Diplôme exigé :
+
+- Titulaire du diplôme d'Etat d'éducateur spécialisé et/ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ;
+- Connaissance de la société néocalédonienne, et kanak en particulier ;
+- Connaissance du réseau partenarial social de la Nouvelle-Calédonie.
+
+Expérience professionnelle souhaitée en Nouvelle-Calédonie dans les domaines suivants :
+
+- Prise en charge de mineurs en famille d'accueil ou en hébergement collectif ;
+- Protection judiciaire des mineurs et des différentes mesures éducatives du code de justice des mineurs (CJPM).
+
+Un accompagnement de l'agent sélectionné peut être envisagé sur ces deux champs de compétences.
+
+### Savoir-faire 
+- Une expérience en protection judiciaire et de la jeunesse serait fortement appréciée ;
+- Esprit d'équipe et aisance relationnelle ;
+- Capacité à créer du lien et ouverture d'esprit ;
+- Sensibilité aux questions de l'interculturalité ;
+- Dynamisme et proactivité.
+
+### Comportement professionnel 
+- Engagement professionnel dans un projet collectif à construire et sens au quotidien de la responsabilité collective ;
+- Respect des échéances ;
+- Sens de l'écoute ;
+- Empathie ;
+- Déontologie ;
+- Disponibilité.
+
+### Contact et informations complémentaires 
+Monsieur Philippe Souffois, chef de service éducatif Tél: [📞 23 20 10](tel:232010) / mail : *[✉️ philippe.souffois@gouv.nc](mailto:philippe.souffois@gouv.nc)*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
 # 26-62774_MPRH - Contrôleur enquêtes et poursuites
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5db0edfcb13c94526c33f571f311f724/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -27078,6 +27396,171 @@ Merci d'envoyer au plus tard le **Vendredi 2026-05-15** votre candidature accomp
 
 ---
 
+# 26-62914_MPRH - Educateur spécialisé - PEAD
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/04d57003b722d832519eed017c213c0d/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-62914/MPRH - Educateur spécialisé - PEAD",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-62914_MPRH/",
+  "datePosted": "2026-04-30",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Educateur spécialisé - PEAD
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Référence : 26-62914/MPRH du 2026-05-01**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : assistant socio-**
+
+**éducatif** ou **moniteur socio-éducatif**
+
+**Direction de la protection judiciaire de l'enfance et de la**
+
+**jeunesse (DPJEJ)**
+
+**Etablissement de placement éducatif - foyer d'action**
+
+**éducative de Nouville**
+
+**Durée de résidence exigée**
+
+**Lieu de travail :** Nouméa
+
+**pour le recrutement sur titre (1) :** Assistant socio-éducatif : au
+
+moins égale à 5 ans.
+
+Moniteur socio-éducatif : au moins égale à 5 ans.
+
+**Poste à pourvoir :** immédiatement
+
+**Date de dépôt de l'offre :** Vendredi 2026-05-01
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+# Modification de la date de clôture initialement prévue le 2026-05-22
+
+## Détails de l'offre 
+La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ) a été créée en novembre 2016. Cette direction est en charge de missions de prévention et de lutte dans le cadre de la protection de l'enfance et de l'enfance délinquante.
+
+**Emploi RESPNC :** Educateur spécialisé
+
+## 🎯 Missions
+
+Placé sous l'autorité du chef de service éducatif de l'établissement de placement éducatif, l'éducateur spécialisé intervient sur mandat judiciaire au titre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (article 375 et suivants du code civil).
+
+Les missions consistent à assurer l'accompagnement éducatif et judiciaire de mineurs en difficulté, dans le cadre des mesures ordonnées par les magistrats. Elles incluent la mise en œuvre des décisions judiciaires, le suivi individualisé des mineurs et l'évaluation de leur situation familiale, sociale et éducative.
+
+Le rôle implique également un accompagnement des mineurs et de leurs familles dans la construction de leur projet éducatif, en lien avec le cadre légal du CJPM.
+
+- **Activités principales :** Mettre en œuvre les mesures éducatives ordonnées par les magistrats et assurer le suivi des mineurs en difficulté dans le cadre des mesures judiciaires.
+  - Évaluer et diagnostiquer les situations des mineurs et de leurs familles afin d'orienter les interventions éducatives.
+  - Accompagner les mineurs et leurs parents dans la construction et la mise en œuvre du projet éducatif, en lien avec le CJPM.
+  - Conseiller et proposer des actions visant la prévention, l'insertion professionnelle et l'accès à l'emploi.
+  - Rédiger rapports et notes éducatives destinés aux magistrats pour éclairer leurs décisions et rendre compte de l'évolution des situations.
+  - Participer aux audiences et aux réunions pluridisciplinaires.
+  - Observer et évaluer le comportement des mineurs et leurs potentialités.
+  - Concevoir et mettre en œuvre des actions de prévention, de citoyenneté et d'insertion.
+
+- **Activités secondaires :** Engagement professionnel dans un projet collectif et responsabilité au quotidien
+  - Participer à des projets interservices
+
+## Caractéristiques particulières de l'emploi 
+- Être titulaire du permis de conduire B ;
+- Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge.
+
+## Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Titulaire du diplôme d'état d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ;
+- Connaissance de la société néo-calédonienne ;
+- Connaissance du réseau partenarial social de la Nouvelle-Calédonie.
+
+### Savoir-faire 
+- S'adapter aux problématiques individuelles et collectives des usagers ;
+- Travailler en équipe éducative et pluri professionnelle.
+- Être capable d'alterner l'accompagnement individuel de mineurs avec l'animation des temps collectifs.
+
+### Comportement professionnel 
+- Sens de l'écoute ;
+- Engagement professionnel dans un projet collectif à construire ;
+- Empathie ;
+- Déontologie ;
+- Disponibilité.
+
+**Contact et informations complémentaires :**
+
+Dick-Samuel, chef de service éducatif du FAEN Tél: [📞 29 19 31](tel:291931) / mail : *[✉️ dick-samuel.ukeiwe@gouv.nc](mailto:dick-samuel.ukeiwe@gouv.nc)*
+
+**Informations salaire :** [https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante\\_0.pdf](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
 # 26-63052_MPRH - Médecin évaluateur
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fee003c457f5e735798ab67aa75343b4/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -27283,6 +27766,185 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
 *[NC]: Nouvelle-Calédonie
+
+
+---
+
+# 26-63258_MPRH - Educateur spécialisé en hébergement collectif
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/43a46b71299b3eea8a3747e33be3c6f7/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-63258/MPRH - Educateur spécialisé en hébergement collectif",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Païta"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.1333,
+      "longitude": 166.35
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-63258_MPRH/",
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Educateur spécialisé en hébergement collectif
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Référence : 26-63258/MPRH du 2026-05-22**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : assistant socio-**
+
+**éducatif**
+
+**Direction de la protection judiciaire de l'enfance et de la**
+
+**jeunesse (DPJEJ)**
+
+**Etablissement de placement éducatif - foyer d'action**
+
+**éducative de Paita**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** Assistant socio-éducatif : au **Lieu de travail :** Païta
+
+moins égale à 5 ans.
+
+**Date de dépôt de l'offre :** Vendredi 2026-05-22 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-06-19
+
+# Modification de la date de clôture initialement prévue le 2026-06-12
+
+# Détails de l'offre 
+La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ) a été créée en novembre 2016. Cette direction est en charge de missions de prévention et de lutte dans le cadre de la protection de l'enfance et de l'enfance délinquante.
+
+**Emploi RESPNC :** Educateur spécialisé
+
+Placé sous l'autorité du chef de service éducatif de l'établissement de **Missions :**
+
+placement éducatif, l'éducateur en hébergement collectif intervient sur mandat
+
+judiciaire au titre de l'enfance délinquante (CJPM) ou de la protection de
+
+l'enfance (article 375 et suivants du code civil).
+
+**Activités principales :** - Accueillir les mineurs, filles et garçons, âgés de 13 à 18 ans placés en
+
+hébergement collectif ;
+
+- Réaliser un accompagnement individualisé dans le respect des prescriptions
+
+judiciaires ordonnées ;
+
+- Amener le mineur à construire son projet d'insertion sociale et /ou
+
+professionnelle en proposant un accompagnement adapté et individualisé ; - Organiser et participer aux suivis scolaires et mettre en place des activités de
+
+médiation éducative en dehors des temps scolaires ;
+
+- Faire le lien avec le milieu familial ;
+
+- Élaborer les propositions socio-éducatives ;
+
+- Rédiger les notes et rapports éducatifs aux magistrats dans le cadre de l'aide à
+
+la décision judiciaire.
+
+**Activités secondaires :** - Organiser les camps et centres de vacances ;
+
+- Conduire des actions collectives en équipe pluridisciplinaire.
+
+**Caractéristiques particulières de**
+
+**l'emploi :**
+
+- Être titulaire du permis de conduire B ;
+
+- Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs
+
+pris en charge.
+
+## Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Titulaire du diplôme d'état d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ;
+- Connaissance de la société néo-calédonienne ;
+- Connaissance du réseau partenarial social de la Nouvelle-Calédonie.
+
+#### Savoir-faire 
+- S'adapter aux problématiques individuelles et collectives des usagers ;
+- Travailler en équipe éducative et pluri professionnelle.
+- Être capable d'alterner l'accompagnement individuel de mineurs avec l'animation des temps collectifs.
+
+### Comportement professionnel 
+- Sens du travail en équipe éducative et pluri professionnelle ;
+- Sens de l'écoute ;
+- Engagement professionnel dans un projet collectif à construire ;
+- Empathie ; - Déontologie ;
+- Disponibilité.
+
+**Contact et informations complémentaires :**
+
+Jeenah CASE, chef de service éducatif du FAEP Tél: [📞 44 69 74](tel:446974) / mail : *[✉️ jeenah.case@gouv.nc](mailto:jeenah.case@gouv.nc)*
+
+**Informations salaire :** [https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante\\_0.pdf](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
@@ -28906,6 +29568,113 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
 *[NC]: Nouvelle-Calédonie
+
+
+---
+
+# 26-63808_MPRH - Educateur spécialisé - PEAD
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/1e27865ddd945fc9d39b36c507b81878/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-63808/MPRH - Educateur spécialisé - PEAD",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-63808_MPRH/",
+  "datePosted": "2026-05-21",
+  "validThrough": "2026-06-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+La Nouvelle-Calédonie recrute, pour les besoins du Etablissement de placement éducatif - foyer d'action éducative de Nouville de la Direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ), un **Educateur spécialisé - PEAD**.
+
+Le poste est à pourvoir dans le cadre d'une mission ponctuelle immédiatement jusqu'au 2026-11-30.
+
+## Contexte et mission 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-06-18  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+Placé sous l'autorité du chef de service éducatif de l'établissement de placement éducatif, l'éducateur spécialisé intervient sur mandat judiciaire au titre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (article 375 et suivants du code civil).
+
+Les missions consistent à assurer l'accompagnement éducatif et judiciaire de mineurs en difficulté, dans le cadre des mesures ordonnées par les magistrats.
+
+Elles incluent la mise en œuvre des décisions judiciaires, le suivi individualisé des mineurs et l'évaluation de leur situation familiale, sociale et éducative.
+
+Le rôle implique également un accompagnement des mineurs et de leurs familles dans la construction de leur projet éducatif, en lien avec le cadre légal du CJPM.
+
+## Activités principales 
+- Mettre en œuvre les mesures éducatives ordonnées par les magistrats et assurer le suivi des mineurs en difficulté dans le cadre des mesures judiciaires.
+- Évaluer et diagnostiquer les situations des mineurs et de leurs familles afin d'orienter les interventions éducatives.
+- Accompagner les mineurs et leurs parents dans la construction et la mise en œuvre du projet éducatif, en lien avec le CJPM.
+- Conseiller et proposer des actions visant la prévention, l'insertion professionnelle et l'accès à l'emploi.
+- Rédiger rapports et notes éducatives destinés aux magistrats pour éclairer leurs décisions et rendre compte de l'évolution des situations.
+- Participer aux audiences et aux réunions pluridisciplinaires.
+- Observer et évaluer le comportement des mineurs et leurs potentialités.
+- Concevoir et mettre en œuvre des actions de prévention, de citoyenneté et d'insertion.
+
+## Profil 
+Savoir / Connaissances / Diplôme exigé :
+
+- Titulaire du diplôme d'état d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ;
+- Connaissance de la société néo-calédonienne ;
+- Connaissance du réseau partenarial social de la Nouvelle-Calédonie.
+
+## 🛠️ Savoir-faire
+
+- S'adapter aux problématiques individuelles et collectives des usagers ;
+- Travailler en équipe éducative et pluri professionnelle.
+- Être capable d'alterner l'accompagnement individuel de mineurs avec l'animation des temps collectifs. Comportement professionnel :
+- Sens de l'écoute ;
+- Engagement professionnel dans un projet collectif à construire ;
+- Empathie ;
+- Déontologie ;
+- Disponibilité.
+
+Pour tout renseignement sur le poste, vous pouvez contacter Dick-Samuel, chef de service éducatif du FAEN Tél: [📞 29 19 31](tel:291931) / mail : *[✉️ dick-samuel.ukeiwe@gouv.nc](mailto:dick-samuel.ukeiwe@gouv.nc)*
+
+Merci d'envoyer au plus tard le **Vendredi 2026-06-19** votre candidature accompagnée d'une lettre de motivation, d'un CV, de la **fiche de renseignements** ci-jointe et de la copie de vos diplômes à la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie / B.P M2 - 98849 Nouméa cedex / *[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 
 
 ---
