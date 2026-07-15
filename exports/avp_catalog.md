@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 180 offres extraites de la DRHFPNC.
+Ce document regroupe 181 offres extraites de la DRHFPNC.
 
 # 25-1281 - Médecin itinérant en province Sud
 
@@ -29560,6 +29560,176 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Autres filières](../#autres-filieres)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-64572_MPRH - Ingénieur Régulation du secteur électrique
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0226bd572326bac9bc069aaeff706c26/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64572/MPRH - Ingénieur Régulation du secteur électrique",
+  "description": "Domaine: Equipement. Direction: Direction de l'industrie, des mines et de l'énergie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'industrie, des mines et de l'énergie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64572_MPRH/",
+  "datePosted": "2026-06-25",
+  "validThrough": "2026-07-16",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Ingénieur Régulation du secteur électrique
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-07-16  
+    **Direction :** DIMENC  
+    **Domaine :** Equipement  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Référence : 26-64572/MPRH du 2026-06-26**
+
+## 🏢 Employeur
+
+![](_page_0_Picture_3.jpeg)
+
+**Corps ou Cadre d'emploi /Domaine : ingénieur /EquipementDirection de l'industrie, des mines et de l'énergie (DIMENC)**
+
+**Service de l'énergie**
+
+**Lieu de travail :** Nouméa
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :**
+
+Ingénieur 1er grade domaine de l'équipement : au moins égale à 5 ans.
+
+Ingénieur 2ème grade domaine de l'équipement : au moins
+
+égale à 5 ans
+
+**Date de dépôt de l'offre :** Vendredi 2026-06-26 **Poste à pourvoir :** immédiatement
+
+**Date limite de candidature :** Vendredi 2026-07-17
+
+# Détails de l'offre 
+La Direction de l'industrie, des mines et de l'énergie de la Nouvelle-Calédonie (DIMENC) est une administration centrale et déconcentrée au service de la politique industrielle et énergétique et de la gestion des risques. Elle conçoit, applique et évalue les politiques publiques dans ses domaines de compétences, dans la perspective de concilier le développement industriel durable du territoire avec la protection des personnes et des biens et la préservation de l'environnement et des ressources.
+
+Le service de l'énergie de la DIMENC propose et met en œuvre la politique énergétique de la Nouvelle-Calédonie et le cadre réglementaire afférent : il s'agit notamment d'assurer un approvisionnement et une fourniture énergétique de qualité, compétitive et respectueuse de l'environnement. Le service a ainsi la charge des six politiques publiques suivantes :
+
+- 1. La sécurité d'approvisionnement énergétique ;
+- 2. L'électrification rurale ;
+- 3. La décarbonation et la compétitivité énergétique de l'industrie, en particulier de la métallurgie ;
+- 4. La décarbonation du transport et mobilité (y compris les véhicules pour l'industrie minière) ;
+- 5. La décarbonation et la performance énergétique des bâtiments et des équipements ;
+- 6. La régulation des tarifs publics de l'énergie et lutte contre la précarité énergétique.
+
+**Emploi RESPNC :** Chargé d'affaires énergie
+
+## 🎯 Missions
+
+Sous l'autorité du chef de section, l'agent met en œuvre la politique énergétique du territoire et le cadre réglementaire correspondant. Il est en charge de la régulation économique du système électrique et de l'établissement des tarifs publics de l'électricité. Il réalise l'instruction des dossiers technique et économique du secteur de l'électricité et propose des analyses à partir des référentiels réglementaires en vigueur. Il concoure à l'élaboration du cadre réglementaire visant à la transition énergétique du système électrique en cohérence avec les objectifs du schéma pour la transition énergétique de la Nouvelle-Calédonie. Il réalise les inspections des outils de production et de stockage d'électricité
+
+**Activités principales :** Dans le cadre des missions du service relatives à la régulation des acteurs de l'énergie, l'agent est en charge des actions suivantes :
+
+Développement du parc de production et de stockage d'électricité :
+
+- Elaborer, suivre et évaluer la réglementation relative à la production et au stockage de l'énergie ;
+- Instruire les demandes d'autorisation d'exploiter les installations de production et de stockage d'énergie électrique ;
+- Suivre les obligations réglementaires des acteurs de la production et du stockage d'énergie électrique ;
+- Réaliser les inspections des outils de production et de stockage de l'électricité. Réseaux :
+- Elaborer, suivre et évaluer la réglementation relative aux réseaux électriques (cahier des charges type des concessions de distribution, prescriptions techniques de raccordement,...) ;
+- Suivre les développements technologiques en cours (réseaux intelligents) et évaluer les opportunités ;
+- Suivre la qualité du service de l'électricité.
+
+Tarifs de l'électricité :
+
+- Appliquer et faire évoluer la réglementation relative à la fixation des tarifs de l'électricité ;
+- Analyser périodiquement les coûts et les recettes du système électrique et faire des analyses prospectives ;
+- Développer un modèle prospectif des tarifs de l'électricité ;
+- Réformer la grille tarifaire de l'électricité.
+
+**Activités secondaires :** - Veille technologique active sur la production et le stockage de l'électricité, sur les réseaux intelligents et sur la tarification de l'électricité.
+
+## Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Bac +5 dans le secteur de l'énergie;
+- Forte connaissance du secteur de la régulation des systèmes électriques;
+- Organisation et fonctionnement d'un système électrique;
+- Energies renouvelables;
+- Connaissance des procédures administratives et des institutions de la Nouvelle-Calédonie;
+- Maîtrise des outils informatiques;
+- Permis B.
+
+### Savoir-faire 
+- Capacités rédactionnelles, d'écoute et d'argumentation,
+- Elaboration, suivi et évaluation des politiques publiques,
+- Conseil aux décideurs,
+- Ecoute active, compréhension des situations, des enjeux et des influences.
+
+### Comportement professionnel 
+- Autonomie, prise d'initiative et force de proposition,
+- Capacité au travail en équipe et qualités relationnelles,
+- Esprit d'analyse et de synthèse,
+- Sens de l'organisation et disponibilité,
+- Curiosité, rigueur, méthode
+
+**Contact et informations complémentaires :**
+
+Nicolas FAVRAY
+
+Tél: [📞 27 48 61](tel:274861) / mail : *[✉️ nicolas.favray@gouv.nc](mailto:nicolas.favray@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dimenc)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
