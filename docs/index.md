@@ -13,10 +13,10 @@ search:
 
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
-Dernière mise à jour : **20/07/2026 02:47** (Nouvelle Calédonie)
+Dernière mise à jour : **21/07/2026 02:31** (Nouvelle Calédonie)
 
 !!! info "Statistiques"
-    **164** offres disponibles — **0** urgent (≤2j) — **72** cette semaine
+    **164** offres disponibles — **72** urgent (≤2j) — **0** cette semaine
 
 ## 📝 Comment postuler ?
 
@@ -72,21 +72,21 @@ __115 offres__
 - **26-1009** `🔴 URGENT` — [DPS - Chargé(e) de l'animation commerciale - Section expérience commerciale](26-1009/) | OPT | Clôture: 2026-07-23
 - **26-1017** `🔴 URGENT` — [Chargé(e) d'études juridiques susceptible à pourvoir](26-1017/) | PIL | Clôture: 2026-07-23
 - **26-1016** `🔴 URGENT` — [Chef du service des affaires juridiques et du contentieux](26-1016/) | PIL | Clôture: 2026-07-23
+- **26-1015** `🔴 URGENT` — [Responsable du bureau des associations et des subventions](26-1015/) | PVS | Clôture: 2026-07-23
 - **26-1013** `🔴 URGENT` — [directeur de police municipale](26-1013/) | - | Clôture: 2026-07-23
 - **26-1014** `🔴 URGENT` — [Secrétaire Général](26-1014/) | - | Clôture: 2026-07-23
 - **26-1011** `🔴 URGENT` — [Juriste](26-1011/) | - | Clôture: 2026-07-23
-- **26-1015** `🔴 URGENT` — [Responsable du bureau des associations et des subventions](26-1015/) | PVS | Clôture: 2026-07-23
-- **26-64634_MPRH** `🔴 URGENT` — [Chef de service adjoint](26-64634_MPRH/) | - | Clôture: 2026-07-23
-- **26-1012** `🔴 URGENT` — [Secrétaire général adjoint - pôle ressources](26-1012/) | - | Clôture: 2026-07-23
-- **26-1001** `🔴 URGENT` — [Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"](26-1001/) | PVS | Clôture: 2026-07-23
 - **26-64653_MPRH** `🔴 URGENT` — [Chargé d'étude / ingénierie de formation](26-64653_MPRH/) | DSCGR | Clôture: 2026-07-23
+- **26-64634_MPRH** `🔴 URGENT` — [Chef de service adjoint](26-64634_MPRH/) | - | Clôture: 2026-07-23
+- **26-1001** `🔴 URGENT` — [Travailleur social au Service de Prévention et Promotion de la Santé - Dispositif "Bien avec mon école"](26-1001/) | PVS | Clôture: 2026-07-23
+- **26-1012** `🔴 URGENT` — [Secrétaire général adjoint - pôle ressources](26-1012/) | - | Clôture: 2026-07-23
 - **26-0980** `🔴 URGENT` — [Adjointe d'éducation (dortoir fille)](26-0980/) | PVN | Clôture: 2026-07-23
 - **26-62379_MPRH** `🔴 URGENT` — [Chef du service de l'exécution budgétaire](26-62379_MPRH/) | DBAF | Clôture: 2026-07-23
 - **26-62434_MPRH** `🔴 URGENT` — [Chef du service du pilotage budgétaire et de la stratégie financière](26-62434_MPRH/) | DBAF | Clôture: 2026-07-23
+- **26-0950** `🔴 URGENT` — [Responsable du bureau des relations au public](26-0950/) | PVS | Clôture: 2026-07-23
+- **26-63159MPRH** `🔴 URGENT` — [Chargé d'études financières - PPI](26-63159MPRH/) | DBAF | Clôture: 2026-07-23
 - **26-63868_MPRH** `🔴 URGENT` — [Gestionnaire budgétaire](26-63868_MPRH/) | DBAF | Clôture: 2026-07-23
 - **26-63036_MPRH** `🔴 URGENT` — [Chargé d'études - contrats et marchés publics](26-63036_MPRH/) | DAPM | Clôture: 2026-07-23
-- **26-63159MPRH** `🔴 URGENT` — [Chargé d'études financières - PPI](26-63159MPRH/) | DBAF | Clôture: 2026-07-23
-- **26-0950** `🔴 URGENT` — [Responsable du bureau des relations au public](26-0950/) | PVS | Clôture: 2026-07-23
 - **26-63607_MPRH** `🔴 URGENT` — [Educateur spécialisé en hébergement collectif](26-63607_MPRH/) | DPJEJ | Clôture: 2026-07-23
 - **26-0812** `🔴 URGENT` — [Responsable du bureau financier et des moyens](26-0812/) | PVS | Clôture: 2026-07-23
 - **26-0818** `🔴 URGENT` — [Chef de service de la stratégie et de la production](26-0818/) | PVS | Clôture: 2026-07-23
@@ -97,8 +97,8 @@ __115 offres__
 - **26-0727** `🔴 URGENT` — [Medecin itinérant et de téléconsultation (Nouméa)](26-0727/) | PVN | Clôture: 2026-07-23
 - **26-0648** `🔴 URGENT` — [Travailleur Social au sein de la maison de l'enfance de Bourail](26-0648/) | PVS | Clôture: 2026-07-23
 - **26-0609** `🔴 URGENT` — [Responsable du bureau administratif et financier](26-0609/) | PVN | Clôture: 2026-07-23
-- **26-0620** `🔴 URGENT` — [1 référent carrière et temps de travail / analyste de gestion](26-0620/) | - | Clôture: 2026-07-23
 - **26-0606** `🔴 URGENT` — [Agent d'entretien - Ambulancier (Touho)](26-0606/) | PVN | Clôture: 2026-07-23
+- **26-0620** `🔴 URGENT` — [1 référent carrière et temps de travail / analyste de gestion](26-0620/) | - | Clôture: 2026-07-23
 - **26-0562** `🔴 URGENT` — [Educateur spécialisé ou moniteur éducateur à la maison de l'enfance de Dumbéa](26-0562/) | - | Clôture: 2026-07-23
 - **26-0538** `🔴 URGENT` — [CHIRURGIEN-DENTISTE](26-0538/) | PVN | Clôture: 2026-07-23
 - **26-0475** `🔴 URGENT` — [1 Educateur spécialisé programme prévention en addictologie](26-0475/) | ASS-NC | Clôture: 2026-07-23
@@ -120,6 +120,7 @@ __115 offres__
 - **26-1050** `🟢 EN COURS` — [Chargé de mission Valorisation du bagne](26-1050/) | PVS | Clôture: 2026-07-30
 - **26-1052** `🟢 EN COURS` — [Secrétaire général](26-1052/) | PVS | Clôture: 2026-07-30
 - **26-1025** `🟢 EN COURS` — [Educateur de rue](26-1025/) | - | Clôture: 2026-07-30
+- **26-1033** `🟢 EN COURS` — [Chargé(e) d'actions culturelles](26-1033/) | PVS | Clôture: 2026-07-30
 - **26-1026** `🟢 EN COURS` — [Educateur de rue   (2)](26-1026/) | - | Clôture: 2026-07-30
 - **26-1029** `🟢 EN COURS` — [Assistant recettes](26-1029/) | - | Clôture: 2026-07-30
 - **26-1024** `🟢 EN COURS` — [Animateur socio-éducatif](26-1024/) | - | Clôture: 2026-07-30
@@ -132,7 +133,6 @@ __115 offres__
 - **26-1049** `🟢 EN COURS` — [Chargé de contact clientèle - Agence de Lifou](26-1049/) | OPT | Clôture: 2026-07-30
 - **26-1023** `🟢 EN COURS` — [Directeur](26-1023/) | ARDC-NC | Clôture: 2026-07-30
 - **26-1044** `🟢 EN COURS` — [Gestionnaire recrutement - service recrutement développement des compétences et prévention](26-1044/) | CHT | Clôture: 2026-07-30
-- **26-1033** `🟢 EN COURS` — [Chargé(e) d'actions culturelles](26-1033/) | PVS | Clôture: 2026-07-30
 - **26-1032** `🟢 EN COURS` — [Adjoint au chef de service](26-1032/) | PVS | Clôture: 2026-07-30
 - **26-1051** `🟢 EN COURS` — [Directeur (trice) adjoint](26-1051/) | PVS | Clôture: 2026-07-30
 - **26-1054** `🟢 EN COURS` — [Agent administratif et logistique](26-1054/) | - | Clôture: 2026-07-30
@@ -145,10 +145,10 @@ __115 offres__
 - **26-63595_MPRH** `🟢 EN COURS` — [Conseiller médical Prévention, Promotion de la santé](26-63595_MPRH/) | DASS | Clôture: 2026-07-30
 - **26-0822** `🟢 EN COURS` — [Attaché chargé de l'intercommunalité et de la recherche de financement](26-0822/) | - | Clôture: 2026-07-30
 - **26-0738** `🟢 EN COURS` — [Médecin au centre médico-scolaire](26-0738/) | PVS | Clôture: 2026-07-30
-- **26-1083** `🟢 EN COURS` — [Chirurgien-dentiste cabinet dentaire de la Roche NENGONE](26-1083/) | PIL | Clôture: 2026-08-06
 - **26-1061** `🟢 EN COURS` — [Rapporteur](26-1061/) | Autorité de la concurrence de Nouvelle-Calédonie | Clôture: 2026-08-06
 - **26-1074** `🟢 EN COURS` — [Secrétaire général(e) adjoint(e)](26-1074/) | - | Clôture: 2026-08-06
 - **26-1060** `🟢 EN COURS` — [Agent d'accueil](26-1060/) | - | Clôture: 2026-08-06
+- **26-1083** `🟢 EN COURS` — [Chirurgien-dentiste cabinet dentaire de la Roche NENGONE](26-1083/) | PIL | Clôture: 2026-08-06
 - **26-1085** `🟢 EN COURS` — [3 Médecins CMS de Tadine MARE](26-1085/) | PIL | Clôture: 2026-08-06
 - **26-1084** `🟢 EN COURS` — [3 Médecins au CMS de Chepenehe LIFOU](26-1084/) | PIL | Clôture: 2026-08-06
 - **26-1082** `🟢 EN COURS` — [Chirurgien-dentiste cabinet dentaire Hnawayatch MARE](26-1082/) | PIL | Clôture: 2026-08-06
@@ -211,9 +211,9 @@ __2 offres__
 
 __18 offres__
 
-- **26-0997** `🔴 URGENT` — [Coordinatrice de la prévention](26-0997/) | PIL | Clôture: 2026-07-23
 - **26-1005** `🔴 URGENT` — [Infirmier(e)](26-1005/) | CHN | Clôture: 2026-07-23
 - **26-1002** `🔴 URGENT` — [Infirmier(ère) anesthésiste diplômé d'Etat itinérant(e)](26-1002/) | PVS | Clôture: 2026-07-23
+- **26-0997** `🔴 URGENT` — [Coordinatrice de la prévention](26-0997/) | PIL | Clôture: 2026-07-23
 - **26-0381** `🔴 URGENT` — [INFIRMIER EN SOINS GENERAUX  - Touho](26-0381/) | PVN | Clôture: 2026-07-23
 - **26-0883** `🔴 URGENT` — [Infirmier(e) en soins généraux à Touho](26-0883/) | PVN | Clôture: 2026-07-23
 - **26-0882** `🔴 URGENT` — [Infirmier(e) en soins généraux à Belep](26-0882/) | PVN | Clôture: 2026-07-23
