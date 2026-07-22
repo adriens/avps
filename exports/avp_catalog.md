@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 164 offres extraites de la DRHFPNC.
+Ce document regroupe 166 offres extraites de la DRHFPNC.
 
 # 25-1281 - Médecin itinérant en province Sud
 
@@ -26892,6 +26892,321 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Autres filières](../#autres-filieres)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-64716_MPRH - Chef de service des collectivités locales et des établissements publics
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cb757d8973e87ffb03ad8c3a2be9ee37/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64716/MPRH - Chef de service des collectivités locales et des établissements publics",
+  "description": "Domaine: Autres filières. Direction: Direction du budget et des affaires financières",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction du budget et des affaires financières",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64716_MPRH/",
+  "datePosted": "2026-07-19",
+  "validThrough": "2026-08-05",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-64716/MPRH du 2026-07-20**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-05  
+    **Direction :** DBAF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : attaché Direction du budget et des affaires financières (DBAF)**
+
+**Service des collectivités locales et des établissements publics**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** **Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-07-20
+
+**Date limite de candidature :** Jeudi 2026-08-06
+
+**Poste à pourvoir :** vacant à partir du 2026-09-01
+
+La direction du budget et des affaires financières (DBAF), composée de 63 agents, assure la préparation, le pilotage, l'exécution et le suivi du budget de la Nouvelle-Calédonie. Elle exerce également des missions d'analyse financière, de stratégie budgétaire, de contrôle financier et d'accompagnement des établissements publics et des collectivités locales.
+
+Dans un contexte marqué par les contraintes pesant sur les finances publiques et par la mise en œuvre du Plan d'évolution de l'administration (PEA), la DBAF poursuit sa transformation afin de renforcer ses capacités d'analyse financière, de pilotage et d'aide à la décision.
+
+La direction conduit actuellement plusieurs projets structurants visant à moderniser la fonction financière de la collectivité, renforcer la qualité de l'information financière et développer les outils d'analyse nécessaires à l'évaluation des politiques publiques et à la soutenabilité financière des acteurs publics.
+
+Dans ce cadre, le service des collectivités locales et des établissements publics occupe une place essentielle dans le suivi financier du secteur public local. Il assure la tutelle financière des établissements publics de la Nouvelle-Calédonie, accompagne les collectivités locales dans le cadre des compétences exercées par la collectivité et contribue à la production des analyses financières nécessaires à la décision publique.
+
+Le futur chef de service sera associé aux réflexions conduites dans le cadre du Plan d'évolution de l'administration visant à renforcer les capacités d'analyse financière de la direction et à développer de nouveaux outils d'aide à la décision au bénéfice des institutions de la Nouvelle-Calédonie.
+
+# Détails de l'offre 
+**Emploi RESPNC :** Responsable financier
+
+Le chef du service des collectivités locales et des établissements publics encadre une équipe de neuf agents et assure le pilotage des missions de contrôle financier, d'accompagnement et d'analyse financière relevant du périmètre du service.
+
+A ce titre, il veille à la qualité des analyses produites, assure le suivi financier des établissements publics et des collectivités locales et apporte son expertise à la direction ainsi qu'aux autorités de la collectivité.
+
+Le service est notamment chargé :
+
+- De la tutelle administrative et financière des établissements publics de la Nouvelle-Calédonie ;
+- De la gestion des dotations, reversements et recettes affectées relevant de la compétence de la Nouvelle-Calédonie ;
+- Du secrétariat et de l'organisation des instances relevant du périmètre du service, notamment du fonds intercommunal de péréquation ;
+- De la préparation et du suivi des budgets annexes de la Nouvelle-Calédonie ;
+- De la réalisation d'études, d'analyses financières et audits.
+
+#### Missions 
+### Activités principales : Manager et piloter l'activité du service
+
+Organiser, coordonner et superviser les activités du service. Définir les priorités de travail, accompagner le développement des compétences des agents et garantir la qualité des analyses produites. Veiller au respect des échéances et assurer le reporting régulier auprès de la direction.
+
+Assurer la tutelle administrative et financière des établissements publics de la
+
+Nouvelle-Calédonie
+
+Piloter l'instruction des budgets, comptes financiers et documents stratégiques des établissements publics. Analyser leur situation financière, identifier les risques susceptibles d'affecter leur équilibre financier et proposer les mesures ou recommandations adaptées. Assurer un rôle d'accompagnement et de conseil auprès des établissements et des autorités de la collectivité.
+
+Organiser les travaux du fonds intercommunal de péréquation; Veiller à la bonne gestion des dotations, reversements et recettes affectées relevant de la compétence de la Nouvelle-Calédonie.
+
+Produire les analyses financières nécessaires à la décision publique Préparer les études, notes, rapports et avis financiers destinés au gouvernement, au Congrès et à la direction. Contribuer à l'évaluation des impacts financiers des décisions publiques et participer aux travaux d'analyse financière relatifs aux établissements publics.
+
+Contribuer aux projets de modernisation et aux évolutions de la fonction
+
+financière
+
+Participer aux projets structurants conduits par la DBAF dans le cadre du Plan
+
+d'évolution de l'administration.
+
+Contribuer à l'amélioration des outils de pilotage, au développement des méthodes d'analyse financière et aux réflexions relatives à l'évolution de
+
+l'organisation financière de la collectivité.
+
+# Activités secondaires : Participer aux projets d'harmonisation des pratiques financières des
+
+établissements publics ;
+
+Contribuer aux projets transversaux de la direction ;
+
+Participer à l'animation des réseaux métiers et des échanges de bonnes
+
+pratiques financières.
+
+| Profil du candidat     | Savoir / Connaissances / Diplôme exigé :                        |
+|------------------------|-----------------------------------------------------------------|
+|                        | Tél: [📞 25 60 82](tel:256082) / mail : [✉️ ronan.labbe@gouv.nc](mailto:ronan.labbe@gouv.nc)                      |
+|                        | Tél: [📞 25 60 82](tel:256082) / mail : [✉️ gwenaelle.deveaux@gouv.nc](mailto:gwenaelle.deveaux@gouv.nc)                |
+| Informations salaire : | https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf |
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dbaf)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-64754_MPRH - Secrétaire
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b1aff514f251495e6ca12d7ccabb5445/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64754/MPRH - Secrétaire",
+  "description": "Domaine: Autres filières. Direction: Direction des services fiscaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des services fiscaux",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64754_MPRH/",
+  "datePosted": "2026-07-19",
+  "validThrough": "2026-08-05",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-64754/MPRH du 2026-07-20**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-05  
+    **Direction :** DSF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : adjoint administratif Direction des services fiscaux (DSF)**
+
+**Service de la fiscalité professionnelle**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** Pour le recrutement direct adjoint administratif : au moins égale à 10 ans.
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-07-20
+
+**Date limite de candidature :** Jeudi 2026-08-06
+
+**Poste à pourvoir :** vacant à partir du 2026-07-01
+
+La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.
+
+## Détails de l'offre 
+**Emploi RESPNC :** Secrétaire
+
+L'agent est en charge des tâches de secrétariat pour deux services de la DSF, le service de la fiscalité des professionnels à l'impôt sur les sociétés (SFPro IS) et le service de la fiscalité immobilière et du patrimoine (SFIP). **Missions :**
+
+- **Activités principales :** Accueil physique et téléphonique du public ;
+  - Gestion du courrier entrant et sortant ;
+  - Numérisation de documents ;
+  - Saisie d'informations dans Pacifisc ;
+  - Gestion du stock des fournitures ;
+  - Classement et archivage des dossiers.
+
+**Activités secondaires :** - Force de proposition dans l'amélioration des procédures de travail relatives au
+
+secrétariat ;
+
+- Prendre en charge la gestion de la BALF professionnelle en alternance avec le
+
+SFPRO IR en cas d'absence du responsable de la CIS.
+
+**Profil du candidat** Savoir / Connaissances / Diplôme exigé :
+
+- Techniques de secrétariat ;
+- Notions en matière d'impôt sur le revenu, impôt sur les sociétés ;
+- Maîtrise des outils bureautiques : Google Workspace (Docs, Sheets, Drive) et des applications métiers (Cica, Pacifisc).
+
+- Maitriser les délais de traitement des courriers ;
+- Savoir répondre efficacement au téléphone ;
+- Respecter les procédures internes de travail ;
+- S'adapter aux évolutions (réglementation applicable, outils informatiques et organisation du service).
+
+Comportement professionnel :
+
+- Méthode, rigueur et sens de l'organisation ;
+- Sens du travail en équipe et de la solidarité ;
+- Discrétion et respect légal du secret professionnel ;
+- Autonomie ;
+- Sens du service public ;
+- Travailler en bonne entente avec l'ensemble du service et les autres services de la DSF.
+
+### Contact et informations complémentaires 
+M. Edmond ROSAIRE, chef du service de la fiscalité des professionnels à l'impôt
+
+sur les sociétés
+
+Tél: [📞 25 76 51](tel:257651) / mail : *[✉️ edmond.rosaire@gouv.nc](mailto:edmond.rosaire@gouv.nc)* ou
+
+Mme Camille BARBAZAN, Cheffe du service de la fiscalité immobilière et du
+
+patrimoine (SFIP)
+
+Tél: [📞 25 76 49](tel:257649) / mail : *[✉️ camille.barbazan@gouv.nc](mailto:camille.barbazan@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dsf)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
