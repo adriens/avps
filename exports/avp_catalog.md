@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 199 offres extraites de la DRHFPNC.
+Ce document regroupe 203 offres extraites de la DRHFPNC.
 
 # 25-1281 - Médecin itinérant en province Sud
 
@@ -1164,6 +1164,158 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 *[PMI]: Protection Maternelle et Infantile
 *[IVG]: Interruption Volontaire de Grossesse
 *[IST]: Infections Sexuellement Transmissibles
+
+
+---
+
+# 25-1769 - Médecin au centre de protection maternelle et infantile
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d9782ca7b38f95078137fc884c85b47/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "25-1769 - Médecin au centre de protection maternelle et infantile",
+  "description": "Domaine: Autres filières. Direction: Province Sud",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/25-1769/",
+  "datePosted": "2025-11-07",
+  "validThrough": "2026-08-07",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-07  
+    **Direction :** PVS  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Corps ou Cadre d'emploi /Domaine : Médecin**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1): inférieure à 3 ans**
+
+**Poste à pourvoir :** Immédiatement
+
+**Direction Provinciale de l'Action Sanitaire et Sociale**
+
+**Lieu de travail : Nouméa**
+
+**Date de dépôt de l'offre :** vendredi 2025-11-07
+
+**Date limite de candidature :** Vendredi 2026-08-07
+
+## La date de clôture initialement prévue le 2026-07-10 a été reportée.
+
+## Détails de l'offre 
+La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux et de ses autres sites
+
+excentrés.
+
+Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
+
+Au sein du pôle santé et territoires, l'unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire.
+
+### Emploi RESPNC 
+## 🎯 Missions
+
+- D'assurer la vaccination des enfants de 0 à 6 ans dans le cadre de la médecine préventive et curative ;
+- D'assurer les consultations de suivi des nourrissons et des enfants et de réaliser le dépistage de troubles somatiques et du développement psychomoteur ou du lien d'attachement ;
+- De participer au dépistage et à la surveillance des mineurs en danger. Il ou elle peut être amené(e) en relation avec le service de protection de l'enfance (SPE) à faire des signalements pouvant mener soit à une enquête d'évaluation sociale, soit à une mesure d'accompagnement administrative ou judiciaire, soit à un placement ;
+- De suppléer le médecin responsable lors des commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH) ;
+- D'intervenir lors de séances de promotion de la santé dans le domaine de la PMI en lien avec le service de prévention et de promotion de la santé (SPPS) ;
+- De participer à la mise œuvre des référentiels de suivis pédiatriques ;
+- De participer à des ateliers de guidance parentale et éducative à destination du public de la PMI en fonction des projets du service ;
+- D'assurer des liens avec la médecine scolaire pour les enfant suivis à la PMI avec des pathologies ou handicaps pouvant avoir un retentissement sur la scolarité ;
+- De collaborer avec l'équipe du CMS.
+
+### Caractéristiques particulières de l'emploi 
+Le poste nécessite autonomie, capacité d'adaptation et prise d'initiatives en concertation avec le médecin responsable. Le poste est rattaché à l'UPASS de Nouméa (centre de Montravel), et nécessite des déplacements sur tous les sites de la province Sud.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Connaissances de la population néo-calédonienne
+- Connaissances de l'allaitement
+- Connaissances sur les mécanismes et les théories de l'attachement et des principes de la dynamique familiale et de l'accordage parents-enfants
+- Concepts de la promotion de la santé au sens de la Charte d'Ottawa
+- Capacités à prendre en charge avec efficacité et bienveillance un public en situation de vulnérabilité
+- Capacités à travailler dans le cadre du réseau périnatalité en Nouvelle-Calédonie, des services sociaux et des services de la protection de l'enfance
+
+### Savoir-faire 
+- Expérience en protection maternelle et infantile exigée
+- Expérience dans le domaine de la protection de l'enfance
+- Maîtrise de la pratique pédiatrique et du domaine de la gynécologie obstétricale
+
+### Comportement professionnel 
+- Sens de l'écoute
+- Empathie
+- Patience
+- Maîtrise de soi
+- Capacités à animer et à communiquer avec un public varié
+- Capacités à travailler en équipe pluridisciplinaire
+- Capacités à répondre aux demandes institutionnelles et aux demandes du responsable de service
+- Déplacements possibles à prévoir
+- Disponibilité
+
+### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter Mme Florence BRANCHU – Responsable UPASS de Nouméa - Tél. : [📞 20 44 71](tel:204471) / e-mail : [✉️ florence.branchu@province-sud.nc](mailto:florence.branchu@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
+
+- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
+- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
+- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
+- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
+- Fax : [📞 20.30.12](tel:203012)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
+*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
+*[AVP]: Avis de Vacance de Poste
+*[PMI]: Protection Maternelle et Infantile
 
 
 ---
@@ -25729,6 +25881,175 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 ---
 
+# 26-63258_MPRH - Educateur spécialisé en hébergement collectif
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/43a46b71299b3eea8a3747e33be3c6f7/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-63258/MPRH - Educateur spécialisé en hébergement collectif",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Païta"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.1333,
+      "longitude": 166.35
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-63258_MPRH/",
+  "datePosted": "2026-05-22",
+  "validThrough": "2026-08-07",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-63258/MPRH du 2026-05-22**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-07  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Corps ou Cadre d'emploi /Domaine : assistant socioéducatif**
+
+**Direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ)**
+
+**Etablissement de placement éducatif - foyer d'action éducative de Paita**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** Assistant socio-éducatif : au moins égale à 5 ans.
+
+**Lieu de travail :** Païta
+
+**Date de dépôt de l'offre :** Vendredi 2026-05-22
+
+**Date limite de candidature :** Vendredi 2026-08-07
+
+**Poste à pourvoir :** immédiatement
+
+# Modification de la date de clôture initialement prévue le 2026-07-31
+
+La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ) a été créée en novembre 2016. Cette direction est en charge de missions de prévention et de lutte dans le cadre de la protection de l'enfance et de l'enfance délinquante.
+
+Détails de l'offre :
+
+**Emploi RESPNC :** Educateur spécialisé
+
+Placé sous l'autorité du chef de service éducatif de l'établissement de placement éducatif, l'éducateur en hébergement collectif intervient sur mandat judiciaire au titre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (article 375 et suivants du code civil). **Missions :**
+
+**Activités principales :** - Accueillir les mineurs, filles et garçons, âgés de 13 à 18 ans placés en
+
+hébergement collectif ;
+
+- Réaliser un accompagnement individualisé dans le respect des prescriptions
+
+judiciaires ordonnées ;
+
+- Amener le mineur à construire son projet d'insertion sociale et /ou professionnelle en proposant un accompagnement adapté et individualisé ; - Organiser et participer aux suivis scolaires et mettre en place des activités de
+
+médiation éducative en dehors des temps scolaires ;
+
+- Faire le lien avec le milieu familial ;
+
+- Élaborer les propositions socio-éducatives ;
+
+- Rédiger les notes et rapports éducatifs aux magistrats dans le cadre de l'aide à
+
+la décision judiciaire.
+
+**Activités secondaires :** - Organiser les camps et centres de vacances ;
+
+- Conduire des actions collectives en équipe pluridisciplinaire.
+
+**Caractéristiques particulières de**
+
+**l'emploi :**
+
+- Être titulaire du permis de conduire B ;
+
+- Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs
+
+pris en charge.
+
+- Titulaire du diplôme d'état d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ;
+
+- Connaissance de la société néo-calédonienne ;
+- Connaissance du réseau partenarial social de la Nouvelle-Calédonie.
+
+#### Savoir-faire 
+- S'adapter aux problématiques individuelles et collectives des usagers ;
+- Travailler en équipe éducative et pluri professionnelle.
+- Être capable d'alterner l'accompagnement individuel de mineurs avec l'animation des temps collectifs.
+
+Comportement professionnel :
+
+- Sens du travail en équipe éducative et pluri professionnelle ;
+- Sens de l'écoute ;
+- Engagement professionnel dans un projet collectif à construire ;
+- Empathie ;
+- Déontologie ;
+- Disponibilité.
+
+### Contact et informations complémentaires 
+Jeenah CASE, chef de service éducatif du FAEP Tél: [📞 44 69 74](tel:446974) / mail : *[✉️ jeenah.case@gouv.nc](mailto:jeenah.case@gouv.nc)*
+
+**Informations salaire :** [https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante\\_0.pdf](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
 # 26-63338_MPRH - Inspecteur du travail
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/58a62c711187d2356754fb090ef34242/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -30631,6 +30952,279 @@ Merci d'envoyer au plus tard le **Vendredi 2026-08-21** votre candidature accomp
 - 🏢 [Toutes les offres DRHFPNC](./?direction=dccfc)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-65053_MPRH - Assistant administratif
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/45bdd2e921cd02998f1997447030c19a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65053/MPRH - Assistant administratif",
+  "description": "Domaine: Autres filières. Direction: Direction des affaires sanitaires et sociales",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des affaires sanitaires et sociales",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65053_MPRH/",
+  "datePosted": "2026-08-03",
+  "validThrough": "2026-08-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65053/MPRH du 2026-08-03**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-28  
+    **Direction :** DASS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : adjoint administratif Direction des affaires sanitaires et sociales (DASS)**
+
+**Service de l'offre et de la qualité de soin**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** Pour le recrutement direct d'un adjoint administratif : au moins égale à 10 ans.
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-08-03
+
+**Date limite de candidature :** Vendredi 2026-08-28
+
+**Poste à pourvoir :** immédiatement
+
+La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie. Elle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé et de protection sociale.
+
+Elle comprend un service administration et support et quatre services métiers.
+
+Le service de l'offre et de la qualité des soins est chargé de l'organisation, de la régulation et du contrôle de
+
+- L'offre de soins, des acteurs et des produits de santé. A ce titre, il est chargé de :
+- L'élaboration et à la mise en œuvre du projet territorial de santé ;
+- Réguler l'offre de soins, planifier, programmer les activités des offreurs de soins ;
+- Autoriser les activités de soins et d'équipements matériels lourds ;
+- Contractualiser et allouer les ressources ;
+- Garantir la performance, l'efficience, la qualité et la sécurité du système de santé, des soins et des produits de santé ;
+
+- Assurer l'animation territoriale et l'accompagnement des offreurs de soins.
+
+## Détails de l'offre 
+Placé sous l'autorité du chef de service de l'offre et de la qualité des soins, l'assistant administratif assure la gestion administrative des enregistrements des professions de santé ainsi que des missions relevant du service. **Missions :**
+
+**Activités principales :** L'assistant(e) administratif(ive) a en charge:
+
+- L'accueil physique et téléphonique des professionnels de santé ; - l'enregistrement des diplômes de professionnels de santé ;
+
+- La mise à jour des professionnels de santé et la mise à jour de l'annuaire des
+
+professionnels de santé;
+
+- La délivrance des attestations correspondantes à la demande ;
+
+- La gestion de la boite fonctionnelle dédiée ;
+
+- Instruire les dossiers de demande d'exercice des infirmiers libéraux ;
+
+- L'archivage et le classement des dossiers du service.
+
+**Activités secondaires :** L'assistant administratif peut participer à la gestion administrative auprès des
+
+autres services de la DASS en cas de besoin, plus particulièrement: - pour la gestion des courriers CICA, en cas d'absence d'un secrétariat ; - pour l'accueil téléphonique et physique des usagers, au sein des autres
+
+| Profil du candidat     | Savoir / Connaissances / Diplôme exigé :                        |
+|------------------------|-----------------------------------------------------------------|
+|                        | mail : [✉️ direction.dass@gouv.nc](mailto:direction.dass@gouv.nc)                                   |
+|                        | Tél: [📞 24 37 27](tel:243727) / mail : [✉️ carole.perraudeau@gouv.nc](mailto:carole.perraudeau@gouv.nc)                |
+| Informations salaire : | https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf |
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dass)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-65054_MPRH - Assistant administratif
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9a448a9464d9b7c992a30de3d06ce23e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65054/MPRH - Assistant administratif",
+  "description": "Domaine: Autres filières. Direction: Direction des affaires sanitaires et sociales",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des affaires sanitaires et sociales",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65054_MPRH/",
+  "datePosted": "2026-08-03",
+  "validThrough": "2026-08-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65054/MPRH du 2026-08-03**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-28  
+    **Direction :** DASS  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : adjoint administratif Direction des affaires sanitaires et sociales (DASS)**
+
+**Service de l'offre et de la qualité de soin**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** Pour le recrutement direct d'un adjoint administratif : au moins égale à 10 ans.
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-08-03
+
+**Date limite de candidature :** Vendredi 2026-08-28
+
+**Poste à pourvoir :** immédiatement
+
+La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie. Elle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé et de protection sociale.
+
+Elle comprend un service administration et support et quatre services métiers.
+
+Le service de l'offre et de la qualité des soins est chargé de l'organisation, de la régulation et du contrôle de
+
+- L'offre de soins, des acteurs et des produits de santé. A ce titre, il est chargé de :
+- L'élaboration et à la mise en œuvre du projet territorial de santé ;
+- Réguler l'offre de soins, planifier, programmer les activités des offreurs de soins ;
+- Autoriser les activités de soins et d'équipements matériels lourds ;
+- Contractualiser et allouer les ressources ;
+- Garantir la performance, l'efficience, la qualité et la sécurité du système de santé, des soins et des produits de santé ;
+- Assurer l'animation territoriale et l'accompagnement des offreurs de soins.
+
+## Détails de l'offre 
+**Emploi RESPNC :** Assistant administratif
+
+Placé sous l'autorité du chef de service de l'offre et de la qualité des soins, l'assistant administratif assure la gestion administrative des enregistrements des professions de santé ainsi que des missions relevant du service. **Missions :**
+
+- **Activités principales :** L'assistant(e) administratif(ive) a en charge:
+  - L'accueil physique et téléphonique des professionnels de santé ;
+  - L'enregistrement des diplômes de professionnels de santé ;
+  - La mise à jour des professionnels de santé et la mise à jour de l'annuaire des professionnels de santé ;
+  - La délivrance des attestations correspondantes à la demande ;
+  - La gestion de la boite fonctionnelle dédiée ;
+  - Instruire les dossiers de demande d'exercice des infirmiers libéraux ;
+  - L'archivage et le classement des dossiers du service.
+
+| Activités secondaires : | L'assistant administratif peut participer à la gestion administrative auprès des |
+|-------------------------|----------------------------------------------------------------------------------|
+| Profil du candidat      | Savoir / Connaissances / Diplôme exigé :                                         |
+|                         | mail : [✉️ direction.dass@gouv.nc](mailto:direction.dass@gouv.nc)                                                    |
+|                         | Tél: [📞 24 37 27](tel:243727) / mail : [✉️ carole.perraudeau@gouv.nc](mailto:carole.perraudeau@gouv.nc)                                 |
+| Informations salaire :  | https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf                  |
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dass)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
