@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 192 offres extraites de la DRHFPNC.
+Ce document regroupe 193 offres extraites de la DRHFPNC.
 
 # 25-1593 - Médecin à l'UPASS de Bourail
 
@@ -22384,6 +22384,136 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 - Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
 
 (1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-1194 - 2 infirmier(e)s en médecine interne et maladies infectieuses
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f65e2fe44684f398f5eda05c623a6ad6/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1194 - 2 infirmier(e)s en médecine interne et maladies infectieuses",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1194/",
+  "datePosted": "2026-08-07",
+  "validThrough": "2026-08-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+# Détails de l'offre 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-28  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 📋 En cours
+
+
+### �� **À propos du poste**
+
+Le service de médecine interne et maladies infectieuses assure une prise en charge polyvalente des cas complexes : maladies systémiques, infections sévères/tropicales, hémopathies, avis spécialisés.
+
+**Pour en savoir plus sur notre établissement et le service de médecine interne, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret*
+
+### �� **Missions :**
+
+L'infirmier(ère) intégré(e) au service doit assurer une prise en charge globale, sécurisée et individualisée des patients présentant des pathologies aiguës ou chroniques complexes, notamment des maladies infectieuses, auto-immunes, inflammatoires ou multisystémiques. Il veille à la continuité des soins, à la prévention des complications, à l'éducation thérapeutique et à la coordination avec l'équipe pluridisciplinaire.
+
+#### Activités principales 
+- Évaluer les besoins des patients et participer à l'élaboration de leur projet de soins.
+- Réaliser les soins infirmiers et assurer la surveillance de l'état de santé des patients.
+- Détecter et prendre en charge les complications liées aux pathologies ou aux traitements.
+- Accompagner, informer et éduquer les patients ainsi que leurs proches.
+- Assister les médecins lors des actes et examens médicaux.
+- Assurer la traçabilité des soins et la mise à jour du dossier patient.
+- Coordonner la prise en charge des patients en lien avec l'équipe pluridisciplinaire.
+- Veiller au respect des protocoles d'hygiène, à la gestion du matériel et à l'élimination des déchets de soins.
+
+## ��**Profil du candidat :**
+
+- **Titulaire du diplôme d'État d'infirmier / infirmière en soins généraux**
+- Formation AFGSU niveau 2 à jour attendues
+- Connaissances de pathologies rencontrées en oncologie et hématologie
+- Connaissances des pathologies en lien avec les maladies infectieuses.
+- Rigueur, sens de l'organisation et de la planification, autonomie, capacité d'adaptation et excellent relationnel pour travailler en équipe pluridisciplinaire sont indispensable pour occuper ces fonctions
+- Ce poste exige une gestion du stress, de la discrétion professionnelle et un sens de l'écoute et de l'empathie
+- Le service de MIMIH est un service requérant rigueur technique et qualités relationnelles : gestion des situations aiguës, coordination pluridisciplinaire, éducation thérapeutique et accompagnement des patient(e)s et de leurs proches.
+
+## 2 Infirmier(e)s en médecine interne et maladies infectieuses
+
+**Référence : 3134-26-1194/SR du 2026-08-07**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** susceptible d'être vacant
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-08-07
+
+**Date limite de candidature :** Vendredi 2026-08-28
+
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Primes spécifiques (nuit, week-end…)
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie *(cadre de la santé de [Nouvelle-Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante.pdf)*
+- Prise en charge du billet aller uniquement
+
+ℹ️ **Contact et informations complémentaires :** Pour toutes informations supplémentaires, veuillez contacter Alice HONAKOKO -Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) – poste 8054 - mail : [✉️ alice.honakoko@cht.nc](mailto:alice.honakoko@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+### *2 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/8164855-2-infirmier-e-s-en-medecine-interne-et-maladies-infectieuses) en médecine interne et maladies infectieuses - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
 
 *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
 ---
