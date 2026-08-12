@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 193 offres extraites de la DRHFPNC.
+Ce document regroupe 191 offres extraites de la DRHFPNC.
 
 # 25-1593 - Médecin à l'UPASS de Bourail
 
@@ -10245,264 +10245,6 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 
 ---
 
-# 26-1111 - 6 Infirmier(e)s de bloc opératoire
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4546143b6f754aeb4a31c70f5a91fc3a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1111 - 6 Infirmier(e)s de bloc opératoire",
-  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Nouvelle-Calédonie"
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1111/",
-  "datePosted": "2026-07-23",
-  "validThrough": "2026-08-13",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1011/SR du 2026-07-24**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-08-13  
-    **Direction :** CHT  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
-
-**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
-
-**Poste à pourvoir :** Immédiatement
-
-**Direction de la coordination des soins**
-
-**Lieu de travail : Médipôle Koutio**
-
-**Date de dépôt de l'offre :** Vendredi 2026-07-24
-
-**Date limite de candidature :** Vendredi 2026-08-14
-
-# Détails de l'offre 
-#### �� **À propos du poste :**
-
-Le bloc opératoire assure les interventions programmées et urgentes sur des spécialités variés telles que l'orthopédie, l'ORL, thoracique…
-
-**Pour en savoir plus sur notre établissement et le bloc opératoire, cliquez sur le lien suivant :**[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
-
-#### �� Missions 
-L'infirmier / infirmière de bloc opératoire réalise des soins infirmiers afin de maintenir ou de restaurer la santé du patient et l'accompagner. Par ces activités, il contribue à la prévention, au dépistage, au diagnostic, au traitement et à la recherche.
-
-#### Activités principales 
-- Recueil des données cliniques, des besoins et des attentes du patient et de l'entourage
-- Etablissement du projet de soins et de la planification des activités
-- Réalisation, contrôle des soins infirmiers et accompagnement du patient et de l'entourage
-- Surveillance de l'évolution de l'état de santé des patients
-- Assistance technique lors de soins dispensés par le médecin Information et éducation du patient et de l'entourage
-- Rédaction et mise à jour du dossier du patient
-- Accueil et encadrement pédagogique des étudiants, des stagiaires et des personnels encadrés
-- Coordination et organisation des activités et des soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
-- Réalisation d'études et de travaux de recherche et veille professionnelle
-- Gestion et contrôle des produits, des matériels et des dispositifs médicaux
-- Mise en œuvre des procédures d'élimination des déchets
-
-### ��Profil du candidat 
-- **- Titulaire du diplôme d'état d'infirmier de bloc opératoire**
-- Formation AFGSU niveau 2 attendu
-- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
-
-#### �� Conditions de travail et avantages 
-- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
-- Primes spécifiques (nuit, week-end…)
-- Reprise de l'ancienneté possible selon la réglementation en vigueur
-- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie *(Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*
-- Prise en charge du billet aller / retour
-
-### ℹ️ Contact et informations complémentaires 
-Pour toutes informations supplémentaires, veuillez contacter François PERRAUDEAU Cadre supérieur de santé - *tél : [📞 20.80.00](tel:208000) - Poste 8068/ mail : [✉️ françois.perraudeau@cht.nc](mailto:françois.perraudeau@cht.nc)*
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
-
-# 6 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/8091043-6-infirmier-e-s-de-bloc-operatoire-ibode) de bloc opératoire (IBODE) - CHT Gaston Bourret
-
-En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
-
-- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[CHT]: Centre Hospitalier Territorial
-
-
----
-
-# 26-1112 - 6 Infirmier(e)s en soins généraux au bloc opératoire
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d7456e7bd5ef9d9178dad8a5ff98017/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1112 - 6 Infirmier(e)s en soins généraux au bloc opératoire",
-  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Nouvelle-Calédonie"
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1112/",
-  "datePosted": "2026-07-23",
-  "validThrough": "2026-08-13",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-## 6 Infirmier(e)s en soins généraux au bloc opératoire
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-08-13  
-    **Direction :** CHT  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1112/SR du 2026-07-24**
-
-## 🏢 Employeur
-
-**Corps /Domaine :** Infirmier(ère) en soins généraux - Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
-
-**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
-
-**Poste à pourvoir :** Immédiatement
-
-**Direction de la coordination des soins**
-
-**Lieu de travail : Médipôle Koutio**
-
-**Date de dépôt de l'offre :** Vendredi 2026-07-24
-
-**Date limite de candidature :** Vendredi 2026-08-14
-
-# Détails de l'offre 
-# �� **À propos du poste :**
-
-![](_page_0_Picture_14.jpeg)
-
-Au sein du bloc opératoire, vous exercez en tant qu'infirmier(e) de bloc opératoire (IBO) et intervenez au cœur de la prise en charge péri-opératoire du patient. En étroite collaboration avec les chirurgiens, les anesthésistes et l'ensemble de l'équipe pluridisciplinaire, vous participez activement à la préparation, à l'organisation et au bon déroulement des interventions chirurgicales.
-
-**Pour en savoir plus sur notre établissement et le service du bloc opératoire, cliquez sur le lien suivant :** [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
-
-## �� **Missions :**
-
-- Recueil des données cliniques, des besoins et des attentes du patient et de l'entourage
-- Etablissement du projet de soins et de la planification des activités
-- Réalisation, contrôle des soins infirmiers et accompagnement du patient et de l'entourage
-- Surveillance de l'évolution de l'état de santé des patients
-- Assistance technique lors de soins dispensés par le médecin
-- Information et éducation du patient et de l'entourage
-- Rédaction et mise à jour du dossier du patient
-- Accueil et encadrement pédagogique des étudiants, des stagiaires et des personnels encadrés
-- Coordination et organisation des activités et des soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
-- Réalisation d'études et de travaux de recherche et veille professionnelle
-- Gestion et contrôle des produits, des matériels et des dispositifs médicaux
-- Mise en œuvre des procédures d'élimination des déchets
-
-#### ��Profil du candidat 
-- Titulaire du **diplôme d'état d'infirmier / infirmier en soins généraux**
-- **- Expérience de 2 ans au bloc opératoire attendu**
-- Formation AFGSU niveau 2 attendu
-- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
-- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande polyvalence et gestion du stress.
-
-#### ��Conditions de travail et avantages 
-- Travail en horaires adaptés à l'activité du bloc (week-ends, nuit, jours fériés et chômé)
-- Primes spécifique (nuit, bloc, week-end…) selon statut
-- Reprise de l'ancienneté possible selon la réglementation en vigueur
-- Prise en charge du billet aller uniquement
-- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
-
-Pour toutes informations supplémentaires, veuillez contacter François Perraudeau Cadre supérieur de santé du CHT tél : [📞 20.80.00](tel:208000) - mail : *[francois.perraudeau@cht.nc](mailto:francois.perraudeau@cht.nc)*
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
-
-#### 6 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/8091044-6-infirmier-e-s-en-soin-generaux-au-bloc-operatoire) en soin généraux au bloc opératoire - CHT Gaston Bourret
-
-En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
-
-- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[CHT]: Centre Hospitalier Territorial
-
-
----
-
 # 26-1113 - Chef de projet études et développement des systèmes d'information
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/14dd3411cb0eaad93273e15635dc9ced/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -17026,141 +16768,6 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 - 📄 [Télécharger le PDF original](#)
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Cadre de santé](../#cadre-de-sante)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[CHT]: Centre Hospitalier Territorial
-
-
----
-
-# 26-1158 - Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b08da3548b9943fa3b99c332416fc778/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1158 - Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires",
-  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Nouvelle-Calédonie"
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1158/",
-  "datePosted": "2026-07-31",
-  "validThrough": "2026-08-21",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-# 1 Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-08-21  
-    **Direction :** CHT  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1158/SR du 2026-07-31**
-
-## 🏢 Employeur
-
-**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
-
-**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
-
-**Poste à pourvoir :** septembre 2026
-
-**Direction de la coordination des soins**
-
-**Lieu de travail : Médipôle Koutio**
-
-**Date de dépôt de l'offre :** Vendredi 2026-07-31
-
-**Date limite de candidature :** Vendredi 2026-08-21
-
-# Détails de l'offre 
-#### �� **À propos du poste :**
-
-Le service d'USICNV, cardiologie interventionnelle, prend en charge des urgences cardiaques, la surveillance continue, les coronarographies, les angioplasties ainsi que des gestes rythmologie.
-
-**Le poste est partagé sur l'année entre la cardiologie et la neurologie.**
-
-**Pour en savoir plus sur notre établissement et le service, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston [Bourret](https://recrutement.cht.nc/pages/decouvrez-le-medipole)*
-
-## �� **Missions :**
-
-Au sein du service, l'infirmier(e) assure la prise en charge globale, continue et sécurisée de patients présentant des pathologies cardiovasculaires aiguës et instables, nécessitant une surveillance rapprochée et des soins intensifs.
-
-#### Activités principales 
-- Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient.
-- Prioriser l'urgence, pratiquer les premiers gestes et participer au diagnostic.
-- Surveiller l'évolution de l'état de santé et accompagner les familles.
-- Assister les médecins lors des soins et des procédures.
-- Coordonner et organiser les activités et soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
-- Rédiger et mettre à jour le dossier patient.
-- Accueillir et encadrer les étudiants et stagiaires.
-- Participer à l'organisation quotidienne du service et à la démarche qualité.
-
-## ��**Profil du candidat :**
-
-- Titulaire du diplôme d'état d'infirmier / infirmier en soins généraux
-- **Expérience dans un service de cardiologie et/ou en soins crit**iques
-- Formation AFGSU niveau 2 à jour
-- Rigueur, sens de l'organisation et du travail en équipe ainsi qu'un bon relationnel sont attendus sur ce poste
-- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande capacité d'analyse et d'observation et un sens aigu de l'écoute et de l'empathie.
-- Poste en service de cardiologie avec une polyvalence entre l'hospitalisation conventionnelle et de semaine. Un travail ponctuel en USICNV pourra être demandé selon les compétences détenues.
-
-### �� **Conditions de travail et avantages :**
-
-- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
-- Primes spécifiques (nuit, week-end…)
-- Reprise de l'ancienneté possible selon la réglementation en vigueur
-- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*Grille [salariale](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante.pdf) de la santé de Nouvelle [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante.pdf)*
-- Prise en charge du billet aller uniquement
-
-## ℹ️ **Contact et informations complémentaires :**
-
-Pour toutes informations supplémentaires, veuillez contacter Helena LE GUYON Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : *[helena.leguyon@cht.nc](mailto:helena.leguyon@cht.nc)*
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
-
-# 1 Infirmier(e) en unité de soins intensifs cardiologiques et [neuro-vasculaires](https://recrutement.cht.nc/jobs/8133704-1-infirmier-e-en-unite-de-soins-intensifs-cardiologiques-et-neuro-vasculaires) - CHT Gaston [Bourret](https://recrutement.cht.nc/jobs/8133704-1-infirmier-e-en-unite-de-soins-intensifs-cardiologiques-et-neuro-vasculaires)
-
-En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
-
-- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
@@ -27679,6 +27286,168 @@ Toute candidature incomplète ne pourra être prise en considération.
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
 *[RH]: Ressources Humaines
+
+
+---
+
+# 26-64716_MPRH - Chef de service des collectivités locales et des établissements publics
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cb757d8973e87ffb03ad8c3a2be9ee37/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64716/MPRH - Chef de service des collectivités locales et des établissements publics",
+  "description": "Domaine: Autres filières. Direction: Direction du budget et des affaires financières",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction du budget et des affaires financières",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64716_MPRH/",
+  "datePosted": "2026-07-20",
+  "validThrough": "2026-08-28",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-64716/MPRH du 2026-07-20**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-28  
+    **Direction :** DBAF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : attaché Direction du budget et des affaires financières (DBAF)**
+
+**Service des collectivités locales et des établissements publics**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** **Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-07-20
+
+**Date limite de candidature :** Vendredi 2026-08-28
+
+**Poste à pourvoir :** vacant à partir du 2026-09-01
+
+## Modification de la date de clôture initialement prévue le 2026-08-06
+
+La direction du budget et des affaires financières (DBAF), composée de 63 agents, assure la préparation, le pilotage, l'exécution et le suivi du budget de la Nouvelle-Calédonie. Elle exerce également des missions d'analyse financière, de stratégie budgétaire, de contrôle financier et d'accompagnement des établissements publics et des collectivités locales.
+
+Dans un contexte marqué par les contraintes pesant sur les finances publiques et par la mise en œuvre du Plan d'évolution de l'administration (PEA), la DBAF poursuit sa transformation afin de renforcer ses capacités d'analyse financière, de pilotage et d'aide à la décision.
+
+La direction conduit actuellement plusieurs projets structurants visant à moderniser la fonction financière de la collectivité, renforcer la qualité de l'information financière et développer les outils d'analyse nécessaires à l'évaluation des politiques publiques et à la soutenabilité financière des acteurs publics.
+
+Dans ce cadre, le service des collectivités locales et des établissements publics occupe une place essentielle dans le suivi financier du secteur public local. Il assure la tutelle financière des établissements publics de la Nouvelle-Calédonie, accompagne les collectivités locales dans le cadre des compétences exercées par la collectivité et contribue à la production des analyses financières nécessaires à la décision publique.
+
+Le futur chef de service sera associé aux réflexions conduites dans le cadre du Plan d'évolution de l'administration visant à renforcer les capacités d'analyse financière de la direction et à développer de nouveaux outils d'aide à la décision au bénéfice des institutions de la Nouvelle-Calédonie.
+
+Détails de l'offre :
+
+**Emploi RESPNC :** Responsable financier
+
+Le chef du service des collectivités locales et des établissements publics encadre une équipe de neuf agents et assure le pilotage des missions de contrôle financier, d'accompagnement et d'analyse financière relevant du périmètre du service.
+
+A ce titre, il veille à la qualité des analyses produites, assure le suivi financier des établissements publics et des collectivités locales et apporte son expertise à la direction ainsi qu'aux autorités de la collectivité.
+
+Le service est notamment chargé :
+
+- De la tutelle administrative et financière des établissements publics de la Nouvelle-Calédonie ;
+- De la gestion des dotations, reversements et recettes affectées relevant de la compétence de la Nouvelle-Calédonie ;
+- Du secrétariat et de l'organisation des instances relevant du périmètre du service, notamment du fonds intercommunal de péréquation ;
+- De la préparation et du suivi des budgets annexes de la Nouvelle-Calédonie ;
+- De la réalisation d'études, d'analyses financières et audits.
+
+#### Missions 
+### Activités principales : Manager et piloter l'activité du service
+
+Organiser, coordonner et superviser les activités du service. Définir les priorités de travail, accompagner le développement des compétences des agents et garantir la qualité des analyses produites. Veiller au respect des échéances et assurer le reporting régulier auprès de la direction.
+
+Assurer la tutelle administrative et financière des établissements publics de la
+
+Nouvelle-Calédonie
+
+Piloter l'instruction des budgets, comptes financiers et documents stratégiques des établissements publics. Analyser leur situation financière, identifier les risques susceptibles d'affecter leur équilibre financier et proposer les mesures ou recommandations adaptées. Assurer un rôle d'accompagnement et de conseil auprès des établissements et des autorités de la collectivité.
+
+Organiser les travaux du fonds intercommunal de péréquation; Veiller à la bonne gestion des dotations, reversements et recettes affectées relevant de la compétence de la Nouvelle-Calédonie.
+
+Produire les analyses financières nécessaires à la décision publique Préparer les études, notes, rapports et avis financiers destinés au gouvernement, au Congrès et à la direction. Contribuer à l'évaluation des impacts financiers des décisions publiques et participer aux travaux d'analyse financière relatifs aux établissements publics.
+
+Contribuer aux projets de modernisation et aux évolutions de la fonction
+
+financière
+
+Participer aux projets structurants conduits par la DBAF dans le cadre du Plan
+
+d'évolution de l'administration.
+
+Contribuer à l'amélioration des outils de pilotage, au développement des méthodes d'analyse financière et aux réflexions relatives à l'évolution de
+
+l'organisation financière de la collectivité.
+
+## Activités secondaires : Participer aux projets d'harmonisation des pratiques financières des
+
+établissements publics ;
+
+Contribuer aux projets transversaux de la direction ;
+
+Participer à l'animation des réseaux métiers et des échanges de bonnes
+
+pratiques financières.
+
+| Profil du candidat     | Savoir / Connaissances / Diplôme exigé :                        |
+|------------------------|-----------------------------------------------------------------|
+|                        | Tél: [📞 25 60 82](tel:256082) / mail : [✉️ ronan.labbe@gouv.nc](mailto:ronan.labbe@gouv.nc)                      |
+|                        | Tél: [📞 25 60 82](tel:256082) / mail : [✉️ gwenaelle.deveaux@gouv.nc](mailto:gwenaelle.deveaux@gouv.nc)                |
+| Informations salaire : | https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf |
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dbaf)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
