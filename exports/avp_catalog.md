@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 191 offres extraites de la DRHFPNC.
+Ce document regroupe 194 offres extraites de la DRHFPNC.
 
 # 25-1593 - Médecin à l'UPASS de Bourail
 
@@ -6443,6 +6443,124 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
+# 26-1069 - Cadre de santé unité de soins médicaux rapprochés
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6bb84bab29c490a1b52158d2d9569e46/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1069 - Cadre de santé unité de soins médicaux rapprochés",
+  "description": "Domaine: Cadre de santé. Direction: Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1069/",
+  "datePosted": "2026-07-17",
+  "validThrough": "2026-08-21",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+## Employeur : CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-21  
+    **Direction :** CHS  
+    **Domaine :** Cadre de santé  
+    **Statut :** ⏳ **Cette semaine** (≤7 jours)
+
+
+
+**Corps /Domaine :** cadre de santé du personnels paramédicaux
+
+### Durée de résidence exigée
+
+**pour le recrutement sur titre** (1) **:** au moins égale à 5 ans
+
+**Poste à pourvoir :** 1 er décembre 2026 **Direction :** Direction de la coordination des soins **Service :** Centre de gérontologie clinique **Unité :** Unité de soins médicaux rapprochés
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-07-17
+
+**Date limite de candidature :** vendredi 2026-08-21
+
+Modification de la date de clôture initialement prévue le 2026-08-07
+
+## Détails de l'offre 
+## Emploi RESPNC : cadre de santé
+
+## 🎯 Missions
+
+#### Attributions principales
+
+## Dimension managériale
+
+→ Encadrer les différentes équipes, gérer et accompagner les personnels ; → Garantir la sécurité des personnes, des biens et des équipements dont il a la charge ; → Concevoir, mettre en œuvre, suivre, gérer et promouvoir les projets spécifiques au domaine d'activité ; → Contrôler et suivre la sécurité, la qualité des soins et la gestion des risques ; → Organiser l'accueil et le suivi pédagogique des stagiaires et nouveaux personnels ; → Favoriser la communication fonctionnelle dans l'équipe ; → Participer aux différentes réflexions de la direction des soins et institutionnelles ; → Contribuer à l'élaboration du plan annuel de formation ; → Concourir à la veille et la recherche professionnelle spécifiques à son domaine d'activité. → Piloter, animer, communiquer, motiver les équipes dans un environnement donné ; → Travailler en équipe pluridisciplinaire et en réseau ; → Etablir, évaluer, optimiser les moyens relatifs à son domaine de compétence ; → Organiser son unité suivant les différents critères (missions, stratégies, moyens ...) ; → Planifier, organiser, répartir la charge de travail ; → Evaluer, développer et valoriser les compétences de ses collaborateurs ; → Fixer des objectifs, mesurer les résultats et évaluer les compétences collectives et/ou individuelles ; → Concevoir, formaliser et adapter les procédures, protocoles, fiches de conseils, relatifs à son domaine de compétences en lien avec le service qualité ; → Analyser les données, des tableaux de bord et justifier des résultats relatifs aux activités de son domaine ; → Conduire des réunions ; → Traiter et participer à résoudre les situations conflictuelles.
+
+### Dimension gestionnaire
+
+→ Organiser, contrôler et évaluer l'ensemble des activités de soins dispensés dans le respect de la réglementation, de l'éthique, de la déontologie et des bonnes pratiques ; → Gérer les moyens et les ressources (matériels, logistiques, humains, informationnels) en utilisant les outils institutionnels ; → Rédiger le rapport annuel d'activité de l'unité, relevant de son domaine.
+
+#### Dimension clinique
+
+→ Co-animer avec le médecin responsable et en équipe pluridisciplinaire, le projet de soins de l'unité en cohérence avec le projet d'établissement et la réglementation en vigueur ; → Planifier les activités et les moyens, mettre en place et suivre les indicateurs définis ; → Coordonner et organiser le suivi de la prise en charge du patient dans son parcours de soins (suivi du DPI) → Les savoirs théoriques, procéduraux et pratiques relèvent des acquisitions et exigences professionnelles telles que figurant dans l'arrêté du 1995-08-18 modifié relatif au cadre de santé ; → Maîtrise de l'outil informatique, bureautique et connaissance des logiciels Dx Care (DPI) et Géocom (gestion de plannings) ; → Aptitude au management ; → Animation d'équipe et pédagogie ; → Communication, relations interpersonnelles ; → Méthodologie d'analyse de situation ; → Stratégie et organisation dans la conduite de changement ; → Organisation du travail ; → Aptitude <sup>à</sup> l'évaluation de la charge de travail ; → Connaissance et intérêt pour le droit des patients ; → Risques et vigilances ; → Connaissances du réseau sanitaire, social et médicosocial calédonien. → Cadre de santé avec <sup>5</sup> ans d'exercice de la fonction ; → Expérience significative en gériatrie exigée.
+
+#### Profil du candidat
+
+#### Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter madame Ophélie Muret – chef du bureau formation, recrutement, emploi et gestion prévisionnelle des emplois et des compétences Tél. : [📞 24.25.29](tel:242529) – mail : [avp@chs.nc](mailto:avp@chs.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC).
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire (2) précisant la référence de l'offre doivent parvenir à la Direction des Ressources Humaines/Recrutement par :
+
+− voie postale : BP 120 - 98845 Nouméa cedex − dépôt physique : accueil de la direction des ressources humaines du CHS *−* mail : [avp@chs.nc](mailto:avp@chs.nc) − fax : [📞 24.36.92](tel:243692)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Cadre de santé](../#cadre-de-sante)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=chs)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHS]: Centre Hospitalier Spécialisé
+*[AVP]: Avis de Vacance de Poste
+
+
+---
+
 # 26-1075 - Régisseur comptable
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a64a52a52ca90d32b95ddb627d204369/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -10228,6 +10346,264 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 - Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
 
 (1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-1111 - 6 Infirmier(e)s de bloc opératoire
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4546143b6f754aeb4a31c70f5a91fc3a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1111 - 6 Infirmier(e)s de bloc opératoire",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1111/",
+  "datePosted": "2026-07-24",
+  "validThrough": "2026-08-14",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 3134-26-1011/SR du 2026-07-24**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-14  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** Immédiatement
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-07-24
+
+**Date limite de candidature :** Vendredi 2026-08-14
+
+# Détails de l'offre 
+#### �� **À propos du poste :**
+
+Le bloc opératoire assure les interventions programmées et urgentes sur des spécialités variés telles que l'orthopédie, l'ORL, thoracique…
+
+**Pour en savoir plus sur notre établissement et le bloc opératoire, cliquez sur le lien suivant :**[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
+
+#### �� Missions 
+L'infirmier / infirmière de bloc opératoire réalise des soins infirmiers afin de maintenir ou de restaurer la santé du patient et l'accompagner. Par ces activités, il contribue à la prévention, au dépistage, au diagnostic, au traitement et à la recherche.
+
+#### Activités principales 
+- Recueil des données cliniques, des besoins et des attentes du patient et de l'entourage
+- Etablissement du projet de soins et de la planification des activités
+- Réalisation, contrôle des soins infirmiers et accompagnement du patient et de l'entourage
+- Surveillance de l'évolution de l'état de santé des patients
+- Assistance technique lors de soins dispensés par le médecin Information et éducation du patient et de l'entourage
+- Rédaction et mise à jour du dossier du patient
+- Accueil et encadrement pédagogique des étudiants, des stagiaires et des personnels encadrés
+- Coordination et organisation des activités et des soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
+- Réalisation d'études et de travaux de recherche et veille professionnelle
+- Gestion et contrôle des produits, des matériels et des dispositifs médicaux
+- Mise en œuvre des procédures d'élimination des déchets
+
+### ��Profil du candidat 
+- **- Titulaire du diplôme d'état d'infirmier de bloc opératoire**
+- Formation AFGSU niveau 2 attendu
+- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
+
+#### �� Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Primes spécifiques (nuit, week-end…)
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie *(Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*
+- Prise en charge du billet aller / retour
+
+### ℹ️ Contact et informations complémentaires 
+Pour toutes informations supplémentaires, veuillez contacter François PERRAUDEAU Cadre supérieur de santé - *tél : [📞 20.80.00](tel:208000) - Poste 8068/ mail : [✉️ françois.perraudeau@cht.nc](mailto:françois.perraudeau@cht.nc)*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+# 6 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/8091043-6-infirmier-e-s-de-bloc-operatoire-ibode) de bloc opératoire (IBODE) - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-1112 - 6 Infirmier(e)s en soins généraux au bloc opératoire
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5d7456e7bd5ef9d9178dad8a5ff98017/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1112 - 6 Infirmier(e)s en soins généraux au bloc opératoire",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1112/",
+  "datePosted": "2026-07-24",
+  "validThrough": "2026-08-14",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 6 Infirmier(e)s en soins généraux au bloc opératoire
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-14  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** 🔥 **Urgent** (≤2 jours)
+
+
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 3134-26-1112/SR du 2026-07-24**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Infirmier(ère) en soins généraux - Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** Immédiatement
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-07-24
+
+**Date limite de candidature :** Vendredi 2026-08-14
+
+# Détails de l'offre 
+# �� **À propos du poste :**
+
+![](_page_0_Picture_14.jpeg)
+
+Au sein du bloc opératoire, vous exercez en tant qu'infirmier(e) de bloc opératoire (IBO) et intervenez au cœur de la prise en charge péri-opératoire du patient. En étroite collaboration avec les chirurgiens, les anesthésistes et l'ensemble de l'équipe pluridisciplinaire, vous participez activement à la préparation, à l'organisation et au bon déroulement des interventions chirurgicales.
+
+**Pour en savoir plus sur notre établissement et le service du bloc opératoire, cliquez sur le lien suivant :** [Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret
+
+## �� **Missions :**
+
+- Recueil des données cliniques, des besoins et des attentes du patient et de l'entourage
+- Etablissement du projet de soins et de la planification des activités
+- Réalisation, contrôle des soins infirmiers et accompagnement du patient et de l'entourage
+- Surveillance de l'évolution de l'état de santé des patients
+- Assistance technique lors de soins dispensés par le médecin
+- Information et éducation du patient et de l'entourage
+- Rédaction et mise à jour du dossier du patient
+- Accueil et encadrement pédagogique des étudiants, des stagiaires et des personnels encadrés
+- Coordination et organisation des activités et des soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
+- Réalisation d'études et de travaux de recherche et veille professionnelle
+- Gestion et contrôle des produits, des matériels et des dispositifs médicaux
+- Mise en œuvre des procédures d'élimination des déchets
+
+#### ��Profil du candidat 
+- Titulaire du **diplôme d'état d'infirmier / infirmier en soins généraux**
+- **- Expérience de 2 ans au bloc opératoire attendu**
+- Formation AFGSU niveau 2 attendu
+- Rigueur, sens de l'organisation et esprit d'équipe sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande polyvalence et gestion du stress.
+
+#### ��Conditions de travail et avantages 
+- Travail en horaires adaptés à l'activité du bloc (week-ends, nuit, jours fériés et chômé)
+- Primes spécifique (nuit, bloc, week-end…) selon statut
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Prise en charge du billet aller uniquement
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale de la santé de [Nouvelle](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf) [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
+
+Pour toutes informations supplémentaires, veuillez contacter François Perraudeau Cadre supérieur de santé du CHT tél : [📞 20.80.00](tel:208000) - mail : *[francois.perraudeau@cht.nc](mailto:francois.perraudeau@cht.nc)*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+#### 6 [Infirmier\(e\)s](https://recrutement.cht.nc/jobs/8091044-6-infirmier-e-s-en-soin-generaux-au-bloc-operatoire) en soin généraux au bloc opératoire - CHT Gaston Bourret
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
 
 *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
 ---
@@ -16768,6 +17144,141 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 - 📄 [Télécharger le PDF original](#)
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Cadre de santé](../#cadre-de-sante)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
+
+
+---
+
+# 26-1158 - Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b08da3548b9943fa3b99c332416fc778/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1158 - Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires",
+  "description": "Domaine: Infirmiers. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1158/",
+  "datePosted": "2026-07-31",
+  "validThrough": "2026-08-21",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+# 1 Infirmier(e) en unité de soins intensifs cardiologiques et neuro-vasculaires
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-08-21  
+    **Direction :** CHT  
+    **Domaine :** Infirmiers  
+    **Statut :** ⏳ **Cette semaine** (≤7 jours)
+
+
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 3134-26-1158/SR du 2026-07-31**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Infirmier en soins généraux- Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 5 ans
+
+**Poste à pourvoir :** septembre 2026
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-07-31
+
+**Date limite de candidature :** Vendredi 2026-08-21
+
+# Détails de l'offre 
+#### �� **À propos du poste :**
+
+Le service d'USICNV, cardiologie interventionnelle, prend en charge des urgences cardiaques, la surveillance continue, les coronarographies, les angioplasties ainsi que des gestes rythmologie.
+
+**Le poste est partagé sur l'année entre la cardiologie et la neurologie.**
+
+**Pour en savoir plus sur notre établissement et le service, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le Médipôle - CHT Gaston [Bourret](https://recrutement.cht.nc/pages/decouvrez-le-medipole)*
+
+## �� **Missions :**
+
+Au sein du service, l'infirmier(e) assure la prise en charge globale, continue et sécurisée de patients présentant des pathologies cardiovasculaires aiguës et instables, nécessitant une surveillance rapprochée et des soins intensifs.
+
+#### Activités principales 
+- Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient.
+- Prioriser l'urgence, pratiquer les premiers gestes et participer au diagnostic.
+- Surveiller l'évolution de l'état de santé et accompagner les familles.
+- Assister les médecins lors des soins et des procédures.
+- Coordonner et organiser les activités et soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients
+- Rédiger et mettre à jour le dossier patient.
+- Accueillir et encadrer les étudiants et stagiaires.
+- Participer à l'organisation quotidienne du service et à la démarche qualité.
+
+## ��**Profil du candidat :**
+
+- Titulaire du diplôme d'état d'infirmier / infirmier en soins généraux
+- **Expérience dans un service de cardiologie et/ou en soins crit**iques
+- Formation AFGSU niveau 2 à jour
+- Rigueur, sens de l'organisation et du travail en équipe ainsi qu'un bon relationnel sont attendus sur ce poste
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une grande capacité d'analyse et d'observation et un sens aigu de l'écoute et de l'empathie.
+- Poste en service de cardiologie avec une polyvalence entre l'hospitalisation conventionnelle et de semaine. Un travail ponctuel en USICNV pourra être demandé selon les compétences détenues.
+
+### �� **Conditions de travail et avantages :**
+
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Primes spécifiques (nuit, week-end…)
+- Reprise de l'ancienneté possible selon la réglementation en vigueur
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*Grille [salariale](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante.pdf) de la santé de Nouvelle [Calédonie\)](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante.pdf)*
+- Prise en charge du billet aller uniquement
+
+## ℹ️ **Contact et informations complémentaires :**
+
+Pour toutes informations supplémentaires, veuillez contacter Helena LE GUYON Cadre supérieur de santé du CHT - tél : [📞 20.80.00](tel:208000) - mail : *[helena.leguyon@cht.nc](mailto:helena.leguyon@cht.nc)*
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+# 1 Infirmier(e) en unité de soins intensifs cardiologiques et [neuro-vasculaires](https://recrutement.cht.nc/jobs/8133704-1-infirmier-e-en-unite-de-soins-intensifs-cardiologiques-et-neuro-vasculaires) - CHT Gaston [Bourret](https://recrutement.cht.nc/jobs/8133704-1-infirmier-e-en-unite-de-soins-intensifs-cardiologiques-et-neuro-vasculaires)
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante
+
+- Mail : *[✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)*
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Infirmiers](../#infirmiers)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
@@ -26120,194 +26631,6 @@ Toute candidature incomplète ne pourra être prise en considération.
 *[DAVAR]: Direction des Affaires Vétérinaires, Alimentaires et Rurales
 *[MPRH]: Mission Politique de Ressources Humaines
 *[RH]: Ressources Humaines
-
-
----
-
-# 26-64583_MPRH - Chargé (e) de projets AMOA / PMO
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d6939e82b55c549321d047e1bff29a0e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-64583/MPRH - Chargé (e) de projets AMOA / PMO",
-  "description": "Domaine: Informatique. Direction: Direction du numérique et de la modernisation",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Direction du numérique et de la modernisation",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-64583_MPRH/",
-  "datePosted": "2026-07-31",
-  "validThrough": "2026-08-21",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 26-64583/MPRH du 2026-07-31**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-08-21  
-    **Direction :** DINUM  
-    **Domaine :** Informatique  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : technicien /Informatique** ou **ingénieur /Informatique**
-
-**Direction du numérique et de la modernisation (DINUM)**
-
-**Durée de résidence exigée**
-
-**pour le recrutement sur titre (1) :**
-
-Technicien 1er et 2e grade du domaine de l'informatique
-
-: au moins égale à 10 ans.
-
-Ingénieurs 1er et 2ème grade du domaine de
-
-l'informatique : au moins égale à 5 ans.
-
-**Lieu de travail :** Nouméa - Ouémo
-
-**Date de dépôt de l'offre :** Vendredi 2026-07-31
-
-**Date limite de candidature :** Vendredi 2026-08-21
-
-**Poste à pourvoir :** 2026-07-01
-
-La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie, en articulation avec la stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique, de développement de l'économie numérique et de développement de l'innovation technologique. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
-
-Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations, dans le cadre de la gestion des projets et des produits, l'organisation fonctionnelle de la DINUM s'appuie majoritairement sur le fonctionnement matriciel. En privilégiant la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes, cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.
-
-La DINUM est dotée d'une cellule stratégie et pilotage de la performance (CSPP) qui assiste la direction dans le pilotage de la performance des services, l'optimisation de l'exécution des ressources budgétaires, la politique de sécurisation du système d'information, la coordination des projets, les actions de communication interne, et les activités juridiques.
-
-# Détails de l'offre 
-**Emploi RESPNC :** Chef de projet maîtrise d'œuvre
-
-Affecté au sein de la CSPP, le(la) Chargé(e) de PMO et AMOA s'assure du cadrage du suivi de la mise en œuvre des projets numérique de la collectivité, en assurant une gestion efficace et stratégique du portefeuille de projets, ainsi qu'en apportant un soutien essentiel aux maîtrises d'ouvrage. **Missions :**
-
-Analyse et cadrage: Recueillir, analyser et formaliser les besoins des utilisateurs et des directions métiers.
-
-Participer à la rédaction des expressions de besoins, cahiers des charges et dossiers de consultation.
-
-Contribuer à l'analyse des offres et à la sélection des solutions ou prestataires.
-
-### Pilotage fonctionnel
-Suivre l'avancement des projets AMOA : planning, charges, risques, livrables. Coordonner les échanges entre métiers, DSI, prestataires et partenaires. Préparer et animer des ateliers fonctionnels (recueil de besoins, arbitrages, validation).
-
-Participer à la recette fonctionnelle : élaboration des plans de tests, exécution, suivi des anomalies.
-
-Contribuer à la validation des livrables fonctionnels.
-
-# Accompagnement du changement
-Participer à la définition des plans de conduite du changement. Contribuer à la création de supports de communication, guides utilisateurs, procédures.
-
-Animer ou co-animer des sessions de formation ou de sensibilisation. Assurer un appui aux utilisateurs lors des phases de déploiement.
-
-Support méthodologique et qualité Appliquer les méthodes, standards et outils définis par la cellule PMO/AMOA. Contribuer à l'amélioration continue des processus projets.
-
-Participer à la capitalisation documentaire (modèles, retours d'expérience, bonnes pratiques).
-
-Veiller à la qualité des livrables produits par les projets (cohérence, complétude, conformité).
-
-# Coordination opérationnelle
-
-Assurer le lien quotidien entre les équipes métiers, la DINUM et les prestataires. Faciliter la circulation de l'information et la résolution des points bloquants. Préparer les arbitrages nécessaires et remonter les alertes au responsable de la cellule.
-
-Participer à la synchronisation des projets ayant des dépendances fonctionnelles ou techniques.
-
-# 2. Contribution au pilotage du portefeuille projets (PMO)
-
-Collecter, consolider et mettre à jour les informations nécessaires au suivi du portefeuille projets.
-
-Préparer les tableaux de bord, indicateurs et rapports d'avancement. Assurer le suivi opérationnel des plannings, risques, budgets et charges. Contribuer à la préparation des comités de pilotage et instances de
-
-gouvernance (supports, synthèses, relevés de décisions).
-
-Participer à l'administration courante de l'outil de gestion de portefeuille (mise
-
-à jour des fiches projets, workflows, référentiels). Alerter sur les dérives, incohérences ou risques identifiés dans les projets. Assurer une veille méthodologique (bonnes pratiques PMO, outils, modèles de documents).
-
-# Activités secondaires : Participer à la veille technologique et fonctionnelle sur les outils métiers.
-
-Contribuer à la diffusion d'une culture projet au sein de l'organisation.
-
-Appuyer le pilote de l'activité PMO/AMOA dans la préparation des budgets ou
-
-## Caractéristiques particulières de l'emploi 
-- Collaboration avec les services de la DINUM et relation directe avec les directions du gouvernement,
-- Gérer les urgences et les projets non prévus résultant des orientations du gouvernement, nécessitant une adaptation rapide et efficace.
-
-# Profil du candidat Savoir / Connaissances / Diplôme exigé 
-- Diplôme de niveau Bac+4 ou expérience équivalente en management de projets SI,
-- Maîtrise des méthodologies de gestion de projet (Waterfall, Agile) et des outils tels que Monday et Jira,
-- Connaissance approfondie des enjeux techniques et fonctionnels des SI, ainsi que des contextes réglementaires (RGPD, CNIL),
-- Bonne connaissance de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie,
-- Bonne compréhension des des processus métiers de la collectivité.
-
-## 🛠️ Savoir-faire
-
-- Expérience confirmée en pilotage de portefeuille de projets et en AMOA, particulièrement dans le secteur des systèmes d'information,
-- Excellentes compétences en communication, rédaction et négociation,
-- Capacité à gérer des urgences, prioriser les activités, et fournir des éléments d'aide à la décision.
-
-## Comportement professionnel 
-- Compétences relationnelles fortes, sens du dialogue, et capacité à travailler en équipe,
-- Disponibilité et réactivité,
-- Niveau élevé d'autonomie et responsabilité, avec évaluation basée sur les objectifs,
-- Discrétion et respect de la hiérarchie, Charles BIONDI, directeur adjoint Tél: [📞 27 58 88](tel:275888) / mail : *[✉️ charles.biondi@gouv.nc](mailto:charles.biondi@gouv.nc)* **Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf>
-
-## Contact et informations complémentaires 
-# POUR RÉPONDRE À CETTE OFFRE
-
-- Voie postale : **B.P M2 98849 Nouméa cedex**
-- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
-- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Informatique](../#informatique)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=dinum)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
