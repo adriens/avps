@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 186 offres extraites de la DRHFPNC.
+Ce document regroupe 189 offres extraites de la DRHFPNC.
 
 # 25-1593 - Médecin à l'UPASS de Bourail
 
@@ -17742,6 +17742,168 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
+# 26-1202 - Chargé(e) d'études techniques en restauration écologique et lutte contre l'érosion
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cffd713d9770012a48f581abb8ed67da/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1202 - Chargé(e) d'études techniques en restauration écologique et lutte contre l'érosion",
+  "description": "Domaine: Economie rurale. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1202/",
+  "datePosted": "2026-08-17",
+  "validThrough": "2026-09-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## Chargé(e) d'études techniques en restauration écologique et lutte contre l'érosion
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-09-04  
+    **Direction :** DRHFPNC  
+    **Domaine :** Economie rurale  
+    **Statut :** 📋 En cours
+
+
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 3134-26-1202/SR du 2026-08-14**
+
+## 🏢 Employeur
+
+**Corps /Domaine :** Ingénieur 2 ème grade / Economie rurale
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** au moins égale à 10 ans
+
+**Poste susceptible d'être vacant au 1 er décembre 2026** **Direction : Fonds Nickel**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** vendredi 2026-08-14
+
+**Date limite de candidature :** vendredi 2026-09-04
+
+## Détails de l'offre 
+Le Fonds Nickel est un établissement public administratif (EPA) créé par la [délibération](https://dimenc.gouv.nc/sites/default/files/download/2009_03_18_delib_467_creant_fonds_nickel_0.pdf) n°467 du 2009-03-18, concrétisant des principes arrêtés dans le schéma de mise en valeur des richesses minières de la [Nouvelle-Calédonie.](https://dimenc.gouv.nc/ressources/le-schema-de-mise-en-valeur-des-richesses-minieres-de-la-nouvelle-caledonie-pour-lessor) Il a pour objet de :
+
+- Garantir l'essor et la consolidation de l'industrie minière et métallurgique en Nouvelle-Calédonie, en cas de crise du secteur, et
+- De veiller à la réhabilitation progressive des zones dégradées par l'ancienne activité minière, dans l'intérêt des générations futures.
+
+**Emploi RESPNC** : Chargé d'études industrielles et minières
+
+## 🎯 Missions
+
+**Activités principales : Activité 1 : Pilotage, coordination et représentation**
+
+- Garantir la qualité technique et la conformité des projets de réhabilitation minière ;
+- Assurer le pilotage opérationnel des chantiers de travaux dans le strict respect des règles de la commande publique ;
+- Animer la concertation et le dialogue avec les partenaires institutionnels, privés et coutumiers.
+
+- Ingénierie de projet : o Concevoir ou contrôler les études techniques (gestion des eaux, remédiation, revégétalisation) ; o Veiller à la conformité des solutions proposées par les maîtres d'œuvre.
+- Passation et exécution des Marchés Publics : o Rédiger les pièces techniques (Cahier des charges, DCE) et analyser les offres des prestataires ; o Assurer la direction de l'exécution des contrats (DET) et le suivi terrain rigoureux ainsi que le volet financier des travaux.
+- Présentation et Concertation stratégique : o Animer des réunions de présentation devant des publics variés (élus, mineurs, associations, autorités coutumières) ; o Déployer des capacités d'argumentation pour convaincre et valider les étapes clés des projets.
+
+## Activités secondaires 
+### Activité 2** : **Domaines d'expertises techniques et spécifiques
+
+- Organiser le suivi et le retour d'expérience des actions de revégétalisation du Fonds Nickel ;
+- Organiser des essais de revégétalisation documentés à partir desquels il/elle élabore de nouveaux référentiels techniques ;
+- Élaborer un programme de restauration écologique à partir des travaux de revégétalisation des anciens sites miniers déjà réalisés ;
+- Coopérer avec des organismes régionaux voir internationaux ;
+- Organiser la veille sur les meilleures techniques de restauration et de lutte contre l'érosion ;
+- Participer au montage de dossiers de recherches de fonds extérieurs.
+
+- Soutien technique aux agents de la DIMENC ;
+- Mise à jour régulière des bases de données du Fonds Nickel ;
+- Participation aux comités de réhabilitation des sites miniers dégradés ;
+- Collaboration avec d'autres organismes, instituts et administrations sur les aspects gestion des eaux /revégétalisation/restauration ;
+- Participation à de nombreuses réunions et représentation régulière de l'établissement ;
+- Présentation régulière de l'activité aux membres du Conseil d'Administration.
+
+### Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Diplôme d'Ingénieur ou Master 2 (Environnement, Ecologie, Agronomie)
+- Connaissance du Code minier calédonien, de la commande publique et de la réglementation SST spécifique
+
+#### Savoir-faire 
+- Technologies minières, en particulier en restauration/réhabilitation
+- Expertise en botanique, agronomie et biodiversité
+- Secteur minier néo-calédonien et son environnement
+- Marchés publics (mode de passation et suivi des contrats)
+- Techniques de gestion de projets (planification, allocation de ressources)
+- Maîtrise avancée des SIG (ArcGIS/QGIS)
+- Anglais souhaité
+
+#### Comportement professionnel 
+- Excellente aisance à l'oral pour la présentation en public
+- Capacité d'écoute et de négociation en milieu multiculturel
+
+Le succès dans ce poste repose sur un équilibre entre rigueur opérationnelle et intelligence relationnelle :
+
+- Rigueur et Engagement : L'agent fait preuve d'une organisation méthodique et d'une grande fiabilité dans le suivi de ses dossiers. Respectueux(se) de la hiérarchie et des procédures, il/elle pratique un reporting régulier et maintient une forte disponibilité pour répondre aux impératifs du terrain et de l'établissement.
+- Analyse et Autonomie : Doté(e) d'un solide esprit d'analyse et de synthèse, l'agent sait prendre des initiatives pertinentes pour résoudre des problématiques techniques complexes tout en restant à la pointe de son domaine grâce à une veille technique active.
+
+- Posture Relationnelle et Culturelle : Le poste exige un excellent sens du travail en équipe et une aisance relationnelle marquée. Une connaissance approfondie des us et coutumes locales est indispensable pour mener à bien les concertations et assurer l'acceptabilité des projets auprès des parties prenantes calédoniennes.
+
+#### Contact et informations complémentaires 
+Pour tout renseignement complémentaire, vous pouvez contacter M. Jean-Sébastien Baille, directeur du Fonds Nickel Tel : [📞 27 02 38](tel:270238) / mail : [✉️ jean-sebastien.baille@gouv.nc](mailto:jean-sebastien.baille@gouv.nc) ou Madame Véronique Forlacroix, Responsable technique Tel : [📞 27.48.25](tel:274825) / mail : [✉️ veronique.forlacroix@gouv.nc](mailto:veronique.forlacroix@gouv.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir au Fonds Nickel par :
+
+- **-** voie postale : **Fonds Nickel – c/o DIMENC - BP M2 – 98849 NOUMEA Cedex**
+- Dépôt physique : **Fonds Nickel – c/o DIMENC, 1 ter, rue UNGER- Vallée du Tir – NOUMEA**
+- Mail : *[fonds.nickel@gouv.nc](mailto:fonds.nickel@gouv.nc)*
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Economie rurale](../#economie-rurale)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
 # 26-1203 - Assistant(e) socio-éducatif
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7efc0a4eb61dbe6fad15af8659db65be/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -28801,6 +28963,350 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 (2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
 
 *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-65513_MPRH - Chargé (e) de projets AMOA / PMO
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ed837d76661e44c12709e85e21f7d7be/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65513/MPRH - Chargé (e) de projets AMOA / PMO",
+  "description": "Domaine: Numérique et SIC. Direction: Direction du numérique et de la modernisation",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction du numérique et de la modernisation",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65513_MPRH/",
+  "datePosted": "2026-08-17",
+  "validThrough": "2026-09-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65513/MPRH du 2026-08-17**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-09-04  
+    **Direction :** DINUM  
+    **Domaine :** Numérique et SIC  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : ingénieur /Numérique et SIC** ou **ingénieur /Informatique Direction du numérique et de la modernisation (DINUM)**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :**
+
+Ingénieurs 1er et 2ème grade du domaine de l'informatique : au moins égale à 5 ans.
+
+**Lieu de travail :** Nouméa - Ouémo
+
+**Date de dépôt de l'offre :** Lundi 2026-08-17
+
+**Date limite de candidature :** Vendredi 2026-09-04
+
+**Poste à pourvoir :** immédiatement
+
+La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie, en articulation avec la stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique, de développement de l'économie numérique et de développement de l'innovation technologique. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
+
+Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations, dans le cadre de la gestion des projets et des produits, l'organisation fonctionnelle de la DINUM s'appuie majoritairement sur le fonctionnement matriciel. En privilégiant la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes, cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.
+
+La DINUM est dotée d'une cellule stratégie et pilotage de la performance (CSPP) qui assiste la direction dans le pilotage de la performance des services, l'optimisation de l'exécution des ressources budgétaires, la politique de sécurisation du système d'information, la coordination des projets, les actions de communication interne, et les activités juridiques.
+
+# Détails de l'offre 
+**Emploi RESPNC :** Chef de projet maîtrise d'œuvre
+
+Affecté au sein de la CSPP, le(la) Chargé(e) de PMO et AMOA s'assure du cadrage du suivi de la mise en œuvre des projets numérique de la collectivité, en assurant une gestion efficace et stratégique du portefeuille de projets, ainsi qu'en apportant un soutien essentiel aux maîtrises d'ouvrage. **Missions :**
+
+Analyse et cadrage: Recueillir, analyser et formaliser les besoins des utilisateurs et des directions métiers.
+
+Participer à la rédaction des expressions de besoins, cahiers des charges et dossiers de consultation.
+
+Contribuer à l'analyse des offres et à la sélection des solutions ou prestataires.
+
+### Pilotage fonctionnel
+Suivre l'avancement des projets AMOA : planning, charges, risques, livrables. Coordonner les échanges entre métiers, DSI, prestataires et partenaires. Préparer et animer des ateliers fonctionnels (recueil de besoins, arbitrages, validation).
+
+Participer à la recette fonctionnelle : élaboration des plans de tests, exécution, suivi des anomalies.
+
+Contribuer à la validation des livrables fonctionnels.
+
+# Accompagnement du changement
+Participer à la définition des plans de conduite du changement. Contribuer à la création de supports de communication, guides utilisateurs, procédures.
+
+Animer ou co-animer des sessions de formation ou de sensibilisation. Assurer un appui aux utilisateurs lors des phases de déploiement.
+
+Support méthodologique et qualité Appliquer les méthodes, standards et outils définis par la cellule PMO/AMOA. Contribuer à l'amélioration continue des processus projets.
+
+Participer à la capitalisation documentaire (modèles, retours d'expérience, bonnes pratiques).
+
+Veiller à la qualité des livrables produits par les projets (cohérence, complétude, conformité).
+
+# Coordination opérationnelle
+
+Assurer le lien quotidien entre les équipes métiers, la DINUM et les prestataires. Faciliter la circulation de l'information et la résolution des points bloquants. Préparer les arbitrages nécessaires et remonter les alertes au responsable de la cellule.
+
+Participer à la synchronisation des projets ayant des dépendances fonctionnelles ou techniques.
+
+# 2. Contribution au pilotage du portefeuille projets (PMO)
+
+Collecter, consolider et mettre à jour les informations nécessaires au suivi du portefeuille projets.
+
+Préparer les tableaux de bord, indicateurs et rapports d'avancement. Assurer le suivi opérationnel des plannings, risques, budgets et charges. Contribuer à la préparation des comités de pilotage et instances de
+
+gouvernance (supports, synthèses, relevés de décisions).
+
+Participer à l'administration courante de l'outil de gestion de portefeuille (mise
+
+à jour des fiches projets, workflows, référentiels). Alerter sur les dérives, incohérences ou risques identifiés dans les projets. Assurer une veille méthodologique (bonnes pratiques PMO, outils, modèles de documents).
+
+# Activités secondaires : Participer à la veille technologique et fonctionnelle sur les outils métiers.
+
+Contribuer à la diffusion d'une culture projet au sein de l'organisation.
+
+Appuyer le pilote de l'activité PMO/AMOA dans la préparation des budgets ou
+
+## Caractéristiques particulières de l'emploi 
+- Collaboration avec les services de la DINUM et relation directe avec les directions du gouvernement,
+- Gérer les urgences et les projets non prévus résultant des orientations du gouvernement, nécessitant une adaptation rapide et efficace.
+
+# Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Diplôme de niveau Bac+4 ou expérience équivalente en management de projets SI,
+- Maîtrise des méthodologies de gestion de projet (Waterfall, Agile) et des outils tels que Monday et Jira,
+- Connaissance approfondie des enjeux techniques et fonctionnels des SI, ainsi que des contextes réglementaires (RGPD, CNIL),
+- Bonne connaissance de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie,
+- Bonne compréhension des des processus métiers de la collectivité.
+
+## 🛠️ Savoir-faire
+
+- Expérience confirmée en pilotage de portefeuille de projets et en AMOA, particulièrement dans le secteur des systèmes d'information,
+- Excellentes compétences en communication, rédaction et négociation,
+- Capacité à gérer des urgences, prioriser les activités, et fournir des éléments d'aide à la décision.
+
+## Comportement professionnel 
+- Compétences relationnelles fortes, sens du dialogue, et capacité à travailler en équipe,
+- Disponibilité et réactivité,
+- Niveau élevé d'autonomie et responsabilité, avec évaluation basée sur les objectifs,
+- Discrétion et respect de la hiérarchie, Charles BIONDI, directeur adjoint Tél: [📞 27 58 88](tel:275888) / mail : *[✉️ charles.biondi@gouv.nc](mailto:charles.biondi@gouv.nc)* **Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf>
+
+## Contact et informations complémentaires 
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Numérique et SIC](../#numerique-et-sic)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dinum)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-65534_MPRH - 1 PRÉVISIONNISTE RISQUES NATURELS  OU TECHNOLOGIQUES
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/60216ba2c3b719440cf8250475d1fe6a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65534/MPRH - 1 PRÉVISIONNISTE RISQUES NATURELS  OU TECHNOLOGIQUES",
+  "description": "Domaine: Equipement. Direction: Direction de la sécurité civile et de la gestion des risques",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la sécurité civile et de la gestion des risques",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65534_MPRH/",
+  "datePosted": "2026-08-17",
+  "validThrough": "2026-09-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 PRÉVISIONNISTE RISQUES NATURELS OU TECHNOLOGIQUES
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-09-04  
+    **Direction :** DSCGR  
+    **Domaine :** Equipement  
+    **Statut :** 📋 En cours
+
+
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65534/MPRH du 2026-08-14**
+
+## 🏢 Employeur
+
+# (DSCGR)
+
+### Corps ou Cadre d'emploi /Domaine 
+filière technique/Catégorie A (ingénieur 1er et 2ème grade domaine équipement)
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) : au moins égale à 5 ans**
+
+**Lieu de travail :** NOUMEA
+
+**Poste à pourvoir :** immédiatement **Date de dépôt de l'offre : 2026-08-14**
+
+**Date limite de candidature : 2026-09-04**
+
+## Détails de l'offre 
+La Direction de la Sécurité Civile et de la Gestion des Risques (DSCGR) est chargée de la prévention et de la gestion des risques incombant à la Nouvelle-Calédonie. Son action porte sur la prévention des risques, la formation et l'assistance aux acteurs de la sécurité civile ainsi que sur la gestion des opérations et des situations de crise.
+
+Dans ce cadre, le bureau Prévision et Planification contribue à l'anticipation des risques majeurs, à l'élaboration des dispositifs de réponse opérationnelle du territoire ainsi qu'à la sensibilisation des populations aux risques naturels, technologiques et émergents en collaboration avec le service de la culture du risque et résilience.
+
+### Emploi RESPNC 
+## 🎯 Missions
+
+**Il ou elle contribue à l'élaboration et à la mise à jour des dispositifs ORSEC, des plans spécifiques (cyclone, feux de forêt, risques industriels, etc.), ainsi que des dossiers territoriaux des risques majeurs.**
+
+**Il ou elle participe à la préparation des exercices de crise et à l'amélioration continue des dispositifs de planification, en lien avec les services de l'État, les communes et les partenaires institutionnels.**
+
+### Activités principales 
+- Élaborer, actualiser et structurer les plans de secours et dispositifs ORSEC ;
+- Participer à la rédaction et à la mise à jour des dossiers des risques majeurs ;
+- Analyser les risques naturels et/ou technologiques du territoire ;
+- Assurer la cohérence des documents de planification ;
+- Participer à l'organisation et à l'évaluation des exercices de gestion de crise ;
+- Organisation d'exercices
+- Élaboration des documents opérationnels et des supports d'aide à l'intervention
+- Organisation de la collecte, analyse et traitement d'informations, organisation de bases de données
+- Contribuer à l'élaboration de scénarios d'anticipation et de fiches réflexes opérationnelles ;
+- Assurer la veille réglementaire et technique dans le domaine de la planification des secours.
+- Participation aux astreintes opérationnelles selon organisation interne
+
+- **Activités secondaires :** Participer au Centre Opérationnel de Gestion de Crise en cas d'activation ;
+  - Contribuer aux retours d'expérience (RETEX) et à l'amélioration des plans ;
+  - Participer aux travaux transversaux avec les communes (PCS) ;
+  - Contribuer à la cartographie opérationnelle et aux outils d'aide à la décision.
+  - Contribuer aux campagnes de prévention et de sensibilisation des populations en lien avec le groupement prospective
+
+### Caractéristiques particulières de l'emploi 
+- Travail en bureau au sein du groupement opérations
+- Déplacements fréquents sur le territoire
+- Horaires réguliers avec amplitude variable en fonction des obligations de service public
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Connaissance des dispositifs ORSEC et de la gestion de crise ;
+- Connaissance des risques naturels et technologiques du territoire ;
+- Notions en planification opérationnelle et analyse des risques ; Organisation institutionnelle de la Nouvelle-Calédonie.
+- Diplômes minimum : master en lien avec les risques naturels
+
+## 🛠️ Savoir-faire
+
+- Capacité d'analyse et de synthèse ;
+- Rédaction de documents stratégiques et réglementaires ;
+- Maîtrise des outils bureautiques et cartographiques ;
+- Conduite de projets transversaux ;
+- Animation de réunions techniques.
+
+Comportement professionnel :
+
+- Rigueur, méthode, souci de la qualité ;
+- Facilités d'adaptation ;
+- Autonomie, dynamisme ;
+- D'avoir le sens du service public et un bon relationnel;
+- Force de proposition ;
+- Disponibilité;
+- Respect de la confidentialité des informations traitées.
+
+# Contact et informations
+
+**complémentaires :** M. Thomas DEPARDON Tél: [📞 20.77.02](tel:207702) / mail : [✉️ thomas.depardon@gouv.nc](mailto:thomas.depardon@gouv.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+
+Les grilles de rémunération sont également disponibles sur le site : [Simulations](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/ft_0.pdf) - Google Sheets
 ---
 
 ## 🎯 Actions rapides
