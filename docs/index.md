@@ -13,7 +13,7 @@ search:
 
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
-Dernière mise à jour : **23/08/2026 01:12** (Nouvelle Calédonie)
+Dernière mise à jour : **24/08/2026 01:09** (Nouvelle Calédonie)
 
 !!! info "Statistiques"
     **171** offres disponibles — **0** urgent (≤2j) — **51** cette semaine
@@ -65,10 +65,10 @@ __4 offres__
 __114 offres__
 
 - **26-1181** `🟠 CETTE SEMAINE` — [Responsable du bureau administratif et juridique au sein du SAU](26-1181/) | PVS | Clôture: 2026-08-28
-- **26-1182** `🟠 CETTE SEMAINE` — [Assistant(e) de gestion administrative et logistique des services enseignement, animation et sport](26-1182/) | - | Clôture: 2026-08-28
 - **26-1192** `🟠 CETTE SEMAINE` — [Assistant(e) médico-administratif(ve) aux urgences](26-1192/) | CHT | Clôture: 2026-08-28
 - **26-1188** `🟠 CETTE SEMAINE` — [Chirurgien-dentiste à Hienghène](26-1188/) | PVN | Clôture: 2026-08-28
 - **26-1184** `🟠 CETTE SEMAINE` — [Chirurgien-dentiste à Touho](26-1184/) | PVN | Clôture: 2026-08-28
+- **26-1182** `🟠 CETTE SEMAINE` — [Assistant(e) de gestion administrative et logistique des services enseignement, animation et sport](26-1182/) | - | Clôture: 2026-08-28
 - **26-65102_MPRH** `🟠 CETTE SEMAINE` — [Chargé de mission pour les affaires européennes](26-65102_MPRH/) | SCRRE | Clôture: 2026-08-28
 - **26-1178** `🟠 CETTE SEMAINE` — [Comptable](26-1178/) | CDA-NC | Clôture: 2026-08-28
 - **26-1183** `🟠 CETTE SEMAINE` — [Chirurgien-dentiste à Ponérihouen](26-1183/) | PVN | Clôture: 2026-08-28
@@ -84,8 +84,8 @@ __114 offres__
 - **26-62973_MPRH** `🟠 CETTE SEMAINE` — [Gestionnaire budgétaire](26-62973_MPRH/) | DBAF | Clôture: 2026-08-28
 - **26-1099** `🟠 CETTE SEMAINE` — [Assistant(e) social(e) en pédopsychiatrie](26-1099/) | CHS | Clôture: 2026-08-28
 - **26-1095** `🟠 CETTE SEMAINE` — [Chef de bureau chargé de la formation, de l'emploi et de la GPEEC](26-1095/) | CHS | Clôture: 2026-08-28
-- **26-1101** `🟠 CETTE SEMAINE` — [Secrétaire Général(e)](26-1101/) | - | Clôture: 2026-08-28
 - **26-1087** `🟠 CETTE SEMAINE` — [Educateur spécialisé CATTP Grands](26-1087/) | CHS | Clôture: 2026-08-28
+- **26-1101** `🟠 CETTE SEMAINE` — [Secrétaire Général(e)](26-1101/) | - | Clôture: 2026-08-28
 - **26-1141** `🟠 CETTE SEMAINE` — [Chef(fe) de service du pôle développement humain](26-1141/) | PVS | Clôture: 2026-08-28
 - **26-64716_MPRH** `🟠 CETTE SEMAINE` — [Chef de service des collectivités locales et des établissements publics](26-64716_MPRH/) | DBAF | Clôture: 2026-08-28
 - **26-1011** `🟠 CETTE SEMAINE` — [Juriste](26-1011/) | - | Clôture: 2026-08-28
@@ -96,7 +96,6 @@ __114 offres__
 - **26-0738** `🟠 CETTE SEMAINE` — [Médecin au centre médico-scolaire](26-0738/) | PVS | Clôture: 2026-08-28
 - **26-63052_MPRH** `🟠 CETTE SEMAINE` — [Médecin évaluateur](26-63052_MPRH/) | DASS | Clôture: 2026-08-28
 - **26-1226** `🟢 EN COURS` — [Agent gestionnaire polyvalent](26-1226/) | - | Clôture: 2026-09-04
-- **26-1225** `🟢 EN COURS` — [Chef du service conservation et valorisation du patrimoine](26-1225/) | - | Clôture: 2026-09-04
 - **26-1200** `🟢 EN COURS` — [Directeur(trice) des finances et de l'informatique](26-1200/) | Ville du Mont-Dore | Clôture: 2026-09-04
 - **26-1203** `🟢 EN COURS` — [Assistant(e) socio-éducatif](26-1203/) | ASS-NC | Clôture: 2026-09-04
 - **26-1218** `🟢 EN COURS` — [Médecin à Hienghène](26-1218/) | PVN | Clôture: 2026-09-04
@@ -104,15 +103,17 @@ __114 offres__
 - **26-1209** `🟢 EN COURS` — [Médecin à Poindimié](26-1209/) | PVN | Clôture: 2026-09-04
 - **26-1201** `🟢 EN COURS` — [Chargé(e) de développement touristique](26-1201/) | PVS | Clôture: 2026-09-04
 - **26-1216** `🟢 EN COURS` — [Médecin à Belep](26-1216/) | PVN | Clôture: 2026-09-04
+- **26-1225** `🟢 EN COURS` — [Chef du service conservation et valorisation du patrimoine](26-1225/) | - | Clôture: 2026-09-04
 - **26-1223** `🟢 EN COURS` — [Secrétaire général(e) adjoint(e)](26-1223/) | - | Clôture: 2026-09-04
 - **26-1228** `🟢 EN COURS` — [Responsable des équipes piscines](26-1228/) | - | Clôture: 2026-09-04
-- **26-1236** `🟢 EN COURS` — [Travailleur social](26-1236/) | - | Clôture: 2026-09-04
 - **26-1221** `🟢 EN COURS` — [Médecin à Kouaoua](26-1221/) | PVN | Clôture: 2026-09-04
 - **26-1212** `🟢 EN COURS` — [Médecin à Touho](26-1212/) | PVN | Clôture: 2026-09-04
 - **26-1215** `🟢 EN COURS` — [2 Médecins itinérants et de téléconsultation](26-1215/) | PVN | Clôture: 2026-09-04
 - **26-1222** `🟢 EN COURS` — [Médecin à Ouegoa](26-1222/) | PVN | Clôture: 2026-09-04
 - **26-1220** `🟢 EN COURS` — [Médecin à Kaala-Gomen](26-1220/) | PVN | Clôture: 2026-09-04
 - **26-1210** `🟢 EN COURS` — [Médecin à Ponérihouen](26-1210/) | PVN | Clôture: 2026-09-04
+- **26-1236** `🟢 EN COURS` — [Travailleur social](26-1236/) | - | Clôture: 2026-09-04
+- **26-1205** `🟢 EN COURS` — [Directeur(trice) de cabinet](26-1205/) | VR | Clôture: 2026-09-04
 - **26-1227** `🟢 EN COURS` — [Agent gestionnaire polyvalent 2](26-1227/) | - | Clôture: 2026-09-04
 - **26-1224** `🟢 EN COURS` — [Secrétaire administratif](26-1224/) | PIL | Clôture: 2026-09-04
 - **26-1235** `🟢 EN COURS` — [Chauffeur poids lourd polyvalent](26-1235/) | Commune de Poya | Clôture: 2026-09-04
@@ -124,7 +125,6 @@ __114 offres__
 - **26-1214** `🟢 EN COURS` — [Médecin à Voh](26-1214/) | PVN | Clôture: 2026-09-04
 - **26-65354_MPRH** `🟢 EN COURS` — [Educateur des activités physiques et sportives](26-65354_MPRH/) | DPJEJ | Clôture: 2026-09-04
 - **26-1233** `🟢 EN COURS` — [Chef de service adjoint](26-1233/) | - | Clôture: 2026-09-04
-- **26-1205** `🟢 EN COURS` — [Directeur(trice) de cabinet](26-1205/) | VR | Clôture: 2026-09-04
 - **26-65196_MPRH** `🟢 EN COURS` — [Vaguemestre](26-65196_MPRH/) | DAPM | Clôture: 2026-09-04
 - **26-61193_MPRH** `🟢 EN COURS` — [Chef du service d'appui](26-61193_MPRH/) | DTEFP | Clôture: 2026-09-04
 - **26-1124** `🟢 EN COURS` — [Maître-nageur sauveteur - Pouembout](26-1124/) | PVN | Clôture: 2026-09-04
@@ -136,13 +136,13 @@ __114 offres__
 - **25-1598** `🟢 EN COURS` — [Médecin à l'UPASS de Bourail](25-1598/) | PVS | Clôture: 2026-09-04
 - **25-1601** `🟢 EN COURS` — [Médecin à l'UPASS de Thio](25-1601/) | PVS | Clôture: 2026-09-04
 - **25-1604** `🟢 EN COURS` — [Médecin à l'UPASS de Nouméa - ESPACE SANTE](25-1604/) | PVS | Clôture: 2026-09-04
-- **26-1254** `🟢 EN COURS` — [Travailleur social](26-1254/) | - | Clôture: 2026-09-11
 - **26-1264** `🟢 EN COURS` — [Chef de cellule polyvalent -Agence Principale et son annexe de Magenta](26-1264/) | OPT | Clôture: 2026-09-11
 - **26-1268** `🟢 EN COURS` — [Architecte réseaux IP et transport - service architecture et projets](26-1268/) | OPT | Clôture: 2026-09-11
 - **26-1267** `🟢 EN COURS` — [Assistant(e) administratif(ve) - CPSM](26-1267/) | OPT | Clôture: 2026-09-11
 - **26-1261** `🟢 EN COURS` — [Chef de service adjoint achats et patrimoine](26-1261/) | CHT | Clôture: 2026-09-11
 - **26-1250** `🟢 EN COURS` — [Chirurgien-dentiste au centre médico-social de Montravel - UPASS de Nouméa](26-1250/) | PVS | Clôture: 2026-09-11
 - **26-1242** `🟢 EN COURS` — [Comptable dépenses](26-1242/) | PVS | Clôture: 2026-09-11
+- **26-1254** `🟢 EN COURS` — [Travailleur social](26-1254/) | - | Clôture: 2026-09-11
 - **26-1277** `🟢 EN COURS` — [Chef de la division aéroports, navigation aérienne et sûreté](26-1277/) | DAC | Clôture: 2026-09-11
 - **26-1266** `🟢 EN COURS` — [Chef de cellule exploitation services et maintenances - CPSM](26-1266/) | OPT | Clôture: 2026-09-11
 - **26-1265** `🟢 EN COURS` — [Chef de cellule interventions immobilières - CPSM](26-1265/) | OPT | Clôture: 2026-09-11
@@ -223,13 +223,13 @@ __24 offres__
 - **26-1208** `🟢 EN COURS` — [Infirmier(e) puéricultrice en néonatalogie](26-1208/) | CHT | Clôture: 2026-09-04
 - **26-1206** `🟢 EN COURS` — [3 Infirmier(e)s en néphrologie-hémodialyse](26-1206/) | CHT | Clôture: 2026-09-04
 - **26-1263** `🟢 EN COURS` — [Infirmier(e) en hôpital de jour médecine et oncologie](26-1263/) | CHT | Clôture: 2026-09-11
-- **26-1252** `🟢 EN COURS` — [2 Infirmier(e)s en soins généraux](26-1252/) | PIL | Clôture: 2026-09-11
 - **26-1238** `🟢 EN COURS` — [3 Infirmier(e)s en psychiatrie intra-hospitalier](26-1238/) | CHS | Clôture: 2026-09-11
 - **26-1262** `🟢 EN COURS` — [1 Infirmier(e) anesthésiste](26-1262/) | CHT | Clôture: 2026-09-11
 - **26-1260** `🟢 EN COURS` — [5 Infirmier(e)s en neurochirurgie](26-1260/) | CHT | Clôture: 2026-09-11
 - **26-1258** `🟢 EN COURS` — [2 Infirmier(e)s en réanimation](26-1258/) | CHT | Clôture: 2026-09-11
 - **26-1257** `🟢 EN COURS` — [2 Infirmier(e)s en chirurgie orthopédique](26-1257/) | CHT | Clôture: 2026-09-11
 - **26-1248** `🟢 EN COURS` — [Responsable de l'UPASS de l'ile des pîns](26-1248/) | PVS | Clôture: 2026-09-11
+- **26-1252** `🟢 EN COURS` — [2 Infirmier(e)s en soins généraux](26-1252/) | PIL | Clôture: 2026-09-11
 - **26-1253** `🟢 EN COURS` — [Infirmier(e)](26-1253/) | CHN | Clôture: 2026-09-11
 - **26-0981** `🟢 EN COURS` — [Infirmier(e) en soins généraux itinérant](26-0981/) | PVN | Clôture: 2026-09-18
 - **26-0883** `🟢 EN COURS` — [Infirmier(e) en soins généraux à Touho](26-0883/) | PVN | Clôture: 2026-09-18
