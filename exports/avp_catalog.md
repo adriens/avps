@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 183 offres extraites de la DRHFPNC.
+Ce document regroupe 185 offres extraites de la DRHFPNC.
 
 # 25-1593 - Médecin à l'UPASS de Bourail
 
@@ -20056,6 +20056,179 @@ Les candidatures de fonctionnaires doivent être transmises sous couvert de la v
 
 ---
 
+# 26-1283 - Chef de Centre de Prémière Intervention (POYA)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b1f59cbc112c223a42ce2190d30497e7/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1283 - Chef de Centre de Prémière Intervention (POYA)",
+  "description": "Domaine: Non-officiers. Direction: Commune de Poya",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Poya"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.35,
+      "longitude": 165.1333
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1283/",
+  "datePosted": "2026-08-28",
+  "validThrough": "2026-09-18",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+**Référence** : 3134-26-1283/SR du 2026-08-28
+
+**Employeur** : Mairie de Poya
+
+**Corps/Domaine** : Sergent **Lieu de travail** : Poya
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (¹)**
+
+: / **Date de dépôt de l'offre** : vendredi 2026-08-28
+
+**Poste à pourvoir** : 1 er novembre 2026 **Date limite de candidature** : vendredi 2026-09-18
+
+**Détails de l'offre** :
+
+Le Centre de Première Intervention (CPI) de Poya assure les missions de secours et d'intervention relevant de ses compétences sur le territoire de la commune.
+
+Sous l'autorité du Maire et du Secrétaire général, le Chef du Centre de Première Intervention assure l'organisation, la gestion et le fonctionnement opérationnel du CPI.
+
+Il encadre les sapeurs-pompiers placés sous son autorité, organise les gardes et astreintes et veille au maintien de la capacité opérationnelle du centre ainsi qu'à la disponibilité des moyens humains et matériels nécessaires aux interventions.
+
+**Emploi RESPNC :** Chef de centre
+
+**Missions principales** : Sous l'autorité du secrétaire général, le Chef du CPI retenu sera chargé de :
+
+- Assurer le commandement, l'organisation et le fonctionnement du Centre de Première Intervention ;
+- Encadrer, coordonner et animer l'équipe des sapeurs-pompiers ;
+- Organiser et superviser les gardes et astreintes ;
+- Assurer la gestion quotidienne des effectifs opérationnels ;
+- Garantir et maintenir le niveau opérationnel des moyens humains et matériels ;
+- Diriger les personnels et les moyens lors des interventions, selon les qualifications détenues ;
+- Transmettre et faire appliquer les consignes opérationnelles ;
+- Veiller au respect des règles d'hygiène, de santé et de sécurité ;
+- Organiser et suivre les formations, exercices et manœuvres ;
+- Assurer le suivi des véhicules, matériels, équipements et locaux du CPI ;
+- Recenser les besoins en matériels, équipements et formations ;
+- Assurer les tâches de gestion administrative et technique liées au fonctionnement du centre ;
+- Participer à la préparation et à la gestion des situations de crise ;
+- Participer aux retours d'expérience à la suite des interventions ;
+- Assurer les relations avec les services communaux et les partenaires opérationnels ;
+- Rendre compte à l'autorité territoriale du fonctionnement et de l'activité du CPI.
+
+## Conditions particulières de l'emploi 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-09-18  
+    **Direction :** Commune de Poya  
+    **Domaine :** Non-officiers  
+    **Statut :** 📋 En cours
+
+
+- Disponibilité liée aux nécessités opérationnelles ;
+- Participation aux gardes et astreintes selon l'organisation du CPI ;
+- Horaires irréguliers pouvant comprendre les soirées, nuits, week-ends et jours fériés ;
+- Déplacements liés aux interventions, formations, réunions et missions ;
+- Participation aux cérémonies officielles ;
+- Participation aux formations et exercices opérationnels ;
+
+- Aptitude physique et médicale conforme aux exigences applicables aux fonctions exercées ;
+- Port des équipements de protection individuelle ;
+- Respect des règles de discipline et des consignes opérationnelles.
+
+#### Profil du candidat 
+#### Savoir/Connaissance/Diplôme exigé
+
+- Connaissance des textes réglementaires, normes et procédures applicables en matière d'incendie et de secours ;
+- Connaissance de l'organisation et du fonctionnement d'un Centre de Première Intervention ;
+- Connaissance des règles d'hygiène et de sécurité ;
+- Connaissance des techniques opérationnelles de lutte contre l'incendie et de secours ;
+- Connaissance des techniques de management et d'encadrement d'équipe ;
+- Connaissance des procédures administratives ;
+- **-** Connaissance des responsabilités liées à l'exercice des missions de sécurité civile.
+
+### Savoir-faire
+
+- Commander et coordonner une équipe en situation opérationnelle ;
+- Respecter les procédures administratives ;
+- Encadrer, organiser et animer une équipe ;
+- Prendre des décisions rapidement et de manière adaptée ;
+- Conseiller et alerter la hiérarchie et les autorités sur les risques identifiés ;
+- Analyser et déterminer la bonne adéquation objectifs /moyens du CPI ;
+- Élaborer et faire appliquer des procédures et consignes ;
+- Planifier et contrôler la réalisation des missions ;
+- Établir et suivre la permanence opérationnelle ;
+- Veiller à l'opérationnalité des locaux, véhicules, matériels et personnels ;
+- Analyser les risques et proposer des mesures correctives ;
+- Rédiger des bilans, rapports et comptes rendus d'activité ;
+- Travailler en collaboration avec les différents services et partenaires.
+
+## Comportements professionnels
+
+## Le candidat devra notamment présenter 
+- Des capacités d'encadrement et de commandement ;
+- De solides qualités relationnelles et de leadership ;
+- Une aptitude à communiquer et à faire preuve d'autorité ;
+- Un sens développé de la pédagogie et du travail en équipe ;
+- De la réactivité et un esprit d'initiative ;
+- Une grande maîtrise de soi ;
+- De l'autonomie et de la disponibilité ;
+- Un sens aigu des responsabilités et de l'organisation ;
+- Une bonne connaissance des règles et procédures applicables en matière d'incendie et de secours.
+
+**Contact et informations complémentaires** : Pour tout renseignement complémentaire, vous pouvez contacter la secrétaire du service technique, par téléphone au [📞 47.12.50](tel:471250) ou par mail à l'adresse suivante : [sg@mairie-poya.nc](mailto:sg@mairie-poya.nc)
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, photocopie du permis de conduire, fiche de renseignements et demande changement de corps ou cadre d'emplois si nécessaires\*) précisant la référence de l'offre doivent parvenir à la Mairie de Poya par :
+
+- Voie postale : BP 90 98827 POYA
+- Dépôt physique : au Service des Ressources humaines du lundi au jeudi et de 7 h 45 à 15h15 et 14h15 le vendredi
+- Mail : [courrier@mairie-poya.nc](mailto:courrier@mairie-poya.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements, l'attestation sur l'honneur de non-bénéfice de la rupture conventionnelle et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+
+Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Non-officiers](../#non-officiers)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=commune de poya)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
 # 26-1284 - Juriste
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/bdd4e42dae81e8a73558d21fe424b5ac/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -28588,6 +28761,170 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 - ← [Retour à l'index](./)
 - 💼 [Autres offres en Autres filières](../#autres-filieres)
 - 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-65534_MPRH - 1 PRÉVISIONNISTE RISQUES NATURELS  OU TECHNOLOGIQUES
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/60216ba2c3b719440cf8250475d1fe6a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65534/MPRH - 1 PRÉVISIONNISTE RISQUES NATURELS  OU TECHNOLOGIQUES",
+  "description": "Domaine: Equipement. Direction: Direction de la sécurité civile et de la gestion des risques",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la sécurité civile et de la gestion des risques",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65534_MPRH/",
+  "datePosted": "2026-08-17",
+  "validThrough": "2026-09-04",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 1 PRÉVISIONNISTE RISQUES NATURELS OU TECHNOLOGIQUES
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-09-04  
+    **Direction :** DSCGR  
+    **Domaine :** Equipement  
+    **Statut :** ⏳ **Cette semaine** (≤7 jours)
+
+
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65534/MPRH du 2026-08-14**
+
+## 🏢 Employeur
+
+# (DSCGR)
+
+### Corps ou Cadre d'emploi /Domaine 
+filière technique/Catégorie A (ingénieur 1er et 2ème grade domaine équipement)
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) : au moins égale à 5 ans**
+
+**Lieu de travail :** NOUMEA
+
+**Poste à pourvoir :** immédiatement **Date de dépôt de l'offre : 2026-08-14**
+
+**Date limite de candidature : 2026-09-04**
+
+## Détails de l'offre 
+La Direction de la Sécurité Civile et de la Gestion des Risques (DSCGR) est chargée de la prévention et de la gestion des risques incombant à la Nouvelle-Calédonie. Son action porte sur la prévention des risques, la formation et l'assistance aux acteurs de la sécurité civile ainsi que sur la gestion des opérations et des situations de crise.
+
+Dans ce cadre, le bureau Prévision et Planification contribue à l'anticipation des risques majeurs, à l'élaboration des dispositifs de réponse opérationnelle du territoire ainsi qu'à la sensibilisation des populations aux risques naturels, technologiques et émergents en collaboration avec le service de la culture du risque et résilience.
+
+### Emploi RESPNC 
+## 🎯 Missions
+
+**Il ou elle contribue à l'élaboration et à la mise à jour des dispositifs ORSEC, des plans spécifiques (cyclone, feux de forêt, risques industriels, etc.), ainsi que des dossiers territoriaux des risques majeurs.**
+
+**Il ou elle participe à la préparation des exercices de crise et à l'amélioration continue des dispositifs de planification, en lien avec les services de l'État, les communes et les partenaires institutionnels.**
+
+### Activités principales 
+- Élaborer, actualiser et structurer les plans de secours et dispositifs ORSEC ;
+- Participer à la rédaction et à la mise à jour des dossiers des risques majeurs ;
+- Analyser les risques naturels et/ou technologiques du territoire ;
+- Assurer la cohérence des documents de planification ;
+- Participer à l'organisation et à l'évaluation des exercices de gestion de crise ;
+- Organisation d'exercices
+- Élaboration des documents opérationnels et des supports d'aide à l'intervention
+- Organisation de la collecte, analyse et traitement d'informations, organisation de bases de données
+- Contribuer à l'élaboration de scénarios d'anticipation et de fiches réflexes opérationnelles ;
+- Assurer la veille réglementaire et technique dans le domaine de la planification des secours.
+- Participation aux astreintes opérationnelles selon organisation interne
+
+- **Activités secondaires :** Participer au Centre Opérationnel de Gestion de Crise en cas d'activation ;
+  - Contribuer aux retours d'expérience (RETEX) et à l'amélioration des plans ;
+  - Participer aux travaux transversaux avec les communes (PCS) ;
+  - Contribuer à la cartographie opérationnelle et aux outils d'aide à la décision.
+  - Contribuer aux campagnes de prévention et de sensibilisation des populations en lien avec le groupement prospective
+
+### Caractéristiques particulières de l'emploi 
+- Travail en bureau au sein du groupement opérations
+- Déplacements fréquents sur le territoire
+- Horaires réguliers avec amplitude variable en fonction des obligations de service public
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Connaissance des dispositifs ORSEC et de la gestion de crise ;
+- Connaissance des risques naturels et technologiques du territoire ;
+- Notions en planification opérationnelle et analyse des risques ; Organisation institutionnelle de la Nouvelle-Calédonie.
+- Diplômes minimum : master en lien avec les risques naturels
+
+## 🛠️ Savoir-faire
+
+- Capacité d'analyse et de synthèse ;
+- Rédaction de documents stratégiques et réglementaires ;
+- Maîtrise des outils bureautiques et cartographiques ;
+- Conduite de projets transversaux ;
+- Animation de réunions techniques.
+
+Comportement professionnel :
+
+- Rigueur, méthode, souci de la qualité ;
+- Facilités d'adaptation ;
+- Autonomie, dynamisme ;
+- D'avoir le sens du service public et un bon relationnel;
+- Force de proposition ;
+- Disponibilité;
+- Respect de la confidentialité des informations traitées.
+
+# Contact et informations
+
+**complémentaires :** M. Thomas DEPARDON Tél: [📞 20.77.02](tel:207702) / mail : [✉️ thomas.depardon@gouv.nc](mailto:thomas.depardon@gouv.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+- Voie postale : **B.P M2 - 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+
+Les grilles de rémunération sont également disponibles sur le site : [Simulations](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/ft_0.pdf) - Google Sheets
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Equipement](../#equipement)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dscgr)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
