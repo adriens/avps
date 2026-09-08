@@ -6,7 +6,7 @@
   <description>Avis de vacances de poste en cours et publiés par la DRHFPNC (Nouvelle Calédonie)</description>
   <language>fr</language>
   <managingEditor>contact@example.com</managingEditor>
-  <lastBuildDate>Mon, 07 Sep 2026 02:56:15 +1100</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 03:06:00 +1100</lastBuildDate>
   <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://adriens.github.io/avps/assets/favicon.png</url>
@@ -14,63 +14,83 @@
     <link>https://adriens.github.io/avps/</link>
   </image>
   <item>
-    <title>26-1309 - 2 Chefs d'agrès</title>
-    <link>https://adriens.github.io/avps/26-1309/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1309/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Non-officiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/906ec67ce5f670fa6216f7dbdb6bff6f/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1310 - Chef d'équipe</title>
-    <link>https://adriens.github.io/avps/26-1310/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1310/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Non-officiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b233ab5f5020f783963df13619814e42/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1319 - Agent de développement territorial</title>
-    <link>https://adriens.github.io/avps/26-1319/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1319/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-63027_MPRH - Contrôleur à la section contrôle TGC et programmation</title>
+    <link>https://adriens.github.io/avps/26-63027_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-63027_MPRH/</guid>
+    <description><strong>Direction :</strong> DSF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-10-02</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DSF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-10-02]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7e131f37f8aa7f90994c2b0db8e619e3/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/65842d36adaeca30342b653d2d8250d0/download/" length="0" type="application/pdf"/>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1307 - Agent de gardiennage et de surveillance</title>
-    <link>https://adriens.github.io/avps/26-1307/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1307/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-65832_MPRH - Chef du service du pilotage budgétaire et de la stratégie financière</title>
+    <link>https://adriens.github.io/avps/26-65832_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-65832_MPRH/</guid>
+    <description><strong>Direction :</strong> DBAF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DBAF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fdb9adc42b86da891cadae1036a283e1/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ed34bd8df860deb4e3ac2eeaecacc08e/download/" length="0" type="application/pdf"/>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1311 - Chef de corps du SIVM SUD</title>
-    <link>https://adriens.github.io/avps/26-1311/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1311/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Officiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4e64b889b36ad93b5f93d3a79232ca13/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1320 - Surveillant animateur périscolaire</title>
-    <link>https://adriens.github.io/avps/26-1320/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1320/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1341 - 1 Gestionnaire recrutement et communication interne</title>
+    <link>https://adriens.github.io/avps/26-1341/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1341/</guid>
+    <description><strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/689770dd8ff075f97e3cc58f417e3dc2/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/fac7abe8856fbf8842ac53e08caba3f6/download/" length="0" type="application/pdf"/>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-65313_MPRH - Adjoint(e) au chef de service du pilotage budgétaire et de la stratégie financière</title>
+    <link>https://adriens.github.io/avps/26-65313_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-65313_MPRH/</guid>
+    <description><strong>Direction :</strong> DBAF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DBAF<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f22dc57d9f99c7d70f8ad825342dc590/download/" length="0" type="application/pdf"/>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-65473_MPRH - Secrétaire général adjoint du gouvernement</title>
+    <link>https://adriens.github.io/avps/26-65473_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-65473_MPRH/</guid>
+    <description><strong>Direction :</strong> SGGNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> SGGNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/55f8272c871128a01d25db7a70fd5a3c/download/" length="0" type="application/pdf"/>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-65407_MPRH - Chef de service éducatif - UPAD</title>
+    <link>https://adriens.github.io/avps/26-65407_MPRH/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-65407_MPRH/</guid>
+    <description><strong>Direction :</strong> DPJEJ<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> DPJEJ<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/28251f3105b9c4ca7217f0c84a328734/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1329 - 2 Aides-soignant(e)s en unité de soins intensifs cardiologiques et neuro-vasculaires</title>
+    <link>https://adriens.github.io/avps/26-1329/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1329/</guid>
+    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Aide-soignant</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/81ea8d8ede2a2033dd1ea35ee8564d67/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1331 - Aide-soignant(e) aux urgences</title>
+    <link>https://adriens.github.io/avps/26-1331/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1331/</guid>
+    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Aide-soignant</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/50fa4540054e52f2c8ad33c1a2466ba9/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -84,63 +104,33 @@
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-65407_MPRH - Chef de service éducatif - UPAD</title>
-    <link>https://adriens.github.io/avps/26-65407_MPRH/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-65407_MPRH/</guid>
-    <description><strong>Direction :</strong> DPJEJ<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> DPJEJ<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/28251f3105b9c4ca7217f0c84a328734/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1337 - Chef de service administratif, communication, réclamations</title>
-    <link>https://adriens.github.io/avps/26-1337/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1337/</guid>
+    <title>26-1320 - Surveillant animateur périscolaire</title>
+    <link>https://adriens.github.io/avps/26-1320/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1320/</guid>
     <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
     <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7f4ffdcc9e200147849e95768a8237b5/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/689770dd8ff075f97e3cc58f417e3dc2/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1305 - Agent de gardiennage et de surveillance</title>
-    <link>https://adriens.github.io/avps/26-1305/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1305/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/da31b6e611476b49dce50511dd0260fa/download/" length="0" type="application/pdf"/>
+    <title>26-1311 - Chef de corps du SIVM SUD</title>
+    <link>https://adriens.github.io/avps/26-1311/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1311/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Officiers</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4e64b889b36ad93b5f93d3a79232ca13/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1336 - Assistant administratif</title>
-    <link>https://adriens.github.io/avps/26-1336/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1336/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1340 - Chef de service</title>
+    <link>https://adriens.github.io/avps/26-1340/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1340/</guid>
+    <description><strong>Direction :</strong> ADCK<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> ADCK<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/55e6b6eff06a1b9b2741d31041398ee1/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1327 - Chef(fe) de bureau</title>
-    <link>https://adriens.github.io/avps/26-1327/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1327/</guid>
-    <description><strong>Direction :</strong> Autorité de la concurrence de Nouvelle-Calédonie<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> Autorité de la concurrence de Nouvelle-Calédonie<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9ec840ed5bd9b3ee01128f7008b93ff2/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1318 - Directeur adjoint en charge des affaires financières</title>
-    <link>https://adriens.github.io/avps/26-1318/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1318/</guid>
-    <description><strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dea850fb03c93d384fd7d389a87bfa22/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dfc1064cb1c40b85e15dbf534408af0c/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -154,6 +144,16 @@
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
+    <title>26-1318 - Directeur adjoint en charge des affaires financières</title>
+    <link>https://adriens.github.io/avps/26-1318/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1318/</guid>
+    <description><strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dea850fb03c93d384fd7d389a87bfa22/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
     <title>26-1328 - Sage-femmes en gynécologie-obstétrique</title>
     <link>https://adriens.github.io/avps/26-1328/</link>
     <guid isPermaLink="true">https://adriens.github.io/avps/26-1328/</guid>
@@ -161,36 +161,6 @@
     <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
     <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ca56f1b6b759a5a06b7f664d32905a53/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1308 - 2 Chefs de garde</title>
-    <link>https://adriens.github.io/avps/26-1308/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1308/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Non-officiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f765fda21bf7b364f42aff4504acf717/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1306 - Agent de gardiennage et de surveillance</title>
-    <link>https://adriens.github.io/avps/26-1306/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1306/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0985281c9b5959d33ce115f3876077a9/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1323 - Infirmier(e) en pratique avancée - Houaïlou</title>
-    <link>https://adriens.github.io/avps/26-1323/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1323/</guid>
-    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Infirmiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5338885bf2b1d538dd26ee2fc47f26f7/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -204,13 +174,43 @@
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1333 - Responsable de département d'information médicale (DIM)</title>
-    <link>https://adriens.github.io/avps/26-1333/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1333/</guid>
-    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1310 - Chef d'équipe</title>
+    <link>https://adriens.github.io/avps/26-1310/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1310/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Non-officiers</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/b233ab5f5020f783963df13619814e42/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1337 - Chef de service administratif, communication, réclamations</title>
+    <link>https://adriens.github.io/avps/26-1337/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1337/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e9046be3e7bbabe1cae9e289852ccf96/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7f4ffdcc9e200147849e95768a8237b5/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1327 - Chef(fe) de bureau</title>
+    <link>https://adriens.github.io/avps/26-1327/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1327/</guid>
+    <description><strong>Direction :</strong> Autorité de la concurrence de Nouvelle-Calédonie<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> Autorité de la concurrence de Nouvelle-Calédonie<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9ec840ed5bd9b3ee01128f7008b93ff2/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1323 - Infirmier(e) en pratique avancée - Houaïlou</title>
+    <link>https://adriens.github.io/avps/26-1323/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1323/</guid>
+    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Infirmiers</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5338885bf2b1d538dd26ee2fc47f26f7/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -224,53 +224,53 @@
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1338 - Chef de section adjoint</title>
-    <link>https://adriens.github.io/avps/26-1338/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1338/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Equipement<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Equipement</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/c5a16e01a3c11456b66cd585853c7620/download/" length="0" type="application/pdf"/>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
-  </item>
-  <item>
-    <title>26-1339 - Directeur (trice) adjoint(e)</title>
-    <link>https://adriens.github.io/avps/26-1339/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1339/</guid>
-    <description><strong>Direction :</strong> CNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> CNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1336 - Assistant administratif</title>
+    <link>https://adriens.github.io/avps/26-1336/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1336/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ad51a6884c3e8ece366781b570b54189/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/55e6b6eff06a1b9b2741d31041398ee1/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1315 - Responsable des données - Direction Générale</title>
-    <link>https://adriens.github.io/avps/26-1315/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1315/</guid>
-    <description><strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> OPT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1305 - Agent de gardiennage et de surveillance</title>
+    <link>https://adriens.github.io/avps/26-1305/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1305/</guid>
+    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ea6cc937c815da128461f7ea7fcbd7e0/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/da31b6e611476b49dce50511dd0260fa/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1317 - Infirmier(e)</title>
-    <link>https://adriens.github.io/avps/26-1317/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1317/</guid>
-    <description><strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Infirmiers</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/11e965752218dbe3e58545e6ec494cd0/download/" length="0" type="application/pdf"/>
+    <title>26-1309 - 2 Chefs d'agrès</title>
+    <link>https://adriens.github.io/avps/26-1309/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1309/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Non-officiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Non-officiers</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/906ec67ce5f670fa6216f7dbdb6bff6f/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1334 - Ingénieur(e) en données de santé et recherche</title>
-    <link>https://adriens.github.io/avps/26-1334/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1334/</guid>
-    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Informatique</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a5e2ea28673d6c1dacbf1669b9de417d/download/" length="0" type="application/pdf"/>
+    <title>26-1306 - Agent de gardiennage et de surveillance</title>
+    <link>https://adriens.github.io/avps/26-1306/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1306/</guid>
+    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/0985281c9b5959d33ce115f3876077a9/download/" length="0" type="application/pdf"/>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
+  </item>
+  <item>
+    <title>26-1333 - Responsable de département d'information médicale (DIM)</title>
+    <link>https://adriens.github.io/avps/26-1333/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1333/</guid>
+    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e9046be3e7bbabe1cae9e289852ccf96/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -284,33 +284,33 @@
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1325 - Assistant(e) social(e) de secteur - Ponérihouen</title>
-    <link>https://adriens.github.io/avps/26-1325/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1325/</guid>
-    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/eefa5a298dc4e171a20c451da491c6ff/download/" length="0" type="application/pdf"/>
+    <title>26-1334 - Ingénieur(e) en données de santé et recherche</title>
+    <link>https://adriens.github.io/avps/26-1334/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1334/</guid>
+    <description><strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHT<br/><strong>Domaine :</strong> Informatique<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Informatique</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a5e2ea28673d6c1dacbf1669b9de417d/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1324 - Assistant(e) social(e) de secteur - Koumac-Poum</title>
-    <link>https://adriens.github.io/avps/26-1324/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1324/</guid>
-    <description><strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVN<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
-    <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/7761bb8854d1bed439351a4ba8a395a1/download/" length="0" type="application/pdf"/>
+    <title>26-1317 - Infirmier(e)</title>
+    <link>https://adriens.github.io/avps/26-1317/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1317/</guid>
+    <description><strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CHN<br/><strong>Domaine :</strong> Infirmiers<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <category>Infirmiers</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/11e965752218dbe3e58545e6ec494cd0/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1322 - Chargé(e) du développement du secteur touristique</title>
-    <link>https://adriens.github.io/avps/26-1322/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1322/</guid>
-    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
+    <title>26-1339 - Directeur (trice) adjoint(e)</title>
+    <link>https://adriens.github.io/avps/26-1339/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1339/</guid>
+    <description><strong>Direction :</strong> CNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> CNC<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-09-25]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/dc8fffa6e648ffe20692370a6d5e5059/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ad51a6884c3e8ece366781b570b54189/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +1100</pubDate>
   </item>
 </channel>
