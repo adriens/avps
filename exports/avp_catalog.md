@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 178 offres extraites de la DRHFPNC.
+Ce document regroupe 179 offres extraites de la DRHFPNC.
 
 # 23-1353 - 1 Garde champêtre
 
@@ -27943,6 +27943,173 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-65932_MPRH - Chargée d'études juridiques
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/cb42a620320830e456d6439421503394/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65932/MPRH - Chargée d'études juridiques",
+  "description": "Domaine: Autres filières. Direction: Conseil économique, social et environnemental",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Conseil économique, social et environnemental",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65932_MPRH/",
+  "datePosted": "2026-09-23",
+  "validThrough": "2026-10-09",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65932/MPRH du 2026-09-18**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-09  
+    **Direction :** CESE  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : attaché Conseil économique, social et environnemental (CESE)**
+
+**Conseil économique, social et de l'environnement**
+
+**Durée de résidence exigée**
+
+**pour le recrutement sur titre (1) :** au moins égale à 10 ans
+
+**Lieu de travail :** Nouvelle-Calédonie
+
+**Date de dépôt de l'offre :** Vendredi 2026-09-18
+
+**Date limite de candidature :** Vendredi 2026-10-09
+
+**Poste à pourvoir :** immédiatement
+
+4ème institution de la Nouvelle-Calédonie, le Conseil économique, social et environnemental (CESE-NC) a pour mission principale de rendre des avis/voeux et de formuler des propositions aux décideurs politiques sur les sujets économiques, sociaux , culturels et environnementaux. En tant qu'institution consultative il fait partie du processus législatif pour ce qui relève de son domaine de compétence. C'est une force de proposition sur des sujets d'intérêt général. Il participe ainsi à l'élaboration des stratégies du développement de la Nouvelle-Calédonie et de l'évaluation des politiques publiques (EPP). Il représente la société civile organisée, véritable lieu d'échange et du vivre ensemble, dans le respect des diversités faisant partie intégrante du paysage calédonien. Dans le cadre des missions du CESE-NC, le bureau des études (BdE) est le cœur de métier de l'institution, il détient un rôle prépondérant dans la réalisation de ces travaux.
+
+## Détails de l'offre 
+**Emploi RESPNC :** Chargé d'études juridiques
+
+- Commander ou conduire des études dans différents champs d'intervention pour aider à la définition des politiques publiques et des orientations juridiques et stratégiques du CESE-NC (saisines, autosaisines, contributions, pétitions citoyennes, évaluation de politiques publiques)- Collecter et organiser le traitement d'informations pour développer des fonctions d'observation et d'anticipation.
+
+## 🎯 Missions
+
+**Activités principales :** - Maitriser l'expertise juridique et de conseil en matière d'élaboration des textes
+
+législatifs et réglementaires,
+
+- Piloter des projets d'évaluation des politiques publiques
+
+- Rédiger les avis, vœux, contributions et synthèses du CESE NC ( saisines du
+
+gouvernement, du congrès, des provinces et du sénat coutumier);
+
+- Organiser, conseiller et animer les réunions en lien avec les dossiers à traiter, - Se déplacer régulièrement (quasi quotidiennement) pour des réunions extérieures dans le cadre des travaux relatifs aux saisines & autosaisines , rencontres avec des partenaires et invités experts notamment avec l'UNC, l'IRD, les chambres consulaires et également l'ensemble des collectivités de la
+
+Nouvelle-Calédonie,
+
+- Rechercher, collecter et traiter l'information,
+
+- Commander, réaliser et piloter des études (autosaisines), - Restituer, diffuser et promouvoir les résultats d'études,
+
+- Master 2 en droit exigé pour le recrutement sur titre s'agissant d'un métier identifié comme étant pénurique,
+- Environnement administratif, institutionnel de la NC,
+- Droit/réglementation administrative,
+- EPP
+- Qualités rédactionnelles et expression orale élevées,
+- Outils informatiques et applications,
+
+### Savoir-faire 
+- Gérer une réunion,
+- Rédiger, synthétiser un ensemble d'informations,
+- Analyser une situation dans un contexte donné,
+- Maîtriser les procédures administratives de l'institution,
+- Tenir les délais procéduraux.
+
+Comportement professionnel :
+
+- Capacité d'adaptation,
+- Sens des relations humaines,
+- Sens de l'organisation,
+- Gestion du temps
+- Gestion du stress
+- Aisance relationnelle
+- Sens de la communication
+- Sens de l'écoute
+- Curiosité intellectuelle
+- Résolution de problèmes
+- Esprit d'équipe
+
+### Contact et informations complémentaires 
+Laetitia FRANCOIS
+
+Tél: [📞 27 06 86](tel:270686) / mail : *[✉️ laetitia.francois@cese.nc](mailto:laetitia.francois@cese.nc)*
+
+ou
+
+Judith MUSSARD
+
+Tél: [📞 27 06 85](tel:270685) / mail : *[✉️ judith.mussard@cese.nc](mailto:judith.mussard@cese.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cese)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[IRD]: Institut de Recherche pour le Développement
+*[MPRH]: Mission Politique de Ressources Humaines
+*[NC]: Nouvelle-Calédonie
 
 
 ---
