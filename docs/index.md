@@ -13,10 +13,10 @@ search:
 
 # 📢 Avis de Vacances de Poste (DRHFPNC)
 
-Dernière mise à jour : **28/09/2026 03:42** (Nouvelle Calédonie)
+Dernière mise à jour : **29/09/2026 04:17** (Nouvelle Calédonie)
 
 !!! info "Statistiques"
-    **183** offres disponibles — **0** urgent (≤2j) — **56** cette semaine
+    **184** offres disponibles — **0** urgent (≤2j) — **56** cette semaine
 
 ## 📝 Comment postuler ?
 
@@ -36,7 +36,7 @@ Les personnes intéressées doivent déposer à l'adresse indiquée dans l'avis 
 ## Sommaire par domaines
 
 - [📋 Aide-soignant (5)](#aide-soignant)
-- [📋 Autres filières (135)](#autres-filieres)
+- [📋 Autres filières (136)](#autres-filieres)
 - [🏥 Cadre de santé (2)](#cadre-de-sante)
 - [🌾 Economie rurale (3)](#economie-rurale)
 - [📋 Equipement (2)](#equipement)
@@ -54,7 +54,7 @@ Les personnes intéressées doivent déposer à l'adresse indiquée dans l'avis 
 
 __5 offres__
 
-- **26-1367** `🟠 CETTE SEMAINE` — [1 Infirmier(ère) en pratique avancée - service oncologie/hématologie](26-1367/) | CHT | Clôture: 2026-10-02
+- **26-1367** `🔴 URGENT` — [1 Infirmier(ère) en pratique avancée - service oncologie/hématologie](26-1367/) | CHT | Clôture: 2026-10-02
 - **26-1417** `🟢 EN COURS` — [3 Aides-soignant(e)s en pneumologie](26-1417/) | CHT | Clôture: 2026-10-09
 - **26-1410** `🟢 EN COURS` — [2 Aide-soignant(e)s en médecine polyvalente](26-1410/) | CHT | Clôture: 2026-10-09
 - **26-1411** `🟢 EN COURS` — [Aide-soignant(e) en médecine interne et maladies infectieuses](26-1411/) | CHT | Clôture: 2026-10-09
@@ -62,51 +62,51 @@ __5 offres__
 
 ## 📋 Autres filières {: #autres-filieres }
 
-__135 offres__
+__136 offres__
 
-- **26-64873_MPRH** `🟠 CETTE SEMAINE` — [Conseiller(e) pédagogique- Inspection 4ème circonscription](26-64873_MPRH/) | DENC | Clôture: 2026-10-02
-- **26-65216_MPRH** `🟠 CETTE SEMAINE` — [Conseiller(e) pédagogique-4ème circonscription-Poindimié](26-65216_MPRH/) | DENC | Clôture: 2026-10-02
-- **26-1350** `🟠 CETTE SEMAINE` — [Un professeur agrégé ou certifié en Economie-Gestion Option B](26-1350/) | UNC | Clôture: 2026-10-02
-- **26-1349** `🟠 CETTE SEMAINE` — [Un professeur agrégé ou certifié en Anglais](26-1349/) | UNC | Clôture: 2026-10-02
-- **26-1358** `🟠 CETTE SEMAINE` — [Chargé de projets vie scolaire et actions éducatives -  Mission d'un an renouvelable](26-1358/) | PVS | Clôture: 2026-10-02
-- **26-1356** `🟠 CETTE SEMAINE` — [Agent d'entretien et d'exploitation](26-1356/) | - | Clôture: 2026-10-02
-- **26-1364** `🟠 CETTE SEMAINE` — [Agent d'entretien polyvalent (Koumac-Ouegoa)](26-1364/) | PVN | Clôture: 2026-10-02
-- **26-1363** `🟠 CETTE SEMAINE` — [Adjoint(e) d'éducation -Koumac Dortoir garçons](26-1363/) | PVN | Clôture: 2026-10-02
-- **26-1345** `🟠 CETTE SEMAINE` — [Chef du service des moyens généraux](26-1345/) | GIEP NC | Clôture: 2026-10-02
-- **26-1362** `🟠 CETTE SEMAINE` — [Adjoint d'éducation (dortoir garçon) - Internat de Canala](26-1362/) | PVN | Clôture: 2026-10-02
-- **26-1348** `🟠 CETTE SEMAINE` — [Assistant(e) de direction/chargé(e) d'accueil à mi-temps](26-1348/) | - | Clôture: 2026-10-02
-- **26-1355** `🟠 CETTE SEMAINE` — [1 instructeur patrimoine](26-1355/) | - | Clôture: 2026-10-02
-- **26-1366** `🟠 CETTE SEMAINE` — [1 directeur de police municipale](26-1366/) | - | Clôture: 2026-10-02
-- **26-1352** `🟠 CETTE SEMAINE` — [Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (courants forts)](26-1352/) | UNC | Clôture: 2026-10-02
-- **26-1351** `🟠 CETTE SEMAINE` — [Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (automatisme et informatique industrielle)](26-1351/) | UNC | Clôture: 2026-10-02
-- **26-1346** `🟠 CETTE SEMAINE` — [2 Secrétaires comptables](26-1346/) | - | Clôture: 2026-10-02
-- **23-1353** `🟠 CETTE SEMAINE` — [1 Garde champêtre](23-1353/) | - | Clôture: 2026-10-02
-- **26-1357** `🟠 CETTE SEMAINE` — [Agent de gestion comptable et budgétaire](26-1357/) | - | Clôture: 2026-10-02
-- **26-1354** `🟠 CETTE SEMAINE` — [1 chef de section administrative et comptable](26-1354/) | - | Clôture: 2026-10-02
-- **26-1361** `🟠 CETTE SEMAINE` — [Agent de service en dortoir- Internat de Koumac](26-1361/) | PVN | Clôture: 2026-10-02
-- **26-1365** `🟠 CETTE SEMAINE` — [Chef cuisinier-  Internat de Canala](26-1365/) | PVN | Clôture: 2026-10-02
-- **26-63027_MPRH** `🟠 CETTE SEMAINE` — [Contrôleur à la section contrôle TGC et programmation](26-63027_MPRH/) | DSF | Clôture: 2026-10-02
-- **26-65407_MPRH** `🟠 CETTE SEMAINE` — [Chef de service éducatif - UPAD](26-65407_MPRH/) | DPJEJ | Clôture: 2026-10-02
-- **26-65395_MPRH** `🟠 CETTE SEMAINE` — [Educateur spécialisé - UEMO Sud/Iles](26-65395_MPRH/) | DPJEJ | Clôture: 2026-10-02
-- **26-1280** `🟠 CETTE SEMAINE` — [Secrétaire-comptable](26-1280/) | Ville du Mont-Dore | Clôture: 2026-10-02
-- **26-65052_MPRH** `🟠 CETTE SEMAINE` — [Contrôleur financier des établissements publics](26-65052_MPRH/) | DBAF | Clôture: 2026-10-02
-- **26-1213** `🟠 CETTE SEMAINE` — [Médecin à Poum](26-1213/) | PVN | Clôture: 2026-10-02
-- **26-1216** `🟠 CETTE SEMAINE` — [Médecin à Belep](26-1216/) | PVN | Clôture: 2026-10-02
-- **26-1210** `🟠 CETTE SEMAINE` — [Médecin à Ponérihouen](26-1210/) | PVN | Clôture: 2026-10-02
-- **26-1220** `🟠 CETTE SEMAINE` — [Médecin à Kaala-Gomen](26-1220/) | PVN | Clôture: 2026-10-02
-- **26-1222** `🟠 CETTE SEMAINE` — [Médecin à Ouegoa](26-1222/) | PVN | Clôture: 2026-10-02
-- **26-1215** `🟠 CETTE SEMAINE` — [2 Médecins itinérants et de téléconsultation](26-1215/) | PVN | Clôture: 2026-10-02
-- **26-1212** `🟠 CETTE SEMAINE` — [Médecin à Touho](26-1212/) | PVN | Clôture: 2026-10-02
-- **26-1221** `🟠 CETTE SEMAINE` — [Médecin à Kouaoua](26-1221/) | PVN | Clôture: 2026-10-02
-- **26-1219** `🟠 CETTE SEMAINE` — [Médecin à Houailou](26-1219/) | PVN | Clôture: 2026-10-02
-- **26-1217** `🟠 CETTE SEMAINE` — [Médecin à Canala](26-1217/) | PVN | Clôture: 2026-10-02
-- **26-1147** `🟠 CETTE SEMAINE` — [Chef de service adjoint de la protection de l'enfance](26-1147/) | PVS | Clôture: 2026-10-02
-- **26-1146** `🟠 CETTE SEMAINE` — [Responsable du bureau accueil familial Nord](26-1146/) | PVS | Clôture: 2026-10-02
-- **26-1098** `🟠 CETTE SEMAINE` — [Responsable du pôle Métiers de la Mer](26-1098/) | GIEP NC | Clôture: 2026-10-02
-- **26-0826** `🟠 CETTE SEMAINE` — [Educateur spécialisé ou moniteur éducateur à la maison de l'enfance de Dumbéa su mer](26-0826/) | PVS | Clôture: 2026-10-02
-- **26-0290** `🟠 CETTE SEMAINE` — [Médecin à l'UPASS de La Foa](26-0290/) | PVS | Clôture: 2026-10-02
-- **25-1768** `🟠 CETTE SEMAINE` — [Médecin à l'UPASS de Bourail](25-1768/) | PVS | Clôture: 2026-10-02
-- **25-1769** `🟠 CETTE SEMAINE` — [Médecin au centre de protection maternelle et infantile](25-1769/) | PVS | Clôture: 2026-10-02
+- **26-64873_MPRH** `🔴 URGENT` — [Conseiller(e) pédagogique- Inspection 4ème circonscription](26-64873_MPRH/) | DENC | Clôture: 2026-10-02
+- **26-65216_MPRH** `🔴 URGENT` — [Conseiller(e) pédagogique-4ème circonscription-Poindimié](26-65216_MPRH/) | DENC | Clôture: 2026-10-02
+- **26-1350** `🔴 URGENT` — [Un professeur agrégé ou certifié en Economie-Gestion Option B](26-1350/) | UNC | Clôture: 2026-10-02
+- **26-1349** `🔴 URGENT` — [Un professeur agrégé ou certifié en Anglais](26-1349/) | UNC | Clôture: 2026-10-02
+- **26-1358** `🔴 URGENT` — [Chargé de projets vie scolaire et actions éducatives -  Mission d'un an renouvelable](26-1358/) | PVS | Clôture: 2026-10-02
+- **26-1356** `🔴 URGENT` — [Agent d'entretien et d'exploitation](26-1356/) | - | Clôture: 2026-10-02
+- **26-1364** `🔴 URGENT` — [Agent d'entretien polyvalent (Koumac-Ouegoa)](26-1364/) | PVN | Clôture: 2026-10-02
+- **26-1363** `🔴 URGENT` — [Adjoint(e) d'éducation -Koumac Dortoir garçons](26-1363/) | PVN | Clôture: 2026-10-02
+- **26-1345** `🔴 URGENT` — [Chef du service des moyens généraux](26-1345/) | GIEP NC | Clôture: 2026-10-02
+- **26-1348** `🔴 URGENT` — [Assistant(e) de direction/chargé(e) d'accueil à mi-temps](26-1348/) | - | Clôture: 2026-10-02
+- **26-1355** `🔴 URGENT` — [1 instructeur patrimoine](26-1355/) | - | Clôture: 2026-10-02
+- **26-1366** `🔴 URGENT` — [1 directeur de police municipale](26-1366/) | - | Clôture: 2026-10-02
+- **26-1362** `🔴 URGENT` — [Adjoint d'éducation (dortoir garçon) - Internat de Canala](26-1362/) | PVN | Clôture: 2026-10-02
+- **26-1352** `🔴 URGENT` — [Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (courants forts)](26-1352/) | UNC | Clôture: 2026-10-02
+- **26-1351** `🔴 URGENT` — [Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (automatisme et informatique industrielle)](26-1351/) | UNC | Clôture: 2026-10-02
+- **26-1346** `🔴 URGENT` — [2 Secrétaires comptables](26-1346/) | - | Clôture: 2026-10-02
+- **23-1353** `🔴 URGENT` — [1 Garde champêtre](23-1353/) | - | Clôture: 2026-10-02
+- **26-1357** `🔴 URGENT` — [Agent de gestion comptable et budgétaire](26-1357/) | - | Clôture: 2026-10-02
+- **26-1354** `🔴 URGENT` — [1 chef de section administrative et comptable](26-1354/) | - | Clôture: 2026-10-02
+- **26-1361** `🔴 URGENT` — [Agent de service en dortoir- Internat de Koumac](26-1361/) | PVN | Clôture: 2026-10-02
+- **26-1365** `🔴 URGENT` — [Chef cuisinier-  Internat de Canala](26-1365/) | PVN | Clôture: 2026-10-02
+- **26-63027_MPRH** `🔴 URGENT` — [Contrôleur à la section contrôle TGC et programmation](26-63027_MPRH/) | DSF | Clôture: 2026-10-02
+- **26-65407_MPRH** `🔴 URGENT` — [Chef de service éducatif - UPAD](26-65407_MPRH/) | DPJEJ | Clôture: 2026-10-02
+- **26-1280** `🔴 URGENT` — [Secrétaire-comptable](26-1280/) | Ville du Mont-Dore | Clôture: 2026-10-02
+- **26-65395_MPRH** `🔴 URGENT` — [Educateur spécialisé - UEMO Sud/Iles](26-65395_MPRH/) | DPJEJ | Clôture: 2026-10-02
+- **26-65052_MPRH** `🔴 URGENT` — [Contrôleur financier des établissements publics](26-65052_MPRH/) | DBAF | Clôture: 2026-10-02
+- **26-1213** `🔴 URGENT` — [Médecin à Poum](26-1213/) | PVN | Clôture: 2026-10-02
+- **26-1216** `🔴 URGENT` — [Médecin à Belep](26-1216/) | PVN | Clôture: 2026-10-02
+- **26-1210** `🔴 URGENT` — [Médecin à Ponérihouen](26-1210/) | PVN | Clôture: 2026-10-02
+- **26-1220** `🔴 URGENT` — [Médecin à Kaala-Gomen](26-1220/) | PVN | Clôture: 2026-10-02
+- **26-1222** `🔴 URGENT` — [Médecin à Ouegoa](26-1222/) | PVN | Clôture: 2026-10-02
+- **26-1215** `🔴 URGENT` — [2 Médecins itinérants et de téléconsultation](26-1215/) | PVN | Clôture: 2026-10-02
+- **26-1212** `🔴 URGENT` — [Médecin à Touho](26-1212/) | PVN | Clôture: 2026-10-02
+- **26-1221** `🔴 URGENT` — [Médecin à Kouaoua](26-1221/) | PVN | Clôture: 2026-10-02
+- **26-1219** `🔴 URGENT` — [Médecin à Houailou](26-1219/) | PVN | Clôture: 2026-10-02
+- **26-1217** `🔴 URGENT` — [Médecin à Canala](26-1217/) | PVN | Clôture: 2026-10-02
+- **26-1147** `🔴 URGENT` — [Chef de service adjoint de la protection de l'enfance](26-1147/) | PVS | Clôture: 2026-10-02
+- **26-1146** `🔴 URGENT` — [Responsable du bureau accueil familial Nord](26-1146/) | PVS | Clôture: 2026-10-02
+- **26-1098** `🔴 URGENT` — [Responsable du pôle Métiers de la Mer](26-1098/) | GIEP NC | Clôture: 2026-10-02
+- **26-0826** `🔴 URGENT` — [Educateur spécialisé ou moniteur éducateur à la maison de l'enfance de Dumbéa su mer](26-0826/) | PVS | Clôture: 2026-10-02
+- **26-0290** `🔴 URGENT` — [Médecin à l'UPASS de La Foa](26-0290/) | PVS | Clôture: 2026-10-02
+- **25-1768** `🔴 URGENT` — [Médecin à l'UPASS de Bourail](25-1768/) | PVS | Clôture: 2026-10-02
+- **25-1769** `🔴 URGENT` — [Médecin au centre de protection maternelle et infantile](25-1769/) | PVS | Clôture: 2026-10-02
 - **26-65932_MPRH** `🟢 EN COURS` — [Chargée d'études juridiques](26-65932_MPRH/) | CESE | Clôture: 2026-10-09
 - **26-65812_MPRH** `🟢 EN COURS` — [Responsable du bureau de la performance du système de protection sociale](26-65812_MPRH/) | DASS | Clôture: 2026-10-09
 - **26-1416** `🟢 EN COURS` — [Gestionnaire des ressources humaines - section développement des carrières](26-1416/) | CHT | Clôture: 2026-10-09
@@ -118,6 +118,8 @@ __135 offres__
 - **26-1419** `🟢 EN COURS` — [Auditeur - service de l'audit interne](26-1419/) | OPT | Clôture: 2026-10-09
 - **26-1397** `🟢 EN COURS` — [DPS - Chef de cellule polyvalent - Agence de Lifou et ses annexes](26-1397/) | OPT | Clôture: 2026-10-09
 - **26-1420** `🟢 EN COURS` — [Educateur spécialisé à Hienghène](26-1420/) | PVN | Clôture: 2026-10-09
+- **26-1375** `🟢 EN COURS` — [Directeur général (H/F)](26-1375/) | Chambre d'agriculture et de la pêche | Clôture: 2026-10-09
+- **26-1404** `🟢 EN COURS` — [Chargé de mission RH](26-1404/) | CNC | Clôture: 2026-10-09
 - **26-1389** `🟢 EN COURS` — [DPS - Chef de cellule distribution du courrier - CDC GN](26-1389/) | OPT | Clôture: 2026-10-09
 - **26-1382** `🟢 EN COURS` — [DPS - Administrateur des pratiques métiers -Section applications et pratiques métiers](26-1382/) | OPT | Clôture: 2026-10-09
 - **26-1383** `🟢 EN COURS` — [DPS - Chef d'agence - Agence de Lifou et ses annexes](26-1383/) | OPT | Clôture: 2026-10-09
@@ -131,11 +133,8 @@ __135 offres__
 - **26-1370** `🟢 EN COURS` — [Gestionnaire en ressources humaines](26-1370/) | PVS | Clôture: 2026-10-09
 - **26-1403** `🟢 EN COURS` — [Gestionnaire en ressources humaines](26-1403/) | PVS | Clôture: 2026-10-09
 - **26-1398** `🟢 EN COURS` — [Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine](26-1398/) | PVS | Clôture: 2026-10-09
-- **26-1422** `🟢 EN COURS` — [2 Cuisiniers à Koné](26-1422/) | PVN | Clôture: 2026-10-09
-- **26-1375** `🟢 EN COURS` — [Directeur général (H/F)](26-1375/) | Chambre d'agriculture et de la pêche | Clôture: 2026-10-09
-- **26-1404** `🟢 EN COURS` — [Chargé de mission RH](26-1404/) | CNC | Clôture: 2026-10-09
 - **26-1372** `🟢 EN COURS` — [Secrétaire Général Adjoint](26-1372/) | - | Clôture: 2026-10-09
-- **26-65479_MPRH** `🟢 EN COURS` — [Directeur(trice) adjoint(e)](26-65479_MPRH/) | DPJEJ | Clôture: 2026-10-09
+- **26-1422** `🟢 EN COURS` — [2 Cuisiniers à Koné](26-1422/) | PVN | Clôture: 2026-10-09
 - **26-1413** `🟢 EN COURS` — [Chef(fe) du service des finances](26-1413/) | Ville du Mont-Dore | Clôture: 2026-10-09
 - **25-65752_MPRH** `🟢 EN COURS` — [Chef du service de la protection sociale](25-65752_MPRH/) | DASS | Clôture: 2026-10-09
 - **26-1405** `🟢 EN COURS` — [1 Contrôleur de gestion](26-1405/) | CHT | Clôture: 2026-10-09
@@ -150,6 +149,7 @@ __135 offres__
 - **26-1424** `🟢 EN COURS` — [Adjoint d'éducation à Poindimié](26-1424/) | PVN | Clôture: 2026-10-09
 - **26-1421** `🟢 EN COURS` — [Adjoint(e) d'éducation à Koumac](26-1421/) | PVN | Clôture: 2026-10-09
 - **26-1426** `🟢 EN COURS` — [Coordinateur des actions éducatives des internats](26-1426/) | PVN | Clôture: 2026-10-09
+- **26-65479_MPRH** `🟢 EN COURS` — [Directeur(trice) adjoint(e)](26-65479_MPRH/) | DPJEJ | Clôture: 2026-10-09
 - **26-65832_MPRH** `🟢 EN COURS` — [Chef du service du pilotage budgétaire et de la stratégie financière](26-65832_MPRH/) | DBAF | Clôture: 2026-10-09
 - **26-65313_MPRH** `🟢 EN COURS` — [Adjoint(e) au chef de service du pilotage budgétaire et de la stratégie financière](26-65313_MPRH/) | DBAF | Clôture: 2026-10-09
 - **26-1306** `🟢 EN COURS` — [Agent de gardiennage et de surveillance](26-1306/) | PVS | Clôture: 2026-10-09
@@ -162,27 +162,28 @@ __135 offres__
 - **26-63595_MPRH** `🟢 EN COURS` — [Conseiller médical Prévention, Promotion de la santé](26-63595_MPRH/) | DASS | Clôture: 2026-10-09
 - **26-0648** `🟢 EN COURS` — [Travailleur Social au sein de la maison de l'enfance de Bourail](26-0648/) | PVS | Clôture: 2026-10-09
 - **26-0407** `🟢 EN COURS` — [Chargé d'études Hors bilan](26-0407/) | PVN | Clôture: 2026-10-09
-- **26-65800_MPRH** `🟢 EN COURS` — [Educateur spécialisé en milieu ouvert - STEMOI](26-65800_MPRH/) | DPJEJ | Clôture: 2026-10-16
-- **26-65918_MPRH** `🟢 EN COURS` — [Educateur spécialisé - UEMO Sud/Iles](26-65918_MPRH/) | DPJEJ | Clôture: 2026-10-16
-- **26-65288_MPRH** `🟢 EN COURS` — [Contrôleur chargé(e) des recettes et des régies de la collectivité](26-65288_MPRH/) | DBAF | Clôture: 2026-10-16
+- **26-65612_MPRH** `🟢 EN COURS` — [Inspecteur des affaires sanitaires et sociales](26-65612_MPRH/) | DASS | Clôture: 2026-10-16
 - **26-65092_MPRH** `🟢 EN COURS` — [Assistant(e) administratif(ve)](26-65092_MPRH/) | DBAF | Clôture: 2026-10-16
 - **26-1442** `🟢 EN COURS` — [Chirurgien-dentiste Cabinet dentaire Hnawayatch - Maré](26-1442/) | PIL | Clôture: 2026-10-16
 - **26-1427** `🟢 EN COURS` — [Controleur conformité et KYC - Centre Production Bancaire](26-1427/) | OPT | Clôture: 2026-10-16
 - **26-1431** `🟢 EN COURS` — [Chargé(e) de l'instruction des dispositifs spécifiques](26-1431/) | PVS | Clôture: 2026-10-16
 - **26-1429** `🟢 EN COURS` — [Chargé(e) d'actions culturelles](26-1429/) | PVS | Clôture: 2026-10-16
-- **26-65952_MPRH** `🟢 EN COURS` — [Responsable section contrôle formation emploi](26-65952_MPRH/) | DTEFP | Clôture: 2026-10-16
-- **26-65975_MPRH** `🟢 EN COURS` — [Chef du service des affaires administratives, financières et de l'informatique](26-65975_MPRH/) | DITTT | Clôture: 2026-10-16
-- **26-1441** `🟢 EN COURS` — [3 Médecins au Centre de Chépénéhé - Lifou](26-1441/) | PIL | Clôture: 2026-10-16
-- **26-65784_MPRH** `🟢 EN COURS` — [Chef du service administratif et financier](26-65784_MPRH/) | DAVAR | Clôture: 2026-10-16
-- **26-1428** `🟢 EN COURS` — [Chef de cellule polyvalent guichets et service arrière - Agence Païta](26-1428/) | OPT | Clôture: 2026-10-16
-- **26-1434** `🟢 EN COURS` — [Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne](26-1434/) | PVS | Clôture: 2026-10-16
+- **26-65800_MPRH** `🟢 EN COURS` — [Educateur spécialisé en milieu ouvert - STEMOI](26-65800_MPRH/) | DPJEJ | Clôture: 2026-10-16
+- **26-65918_MPRH** `🟢 EN COURS` — [Educateur spécialisé - UEMO Sud/Iles](26-65918_MPRH/) | DPJEJ | Clôture: 2026-10-16
+- **26-65288_MPRH** `🟢 EN COURS` — [Contrôleur chargé(e) des recettes et des régies de la collectivité](26-65288_MPRH/) | DBAF | Clôture: 2026-10-16
 - **26-65913_MPRH** `🟢 EN COURS` — [Educateur spécialisé en milieu ouvert - STEMOI](26-65913_MPRH/) | DPJEJ | Clôture: 2026-10-16
 - **26-65393_MPRH** `🟢 EN COURS` — [Gestionnaire comptable](26-65393_MPRH/) | DAPM | Clôture: 2026-10-16
 - **26-65954_MPRH** `🟢 EN COURS` — [Assistant administratif](26-65954_MPRH/) | DTEFP | Clôture: 2026-10-16
 - **26-65634_MPRH** `🟢 EN COURS` — [Chargé d'études juridiques](26-65634_MPRH/) | DAJ | Clôture: 2026-10-16
 - **26-65852_MPRH** `🟢 EN COURS` — [Conseiller(e) pédagogique- 6ème circonscription- Résidence administrative  LA FOA](26-65852_MPRH/) | DENC | Clôture: 2026-10-16
 - **26-65836_MPRH** `🟢 EN COURS` — [Conseiller(e) pédagogique - IEP 5   -Résidence KOUMAC](26-65836_MPRH/) | DENC | Clôture: 2026-10-16
+- **26-65952_MPRH** `🟢 EN COURS` — [Responsable section contrôle formation emploi](26-65952_MPRH/) | DTEFP | Clôture: 2026-10-16
+- **26-65975_MPRH** `🟢 EN COURS` — [Chef du service des affaires administratives, financières et de l'informatique](26-65975_MPRH/) | DITTT | Clôture: 2026-10-16
+- **26-1441** `🟢 EN COURS` — [3 Médecins au Centre de Chépénéhé - Lifou](26-1441/) | PIL | Clôture: 2026-10-16
+- **26-65784_MPRH** `🟢 EN COURS` — [Chef du service administratif et financier](26-65784_MPRH/) | DAVAR | Clôture: 2026-10-16
 - **26-1433** `🟢 EN COURS` — [Sage-femme](26-1433/) | CHN | Clôture: 2026-10-16
+- **26-1428** `🟢 EN COURS` — [Chef de cellule polyvalent guichets et service arrière - Agence Païta](26-1428/) | OPT | Clôture: 2026-10-16
+- **26-1434** `🟢 EN COURS` — [Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne](26-1434/) | PVS | Clôture: 2026-10-16
 - **26-1444** `🟢 EN COURS` — [Directeur des services techniques](26-1444/) | - | Clôture: 2026-10-16
 - **26-1446** `🟢 EN COURS` — [Chargé d'accueil polyvalent](26-1446/) | - | Clôture: 2026-10-16
 - **26-65712_MPRH** `🟢 EN COURS` — [Conseiller(e) pédagogique- 6ème circonscription- annexe PAITA](26-65712_MPRH/) | DENC | Clôture: 2026-10-16
@@ -204,15 +205,15 @@ __135 offres__
 
 __2 offres__
 
-- **26-1344** `🟠 CETTE SEMAINE` — [1 Chirurgien-dentiste](26-1344/) | PIL | Clôture: 2026-10-02
-- **26-1152** `🟠 CETTE SEMAINE` — [Responsable de l'UPASS de Thio](26-1152/) | PVS | Clôture: 2026-10-02
+- **26-1344** `🔴 URGENT` — [1 Chirurgien-dentiste](26-1344/) | PIL | Clôture: 2026-10-02
+- **26-1152** `🔴 URGENT` — [Responsable de l'UPASS de Thio](26-1152/) | PVS | Clôture: 2026-10-02
 
 ## 🌾 Economie rurale {: #economie-rurale }
 
 __3 offres__
 
-- **26-1342** `🟠 CETTE SEMAINE` — [Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson](26-1342/) | PVS | Clôture: 2026-10-02
-- **26-1347** `🟠 CETTE SEMAINE` — [Agent technique au parc provincial Zoologique et Forestier Michel Corbasson](26-1347/) | PVS | Clôture: 2026-10-02
+- **26-1342** `🔴 URGENT` — [Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson](26-1342/) | PVS | Clôture: 2026-10-02
+- **26-1347** `🔴 URGENT` — [Agent technique au parc provincial Zoologique et Forestier Michel Corbasson](26-1347/) | PVS | Clôture: 2026-10-02
 - **26-64585_MPRH** `🟢 EN COURS` — [Technicien adjoint](26-64585_MPRH/) | DAVAR | Clôture: 2026-10-16
 
 ## 📋 Equipement {: #equipement }
@@ -226,9 +227,9 @@ __2 offres__
 
 __17 offres__
 
-- **26-1360** `🟠 CETTE SEMAINE` — [INFIRMIER EN PRATIQUE AVANCÉE - POUM](26-1360/) | PVN | Clôture: 2026-10-02
-- **26-1359** `🟠 CETTE SEMAINE` — [INFIRMIER EN PRATIQUE AVANCÉE - CANALA](26-1359/) | PVN | Clôture: 2026-10-02
-- **26-1323** `🟠 CETTE SEMAINE` — [Infirmier(e) en pratique avancée - Houaïlou](26-1323/) | PVN | Clôture: 2026-10-02
+- **26-1360** `🔴 URGENT` — [INFIRMIER EN PRATIQUE AVANCÉE - POUM](26-1360/) | PVN | Clôture: 2026-10-02
+- **26-1359** `🔴 URGENT` — [INFIRMIER EN PRATIQUE AVANCÉE - CANALA](26-1359/) | PVN | Clôture: 2026-10-02
+- **26-1323** `🔴 URGENT` — [Infirmier(e) en pratique avancée - Houaïlou](26-1323/) | PVN | Clôture: 2026-10-02
 - **26-1376** `🟢 EN COURS` — [01 INFIRMIER (ERE)](26-1376/) | CHN | Clôture: 2026-10-09
 - **26-1407** `🟢 EN COURS` — [2 Infirmier(e)s en gériatrie](26-1407/) | CHT | Clôture: 2026-10-09
 - **26-1374** `🟢 EN COURS` — [1 infirmier à l'unité de soins médicaux rapprochés](26-1374/) | CHS | Clôture: 2026-10-09
@@ -248,15 +249,15 @@ __17 offres__
 
 __9 offres__
 
-- **26-64956_MPRH** `🟠 CETTE SEMAINE` — [Ingénieur en systèmes d'information décisionnels et analyse de données](26-64956_MPRH/) | DBAF | Clôture: 2026-10-02
-- **26-1343** `🟠 CETTE SEMAINE` — [1 Technicien(ne) de maintenance en informatique](26-1343/) | PIL | Clôture: 2026-10-02
+- **26-64956_MPRH** `🔴 URGENT` — [Ingénieur en systèmes d'information décisionnels et analyse de données](26-64956_MPRH/) | DBAF | Clôture: 2026-10-02
+- **26-1343** `🔴 URGENT` — [1 Technicien(ne) de maintenance en informatique](26-1343/) | PIL | Clôture: 2026-10-02
 - **26-1388** `🟢 EN COURS` — [DSI - Administrateur d'applications SI Télécom - Service Développement et Maintenance](26-1388/) | OPT | Clôture: 2026-10-09
 - **26-1399** `🟢 EN COURS` — [Product Manager Officer](26-1399/) | PVS | Clôture: 2026-10-09
 - **26-1400** `🟢 EN COURS` — [Administrateur Système Applicatif](26-1400/) | PVS | Clôture: 2026-10-09
 - **26-1425** `🟢 EN COURS` — [Chef de projets](26-1425/) | PVN | Clôture: 2026-10-09
 - **26-65075_MPRH** `🟢 EN COURS` — [Chargé de projets télécommunications](26-65075_MPRH/) | DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS | Clôture: 2026-10-09
-- **26-65974_MPRH** `🟢 EN COURS` — [Technicien support informatique et moyens logistiques](26-65974_MPRH/) | DITTT | Clôture: 2026-10-16
 - **26-65293_MPRH** `🟢 EN COURS` — [Chef de section centre de relation usagers](26-65293_MPRH/) | DINUM | Clôture: 2026-10-16
+- **26-65974_MPRH** `🟢 EN COURS` — [Technicien support informatique et moyens logistiques](26-65974_MPRH/) | DITTT | Clôture: 2026-10-16
 
 ## 📋 Médico-technique {: #medico-technique }
 
@@ -268,13 +269,13 @@ __1 offre__
 
 __1 offre__
 
-- **26-1298** `🟠 CETTE SEMAINE` — [Chef du service des centres de secours](26-1298/) | - | Clôture: 2026-10-02
+- **26-1298** `🔴 URGENT` — [Chef du service des centres de secours](26-1298/) | - | Clôture: 2026-10-02
 
 ## 📋 Rééducation {: #reeducation }
 
 __5 offres__
 
-- **26-1368** `🟠 CETTE SEMAINE` — [2 Masseurs kinésithérapeutes](26-1368/) | CHT | Clôture: 2026-10-02
+- **26-1368** `🔴 URGENT` — [2 Masseurs kinésithérapeutes](26-1368/) | CHT | Clôture: 2026-10-02
 - **26-1369** `🟢 EN COURS` — [Diététicien(ne)](26-1369/) | ASS-NC | Clôture: 2026-10-09
 - **26-1443** `🟢 EN COURS` — [Orthophoniste CMS Ouvéa](26-1443/) | PIL | Clôture: 2026-10-16
 - **26-0965** `🟢 EN COURS` — [Orthophoniste au service de prévention et promotion de la santé](26-0965/) | PVS | Clôture: 2026-10-23
@@ -284,7 +285,7 @@ __5 offres__
 
 __2 offres__
 
-- **26-65501_MPRH** `🟠 CETTE SEMAINE` — [Statisticien(ne)](26-65501_MPRH/) | DBAF | Clôture: 2026-10-02
+- **26-65501_MPRH** `🔴 URGENT` — [Statisticien(ne)](26-65501_MPRH/) | DBAF | Clôture: 2026-10-02
 - **26-61974_MPRH** `🟢 EN COURS` — [Enquêteur épidémiologiste](26-61974_MPRH/) | DASS | Clôture: 2026-10-16
 
 ## 🤝 médico-sociale et travail {: #medico-sociale-et-travail }
