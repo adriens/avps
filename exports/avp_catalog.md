@@ -6754,6 +6754,155 @@ Votre candidature précisant la référence de l'offre doit parvenir au SMTU par
 
 ---
 
+# 26-1339 - Directeur (trice) adjoint(e)
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ad51a6884c3e8ece366781b570b54189/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1339 - Directeur (trice) adjoint(e)",
+  "description": "Domaine: Autres filières. Direction: Congrès de la Nouvelle-Calédonie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1339/",
+  "datePosted": "2026-09-04",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+**Référence : 3134-26-1339/SR du 2026-09-04**
+
+## Employeur : Congrès de la Nouvelle-Calédonie
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** CNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine :** Attaché du CAG – emploi fonctionnel
+
+**Durée de résidence exigée pour le recrutement sur titre** (1) **: /**
+
+**Poste à pourvoir :** immédiatement
+
+**Direction : direction des ressources humaines**
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-09-04
+
+**Date limite de candidature :** Vendredi 2026-10-23
+
+### La date de clôture initialement prévue le 2026-10-02 a été reportée
+
+Détails de l'offre :
+
+Placé sous l'autorité hiérarchique du directeur des ressources humaines, le directeur adjoint sera amené à l'assister dans la gestion des personnels administratifs et des collaborateurs politiques de l'Institution, afin de contribuer à la mise en œuvre de la politique du Congrès de la Nouvelle-Calédonie en la matière et à la coordination de l'activité des services de la direction. Il a ainsi pour objectif général de garantir la sécurisation de la décision RH, la continuité, la qualité et l'efficacité du service des ressources humaines au quotidien.
+
+**Emploi RESPNC :** Directeur
+
+- **Missions :** Participer, aux côtés du directeur des ressources humaines, à la définition et à la mise en œuvre de la politique de gestion des ressources humaines de l'Institution ;
+  - Assurer le pilotage et la coordination des activités opérationnelles de la direction des ressources humaines ;
+  - Être le référent juridique de la direction des ressources humaines et garantir la sécurisation juridique des actes, décisions, procédures et pratiques RH ;
+  - Analyser les situations individuelles et collectives présentant une dimension juridique ou statutaire et proposer au directeur des ressources humaines les modalités de traitement appropriées ;
+  - Assurer l'interprétation et l'application des textes statutaires, réglementaires et conventionnels applicables aux personnels de l'Institution ;
+  - Assurer une veille juridique et réglementaire structurée, notamment en matière de droit de la fonction publique, droit du travail applicable en Nouvelle-Calédonie et droit des ressources humaines, et en mesurer les impacts pour l'Institution ;
+  - Anticiper et prévenir les risques contentieux et proposer les mesures permettant de sécuriser les décisions et procédures de la DRH ;
+  - Contribuer à l'élaboration, à l'actualisation et à la sécurisation des règlements, procédures, notes, décisions et autres actes relevant de la politique RH ;
+  - Apporter une expertise et un conseil au directeur des ressources humaines, au secrétariat général et aux responsables de service sur les problématiques statutaires, réglementaires et juridiques liées à la gestion des personnels ;
+  - Participer à la préparation et au suivi des instances de dialogue social et à la sécurisation juridique des dossiers qui leur sont soumis ;
+  - Superviser et contrôler l'activité de la DRH, en lien avec le directeur ;
+  - Assurer l'intérim du directeur des ressources humaines en son absence.
+
+### Profil du candidat Savoir / connaissances 
+- Formation supérieure en droit public, droit des ressources humaines, droit de la fonction publique ou domaine juridique connexe ;
+- Solide maîtrise du droit applicable à la fonction publique de Nouvelle-Calédonie et des règles relatives à la gestion administrative des agents publics ;
+- Bonne connaissance du droit du travail applicable en Nouvelle-Calédonie ;
+- Maîtrise des principes de sécurité juridique des actes administratifs et des procédures RH ;
+- Bonne connaissance des mécanismes du contentieux administratif et social et des enjeux de prévention du risque contentieux ;
+- Bonne connaissance du contexte institutionnel, politique, juridique et administratif de la Nouvelle-Calédonie ;
+- Maîtrise des enjeux liés au dialogue social et à la gestion des ressources humaines dans le secteur public.
+
+### Savoir-faire 
+- Analyser et interpréter des textes législatifs, réglementaires, statutaires et jurisprudentiels ;
+- Qualifier juridiquement une situation RH et identifier les risques associés ;
+- Sécuriser juridiquement les actes, décisions et procédures RH ;
+- Élaborer des analyses juridiques et formuler des préconisations opérationnelles ;
+- Effectuer une veille juridique et réglementaire et en assurer la traduction opérationnelle pour la DRH ;
+- Rédiger ou superviser la rédaction d'actes administratifs, notes, procédures, règlements et documents RH à portée juridique ;
+- Conseiller et alerter le directeur des ressources humaines et le secrétariat général sur les risques juridiques associés aux décisions envisagées ;
+- Manager des équipes et coordonner des activités RH ;
+- Piloter des projets transversaux et conduire le changement
+
+## Comportement professionnel 
+- Capacité à fédérer et mobiliser
+- Rigueur et sens de l'anticipation
+- Fiabilité dans l'analyse et la production d'actes ou d'indicateurs
+- Grande discrétion et confidentialité absolue
+- Capacité d'adaptation
+- Esprit d'analyse et de synthèse capacité d'analyse globale et anticipatrice avec esprit de synthèse et sens de la priorisation et de la gestion simultanée de sujets complexes
+- Sens du service et de l'écoute active
+- Réactivité
+- Être force de proposition
+- Grande disponibilité
+- Sens avéré de la communication et de la diplomatie
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des services de la gestion des ressources humaines du congrès de la Nouvelle-Calédonie par :
+
+- Voie postale : BP 3 98 851 NOUMEA CEDEX
+- Dépôt physique : 1, boulevard Vauban Centre-ville
+- Mail : [formation-recrutement-drh@congres.nc](mailto:formation-recrutement-drh@congres.nc)
+
+(1) Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2) La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[RH]: Ressources Humaines
+
+
+---
+
 # 26-1342 - Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/43f0b3352749e4c936011d7a9539d914/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -20730,161 +20879,6 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[CHN]: Centre Hospitalier du Nord
-
-
----
-
-# 26-1434 - Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9fd88782972f41617dffaab6fb34ca47/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1434 - Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne",
-  "description": "Domaine: Autres filières. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1434/",
-  "datePosted": "2026-09-25",
-  "validThrough": "2026-10-16",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-# Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-16  
-    **Direction :** PVS  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1434/SR du 2026-09-25**
-
-## 🏢 Employeur
-
-**Corps ou Cadre d'emploi /Domaine : Emploi fonctionnel**
-
-**Durée de résidence exigée pour le recrutement sur titre (1): /**
-
-**Poste à pourvoir :** Immédiatement
-
-**Direction : Secrétariat Général**
-
-**Lieu de travail : Nouméa**
-
-**Date de dépôt de l'offre :** vendredi 2026-09-25
-
-**Date limite de candidature :** vendredi 2026-10-16
-
-# Détails de l'offre 
-## *Recrutement dans le cadre des emplois fonctionnels de Confidentialité DRH*
-
-Collectivité majeure en Nouvelle-Calédonie, la province Sud est engagée dans un programme de reconstruction et de relance économique, de transformation de son action et de maîtrise de ses finances. Elle fait également de la qualité de la vie au travail une priorité. Le secrétariat général est aujourd'hui composé de trois pôles :
-
-- Fonctionnel/support, rattaché au secrétaire général,
-- Développement et épanouissement de la personne,
-- Transition écologique.
-
-Dans le cadre d'une mobilité interne, la province Sud recherche son futur secrétaire général adjoint en charge du pôle développement et épanouissement de la personne.
-
-## Emploi RESPNC 
-## 🎯 Missions
-
-- La direction de l'éducation et de la réussite,
-- La direction de l'action sanitaire et sociale,
-- La direction de la culture, de la jeunesse et des sports,
-- La direction de l'emploi et du logement,
-- Le centre d'information droits des femmes et égalité.
-
-Il ou elle sera par ailleurs chargé du pilotage des projets transversaux dans son domaine de compétence. Il ou elle veillera à la mise en œuvre des orientations prioritaires de l'Exécutif.
-
-Ce périmètre est susceptible d'évoluer en fonction des choix à venir de l'organisation du secrétariat général.
-
-**Caractéristiques particulières de l'emploi :**
-
-/
-
-**Profil du candidat Savoir / Connaissance/Diplôme exigé :**
-
-- Expérience sur un poste similaire ou à enjeux très forts
-- Connaissances du secteur de l'enseignement
-- Connaissances des problématiques de santé publique
-- Connaissances du contexte social, culturel et sportif local
-- Connaissances en développement local
-
-## Savoir-faire 
-- Aptitude au management
-- Aptitude à la négociation avérée
-- Animation d'équipes pluridisciplinaires
-- Qualités rédactionnelles
-
-## Comportement professionnel 
-- Capacités d'analyse et de synthèse
-- Qualités relationnelles
-- Rigueur et autonomie
-- Capacité d'adaptation
-- Qualités organisationnelles avérées
-- Loyauté
-- Vision stratégique
-
-## Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter M. Christophe BERGERY – Secrétaire général - Tél. : [📞 20 31 99](tel:203199) / e-mail : [✉️ christophe.bergery@province-sud.nc](mailto:christophe.bergery@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
 
 
 ---
