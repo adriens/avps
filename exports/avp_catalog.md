@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 184 offres extraites de la DRHFPNC.
+Ce document regroupe 187 offres extraites de la DRHFPNC.
 
 # 23-1353 - 1 Garde champêtre
 
@@ -23087,204 +23087,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 ---
 
-# 26-63595_MPRH - Conseiller médical Prévention, Promotion de la santé
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4609e10c7649cdbef06eb8e9490fe256/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-63595/MPRH - Conseiller médical Prévention, Promotion de la santé",
-  "description": "Domaine: Autres filières. Direction: Direction des affaires sanitaires et sociales",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Direction des affaires sanitaires et sociales",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-63595_MPRH/",
-  "datePosted": "2026-06-11",
-  "validThrough": "2026-07-02",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-# Conseiller médical Prévention, Promotion de la santé
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-07-02  
-    **Direction :** DASS  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Référence : 26-63595/MPRH du 2026-06-12**
-
-## 🏢 Employeur
-
-![](_page_0_Picture_3.jpeg)
-
-**Corps ou Cadre d'emploi /Domaine : médecin de santé**
-
-**publique**
-
-**Direction des affaires sanitaires et sociales (DASS)**
-
-**Service de la santé publique**
-
-**Durée de résidence exigée**
-
-**pour le recrutement sur titre (1) :** inférieure à 3 ans
-
-**Lieu de travail :** Nouméa
-
-**Date de dépôt de l'offre :** Vendredi 2026-06-12 **Poste à pourvoir :** vacant à partir du null
-
-**Date limite de candidature :** Vendredi 2026-07-03
-
-# Détails de l'offre 
-La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.
-
-Elle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale.
-
-Elle comprend un service administration et support qui intervient en support de manière transversale et quatre services métiers.
-
-Les principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.
-
-**Emploi RESPNC :** Médecin inspecteur
-
-## 🎯 Missions
-
-Le médecin de santé publique, en qualité de conseiller technique, intervient en expertise sur l'ensemble des thématiques du service de santé publique. A ce titre, il a pour missions:
-
-au titre de la prévention et de la promotion de la santé : définition et participation à la rédaction des plans de santé; de cahiers des charges d'AAP, d'avis dans le cadre de l'instruction de projets, d'animation ou de co-animation des conférences de santé
-
-dans le champs propre des conseillers médicaux : participation aux processus de gestion formalisés et validés en matière de réglementation, d'EIG, d'EIAS, d'EIGS, inspections, contrôles, gestion de crise, astreintes
-
-**Activités principales :** Le conseiller médical prévention, promotion de la santé est en charge de missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes :
-
-- Analyser et diagnostiquer des enjeux de santé, propositions et stratégies, d'orientations ou d'actions
-- Contribuer aux aspects médicaux des schémas et programmes d'actions et à leur évaluation
-- Animer des réseaux de professionnels de santé dans la domaine sanitaire ou médico-social
-- Collaborer à des travaux, études médicales,
-- Rédiger des rapports de synthèse, d'inspection ou d'expertise.
-
-## Missions spécifiques
-
-- Assurer l'analyse, les investigations, et la gestion des signaux infectieux en collaboration avec les IDE du service de santé publique, et les autres médecins de la direction
-- Participer à la mise en place et l'actualisation des outils d'investigation et de gestion des signaux et alertes sanitaires, harmonisés pour toute la région en particulier concernant les pathologies suivantes rougeole, oreillons, rubéole, coqueluche, poliomyélite varicelle, diphtérie, variole, tuberculose, méningites -Participer à la préparation des points de suivi des alertes et des messages de communication (CP, site internet,
-
-messages aux professionnels...) avec le chargé de communication de la direction
-
-- -Participer au point de situation hebdomadaire sur les dossiers en cours de gestion par l'équipe en charge des alertes infectieuses
-- Participer au « point astreinte » dans le cadre de l'astreinte médicale
-- Contribuer à la gestion médicale des évènements indésirables associés aux soins et au traitement des réclamations
-- Contribuer au dispositif d'inspection/contrôle
-
-### Politiques et dispositifs de prévention
-
-- -Assurer la mission de référent médical prévention et santé envirronnement.
-- Contribuer à l'évaluation des dispositifs de prévention
-
-**Activités secondaires :** En lien avec les professionnels médicaux de la direction:
-
-- Émettre des avis dans le champs médico-social, dont les demandes d'admission provisoire au séjour, si nécessaire
-- Ponctuellement, participation à diverses commissions médico-administratives de la direction ( commission des hospitalisations sans consentement en psychiatrie, comité médical des praticiens hospitaliers, commission d'appel des évacuations sanitaires, conseil de santé des fonctionnaires...).
-
-Participer au « point astreinte » dans le cadre de l'astreinte médicale
-
-Participe à la formation des étudiants en santé
-
-Apporter son concours aux situation de gestion de crise
-
-## Caractéristiques particulières de l'emploi 
-Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.
-
-## Profil du candidat Savoir / Connaissances / Diplôme exigé 
-- Diplôme de médecine
-- Santé publique et système de santé
-- Contexte de l'exercice médical et des bonnes pratiques
-- Cadre légal et réglementaire de la santé publique/du système de santé
-- Politiques sanitaires et médico-sociales
-- Expérience de travail en outre-mer appréciée,
-- Connaissance de l'environnement professionnel de la Nouvelle-Calédonie appréciée.
-
-### Savoir-faire 
-- -Discerner les enjeux spécifiques, anticiper et prendre des initiatives dans des domaines sensibles et dans l'urgence
-- -Mémoriser, synthétiser et exploiter des dossiers complexes
-- -Conduire un projet
-- -Concevoir et proposer des solutions innovantes et durables
-- Maîtriser et être autonome pour l'utilisation des outils bureautiques courants
-- Animer des réunions
-
-### Comportement professionnel 
-- Sens de la pédagogie
-- Aptitude à la polyvalence des missions - Capacités d'analyse et de synthèse
-- Qualités rédactionnelles - Intégrité et déontologie
-- Appétence pour le travail en équipe
-
-**Contact et informations complémentaires :**
-
-MESTRE Marie-Laure
-
-mail : *[✉️ direction.dass@gouv.nc](mailto:direction.dass@gouv.nc)*
-
-ou
-
-FRAYSSINET Vanessa
-
-Tél: [📞 24 37 00](tel:243700) / mail : *[✉️ rh.dass@gouv.nc](mailto:rh.dass@gouv.nc)*
-
-**Informations salaire :** [https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante\\_0.pdf](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
-
-- Voie postale : **B.P M2 - 98849 Nouméa cedex**
-
-- Dépôt physique : **Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
-
-- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=dass)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[MPRH]: Mission Politique de Ressources Humaines
-
-
----
-
 # 26-64585_MPRH - Technicien adjoint
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a4af5fd1324951b05d337d179652e58e/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -23495,6 +23297,163 @@ Merci d'envoyer au plus tard le **Vendredi 2026-10-02** votre candidature accomp
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[DENC]: Direction de l'Enseignement de la Nouvelle-Calédonie
+
+
+---
+
+# 26-64875_MPRH - Contrôleur IR
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/da040efebcb832861ca57ca717ededec/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-64875/MPRH - Contrôleur IR",
+  "description": "Domaine: Autres filières. Direction: Direction des services fiscaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des services fiscaux",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-64875_MPRH/",
+  "datePosted": "2026-10-02",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-64875/MPRH du 2026-10-02**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** DSF  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : rédacteur Direction des services fiscaux (DSF)**
+
+**Service de la fiscalité des professionnels à l'impôt sur le revenu**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** **Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Vendredi 2026-10-02
+
+**Date limite de candidature :** Vendredi 2026-10-23
+
+**Poste à pourvoir :** vacant à partir du 2026-09-01
+
+La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.
+
+Le service de la fiscalité professionnelle à l'impôt sur le revenu est chargé des travailleurs indépendants et des personnes morales ne relevant pas de l'impôt sur les sociétés .Il assure l'assiette et le contrôle des différents impôts auxquels ces derniers sont assujettis.
+
+# Détails de l'offre 
+**Emploi RESPNC :** Chargé de l'assiette des impôts, droits et taxes
+
+Au sein du service de la fiscalité des professionnels à l'impôt sur le revenu, le contrôleur assure la gestion, le contrôle et le contentieux des impôts, droits et taxes dus par les entreprises individuelles, les gérants majoritaires de sociétés et les autres personnes morales relevant de l'impôt sur le revenu. A ce titre, il gère environ 3000 dossiers professionnels et personnels.
+
+## 🎯 Missions
+
+**Activités principales :** - Gérer les dossiers : création et mise à jour des dossiers des entrepreneurs
+
+individuels relevant du réel et/ou du forfait, des gérants de sociétés et des sociétés soumises à l'impôt sur le revenu ; suivi des déclarations et mise en recouvrement des impositions (TGC, IR, CCS, patente, licence, etc.),
+
+- Informer le contribuable : réception et renseignement des contribuables ou de
+
+leurs conseils,
+
+- Assurer le contrôle des dossiers : examen des déclarations fiscales de son portefeuille de contribuables en contrôle formel, information, relances, régularisations amiables, notifications de redressement (taxations d'office et contradictoires), contrôle sur pièces, propositions de dossiers de vérifications
+
+(VASFE et/ou VG),
+
+- Composer les dossiers contentieux : instruction des réclamations ou des recours gracieux des patentés de son portefeuille (analyse, justification des demandes...), rédaction des projets de décisions, des avis de dégrèvement, de
+
+- **Activités secondaires :** Participer aux tâches collectives, notamment la campagne impôt sur le revenu,
+  - Contribuer au développement des actions transversales initiées par le service ou la direction,
+  - Assurer des missions de renfort ponctuel (agents d'accueil, échéances fiscales, etc.),
+  - Assurer des permanences physiques et téléphoniques,
+  - Collaborer avec les collègues des autres services de la DSF dont les services de la fiscalité des professionnels à l'impôt sur les sociétés, de la recette, des particuliers et de contrôle et d'expertise.
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Notion dans le domaine juridique et/ou comptable serait un plus,
+- Techniques de rédaction administrative.
+
+### Savoir-faire 
+- Accueillir et renseigner les contribuables,
+- Maîtriser les outils bureautiques (suite Google),
+- Maîtriser les délais et anticiper les échéances,
+- S'adapter aux évolutions (réglementation applicable, outils informatiques utilisés et organisation du service),
+- Acquérir rapidement des connaissances techniques nouvelles (des actions de formation existent en interne).
+
+### Comportement professionnel 
+- Respect légal du secret professionnel,
+- Discrétion professionnelle,
+- Sens du service public,
+- Communication aisée avec un public de professionnels,
+- Diplomatie,
+- Sens du travail en équipe et de la solidarité,
+- Esprit d'analyse et de synthèse,
+- Méthode et sens de l'organisation,
+- Curiosité intellectuelle,
+- Autonomie,
+- Disponibilité.
+
+### Contact et informations complémentaires 
+Mme Kristèle CHARTIER, chef du service de la fiscalité des professionnels IR Tél: [📞 25 76 86](tel:257686) / mail : *[✉️ kristele.chartier@gouv.nc](mailto:kristele.chartier@gouv.nc)*
+
+ou
+
+Mme Karen LOUISY-GABRIEL, adjointe au chef du service de la fiscalité des professionnels IR
+
+Tél: [📞 25 75 65](tel:257565) / mail : *[✉️ karen.louisy-gabriel@gouv.nc](mailto:karen.louisy-gabriel@gouv.nc)* **Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dsf)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
 
 
 ---
@@ -28846,6 +28805,398 @@ Toute candidature incomplète ne pourra être prise en considération.
 - 🏢 [Toutes les offres DRHFPNC](./?direction=conseil coutumier nengone)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-66112_MPRH - Éducateur spécialisé en hébergement diversifié - Nord
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a14f2ab80f62747e8f6dc9f841535ac2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-66112/MPRH - Éducateur spécialisé en hébergement diversifié - Nord",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-66112_MPRH/",
+  "datePosted": "2026-10-02",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+La Nouvelle-Calédonie recrute, pour les besoins du Service éducatif de milieu ouvert et d'insertion de la Direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ), un **Éducateur spécialisé en hébergement diversifié - Nord**.
+
+Le poste est à pourvoir dans le cadre d'une mission ponctuelle immédiatement jusqu'au 2027-06-18.
+
+## Contexte et mission 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+La DPJEJ est chargée de mettre en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse. À ce titre, elle veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.
+
+Sous l'autorité du chef de service éducatif (PEAD-UPAD), l'éducateur spécialisé en famille d'accueil intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire. Il assure l'accompagnement socio-éducatif et le suivi des mineurs confiés en famille d'accueil au titre des mesures judiciaires ordonnées. Le poste est basé à Koné.
+
+## Activités principales 
+Assurer l'accompagnement éducatif individualisé des mineurs de 13 à 18 ans ;
+
+Assurer le suivi et le soutien des familles d'accueil ;
+
+Rédiger les écrits éducatifs destinés aux magistrats ;
+
+Maintenir le lien du jeune avec son environnement familial d'origine ;
+
+Rechercher de nouvelles familles d'accueil ;
+
+Rechercher des partenaires dans le cadre de l'insertion scolaire ou professionnelle des mineurs suivis ;
+
+Organiser des rencontres entre les familles d'accueil ;
+
+Élaborer et mettre en œuvre des projets éducatifs ;
+
+Participer à la réflexion d'équipe sur les différentes formes de prise en charge ;
+
+Assurer le remplacement des collègues éducateurs en cas d'absence (congés, maladie, formation, etc.).
+
+## Profil 
+Titulaire du diplôme d'État d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'École nationale de la protection judiciaire de la jeunesse du ministère de la Justice.
+
+Compétences requises :
+
+Maîtriser les compétences liées au diplôme d'État d'éducateur spécialisé ;
+
+Évaluer et analyser les situations éducatives et sociales ;
+
+Élaborer et mettre en œuvre des projets éducatifs individualisés dans le respect des personnes, de leur culture et du cadre institutionnel ;
+
+Conduire des entretiens individuels et familiaux ;
+
+Maîtriser les écrits professionnels destinés aux magistrats ;
+
+Connaître les textes relatifs à l'enfance en danger et à l'enfance délinquante, ainsi que le Code de la justice pénale des mineurs (CJPM) ;
+
+Connaître le milieu socio-culturel et les institutions de la Nouvelle-Calédonie ;
+
+Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté.
+
+## 🛠️ Savoir-faire
+
+Capacité à construire et conduire un accompagnement éducatif individualisé ;
+
+Capacité à travailler en équipe pluridisciplinaire et en coopération avec les services extérieurs ;
+
+Capacité à adapter son emploi du temps au projet des mineurs pris en charge ;
+
+Capacité rédactionnelle (notes et rapports éducatifs).
+
+Comportements professionnels :
+
+Comportements professionnels :
+
+Disponibilité, autonomie et capacité d'organisation ;
+
+Capacité d'adaptation ;
+
+Capacité à prendre de la distance face aux situations complexes ;
+
+Pour tout renseignement sur le poste, vous pouvez contacter Monsieur Dick-Samuel UKEIWE, chef de service éducatif par intérim PEAD Tél: [📞 23 19 31](tel:231931) / mail : *[✉️ dick-samuel.ukeiwe@gouv.nc](mailto:dick-samuel.ukeiwe@gouv.nc)*
+
+Merci d'envoyer au plus tard le **Vendredi 2026-10-23** votre candidature accompagnée d'une lettre de motivation, d'un CV, de la **fiche de renseignements** ci-jointe et de la copie de vos diplômes à la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie / B.P M2 - 98849 Nouméa cedex / *[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-66172 - Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f297da81d37f65fa0d443959802714a1/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-66172 - Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique",
+  "description": "Domaine: Autres filières. Direction: Direction de la culture, de la condition féminine et de la citoyenneté",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la culture, de la condition féminine et de la citoyenneté",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-66172/",
+  "datePosted": "2026-10-02",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+La Nouvelle-Calédonie recrute, pour les besoins du de la Direction de la culture, de la condition féminine et de la citoyenneté (DCCFC), un **Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique**.
+
+Le poste est à pourvoir dans le cadre d'une mission ponctuelle immédiatement pour une durée de 1 an.
+
+## Contexte et mission 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** DCCFC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+Placé sous l'autorité du directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie, le directeur artistique est chargé d'élaborer la proposition artistique du festival.
+
+## Activités principales 
+Placé sous l'autorité du directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie, le directeur artistique est chargé de :
+
+- Elaborer le programme artistique du festival : dans le cadre de la thématique choisie et en tenant compte de la composition des délégations annoncées, élaborer la programmation générale du festival.
+- Elaborer l'offre calédonienne : en accord avec le thème et en lien étroit avec les forces vives identifiées sur l'ensemble du territoire, lancer dès 2027 un programme de création et de préparation en vue du festival ;
+- Programmation opérationnelle : réaliser la programmation artistique du festival, contribuer au recensement des besoins pour chaque discipline artistique en lien avec le responsable logistique ;
+
+## Profil 
+- Savoir / Connaissances / Diplôme éxigé :
+- Maîtrise du contexte et du tissu culturel local ;
+- Expérience dans des organisations culturelle d'envergure ;
+- Aptitude à travailler en équipe et à encadrer ;
+- Aptitude à élaborer et gérer un budget dans un cadre de la comptabilité publique ;
+- Aptitude à anticiper les flux d'importation de matériels et matériaux (en coordination avec les services de la douane et de la Nouvelle-Calédonie) ;
+- Aptitude à structurer et documenter son action et son reporting pour une parfaite transparence ;
+- Maîtrise de l'anglais ;
+- Connaissance du contexte institutionnel de la Nouvelle-Calédonie et du fonctionnement des aires coutumières ;
+- Titulaire du permis B. Savoir-faire:
+- Compétences rédactionnelles, organisationnelles et managériales ainsi que des capacités de négociation et de propositions;
+- Aptitude à proposer, à conduire et à préparer une délégation lors d'événements culturels importants (Festival des arts); Comportement professionnel:
+- Gestion rigoureuse des dossiers;
+- Discrétion
+- Bon relationnel;
+- Capacité d'adaptation face à la multiplicité des tâches et au travail en réseau;
+- Rigueur et investissement personnel
+- Grande disponibilité
+
+Pour tout renseignement sur le poste, vous pouvez contacter Christophe AUGIAS Tél: [📞 26 04 21](tel:260421) / mail : *[✉️ christophe.augias@gouv.nc](mailto:christophe.augias@gouv.nc)* ou Ernest HNACIPAN Tél: [📞 26 97 62](tel:269762) / mail : *[✉️ ernest.hnacipan@gouv.nc](mailto:ernest.hnacipan@gouv.nc)*
+
+Merci d'envoyer au plus tard le **Vendredi 2026-10-23** votre candidature accompagnée d'une lettre de motivation, d'un CV, de la **fiche de renseignements** ci-jointe et de la copie de vos diplômes à la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie / B.P M2 - 98849 Nouméa cedex / *[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dccfc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-66192_MPRH - Conseiller(e) pédagogique- 6ème circonscription- annexe PAITA
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/d951a8b2f911a96e915bd545652c837a/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-66192/MPRH - Conseiller(e) pédagogique- 6ème circonscription- annexe PAITA",
+  "description": "Domaine: Autres filières. Direction: Direction de l'enseignement de la Nouvelle-Calédonie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'enseignement de la Nouvelle-Calédonie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-66192_MPRH/",
+  "datePosted": "2026-10-02",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-66192/MPRH du 2026-10-02**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** DENC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : professeur des écoles** ou **instituteur**
+
+**Direction de l'enseignement de la Nouvelle-Calédonie (DENC)**
+
+**6ème circonscription**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** **Lieu de travail :** PAITA
+
+**Date de dépôt de l'offre :** Vendredi 2026-10-02
+
+**Date limite de candidature :** Vendredi 2026-10-23
+
+**Poste à pourvoir :** susceptible d'être vacant le 2027-02-01
+
+- La direction de l'enseignement de la Nouvelle-Calédonie est chargée :
+- Des programmes scolaires de l'école primaire publique, sous réserve de la compétence des provinces pour leur adaptation en fonction des réalités culturelles et linguistiques ;
+- De la formation initiale et continue des maîtres de l'enseignement primaire public ;
+- Du contrôle pédagogique de l'enseignement primaire public, c'est à dire notamment de l'animation, de l'aide et de l'inspection pédagogiques dans les écoles publiques ; La direction comprend un service des affaires administratives, financières et de la communication, un service pédagogique , une annexe à Koné, 7 circonscriptions. et un service de la prévention du décrochage scolaire. La 6ème circonscription est située en Province Sud. Celle-ci exerce sur les communes de Dumbéa, Paîta, Tontouta, Boulouparis,La Foa, Saraméa, Moindou, Bourail,Thio.
+
+# Détails de l'offre 
+**Emploi RESPNC :** Conseiller pédagogique
+
+Placé sous l'autorité de l'inspectrice de l'enseignement primaire au sein de la 6ème circonscription, le ou la conseillère pédagogique est titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur), et détenteur de compétences avérées dans l'usage des technologies de l'information et de la communication pour l'enseignement (TICE). Il est souhaité qu'il porte un intérêt pour la formation ouverte à distance (FOAD). Il inscrit son action dans le cadre du projet de service de la DENC et du programme de travail de la circonscription, validé par la directrice de l'enseignement de la Nouvelle-Calédonie. **Missions :**
+
+**Activités principales :** Former les enseignants dans leurs pratiques professionnelles quotidiennes, en accompagnant en priorité les nouveaux nommés :
+
+- Concevoir et organiser des animations pédagogiques ;
+- Assister les équipes enseignantes dans l'organisation et le fonctionnement des cycles pédagogiques, contribuer à la réalisation et au suivi des projets d'école ;
+- Favoriser le développement des usages du numérique dans la mise en œuvre des programmes et du socle commun des connaissances et des compétences et promouvoir l'utilisation des nouvelles technologies en favorisant l'émergence de projets pédagogiques intégrant leur utilisation.
+
+### Expertise pédagogique 
+- Participer à l'élaboration des documents et outils d'accompagnement des nouveaux programmes ;
+- Participer à la mise en œuvre des projets pédagogiques d'envergure ;
+- Aider à l'intégration harmonieuse du numérique dans les stratégies d'apprentissage et d'enseignement ;
+- Participer de manière secondaire à l'élaboration de sujets de concours et à certains jurys.
+
+**Activités secondaires :** Activités secondaires : missions et/ou affectation ponctuelle sur une autre circonscription en fonction des besoins de la direction de l'enseignement.
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur) ou vivement souhaité ;
+- Parfaite connaissance des programmes scolaires et culture pédagogique actualisée pour les 3 cycles de l'école primaire ;
+- Bonne connaissance du système éducatif et de la répartition des compétences de l'enseignement en Nouvelle-Calédonie ;
+- Bonne culture générale ;
+- Disposer de bonnes connaissances des approches pédagogiques et didactiques ;
+- Maîtriser les technologies de l'information et de la communication ;
+- Bonne connaissance du numérique et de la formation à distance.
+
+### Savoir-faire 
+- Assister les équipes d'enseignants ;
+- Organiser et mener des sessions de formation initiale et continue ;
+- Concevoir des outils pédagogiques.
+
+## Comportement professionnel 
+- Rigueur ;
+- Sens de l'organisation ;
+- Curiosité intellectuelle ;
+- Qualités relationnelles ;
+- Esprit d'équipe ;
+- Sens de l'écoute ;
+- Professionnalisme ;
+- Capacité à rendre compte.
+
+### Contact et informations complémentaires 
+Marie-Hélène WAMO
+
+Tél: [📞 77 69 64](tel:776964) / mail : *[✉️ marie-helene.wamo@gouv.nc](mailto:marie-helene.wamo@gouv.nc)* ou
+
+Christelle VARNEY
+
+Tél: [📞 23 96 05](tel:239605) / mail : *[✉️ denc.safco.rh@gouv.nc](mailto:denc.safco.rh@gouv.nc)*
+
+## Informations salaire : [https://drhfpnc.gouv.nc/sites/default/files/atoms/files/filiere\\_enseignement.p](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/filiere_enseignement.pdf)
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=denc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[DENC]: Direction de l'Enseignement de la Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
 
 
