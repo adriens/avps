@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 180 offres extraites de la DRHFPNC.
+Ce document regroupe 181 offres extraites de la DRHFPNC.
 
 # 25-1768 - Médecin à l'UPASS de Bourail
 
@@ -14398,6 +14398,128 @@ En cas d'impossibilité de candidater en ligne, les candidatures pourront nous p
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[CHT]: Centre Hospitalier Territorial
 *[RH]: Ressources Humaines
+
+
+---
+
+# 26-1417 - 3 Aides-soignant(e)s en pneumologie
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/4f84a07cbe3a6b0616175dfb883dce94/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1417 - 3 Aides-soignant(e)s en pneumologie",
+  "description": "Domaine: Aide-soignant. Direction: Centre hospitalier territorial \"Gaston Bourret\"",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1417/",
+  "datePosted": "2026-09-18",
+  "validThrough": "2026-10-09",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+## 3 Aide-soignant(e)s en pneumologie
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-09  
+    **Direction :** CHT  
+    **Domaine :** Aide-soignant  
+    **Statut :** ⏳ **Cette semaine** (≤7 jours)
+
+
+
+**Référence : 3134-26-1417/SR du 2026-09-18**
+
+#### Employeur : Centre Hospitalier Territorial
+
+**Corps ou Cadre d'emploi / Domaine :** aide-soignant(e)/ statut particulier des personnels paramédicaux de la Nouvelle-Calédonie
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** au moins égale à 10 ans
+
+**Poste à pourvoir :** 2 immédiatement et 1 susceptible d'être vacant
+
+**Direction de la coordination des soins**
+
+**Lieu de travail : Médipôle Koutio**
+
+**Date de dépôt de l'offre :** Vendredi 2026-09-18
+
+**Date limite de candidature :** Vendredi 2026-10-09
+
+# Détails de l'offre 
+# �� **À propos du poste :**
+
+Intégré au pôle médecine, le service de pneumologie prend en charge notamment les pathologies bronchiques, PID et les maladies rares, cancers pulmonaires et divers appareillages.
+
+**Pour en savoir plus sur notre établissement et le service de pneumologie, cliquez sur le lien suivant:** *[Découvrez](https://recrutement.cht.nc/pages/decouvrez-le-medipole) le [Médipôle](https://recrutement.cht.nc/pages/decouvrez-le-medipole) - CHT Gaston Bourret*
+
+## �� **Missions :**
+
+L'aide-soignant(e) dispense, en collaboration avec l'infirmier, des soins de prévention, de maintien, de relation et d'éducation à la santé, pour préserver et restaurer la continuité de la vie, le bien-être et l'autonomie de la personne.
+
+#### Activités principales 
+- Accueil, informer et accompagner les patients ainsi que leur entourage,
+- Entretien de l'environnement immédiat du patient et réfection du lit, ainsi que du matériel de soins et de l'approvisionnement des chariots,
+- Réalisation des transmissions par oral et par écrit, pour maintenir la continuité des soins,
+- Observation du bon fonctionnement des appareillages et dispositifs médicaux,
+- Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires),
+- Réaliser des soins infirmiers et assurer la prise en charge globale des patients,
+- Évaluer l'état de santé, surveiller l'évolution clinique et identifier les situations d'urgences,
+- Assurer la traçabilité des soins et la mise à jour des dossiers patient,
+- Travailler en coordination avec l'équipe pluridisciplinaire.
+
+## ��**Profil du candidat :**
+
+- Titulaire du diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e),
+- Expérience dans un service similaire serait un plus,
+- Formation AFGSU niveau 2 attendu,
+- Esprit d'équipe, qualité d'écoute et relationnelles sont indispensable pour occuper ce poste,
+- Ce poste exige une discrétion professionnelle, une forte adaptabilité ainsi qu'une solide aptitude physique au port de charge.
+
+- Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)
+- Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (*cadre de la santé de N[ouvelle-Calédonie](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf)*)
+
+ℹ️ **Contact et informations complémentaires :** Pour toutes informations supplémentaires, veuillez contacter Alice HONAKOKO -Cadre supérieur de santé - tél : [📞 20.80.00](tel:208000) – poste 8054 - mail : [✉️ alice.honakoko@cht.nc](mailto:alice.honakoko@cht.nc)
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures **(CV détaillé, lettre de motivation, photocopie des diplômes)** doivent nous parvenir prioritairement en ligne via notre plateforme **Teamtailor** :
+
+### *1 [Aide-soignant](https://recrutement.cht.nc/jobs/8384846-1-aide-soignant-en-reanimation) en réanimation - CHT Gaston Bourret*
+
+En cas d'impossibilité de candidater en ligne, les candidatures pourront nous parvenir par message électronique, en précisant la référence de l'offre, à l'adresse suivante : [✉️ recrutement@cht.nc](mailto:recrutement@cht.nc)
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Aide-soignant](../#aide-soignant)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=cht)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[CHT]: Centre Hospitalier Territorial
 
 
 ---
