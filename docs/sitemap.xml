@@ -2,54 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://adriens.github.io/avps/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/feed.xml</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1468/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1475/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1513/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1492/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1498/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1520/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1491/</loc>
+    <loc>https://adriens.github.io/avps/26-66279_MPRH/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -127,19 +91,55 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1503/</loc>
+    <loc>https://adriens.github.io/avps/26-1492/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-66279_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1498/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1520/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1491/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1468/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1475/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1513/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-65113/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1497/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -175,12 +175,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1499/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1512/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,18 +182,6 @@
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1510/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1470/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1514/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -229,7 +211,37 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1497/</loc>
+    <loc>https://adriens.github.io/avps/26-1470/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1514/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-65753_MPRH/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1496/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1495/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1494/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -325,26 +337,32 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1496/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1495/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1494/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-66404_MPRH/</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-66172/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-66082_MPRH/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1460/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1457/</loc>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -373,31 +391,25 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1457/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1460/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-66082_MPRH/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-66172/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-66192_MPRH/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1463/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1456/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1466/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -427,24 +439,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1463/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1456/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1466/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-61973_MPRH/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -452,6 +446,24 @@
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-64875_MPRH/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-66112_MPRH/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1462/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-1464/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -470,18 +482,6 @@
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1459/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1462/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1464/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -511,37 +511,19 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-66112_MPRH/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-65612_MPRH/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1442/</loc>
+    <loc>https://adriens.github.io/avps/26-65092_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1427/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1431/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1429/</loc>
+    <loc>https://adriens.github.io/avps/26-65293_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -571,37 +553,37 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65092_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1427/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65293_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1431/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65784_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1429/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65952_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1442/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65975_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-65954_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-64585_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-65634_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -631,13 +613,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-65954_MPRH/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65634_MPRH/</loc>
+    <loc>https://adriens.github.io/avps/26-1428/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -661,18 +637,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1428/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1441/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1444/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -685,7 +649,43 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://adriens.github.io/avps/26-1441/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-65784_MPRH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-65952_MPRH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-65975_MPRH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-64585_MPRH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://adriens.github.io/avps/26-65712_MPRH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://adriens.github.io/avps/26-61974_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -733,12 +733,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1440/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-66092_MPRH/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -751,100 +745,10 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-61974_MPRH/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65932_MPRH/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1420/</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1376/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1417/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1416/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1407/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1410/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1386/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1387/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1388/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1391/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1402/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1378/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1419/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1397/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-65812_MPRH/</loc>
@@ -853,268 +757,28 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1374/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1408/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1411/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1375/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1404/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1389/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1382/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1383/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1384/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1395/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1377/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1385/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1392/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1396/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1371/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1370/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1403/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1398/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1372/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1369/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1422/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1390/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1401/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1379/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1381/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1380/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1405/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1406/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1409/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1418/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1373/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1399/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1400/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1415/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1414/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1424/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1425/</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1423/</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1421/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1426/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1413/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/25-65752_MPRH/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65479_MPRH/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1360/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1342/</loc>
@@ -1141,28 +805,10 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1365/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1359/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-65832_MPRH/</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65313_MPRH/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1325/</loc>
@@ -1183,18 +829,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1306/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1305/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1326/</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1207,34 +841,10 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1323/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65407_MPRH/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65193_MPRH/</loc>
-    <lastmod>2026-08-31</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-65395_MPRH/</loc>
     <lastmod>2026-08-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65332_MPRH/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-65052_MPRH/</loc>
@@ -1243,22 +853,10 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adriens.github.io/avps/26-1287/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adriens.github.io/avps/26-1298/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-1297/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1213/</loc>
@@ -1313,12 +911,6 @@
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://adriens.github.io/avps/26-65075_MPRH/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-1184/</loc>
@@ -1413,8 +1005,8 @@
   <url>
     <loc>https://adriens.github.io/avps/26-0407/</loc>
     <lastmod>2026-03-20</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://adriens.github.io/avps/26-0290/</loc>
