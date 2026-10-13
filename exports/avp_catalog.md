@@ -1,6 +1,6 @@
 # 📚 Catalogue Complet des Avis de Vacances de Poste (AVP)
 
-Ce document regroupe 169 offres extraites de la DRHFPNC.
+Ce document regroupe 165 offres extraites de la DRHFPNC.
 
 # 25-1768 - Médecin à l'UPASS de Bourail
 
@@ -8555,147 +8555,6 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes,
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[AVP]: Avis de Vacance de Poste
-*[PIL]: Province des Îles Loyauté
-
-
----
-
-# 26-1441 - 3 Médecins au Centre de Chépénéhé - Lifou
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a0c0693527f1c6b372b62e743c9ff058/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1441 - 3 Médecins au Centre de Chépénéhé - Lifou",
-  "description": "Domaine: Autres filières. Direction: Province des îles Loyauté",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province des îles Loyauté",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province des Îles Loyauté",
-      "addressLocality": "Lifou"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -20.9,
-      "longitude": 167.25
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1441/",
-  "datePosted": "2026-09-25",
-  "validThrough": "2026-10-16",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_0.jpeg)
-
-## Employeur : Province des îles Loyauté
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-16  
-    **Direction :** PIL  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Corps /Domaine :** médecin du cadre de la santé
-
-**Durée de résidence exigée :** inférieur à 3 ans
-
-**Poste à pourvoir :** Immédiatement
-
-**Direction : D**irection de l'action communautaire et de l'action sanitaire
-
-**Lieu de travail :** Centre médical de Chépénéhé -Lifou
-
-**Date de dépôt de l'offre :** Vendredi 2026-09-25
-
-**Date limite de candidature :** Vendredi 2026-10-16
-
-Détails de l'offre :
-
-### Emploi RESPNC : médecins
-
-Placé sous l'autorité du chef de service de l'action sanitaire. La personne retenue aura la charge de la continuité de l'offre de soin sur le centre médico-social.
-
-- **Missions :** Mettre en œuvre les orientations provinciales en matière de santé publique :
-  - Médecine curative : consultations, urgences, suivi à domicile
-  - La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique
-  - La veille sanitaire et sociale
-  - L'établissement de partenariats extérieurs ;
-  - La gestion de la pharmacie de la structure ;
-  - La participation aux actions de formation et d'animation de sécurité civile,
-  - Le renfort aux CMS essentiellement en cas de nécessité.
-
-### Profil du candidat Savoir / Connaissance/Diplôme exigé 
-- Maîtrise de la médecine ;
-- Bonne connaissance en santé publique ;
-- Connaissance en gynécologie obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie seraient appréciées ;
-- Bonne connaissance de la gestion des urgences ;
-- Diplôme de médecine ;
-- Titulaire du permis de conduire B
-
-#### Savoir-faire 
-- Veillez à la gestion de la pharmacie interne
-- Capacité à la gestion des moyens en personnel et matériel du centre médical
-- Garantir l'application de la prescription médicale
-- Maîtrise des logiciels de bureautique (Excel et Word) et médical (Asclépios)
-- Aptitude au management d'équipe
-- Expérience professionnelle sur un poste isolé serait apprécié et au contact de population océaniennes
-
-### Comportement professionnel 
-- Sens des responsabilités, motivation et engagement personnel
-- Sens du contact et du travail en équipe
-- Capacité d'écoute et proposition
-- Goût des relations humaines
-- Générale et de l'urgence (CAMU Souhaité)
-
-Pour tout renseignement complémentaire, vous pouvez contacter madame Raymonde UTRAMADRA, chef de service de l'action sanitaire, Tél : [📞 45.12.12](tel:451212)/ ou par mail [r-utramadra@loyalty.nc](mailto:r-utramadra@loyalty.nc)
-
-ou Madame Marie-Rose WAIA, directrice à la direction de l'action communautaire et de l'action sanitaire de la province des îles Loyauté, Tél : [📞 45.52.46](tel:455246) /mail : : [rh-dacas@loyalty.nc](mailto:rh-dacas@loyalty.nc)
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la province des iles loyauté [\(www.province-iles.nc/avp](http://www.province-iles.nc/avp)) ou sur le site de la DRHFPNC [\(www.drhfpnc.gouv.nc\)](http://www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC).
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines de la province des îles Loyauté, service des recrutements et du développement des compétences, par :
-
-- Voie postale : BP 50 98820 WÉ LIFOU
-- Dépôt physique : Hôtel de la province des îles Loyauté à Wé Lifou
-- Mail : [drh-recrutement@loyalty.nc](mailto:drh-recrutement@loyalty.nc)
-- Le site de la province des iles loyauté : [www.province-iles.nc/avp](http://www.province-iles.nc/avp)
-
-## *Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique Toute candidature incomplète ne sera pas prise en considération.*
-
-#### Publication et diffusion 
-- *Établissement provincial de l'insertion, de la formation et de l'emploi (EPIFE)*
-
-*- Tous services provinciaux des Îles Loyauté pour affichage*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pil)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-*[PMI]: Protection Maternelle et Infantile
 *[PIL]: Province des Îles Loyauté
 
 
@@ -17381,1000 +17240,6 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
-# 26-1501 - Agent de gardiennage et de surveillance
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/36dcf6c057d2d173aaabd3067e1d4c65/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1501 - Agent de gardiennage et de surveillance",
-  "description": "Domaine: Autres filières. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1501/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1501/SR du 2026-10-09**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : ACDP - Grille 1**
-
-**Durée de résidence exigée**
-
-**pour le recrutement sur titre (1): /**
-
-**Poste à pourvoir :** 2027-03-05
-
-**Direction : Secrétariat Général**
-
-**Lieu de travail : Nouméa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-# Détails de l'offre 
-La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.
-
-Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités.
-
-Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.
-
-**Emploi RESPNC : Agent de gardiennage et de surveillance - veilleur de nuit**
-
-## 🎯 Missions
-
-- La surveillance des zones définies (prévention des intrusions, dégradations et vols) ;
-- La détection des comportements suspects ;
-- L'intervention lors d'incidents et l'alerte subséquente aux autorités et/ou services compétents si nécessaire ;
-- La rédaction de rapports d'intervention et la tenue des registres de suivi.
-
-Des rondes régulières ou des stations fixes sont effectuées pour garantir la sécurité des lieux.
-
-## Caractéristiques particulières de l'emploi 
-- Horaires flexibles : possibilité de travailler à différents moments de la journée et de la nuit
-- Travail en extérieur : évoluer dans un environnement varié, loin d'un bureau traditionnel
-- Bonne condition physique et capacité à travailler en horaires décalés
-
-## Profil du candidat Savoir / Connaissance/Diplôme exigé 
-- Certificat de formation en sécurité ou qualification similaire recommandé
-- Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée
-- Avoir des notions en self-défense serait un avantage
-- Permis B exigé
-
-## Savoir-faire 
-- Maîtrise des procédures de sécurité
-- Expérience dans la surveillance, la sécurité ou un poste similaire appréciée
-- Capacité de gestion de situations d'urgence et d'incidents, pouvant engendrer une pression importante
-- Capacité à rendre compte
-- Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité
-
-## Comportement professionnel 
-- Rigueur
-- Sens de l'observation
-- Réactivité et sens du contact
-- Qualités relationnelles
-- Qualités rédactionnelles
-- Sens du travail en équipe
-- Sens de la communication
-- Disponibilité
-- Leadership
-- Discrétion et devoir de réserve
-
-### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter M. William Brevi – Chargé de sécurité - Référent du site de l'Artillerie et référent sureté - Tél. : [📞 20 31 90](tel:203190) / e-mail : [✉️ william.brevi@province-sud.nc](mailto:william.brevi@province-sud.nc).
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC
-
-(www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud -
-
-(www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-1502 - Gestionnaire comptable
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/3e126e7ff1041ef7efb4a66bf51a1953/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1502 - Gestionnaire comptable",
-  "description": "Domaine: Autres filières. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1502/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_0.jpeg)
-
-**Référence : 3134-26-1502/SR du 2026-10-09**
-
-## Employeur : Province Sud
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : Adjoint administratif**
-
-**Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs (1):** au moins égale à 10 ans
-
-**Poste à pourvoir :** Immédiatement
-
-**Direction Provinciale de l'Action Sanitaire et Sociale**
-
-**Lieu de travail : Nouméa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-# Détails de l'offre 
-La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et centre médico-sociaux (CMS) et de ses autres sites excentrés.
-
-Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels contribuent, dans une dynamique de synergie médico-sociale, à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux et à prendre en charge les difficultés intrafamiliales.
-
-Au sein du pôle support, évaluation et accompagnement, le service des affaires financières (SAF) a pour missions l'élaboration du budget en dépenses et recettes et le suivi de son exécution, le suivi des subventions, ainsi que la régulation et la gestion de l'ensemble des régies.
-
-L'agent retenu sera chargé d'assurer le traitement comptable des dépenses courantes et éventuellement des recettes.
-
-## Emploi RESPNC : Gestionnaire comptable
-
-## 🎯 Missions
-
-- D'effectuer la réception, le traitement, la vérification et le classement des pièces comptables ;
-- D'éditer des engagements financiers et/ou des bons de commandes ;
-- De vérifier, de liquider et de pré-mandater les dépenses ;
-- De préparer mensuellement le paiement des indemnités aux familles d'accueil ;
-- D'assurer un suivi financier des dossiers qui lui seront donnés à traiter ;
-- D'effectuer des demandes de création de lignes de crédits et de virement de crédits ;
-- D'informer le fournisseur du paiement de sa facture quand nécessaire ;
-- De mettre en place ou de mettre à jour des procédures sur le poste occupé ;
-- D'être un renfort dans l'équipe lors de l'absence d'un collègue tant sur la partie dépenses que sur la partie recettes ;
-- De participer à l'évaluation annuelle des dépenses dans son domaine d'activité.
-
-### Caractéristiques particulières de l'emploi 
-Forte activité en période de clôture budgétaire (novembre/décembre)
-
-- Maîtrise de la comptabilité publique (M52)
-- Maîtrise des outils bureautiques et informatiques (Excel, Outlook, Word, etc.)
-- Maîtrise du logiciel Astre GFI (SURFI)
-
-- Connaissances des logiciels métier CASH et SALSA serait un plus
-- Connaissances de l'organisation administrative de la collectivité et des circuits administratifs
-
-### Savoir-faire 
-- Capacité à travailler en équipe
-- Capacité à s'adapter aux différentes situations et interlocuteurs
-- Capacité à expliciter de manière factuelle le traitement d'un dossier, des procédures et des démarches administratives
-- Capacité à respecter les procédures générales, à combiner les tâches, à organiser son travail et à exercer un autocontrôle (respect des délais)
-- Capacité à être autonome sur certaines tâches
-- Capacité à être force de propositions dans l'amélioration de l'exécution quotidienne.
-
-### Comportement professionnel 
-- Rigueur
-- Réactivité
-- Sens du service public
-- Organisation
-- Esprit d'équipe
-- Polyvalence
-- Confidentialité
-- Discrétion professionnelle
-
-### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter Mme Sandrine Colombet – Chef de Service - Tél. : [📞 20 44 13](tel:204413) / e-mail : [✉️ sandrine.colombet@province-sud.nc](mailto:sandrine.colombet@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
-*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-1504 - Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a76f875a20a9cbd49be59fa8cb02f1ab/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1504 - Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer",
-  "description": "Domaine: Autres filières. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Dumbéa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.15,
-      "longitude": 166.45
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1504/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1504/SR du 2026-10-09**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Autres filières  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : ACDP - Grille 2**
-
-**Durée de résidence exigée pour le recrutement sur titre (1): /**
-
-**Poste à pourvoir :** 2026-12-01
-
-**Direction Provinciale de l'Action Sanitaire et Sociale**
-
-**Lieu de travail : Dumbéa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-## Détails de l'offre 
-Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés.
-
-Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
-
-Au sein du pôle enfance-famille, le service de la protection de l'enfance (SPE) compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif et est en charge de la mise en œuvre de l'ensemble des actions de prévention et de protection de l'enfance.
-
-Le poste concerné par le présent AVP est un poste d'accompagnateur de nuit au sein de la Maison de l'enfance de Dumbéa sur Mer dans le cadre de l'ouverture du dispositif d'accueil d'urgence et d'orientation (DAUO)
-
-La Maison de l'Enfance de Dumbéa sur Mer regroupe :
-
-- Le DAUO qui propose un accueil d'urgence pour des jeunes de 6 à 17 ans, placés en urgence du fait d'une situation de danger immédiat et d'une nécessité de mise en protection sur une période de 3 mois maximum dans le cadre d'une
-
-- Décision judiciaire de mise en protection (OPP ou AE),
-- La MDE : qui accueille 10 adolescents de 14 à 18 ans bénéficiant d'une mesure d'Assistance Éducative ou des jeunes jusqu'à 21 ans dans le cadre d'un contrat jeune majeur lorsqu'il y a une continuité dans leur projet (études, insertion professionnelle…).
-
-L'accompagnateur de nuit assure la sécurité et le bien-être des jeunes sur le DAUO. Il pourra aussi être amené à intervenir à la MDE en fonction des rotations selon le roulement prévu.
-
-Sous l'autorité hiérarchique du directeur de la MDE de DSM, l'agent retenu contribue à la prise en charge sécurisée et bienveillante des jeunes accueillis, en lien avec l'équipe éducative et pluridisciplinaire.
-
-**Emploi RESPNC : Agent de prévention et de médiation - correspondant de nuit**
-
-## 🎯 Missions
-
-- D'intervenir sur les deux sites (DAUO et MDE) selon le planning, en garantissant la sécurité et la continuité des prises en charge ;
-- De savoir accueillir de façon bienveillante les enfants qui pourraient être confiés en pleine nuit dans le cadre d'une OPP, leur présenter la structure, leur chambre, répondre à leurs besoins (repas, hygiène…) pour les rassurer et les sécuriser dans le contexte de traumatisme que peut représenter le placement dans ces circonstances ;
-- D'être garant du respect du rythme biologique des enfants/ adolescents (sommeil) ainsi que du respect des rythmes de vie (soirée/ nuit/ matin) et intervenir si nécessaire (déplacements non autorisés, malaises, angoisses nocturnes…) ;
-
-- De garantir la sécurité des personnes, des locaux et des biens ;
-
-- De fournir des éléments d'observation et d'analyse via SIMBA pour la construction du projet de l'enfant/ de l'adolescent au cours de l'accueil mais aussi dans le cadre de l'après placement pour le suivi et les transmissions ;
-- De gérer les conflits et les situations à risque : d'intervenir rapidement et calmement pour préserver la sécurité physique et émotionnelle des jeunes ;
-- De respecter les procédures mises en place notamment concernant la gestion des incidents, des situations d'urgence… ;
-- De rendre compte en consignant les événements marquants dans un compte-rendu écrit et de les transmettre à l'équipe éducative et à la hiérarchie via SIMBA ;
-- D'être force de proposition, d'animation et d'encadrement d'activités adaptées (début / fin de journée) ;
-- D'accompagner les enfants et les adolescents, avec le soutien des éducateurs, dans l'apprentissage de l'autonomie ;
-- De contribuer avec le reste de l'équipe à la mise en œuvre et à l'évaluation du dispositif et aux réflexions autour de son évolution ainsi qu'à la démarche qualité et la participation à l'analyse de la pratique professionnelle.
-
-#### Caractéristiques particulières de l'emploi 
-- Horaires : nocturne, avec les week-ends, rotation selon planning pour assurer la couverture 7j/7
-- Contraintes : présence sur site la nuit, capacité à gérer l'accueil d'urgence en parallèle des missions habituelles, vigilance permanente
-- Environnement de travail : jeunes en situation de vulnérabilité, parfois instables ou présentant des troubles du comportement
-
-### Profil du candidat Savoir / Connaissance/Diplôme exigé 
-- Expérience souhaitée en internat, en accueil collectif d'enfants
-- Permis B indispensable
-- Connaissance de la protection de l'enfance
-- Connaissances en secourisme (Titulaire du PSC, AFGSU, formation de pompier…)
-- Connaissances du développement de l'enfant et de l'adolescent, des techniques de prévention et de gestion de conflits, …
-- Utilisation de l'outil informatique
-- Connaissance des diversités culturelles de Nouvelle-Calédonie
-- Connaissance des consignes de sécurité, d'intervention et d'alerte
-
-### Savoir-faire 
-- Capacité à assurer un suivi rigoureux et discret des jeunes la nuit
-- Capacité à répondre aux situations d'accueil d'urgence avec bienveillance afin de sécuriser et rassurer les enfants
-- Capacité à travailler pour et avec le public cible
-- Capacité à partager et transmettre des savoirs
-- Capacité à respecter la confidentialité dans le cadre du secret professionnel
-- Capacité à anticiper les situations conflictuelles et à détecter les comportements à risque
-- Capacité à gérer et exécuter des tâches dans le respect de règles et des procédures établis
-- Capacité à travailler en collaboration avec une équipe pluridisciplinaire
-- Capacité à s'adapter à différents âges et à des situations variées de prise en charge (DAUO / MDE)
-- Capacité à effectuer des transmissions précises au reste de l'équipe
-- Capacité à alerter et à rendre compte
-
-## Comportement professionnel 
-- Qualités relationnelles, pédagogie, patience et disponibilité
-- Bienveillance
-- Discrétion, éthique et déontologie
-- Esprit de coopération/collaboration
-- Souplesse et adaptabilité
-- Volonté d'actualisation permanente de ses connaissances
-- Réactivité
-- Autonomie, opérationnalité et créativité
-- Rigueur, sens de l'organisation et fiabilité
-
-Pour tout renseignement complémentaire, vous pouvez contacter M. Najime Belem – Directeur de la MDE DSM par intérim (Maison de l'enfance de Dumbéa sur mer) - Tél. : [📞 20 47 19](tel:204719) / e-mail : [✉️ najime.belem@province-sud.nc](mailto:najime.belem@province-sud.nc).
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-## POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Autres filières](../#autres-filieres)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
-*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-1505 - Infirmier(e) itinérant(e)
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6f09629f7f434b3b06ee10d96c29cb2c/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1505 - Infirmier(e) itinérant(e)",
-  "description": "Domaine: Infirmiers. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Bourail"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -21.5667,
-      "longitude": 165.5
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1505/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1505/SR du 2026-10-09**
-
-# Employeur : Province Sud
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : Infirmier en soins généraux ou infirmier diplômé d'Etat**
-
-## Durée de résidence exigée
-
-**pour le recrutement sur titre (1):** Pour les infirmier(e) en soins généraux : au moins égale à 5 ans
-
-**Poste à pourvoir :** 2027-02-01
-
-**Direction Provinciale de l'Action Sanitaire et Sociale**
-
-**Lieu de travail : Bourail**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-# Détails de l'offre 
-La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.
-
-Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
-
-L'infirmier(ère) itinérant(e), rattaché(e) au service des ressources humaines et des moyens (SRHM), est amené(e) à intervenir dans toutes les unités provinciales d'action sanitaire et sociale (UPASS) et les CMS, en particulier sur les zones de Thio, Bourail, La Foa, Yaté et l'Île des Pins, au sein d'équipes pluridisciplinaires (médecins, sages-femmes, assistantes sociales, spécialistes vacataires, psychothérapeutes, etc.). Il/Elle pourra être amenée occasionnellement à travailler sur Nouméa.
-
-## Emploi RESPNC : Infirmier
-
-## 🎯 Missions
-
-- De réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation) sur rôle propre infirmier et sur prescriptions médicales ;
-- De pratiquer les activités préventives individuelles (éducation du patient) ;
-- De pratiquer les activités collectives (protection maternelle et infantile (PMI), santé scolaire, vaccinations) ;
-- D'accueillir les urgences (prise en charge, relevage des victimes, conditionnement, évacuations) ;
-- De prendre en charge des patients admis en observation ;
-- De réaliser le suivi de la pharmacie et du matériel.
-
-## Caractéristiques particulières de l'emploi 
-Une attention particulière est portée à la santé communautaire, à la prévention et à la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en
-
-termes d'urgences médicales.
-
-Ce poste demande des déplacements fréquents en province Sud. Les agents sont soumis à des astreintes de nuit et de week-end selon les plannings établis par
-
-- Diplôme d'État d'infirmier
-- Connaissances en prévention et en promotion de la santé (charte d'Ottawa)
-- Titulaire du permis B et véhicule indispensable
-
-### Savoir-faire 
-- Expérience du travail en poste isolé
-- Expérience des urgences
-- Maîtrise des logiciels informatiques
-
-### Comportement professionnel 
-- Volontaire
-- Dynamique
-- Organisé
-- Responsable
-- Prise d'initiatives
-- Esprit d'équipe
-- Qualités relationnelles
-- Sens de l'écoute
-- Ouverture d'esprit
-- Flexibilité
-- Disponibilité
-
-### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter Mme Mathilde PANAYOTOU – Chef de Service des Ressources Humaines et des Moyens - Tél. : [📞 20 44 76](tel:204476) / e-mail : [✉️ mathilde.panayotou@province-sud.nc](mailto:mathilde.panayotou@province-sud.nc).
-
-Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
-*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
-*[AVP]: Avis de Vacance de Poste
-*[PMI]: Protection Maternelle et Infantile
-
-
----
-
-# 26-1506 - Responsable de bureau
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ca8c774a3e6ef00f7f886e0bd2849055/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1506 - Responsable de bureau",
-  "description": "Domaine: Informatique. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1506/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1506/SR du 2026-10-09**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Informatique  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : Ingénieur 1er grade – domaine Informatique**
-
-**Durée de résidence exigée**
-
-**pour le recrutement sur titre (1): au moins égale à 5 ans**
-
-**Poste à pourvoir :** Susceptible d'être vacant
-
-### Direction de l'Aménagement de l'Équipement et des Moyens
-
-**Lieu de travail : Nouméa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-# Détails de l'offre 
-Rattachée au pôle transition écologique, la direction de l'aménagement, de l'équipement et des moyens (DAEM) de la province Sud met en œuvre l'ensemble des politiques provinciales sur les champs de l'aménagement du territoire et de l'urbanisme, de la protection et de la mise en valeur du foncier provincial, tant public que privé, du développement et de l'entretien des infrastructures de transport, routières, maritimes et aéronautiques. Pour le compte de l'ensemble des directions provinciales, elle construit et assure le gros entretien des bâtiments accueillant les différents services publics provinciaux, et apporte un soutien logistique au travers d'une gestion des moyens centralisée.
-
-**Emploi RESPNC : Responsable de la sécurité des systèmes d'information**
-
-## 🎯 Missions
-
-Il/elle veille à l'optimisation du système d'information numérique et géographique du service ; est garant de la qualité des données cartographiques du service et des productions de son bureau ainsi que des bases de données du service.
-
-Il/elle assure la veille technologique informatique et géomatique nécessaire au maintien opérationnel des bases de données numérique du service et des techniques d'acquisition des données spatialisées.
-
-Il/elle organise et répartit les moyens disponibles pour atteindre le niveau de performance attendu et les objectifs fixés.
-
-## Il/elle a pour missions 
-- De superviser et/ou de participer à la conception, à la mise en place des développements informatiques permettant l'export des données du STF vers les outils communs de la direction et de la collectivité,
-- De veiller à la correcte structuration et à la mise à jour des bases de données numériques et spatialisées du service,
-- De superviser et/ou de participer au développement d'outils automatisés pour les traitements numériques et géomatiques utiles à la direction,
-- De coordonner la partie informatique du service pour assurer la cohérence numérique avec la direction,
-- De coordonner et de développer des échanges en matière de système d'information et de donnée et traitement numérique, notamment spatialisées, avec la direction du système d'information et du numérique (DSIN), les communes, le GIE SERAIL et les autres partenaires,
-- De préparer et de superviser l'acquisition, le contrôle et l'intégration des données géographiques utiles aux services provinciaux (Labels de précision P3-A3 et P5-A5),
-- De contrôler des travaux topographiques réalisés par le secteur privé pour la province ou le GIE Serail.
-
-- De coordonner des actions et d'organiser le travail de son équipe (4 personnes),
-- De contrôler la qualité de la production de ses équipes et de rendre compte de l'activité du bureau directement et via les outils de pilotages (RAM, TDB, indicateurs),
-
-- De fixer les objectifs opérationnels de l'équipe placée sous sa responsabilité et d'en assurer le suivi,
-- De veiller à la bonne compréhension des enjeux et des orientations collectifs,
-- De garantir la bonne circulation de l'information auprès de ses collaborateurs,
-- De veiller à la cohésion et à la motivation de son équipe,
-- De s'assurer de la bonne transmission de l'information entre le chef de service et ses collaborateurs,
-- D'être force de proposition technique pour le chef de service,
-- Instruire les dossiers avec diligence et neutralité dans le respect des délais fixés.
-
-En gestion des ressources :
-
-- De gérer les moyens et/ou les ressources du bureau,
-- Proposer des actions de formation et de développement des compétences humaines.
-
-En communication et en relation avec la population :
-
-- De transmettre les données techniques nécessaires à la rédaction des documents de communication,
-- D'établir et de garantir les bonnes relations avec les administrés et les professionnels du secteur,
-- De représenter la direction dans son domaine d'intervention.
-
-En mission secondaire, l'agent est également référent pour le compte du service sur la veille technologique en matière d'acquisition de données géographiques de référence (lidar, satellite, ...) et des outils liés (SIG, traitement d'image, ...) et des librairies de programmation utiles aux développement d'outils intégrables dans les logiciels du service.
-
-### Caractéristiques particulières de l'emploi 
-Le candidat retenu sera ponctuellement amené à travailler sur le terrain.
-
-Il devra avoir une bonne condition physique, l'absence de problèmes majeur d'acuité visuelle et l'absence de problèmes physiques, être capable de porter des charges et avoir une faculté d'adaptation aux contextes de travail en extérieur.
-
-### Profil du candidat Savoir / Connaissance/Diplôme exigé 
-- Bac+3 dans le domaine de l'informatique ou de la géomatique en adéquation avec le profil recherché
-- Connaissances en gestion de base de données
-- Connaissances en programmation permettant d'automatiser les traitements des données numériques au travers de langage de développement informatique
-- Connaissances SIG, techniques de numérisation, d'acquisition, d'intégration et de reproduction de données numériques
-- Maîtrise en SIG et télédétection
-- Maîtrise de la stéréopréparation et de la photogrammétrie
-- Maîtrise en techniques de gestion des métadonnées numériques, en catalogage de données, en sémiologie graphique et en analyse statistique et spatiale – Solides bases en topographie, en géodésie et en foncier
-- Titulaire du brevet de télépilote drone serait un avantage
-- Titulaire du permis (maîtrise de la conduite de véhicule tout terrain souhaitée)
-
-## Savoir-faire 
-- Expérience en matière d'encadrement souhaitée
-- Maîtrise du lange de programmation Python et du langage SQL et autre langage associé à l'outil SIG du Service
-- Maîtrise des bases de données et notamment spatial
-- Maîtrise du langage "Topstation"
-- Expérience en commande publique
-- Pilotage de projet et management par objectif
-- Animation de réunions
-- Très bonne connaissance des outils informatiques, de la gestion et de la diffusion des données numériques, de la bureautique et des logiciels métier (topstation, Autocad, QGIS)
-
-- Sens du service public
-- Aptitude au management
-- Force de propositions
-- Sens de l'organisation
-- Rigueur
-
-- Autonomie
-- Aptitude au travail en équipe
-- Réactivité
-- Disponibilité
-- Esprit de synthèse indispensable pour une communication efficace avec la hiérarchie
-
-### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter M. Styvens BASTIEN – Chef de service adjoint - Tél. : [📞 20 42 78](tel:204278) / e-mail : [✉️ styvens.bastien@province-sud.nc](mailto:styvens.bastien@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Informatique](../#informatique)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-1507 - Géomaticien
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/e8ac16c7fbcb61d11b312ccba030dae2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1507 - Géomaticien",
-  "description": "Domaine: Informatique. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "Nouméa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -22.2758,
-      "longitude": 166.458
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1507/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-## Employeur : Province Sud
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Informatique  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : Ingénieur 1er grade - domaine informatique**
-
-**Durée de résidence exigée**
-
-**pour le recrutement sur titre (1): au moins égale à 5 ans**
-
-**Poste à pourvoir :** susceptible d'être vacant
-
-### Direction de l'Aménagement de l'Équipement et des Moyens
-
-**Lieu de travail : Nouméa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-## Détails de l'offre 
-Rattachée au pôle transition écologique, la direction de l'aménagement, de l'équipement et des moyens (DAEM) de la province Sud met en œuvre l'ensemble des politiques provinciales sur les champs de l'aménagement du territoire et de l'urbanisme, de la protection et de la mise en valeur du foncier provincial, tant public que privé, du développement et de l'entretien des infrastructures de transport, routières, maritimes et aéronautiques. Pour le compte de l'ensemble des directions provinciales, elle construit et assure le gros entretien des bâtiments accueillant les différents services publics provinciaux, et apporte un soutien logistique au travers d'une gestion des moyens centralisée.
-
-### Emploi RESPNC : Géomaticien
-
-## 🎯 Missions
-
-- En matière de traitements informatiques et géomatiques :
-- De concevoir/ de mettre en place les développements informatiques permettant l'export des données du STF vers les outils communs de la direction et de la collectivité ;
-- D'analyser et de corriger les processus de structuration et de mise à jour des bases de données numériques et géographiques ;
-- De développer les outils automatisés pour les traitements numériques et géomatiques utiles à la direction ;
-- De créer et de mettre à jour les bases de données numériques spatialisées pour les besoins de la direction ;
-- De structurer et de cataloguer les données numériques ;
-- De participer et de développer des échanges en matière de SIG et de données et traitements numériques avec la direction du système d'information et du numérique (DSIN), les communes, le GIE SERAIL et les autres partenaires ;
-- D'être acteur des projets transversaux de la direction dans son secteur d'activité.
-
-En matière de cartographie :
-
-- D'acquérir, de contrôler, d'intégrer et de diffuser de la donnée géographique utile aux services provinciaux (1/500 et 1/2000) ;
-
-- De contrôler et de réceptionner des travaux cartographiques et topographiques réalisés par le secteur privé pour la province Sud ou le GIE SERAIL.
-
-En matière de développement des techniques :
-
-- D'assurer la veille technologique en matière de données géographiques de référence "fond de plan" (lidar, satellite, ...) et des outils liés (SIG, traitement d'image, ...) et des librairies de programmation utiles aux développements d'outils intégrables dans les logiciels du service ;
-
-- De garantir le perfectionnement des outils métiers développés sur les logiciels du service : TopStation, QGIS. Maîtrise du langage Python et SQL.
-
-Il devra avoir une bonne condition physique, l'absence de problèmes majeur d'acuité visuelle et l'absence de problèmes physiques, être capable de porter des charges et avoir une faculté d'adaptation aux contextes de travail en extérieur.
-
-- Connaissances en programmation permettant d'automatiser les traitements des données numérique au travers de langage de programmation
-- Connaissances SIG, techniques de numérisation, d'acquisition, d'intégration et de reproduction de données
-- Connaissances des logiciels SIG / CAD : QGIS, Autocad, BrisCAD
-- Connaissances en techniques de gestion des métadonnées numériques, en catalogage de données, en sémiologie graphique et en analyse statistique et spatiale
-- Titulaire du brevet de télépilote drone serait un avantage
-- Permis B
-
-### Savoir-faire 
-- Maîtrise du langage de programmation Python et du langage SQL
-- Maîtrise des bases de données et notamment spatial.
-- Expérience en topographie appréciée pour faciliter la maîtrise impérative du logiciel métier du service : TopStation
-- Expérience sur un ou plusieurs logiciels de SIG, notamment QGIS, et de DAO
-- Maîtrise des bases de la cartographie numérique, des référentiels géodésiques et des systèmes de projection associés
-- Gestion de projet
-- Qualités rédactionnelles
-
-### Comportement professionnel 
-- Disponibilité et implication
-- Rigueur et méthode
-- Sens du contrôle indispensable
-- Esprit d'analyse et de synthèse
-- Qualités relationnelles permettant d'établir et de gérer les relations fonctionnelles liées au poste
-- Capacité à rendre-compte à l'aide de tout outil de suivi mis à sa disposition
-- Sens du service public
-- Sens du travail en équipe
-- Respect de la hiérarchie
-- Expression et communication aisées
-- Dynamisme, réactivité et intérêt pour les métiers du service
-- Autonomie dans l'organisation de son travail
-
-#### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter M. Styvens Bastien – Chef de service adjoint - Tél. : [📞 20 42 78](tel:204278) / e-mail : [✉️ styvens.bastien@province-sud.nc](mailto:styvens.bastien@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Informatique](../#informatique)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
 # 26-1508 - Responsable du bureau développement et soutien au sport
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/47b915dc5ddcb0df6efbe68509319730/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -19018,166 +17883,6 @@ Toute candidature incomplète ne pourra être prise en considération.
 - 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[AVP]: Avis de Vacance de Poste
-
-
----
-
-# 26-1512 - Infirmier(e) à l'UPASS de la FOA
-
-<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/684dcde3bbb9f87cca0d7ca4621efcad/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
-
-<!--
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "title": "26-1512 - Infirmier(e) à l'UPASS de la FOA",
-  "description": "Domaine: Infirmiers. Direction: Province Sud",
-  "hiringOrganization": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "sameAs": "https://www.gouv.nc/"
-  },
-  "jobLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "NC",
-      "addressRegion": "Province Sud",
-      "addressLocality": "La Foa"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": -21.7167,
-      "longitude": 165.8333
-    }
-  },
-  "url": "https://adriens.github.io/avps/26-1512/",
-  "datePosted": "2026-10-09",
-  "validThrough": "2026-10-30",
-  "employmentType": "FullTime"
-}
-</script>
--->
-
-![](_page_0_Picture_1.jpeg)
-
-**Référence : 3134-26-1512/SR du 2026-10-09**
-
-## 🏢 Employeur
-
-
-!!! success "📋 Candidature rapide"
-    **Date limite :** 2026-10-30  
-    **Direction :** PVS  
-    **Domaine :** Infirmiers  
-    **Statut :** 📋 En cours
-
-
-
-**Corps ou Cadre d'emploi /Domaine : Infirmier en soins généraux ou infirmier diplômé d'Etat**
-
-### Durée de résidence exigée
-
-**pour le recrutement sur titre (1):** Pour les infirmier(e) en soins généraux : au moins égale à 5 ans
-
-**Poste à pourvoir :** 2027-01-01
-
-**Direction Provinciale de l'Action Sanitaire et Sociale**
-
-**Lieu de travail : La Foa**
-
-**Date de dépôt de l'offre :** vendredi 2026-10-09
-
-**Date limite de candidature :** vendredi 2026-10-30
-
-## Détails de l'offre 
-La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés.
-
-Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.
-
-Au sein du pôle santé et territoires, le ou la candidat(e) retenu(e) exercera ses missions à l'UPASS de La Foa, dans une équipe pluridisciplinaire attachée à la synergie médico-sociale.
-
-## Emploi RESPNC : Infirmier
-
-## 🎯 Missions
-
-- De réaliser des soins (biométrie, infections, prélèvements, pansements, stérilisation, etc.) ;
-- D'assurer les activités préventives individuelles (éducation du patient) ;
-- De mener et d'animer des projets de prévention ;
-- De réaliser au besoin des visites à domiciles en collaboration avec les autres membres de l'équipe ;
-- D'assurer les activités collectives (protection maternelle et infantile, santé scolaire, vaccinations, etc.) ;
-- D'assurer l'accueil des urgences (relevage des victimes, conditionnement, évacuations, etc.) ;
-- De suivre et de gérer la pharmacie et le stock de matériel ;
-- De tester et d'assurer un suivi du bon fonctionnement des appareils électriques de santé.
-
-### Caractéristiques particulières de l'emploi 
-Une attention particulière est portée à la santé communautaire, la prévention et la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en
-
-termes d'urgences médicales.
-
-A noter que le roulement infirmier demande une permanence de soins en
-
-astreinte de nuit et de week-end.
-
-Des interventions ponctuelles sont possibles à l'UPASS de Bourail dans le cadre de
-
-- **Profil du candidat Savoir / Connaissance/Diplôme exigé :**
-  - Diplôme d'État d'infirmier
-  - Connaissances en prévention et en promotion de la santé (charte d'Ottawa) souhaitée
-
-### Savoir-faire 
-- Expérience du travail en poste isolé
-- Expérience des urgences
-- Expérience en puériculture souhaitée
-- Maîtrise de l'outil informatique
-
-### Comportement professionnel 
-- Prise d'initiatives
-- Volontaire
-- Dynamique
-- Qualités organisationnelles
-- Sens des responsabilités
-- Esprit d'équipe
-- Qualités relationnelles
-- Facilité d'écoute
-- Ouverture d'esprit
-- Flexibilité
-- Disponibilité
-
-### Contact et informations complémentaires 
-Pour tout renseignement complémentaire, vous pouvez contacter M. Carl Honda – Responsable UPASS La Foa - Tél. : [📞 20 46 20](tel:204620) / e-mail : [✉️ carl.honda@province-sud.nc](mailto:carl.honda@province-sud.nc). Vous pouvez consulter l'ensemble des AVP sur le site de la DRHFPNC (www.drhfpnc.gouv.nc) ainsi que la réglementation et le répertoire des emplois (RESPNC). Le présent AVP est également consultable sur le site de la province Sud - (www.province-sud.nc)
-
-# POUR RÉPONDRE À CETTE OFFRE
-
-Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire (2)) précisant la référence de l'offre doivent parvenir à la direction des ressources humaines par :
-
-- Soit par internet : <https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste>
-- Mail : [drh.candidatures@province-sud.nc](mailto:drh.candidatures@province-sud.nc)
-- Voie postale : Bureau du recrutement BP L1 98849 Nouméa cedex
-- Dépôt physique : Centre administratif de la province Sud 6 route des artifices Nouméa
-- Fax : [📞 20.30.12](tel:203012)
-
-(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
-
-Toute candidature incomplète ne pourra être prise en considération.
-
-*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique.*
----
-
-## 🎯 Actions rapides
-
-- 📄 [Télécharger le PDF original](#)
-- ← [Retour à l'index](./)
-- 💼 [Autres offres en Infirmiers](../#infirmiers)
-- 🏢 [Toutes les offres DRHFPNC](./?direction=pvs)
-
-*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
-*[DPASS]: Direction Provinciale de l'Action Sanitaire et Sociale
-*[UPASS]: Unité Provinciale d'Action Sanitaire et Sociale
 *[AVP]: Avis de Vacance de Poste
 
 
@@ -20365,6 +19070,158 @@ En cas d'impossibilité de candidater par le biais de la messagerie électroniqu
 - 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
+# 26-1528 - Chef du service des animations et des actions communales
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/9f1f4f3a7de90bce2dd6546b1521b987/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-1528 - Chef du service des animations et des actions communales",
+  "description": "Domaine: Autres filières. Direction: DRHFPNC",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DRHFPNC",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Nouvelle-Calédonie"
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-1528/",
+  "datePosted": "2026-10-12",
+  "validThrough": "2026-10-30",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 3134-26-1528/SR du 2026-10-09**
+
+# Employeur : MAIRIE DE VOH
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-30  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps /Domaine : Animateurs socio-éducatifs du cadre de la jeunesse et des sports NC Direction : services administratifs**
+
+### Durée de résidence exigée
+
+**Pour le recrutement sur titre :** au moins égale à 10 ans
+
+**Poste à pourvoir :** Immédiatement
+
+**Lieu de travail : MAIRIE DE VOH**
+
+**Date de dépôt de l'offre :** Vendredi 2026-10-09
+
+**Date limite de candidature :** Vendredi 2026-10-30
+
+# Détails de l'offre 
+Le chef du service sera chargé de la mise en œuvre et du pilotage de la politique communale en matière de culture, de sport et d'éducation, ainsi que de l'animation et du développement du tissu socio-économique local. À ce titre, il contribue à la définition des orientations communales et en assure la déclinaison opérationnelle dans son champ de compétences.
+
+## Emploi RESPNC : 1 chef du service des animations et des actions communales
+
+**Missions** : Placée sous l'autorité du Maire et de la Secrétaire générale adjointe, la personne retenue sera chargée du pilotage, de la coordination et de la mise en œuvre des missions et activités relevant du service. Elle assurera :
+
+- **Activités principales :** Participer à la définition, à la formalisation et à la mise en œuvre des orientations et de la politique communale dans les domaines de la culture, du sport, de l'éducation, du social et de l'animation locale ;
+  - Piloter et coordonner les actions communales relevant du service des actions et animations culturelles ;
+  - Définir et piloter le projet d'animation du service, en cohérence avec les orientations de la collectivité ;
+  - Assurer le pilotage et la mise en œuvre de la politique communale en matière de sport, en lien avec les associations, les établissements, les partenaires institutionnels et les acteurs locaux ;
+  - Mettre en œuvre le Projet Éducatif Local (PEL) de la commune et animer le réseau des acteurs œuvrant dans le cadre du projet ;
+  - Animer les instances du Projet Éducatif Local communal, notamment le COTECH et le COPIL ;
+  - Assurer la gestion et le suivi des subventions attribuées dans le cadre du PEL ;
+  - Organiser et coordonner les activités du service et veiller à leur articulation avec les autres services municipaux ;
+  - Encadrer et animer l'équipe du service, organiser le travail et accompagner les agents dans l'exercice de leurs missions ;
+  - Gérer les moyens humains, matériels et budgétaires mis à disposition du service ;
+  - Développer et entretenir les partenariats avec les associations, institutions, établissements scolaires, acteurs culturels et sportifs et autres partenaires locaux ;
+
+- Veiller à la sécurité des activités et au respect des réglementations applicables ;
+- Évaluer les actions mises en œuvre et produire les bilans nécessaires au suivi et à l'aide à la décision ;
+- Assurer la communication et la valorisation des actions du service, en lien avec les orientations de la collectivité ;
+- Participer à la vie de la collectivité et être présent sur le terrain notamment lors des manifestations, événements et actions portés ou soutenus par la commune ;
+- Participer à la préparation budgétaire du service, assurer le suivi de l'exécution des crédits et proposer les arbitrages nécessaires à la réalisation des projets.
+
+### Activités secondaires 
+#### Caractéristiques particulières de l'emploi 
+- Participer à la communication interne de la structure en collaboration avec le Secrétariat général ;
+- En situation de crise ou d'événement exceptionnel, l'agent peut être amené, à la demande du Maire et/ou du Secrétariat général, à assurer toute mission nécessaire à la continuité et au bon fonctionnement du service public communal, dans la limite de ses compétences.
+- Déplacements fréquents,
+- Horaires atypiques et travail possible en week-end,
+- Permis B exigé.
+
+## Profil du candidat Savoir / Connaissance/Diplôme exigé 
+- Bonne connaissance du tissu socio-économique, culturel et environnemental de la Commune,
+- Bonne connaissance des spécificités linguistiques et culturelles de la Commune, - Titulaire d'une licence avec expérience significative en termes d'animation et de développement local,
+
+# Savoir-faire 
+- Capacité à préparer, mener et animer des réunions ;
+- Maîtrise du pilotage et du management de projets ;
+- Capacité à assurer la gestion et le suivi des dossiers de subvention ;
+- Capacité à élaborer et exploiter des tableaux de bord et des indicateurs de suivi ;
+- Bonnes capacités rédactionnelles et de synthèse ;
+- Capacité à préparer, suivre et maîtriser le budget du service ;
+- Capacité à coordonner et mobiliser différents acteurs et partenaires ;
+- Force de proposition auprès de la hiérarchie ;
+- Capacité à travailler en transversalité avec les différents services de la collectivité.
+
+## Comportement professionnel 
+- Sens du service public et de l'intérêt général ;
+- Sens des responsabilités ;
+- Qualités relationnelles et capacité d'écoute ;
+- Aptitude à fédérer et à travailler en équipe ;
+- Rigueur, organisation et méthode ;
+- Autonomie et capacité d'adaptation ;
+- Esprit d'initiative et force de proposition ;
+
+- Diplomatie et discrétion professionnelle ;
+- Réactivité et disponibilité ;
+- Capacité à gérer les situations imprévues ou sensibles ;
+- Grande disponibilité.
+
+**Contact et informations complémentaires :** Pour tout renseignement complémentaire vous pouvez contacter la secrétaire générale Adjointe, Mme OUTI Nadège tél : 47 -84 00 / mail : **[✉️ sga@mairie-voh.nc](mailto:sga@mairie-voh.nc)**
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes, fiche de renseignements et demande de changement de corps ou cadre d'emplois si nécessaire\*) précisant la référence de l'offre doivent parvenir à MAIRIE DE VOH par :
+
+- Voie postale : BP 32-98833 VOH
+- Dépôt physique : VOH
+- Mail : [✉️ financier@mairie-voh.nc](mailto:financier@mairie-voh.nc)
+- Fax : 472848
+
+\*La fiche de renseignements est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+Toute candidature incomplète ne pourra être prise en considération.
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[NC]: Nouvelle-Calédonie
 
 
 ---
@@ -24797,6 +23654,191 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
+# 26-65955_MPRH - Conseiller en parcours professionnel
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/6d7a4e50d0ee06b760cce5a678207636/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-65955/MPRH - Conseiller en parcours professionnel",
+  "description": "Domaine: Autres filières. Direction: Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-65955_MPRH/",
+  "datePosted": "2026-10-12",
+  "validThrough": "2026-11-06",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_1.jpeg)
+
+**Référence : 26-65955/MPRH du 2026-10-12**
+
+## 🏢 Employeur
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-11-06  
+    **Direction :** DRHFPNC  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+
+**Corps ou Cadre d'emploi /Domaine : attaché** ou **rédacteur Direction des ressources humaines et de la fonction**
+
+**publique de Nouvelle-Calédonie (DRHFPNC)**
+
+**Service accompagnement à l'innovation et au développement RH**
+
+**Durée de résidence exigée pour le recrutement sur titre (1) :** **Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-10-12
+
+**Date limite de candidature :** Vendredi 2026-11-06
+
+**Poste à pourvoir :** immédiatement
+
+La direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie est chargée d'assurer la mise en œuvre de la politique des ressources humaines de la Nouvelle-Calédonie pour ses 1600 agents, la gestion statutaire des fonctionnaires et la réglementation en matière de fonction publique.
+
+Pour ce faire, elle s'est fortement engagée dans la transformation de l'administration, dont l'objectif est notamment, de moderniser la fonction publique, en veillant à la qualité de vie au travail et à la maîtrise des dépenses publiques.
+
+Le service accompagnement à l'innovation et au développement RH (SAIDRH) a en charge la définition et la mise en oeuvre d'une politique visant à la performance individuelle et collective au travers d'actions et d'outils relatifs à la gestion des compétences et à l'accompagnement des ressources et des équipes.
+
+# Détails de l'offre 
+**Emploi RESPNC :** Conseiller en mobilité et carrière
+
+Le conseiller en parcours professionnel accompagne les projets professionnels (mobilité, reconversion, carrière, etc) et valorise les compétences des agents, auprès des directions et des agents, en vue d'optimiser les ressources de la collectivité.
+
+A ce titre, il mobilise différents dispositifs et assure le suivi des accompagnements individuels et collectifs.
+
+## 🎯 Missions
+
+- **Activités principales :** Elaborer, mettre en œuvre et suivre des parcours professionnels :
+  - Contribuer à l'optimisation de la mobilité au sein de la collectivité ;
+  - Recevoir, conseiller et accompagner les agents, notamment les managers, dans leurs projets professionnels, en lien avec les référents RH et leur hiérarchie ;
+  - Concevoir et mettre en œuvre des accompagnements individuels ou collectifs adaptés aux enjeux propres aux managers, notamment en matière de prise de fonction, de mobilité, d'évolution ou de repositionnement professionnel ;
+  - Analyser les situations et coconstruire des pistes d'action en mobilisant les outils et dispositifs adaptés (bilan individuel, immersion, formation, etc.) ;
+  - Concevoir et améliorer les processus de mobilité et d'accompagnement des parcours professionnels dans leurs dimensions procédurale, méthodologique et communicationnelle ;
+  - Formuler des préconisations à l'employeur sur des profils ou des situations particulières.
+
+Accompagner des évolutions organisationnelles,
+
+- Accompagner les agents, les managers et les services lors de restructurations ou d'évolutions ayant un impact sur les situations de travail ;
+- Proposer et mettre en œuvre des interventions adaptées : bilans individuels, formations, ateliers d'intelligence collective, plans d'accompagnement, etc. ;
+- Contribuer à la définition, à la mise en œuvre, au suivi et à l'évaluation des solutions retenues.
+
+## Activités secondaires : - Animer des ateliers d'accompagnement collectif ;
+
+- Contribuer à la réalisation d'un diagnostic RH de services et directions
+
+concernés par des évolutions organisationnelles;
+
+- Concevoir et mettre à jour des supports d'information relatifs à son activité
+
+(fiches thématiques, guides, intra-RH, etc);
+
+- Alimenter les différents canaux de communication interne / externe: rédaction d'articles, animation de réunion thématiques en matière de mobilité et de
+
+parcours professionnel;
+
+- Participer aux projets impactant le service et/ou la direction;
+
+- Alimenter la veille documentaire du service
+
+- Participer à la diffusion d'une culture de la gestion prévisionnelle des emplois,
+
+des effectifs et des compétences ;
+
+- Au regard d'un projet de recrutement, analyser les profils de candidats et émettre des préconisations en terme de développement des compétences.
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Environnement administratif et institutionnel de la Nouvelle-Calédonie ;
+- Fonctionnement, processus et circuits de décision de la collectivité ;
+- Statuts et réglementation de la fonction publique de Nouvelle-Calédonie ;
+- Ingénierie, dispositifs et outils d'accompagnement des parcours professionnels ;
+- Formation professionnelle et développement des compétences ;
+- Principes de mobilité, de recrutement, de gestion prévisionnelle des emplois et des compétences et de gestion des talents ;
+- Techniques d'entretien et prévention des risques psychosociaux ;
+- Outils bureautiques et systèmes d'information RH (Google Workspace, TIARHE, MonPortailRH, CICA).
+
+- Analyser une situation, un besoin et les risques associés ;
+- Conduire des entretiens et accompagner une personne ou un collectif, notamment des managers ;
+- Concilier les aspirations de l'agent avec les besoins de l'organisation ;
+- Concevoir et mettre en œuvre un dispositif, une démarche ou un plan d'action ;
+- Animer des ateliers et faciliter l'intelligence collective ;
+- Conseiller, argumenter et formuler des préconisations ;
+- Conduire un projet et coopérer avec des acteurs multiples ;
+- Évaluer une action et exploiter des données de suivi ;
+- Rédiger, synthétiser et rendre compte ;
+- Concevoir des supports et communiquer à l'oral comme à l'écrit ;
+- Organiser, planifier et fiabiliser son activité ;
+- Mener une veille et proposer des améliorations.
+
+### Comportement professionnel 
+- Écoute et aisance relationnelle ;
+- Discrétion et respect de la confidentialité ;
+- Capacité d'analyse et esprit de synthèse ;
+- Pédagogie et communication adaptée aux différents publics ;
+- Posture de conseil, diplomatie et maîtrise de soi ;
+- Autonomie, initiative et sens de l'organisation ;
+- Adaptabilité et réactivité ;
+- Esprit d'équipe et sens de la coopération ;
+- Sens du service public. Rodolphe Ponsard-Goiran, Chef de service mail : *[✉️ rodolphe.ponsard-goiran@gouv.nc](mailto:rodolphe.ponsard-goiran@gouv.nc)* **Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf>
+
+**Contact et informations complémentaires :**
+
+# POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=drhfpnc)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+*[RH]: Ressources Humaines
+
+
+---
+
 # 26-65974_MPRH - Technicien support informatique et moyens logistiques
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/5cad1a1ad191f62fa63751e22b214cf5/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -25446,6 +24488,143 @@ Toute candidature incomplète ne pourra être prise en considération.
 
 ---
 
+# 26-66112_MPRH - Éducateur spécialisé en hébergement diversifié - Nord
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/a14f2ab80f62747e8f6dc9f841535ac2/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-66112/MPRH - Éducateur spécialisé en hébergement diversifié - Nord",
+  "description": "Domaine: Autres filières. Direction: Direction de la protection judiciaire de l'enfance et de la jeunesse",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Nord",
+      "addressLocality": "Koné"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -21.0667,
+      "longitude": 164.85
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-66112_MPRH/",
+  "datePosted": "2026-10-02",
+  "validThrough": "2026-10-23",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+La Nouvelle-Calédonie recrute, pour les besoins du Service éducatif de milieu ouvert et d'insertion de la Direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ), un **Éducateur spécialisé en hébergement diversifié - Nord**.
+
+Le poste est à pourvoir dans le cadre d'une mission ponctuelle immédiatement jusqu'au 2027-06-18.
+
+## Contexte et mission 
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-23  
+    **Direction :** DPJEJ  
+    **Domaine :** Autres filières  
+    **Statut :** 📋 En cours
+
+
+La DPJEJ est chargée de mettre en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse. À ce titre, elle veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.
+
+Sous l'autorité du chef de service éducatif (PEAD-UPAD), l'éducateur spécialisé en famille d'accueil intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire. Il assure l'accompagnement socio-éducatif et le suivi des mineurs confiés en famille d'accueil au titre des mesures judiciaires ordonnées. Le poste est basé à Koné.
+
+## Activités principales 
+Assurer l'accompagnement éducatif individualisé des mineurs de 13 à 18 ans ;
+
+Assurer le suivi et le soutien des familles d'accueil ;
+
+Rédiger les écrits éducatifs destinés aux magistrats ;
+
+Maintenir le lien du jeune avec son environnement familial d'origine ;
+
+Rechercher de nouvelles familles d'accueil ;
+
+Rechercher des partenaires dans le cadre de l'insertion scolaire ou professionnelle des mineurs suivis ;
+
+Organiser des rencontres entre les familles d'accueil ;
+
+Élaborer et mettre en œuvre des projets éducatifs ;
+
+Participer à la réflexion d'équipe sur les différentes formes de prise en charge ;
+
+Assurer le remplacement des collègues éducateurs en cas d'absence (congés, maladie, formation, etc.).
+
+## Profil 
+Titulaire du diplôme d'État d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'École nationale de la protection judiciaire de la jeunesse du ministère de la Justice.
+
+Compétences requises :
+
+Maîtriser les compétences liées au diplôme d'État d'éducateur spécialisé ;
+
+Évaluer et analyser les situations éducatives et sociales ;
+
+Élaborer et mettre en œuvre des projets éducatifs individualisés dans le respect des personnes, de leur culture et du cadre institutionnel ;
+
+Conduire des entretiens individuels et familiaux ;
+
+Maîtriser les écrits professionnels destinés aux magistrats ;
+
+Connaître les textes relatifs à l'enfance en danger et à l'enfance délinquante, ainsi que le Code de la justice pénale des mineurs (CJPM) ;
+
+Connaître le milieu socio-culturel et les institutions de la Nouvelle-Calédonie ;
+
+Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté.
+
+## 🛠️ Savoir-faire
+
+Capacité à construire et conduire un accompagnement éducatif individualisé ;
+
+Capacité à travailler en équipe pluridisciplinaire et en coopération avec les services extérieurs ;
+
+Capacité à adapter son emploi du temps au projet des mineurs pris en charge ;
+
+Capacité rédactionnelle (notes et rapports éducatifs).
+
+Comportements professionnels :
+
+Comportements professionnels :
+
+Disponibilité, autonomie et capacité d'organisation ;
+
+Capacité d'adaptation ;
+
+Capacité à prendre de la distance face aux situations complexes ;
+
+Pour tout renseignement sur le poste, vous pouvez contacter Monsieur Dick-Samuel UKEIWE, chef de service éducatif par intérim PEAD Tél: [📞 23 19 31](tel:231931) / mail : *[✉️ dick-samuel.ukeiwe@gouv.nc](mailto:dick-samuel.ukeiwe@gouv.nc)*
+
+Merci d'envoyer au plus tard le **Vendredi 2026-10-23** votre candidature accompagnée d'une lettre de motivation, d'un CV, de la **fiche de renseignements** ci-jointe et de la copie de vos diplômes à la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie / B.P M2 - 98849 Nouméa cedex / *[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Autres filières](../#autres-filieres)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=dpjej)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+
+
+---
+
 # 26-66172 - Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique
 
 <div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f297da81d37f65fa0d443959802714a1/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
@@ -25891,6 +25070,177 @@ Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes 
 
 *[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
 *[MPRH]: Mission Politique de Ressources Humaines
+
+
+---
+
+# 26-66313_MPRH - Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité
+
+<div style="text-align: right; margin-bottom: 1em;"><a href="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/90491777f0341f9a5746930b42c8d5c7/download/" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #3f51b5; color: white; text-decoration: none; border-radius: 4px;">📄 Télécharger le PDF original</a></div>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "26-66313/MPRH - Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité",
+  "description": "Domaine: Numérique et SIC. Direction: DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+    "sameAs": "https://www.gouv.nc/"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "NC",
+      "addressRegion": "Province Sud",
+      "addressLocality": "Nouméa"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.2758,
+      "longitude": 166.458
+    }
+  },
+  "url": "https://adriens.github.io/avps/26-66313_MPRH/",
+  "datePosted": "2026-10-12",
+  "validThrough": "2026-10-30",
+  "employmentType": "FullTime"
+}
+</script>
+-->
+
+![](_page_0_Picture_0.jpeg)
+
+## Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité
+
+
+!!! success "📋 Candidature rapide"
+    **Date limite :** 2026-10-30  
+    **Direction :** DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS  
+    **Domaine :** Numérique et SIC  
+    **Statut :** 📋 En cours
+
+
+
+**Référence : 26-66313/MPRH du 2026-10-12**
+
+## 🏢 Employeur
+
+**Corps ou Cadre d'emploi /Domaine : ingénieur /Numérique et SIC**
+
+**DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS**
+
+**SERVICE DE L'ÉCONOMIE NUMÉRIQUE, DES FILIÈRES D'AVENIR ET DES**
+
+### Durée de résidence exigée
+
+**pour le recrutement sur titre (1) :** Ingénieur 1er ou 2ème grade du domaine numérique : au moins égale à 10 ans.
+
+**Lieu de travail :** Nouméa
+
+**Date de dépôt de l'offre :** Lundi 2026-10-12
+
+**Date limite de candidature :** Vendredi 2026-10-30
+
+**Poste à pourvoir :** immédiatement
+
+La direction des entreprises, de la consommation, de l'attractivité et des télécommunications est responsable de la mise en œuvre de la politique économique du gouvernement de la Nouvelle-Calédonie en matière de commerce intérieur, d'économie numérique et d'attractivité, sous réserve des attributions exercées par d'autres directions et services.
+
+Elle concourt notamment à la protection de l'ordre public économique et à la dynamisation du marché intérieur par des actions de soutien, de veille et de régulation au bénéfice de l'ensemble des acteurs économiques et notamment du numérique, afin de constituer un environnement favorable au développement économique et à l'attractivité du territoire.
+
+Elle a pour missions principales: la protection physique et économique des consommateurs, la régulation et le développement du marché intérieur, l'enregistrement des entreprises commerciales et des sociétés, le développement de l'économie numérique et des filières d'avenir, et l'amélioration de l'attractivité du territoire.
+
+# Détails de l'offre 
+- Le service de l'économie numérique, des filières d'avenir et de l'attractivité assure notamment:
+- Le pilotage, l'évolution et la mise en œuvre des stratégies relatives à l'économie numérique, aux filières d'avenir et à l'attractivité du territoire, en lien avec les acteurs institutionnels et économiques;
+- La structuration et l'animation de la gouvernance relative à l'économie numérique, aux filières d'avenir et à l'attractivité, ainsi que la coordination des réseaux d'acteurs correspondants;
+- L'assistance et/ou la représentation de la Nouvelle-Calédonie au sein des instances en lien avec l'économie numérique, les filières d'avenir et l'attractivité;
+- La mise en place et la gestion de tout dispositif d'incitation ou d'accompagnement à la création, au soutien et au développement d'activités en lien avec l'économie numérique et les filières d'avenir, et favorisant l'innovation;
+- Le soutien de la transformation numérique de l'économie, en favorisant notamment le développement des usages et des compétences numériques, et l'émergence des nouvelles technologies comme l'intelligence artificielle;
+- La définition et la mise en œuvre de tout dispositif favorisant l'attractivité du territoire ;
+- La promotion des actions économiques de la Nouvelle-Calédonie localement et à l'international, ainsi qu'en matière d'exportation ;
+- La participation à l'organisation et à la représentation de la Nouvelle-Calédonie lors d'événements, salons ou missions économiques locaux et internationaux, afin de promouvoir l'attractivité du territoire et soutenir le développement des exportations ;
+- La gestion du lieu d'attractivité, la station N ;
+- L'élaboration et l'application des réglementations et procédures relatives à l'économie numérique, les télécommunications et les filières d'avenir;
+- L'instruction des dossiers liés aux télécommunications et la poste, notamment les demandes de l'Office des Postes et Télécommunications de la Nouvelle-Calédonie, soumis au gouvernement ;
+- La gestion du spectre et des réseaux radioélectriques indépendants ;
+- Le support technique du gouvernement de la Nouvelle-Calédonie dans le pilotage de la commission consultative des télécommunications. **Activités principales :** Sous l'autorité directe du directeur adjoint en charge du pôle entreprises et attractivité, le chef du service de l'économie numérique, des filières d'avenir et de l'attractivité:
+  - Anime, coordonne et encadre le service et ses deux missions, au regard des objectifs stratégiques fixés,
+  - Met en œuvre les actions opérationnelles issues des stratégies établies par le gouvernement de la NC en matière d'économie numérique, de filières d'avenir, de télécommunications et de poste, notamment en assurant le déploiement et le suivi du Plan Stratégique pour l'Economie Numérique (PSEN),
+  - Fédère les acteurs de l'écosystème numérique calédonien, autour d'une gouvernance adaptée,
+  - Conduit les études et enquêtes nécessaires à la réalisation des missions du service,
+  - Propose, le cas échéant, les évolutions de la réglementation dans son champ de compétences,
+  - Contribue à l'élaboration de la politique d'attractivité de la Nouvelle-Calédonie en lien avec la cellule attractivité, et veille à son alignement avec les actions portées par le service,
+  - Participe à la modernisation des services publics via l'économie numérique
+  - Assure le reporting et le suivi des activités du service.
+
+### Missions 
+- **Activités secondaires :** Etre force de propositions,
+  - Participer à des missions transverses et piloter des projets,
+  - Réaliser un travail de veille et proposer des évolutions,
+  - Promouvoir les actions du service,
+  - Animer, encourager, encadrer, mobiliser et développer les compétences au sein du service.
+
+### Profil du candidat Savoir / Connaissances / Diplôme exigé 
+- Maîtrise des méthodes de gestion de projets,
+- Maîtrise des outils bureautiques, collaboratifs et décisionnels,
+- Maîtrise de l'anglais technique,
+- Techniques de management et de communication,
+- Qualités rédactionnelles, relationnelles et sens du reporting,
+- Analyse des dysfonctionnements,
+- Organisation et planification,
+- Expérience avérée dans la conduite et le pilotage de projets territoriaux en lien avec les nouvelles technologies.
+
+### Savoir-faire 
+- Maîtrise de l'écosystème numérique calédonien,
+- Animation, gestion des ressources humaines, conduite du changement et résolution de conflits,
+- Pilotage de projets, planification, hiérarchisation des priorités, prise de décision dans son périmètre de délégation,
+- Allocation de ressources, reporting et suivi des résultats,
+- Elaboration de documents administratifs et techniques, comptes-rendus,
+- Mise en place d'outils de suivi et soutien aux démarches d'optimisation.
+
+### Comportement professionnel 
+- Méthode, rigueur, esprit d'analyse et de synthèse, sens du reporting,
+- Ecoute, communication, accompagnement et esprit d'équipe,
+- Agilité, autonomie, réactivité et disponibilité,
+- Sens de la performance et du service public, respect des valeurs institutionnelles et de la confidentialité,
+- Esprit d'initiative, créativité et curiosité intellectuelle,
+- Capacité à convaincre et à transmettre.
+
+**Contact et informations complémentaires :**
+
+Bruno Ferrandis, directeur adjoint pôle entreprises et attractivité Tél: [📞 23 22 50](tel:232250) / mail : *[✉️ bruno.ferrandis@gouv.nc](mailto:bruno.ferrandis@gouv.nc)*
+
+**Informations salaire :** <https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf>
+
+## POUR RÉPONDRE À CETTE OFFRE
+
+- Voie postale : **B.P M2 98849 Nouméa cedex**
+- Dépôt physique : **Bureaux 106 et 107 Section recrutement DRHFPNC Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa**
+- Mail : **[✉️ drhfpnc.recrutement@gouv.nc](mailto:drhfpnc.recrutement@gouv.nc)**
+
+Les candidatures (CV détaillé, lettre de motivation, photocopie des diplômes et fiche de renseignements, ainsi que la demande de changement de corps ou cadre d'emplois si nécessaire(2)) précisant la référence de l'offre doivent parvenir à **la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie** par :
+
+(1)Vous trouverez la liste des pièces à fournir afin de justifier de la citoyenneté ou de la durée de résidence dans le document intitulé "Notice explicative : pièces à fournir pour justifier de votre citoyenneté ou de votre résidence" qui est à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC.
+
+(2)La fiche de renseignements et la demande de changement de corps ou cadre d'emploi sont à télécharger directement sur la page de garde des avis de vacances de poste sur le site de la DRHFPNC. Toute candidature incomplète ne pourra être prise en considération.
+
+*Les candidatures de fonctionnaires doivent être transmises sous couvert de la voie hiérarchique*
+---
+
+## 🎯 Actions rapides
+
+- 📄 [Télécharger le PDF original](#)
+- ← [Retour à l'index](./)
+- 💼 [Autres offres en Numérique et SIC](../#numerique-et-sic)
+- 🏢 [Toutes les offres DRHFPNC](./?direction=direction des entreprises, de la consommation, de l'attractivite et des telecommunications)
+
+*[DRHFPNC]: Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie
+*[MPRH]: Mission Politique de Ressources Humaines
+*[NC]: Nouvelle-Calédonie
 
 
 ---
