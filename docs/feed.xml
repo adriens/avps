@@ -6,7 +6,7 @@
   <description>Avis de vacances de poste en cours et publiés par la DRHFPNC (Nouvelle Calédonie)</description>
   <language>fr</language>
   <managingEditor>contact@example.com</managingEditor>
-  <lastBuildDate>Tue, 20 Oct 2026 03:26:06 +1100</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 03:21:13 +1100</lastBuildDate>
   <atom:link href="https://adriens.github.io/avps/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://adriens.github.io/avps/assets/favicon.png</url>
@@ -274,13 +274,13 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1521 - Aide-soignant</title>
-    <link>https://adriens.github.io/avps/26-1521/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1521/</guid>
-    <description><strong>Direction :</strong> PIL<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-11-06</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> PIL<br/><strong>Domaine :</strong> Aide-soignant<br/><strong>Clôture :</strong> 2026-11-06]]></content:encoded>
-    <category>Aide-soignant</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/ebbfe896cfc809b765a73cb0b30d1fbb/download/" length="0" type="application/pdf"/>
+    <title>26-1534 - Régisseur Adjoint</title>
+    <link>https://adriens.github.io/avps/26-1534/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1534/</guid>
+    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06]]></content:encoded>
+    <category>Autres filières</category>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f337ba6cebcc6ea195bdfbffdf710ba8/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
@@ -304,13 +304,13 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +1100</pubDate>
   </item>
   <item>
-    <title>26-1534 - Régisseur Adjoint</title>
-    <link>https://adriens.github.io/avps/26-1534/</link>
-    <guid isPermaLink="true">https://adriens.github.io/avps/26-1534/</guid>
-    <description><strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06</description>
-    <content:encoded><![CDATA[<strong>Direction :</strong> -<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06]]></content:encoded>
+    <title>26-1502 - Gestionnaire comptable</title>
+    <link>https://adriens.github.io/avps/26-1502/</link>
+    <guid isPermaLink="true">https://adriens.github.io/avps/26-1502/</guid>
+    <description><strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06</description>
+    <content:encoded><![CDATA[<strong>Direction :</strong> PVS<br/><strong>Domaine :</strong> Autres filières<br/><strong>Clôture :</strong> 2026-11-06]]></content:encoded>
     <category>Autres filières</category>
-    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/f337ba6cebcc6ea195bdfbffdf710ba8/download/" length="0" type="application/pdf"/>
+    <enclosure url="https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc/files/384f6019375dd296a20f5640db0c3396/download/" length="0" type="application/pdf"/>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +1100</pubDate>
   </item>
 </channel>
